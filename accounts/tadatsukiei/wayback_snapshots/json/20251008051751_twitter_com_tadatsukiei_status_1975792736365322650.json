@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1975741578896646513",
+    "created_at": "2025-10-08T05:17:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T06:17:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975792736365322650"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1319534551308201984",
+          "start": 0,
+          "username": "zonghengjp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975792736365322650",
+    "in_reply_to_user_id": "1319534551308201984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975741578896646513",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zonghengjp 体感来说也确实，在街上经常能碰见华人母子"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1975741578896646513",
+        "created_at": "2025-10-08T05:17:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T06:17:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975792736365322650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1319534551308201984",
+              "start": 0,
+              "username": "zonghengjp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975792736365322650",
+        "in_reply_to_user_id": "1319534551308201984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975741578896646513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zonghengjp 体感来说也确实，在街上经常能碰见华人母子"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1319534551308201984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Babies and toddlers",
+              "id": "864925760624091136",
+              "name": "Babies and toddlers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          }
+        ],
+        "conversation_id": "1975741578896646513",
+        "created_at": "2025-10-08T01:54:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T02:54:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975741578896646513"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nikkei/status/…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/nikkei/status/1975691725784957196",
+              "start": 45,
+              "url": "https://t.co/6Ocnp3qbwb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975741578896646513",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 16437,
+          "like_count": 61,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975691725784957196",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "2024年有4237名中國籍媽媽在日本產子，成爲在日外籍產子群體2.2萬人中的絕對主力。 https://t.co/6Ocnp3qbwb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 165,
+          "following_count": 105,
+          "like_count": 28771,
+          "listed_count": 3,
+          "media_count": 145,
+          "tweet_count": 2773
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-23T07:02:18.000Z",
+        "description": "1、向華人傳遞真實而有視角的日本\n2、向不反感日本的華人提供專業的移民及不動產服務\n3、如有需要谘詢事宜，請私信聯係\n4、意見不合請迅速屏蔽，切勿浪費彼此時間",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@zonghengjp",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@zonghengjp",
+                "start": 0,
+                "url": "https://t.co/E6nTTnxlXb"
+              }
+            ]
+          }
+        },
+        "id": "1319534551308201984",
+        "location": "東京都",
+        "name": "縱橫日本",
+        "pinned_tweet_id": "1744157395889324054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1575689014509654016/8_xztvVs_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237044,
+          "following_count": 267,
+          "like_count": 4203,
+          "listed_count": 627,
+          "media_count": 2832,
+          "tweet_count": 6811
+        },
+        "url": "https://t.co/E6nTTnxlXb",
+        "username": "zonghengjp",
+        "verified": true
+      }
+    ]
+  }
+}

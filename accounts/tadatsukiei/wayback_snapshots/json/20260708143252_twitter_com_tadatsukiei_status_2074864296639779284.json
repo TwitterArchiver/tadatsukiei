@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2074684174343262321",
+    "created_at": "2026-07-08T14:32:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:32:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074864296639779284"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "83369963",
+          "start": 0,
+          "username": "Taoist_mark"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074864296639779284",
+    "in_reply_to_user_id": "83369963",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074684174343262321",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Taoist_mark 聊政治又不是什么坏事，为什么要戒？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 206,
+        "media_key": "3_2074684037235683328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrCI8SbMAAczlD.jpg",
+        "width": 447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2074684174343262321",
+        "created_at": "2026-07-08T14:32:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:32:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074864296639779284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "83369963",
+              "start": 0,
+              "username": "Taoist_mark"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074864296639779284",
+        "in_reply_to_user_id": "83369963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074684174343262321",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Taoist_mark 聊政治又不是什么坏事，为什么要戒？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074684037235683328"
+          ]
+        },
+        "author_id": "83369963",
+        "conversation_id": "2074684174343262321",
+        "created_at": "2026-07-08T02:37:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T03:37:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074684174343262321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UJZsJxJVXG",
+              "end": 37,
+              "expanded_url": "https://x.com/Taoist_mark/status/2074684174343262321/photo/1",
+              "media_key": "3_2074684037235683328",
+              "start": 14,
+              "url": "https://t.co/UJZsJxJVXG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074684174343262321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 747,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我感觉，这个没治，戒不掉。 https://t.co/UJZsJxJVXG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 666,
+          "like_count": 110344,
+          "listed_count": 5,
+          "media_count": 653,
+          "tweet_count": 7951
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2009-10-18T14:07:06.000Z",
+        "description": "不管在哪依然繼續發神經。我就是我自己一個普通人不是任何主義者，沒有標籤。神啊，让我再赶上一次末班车吧。發瘋頻道：https://t.co/5OMeg1MRu6 瘋人院：https://t.co/3putH5r25n",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+WIsv0D5cWetGV…",
+                "end": 79,
+                "expanded_url": "https://t.me/+WIsv0D5cWetGVwtu",
+                "start": 56,
+                "url": "https://t.co/5OMeg1MRu6"
+              },
+              {
+                "display_url": "t.me/+EH-kMMnWBBJlZ…",
+                "end": 107,
+                "expanded_url": "https://t.me/+EH-kMMnWBBJlZWU1",
+                "start": 84,
+                "url": "https://t.co/3putH5r25n"
+              }
+            ]
+          }
+        },
+        "id": "83369963",
+        "name": "神經廚子",
+        "pinned_tweet_id": "1503383667514970115",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1348624586544472064/0Licl_jN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3357,
+          "following_count": 2396,
+          "like_count": 32189,
+          "listed_count": 21,
+          "media_count": 1659,
+          "tweet_count": 44195
+        },
+        "url": "",
+        "username": "Taoist_mark",
+        "verified": true
+      }
+    ]
+  }
+}

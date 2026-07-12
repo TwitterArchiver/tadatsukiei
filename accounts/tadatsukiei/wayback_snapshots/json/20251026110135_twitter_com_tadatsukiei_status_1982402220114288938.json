@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1981966212352590019",
+    "created_at": "2025-10-26T11:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-26T12:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1982402220114288938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "962502216",
+          "start": 0,
+          "username": "ChrisSlacker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1982402220114288938",
+    "in_reply_to_user_id": "962502216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981966212352590019",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChrisSlacker GPT综合性能强、没有短板，而且我用习惯了，有感情了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1981966204102225920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4FbwwBXsAAi-dB.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1981966212352590019",
+        "created_at": "2025-10-26T11:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-26T12:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1982402220114288938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "962502216",
+              "start": 0,
+              "username": "ChrisSlacker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1982402220114288938",
+        "in_reply_to_user_id": "962502216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981966212352590019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChrisSlacker GPT综合性能强、没有短板，而且我用习惯了，有感情了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981966204102225920"
+          ]
+        },
+        "author_id": "962502216",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "1981966212352590019",
+        "created_at": "2025-10-25T06:09:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-25T07:09:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981966212352590019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/voWEIKKjy3",
+              "end": 76,
+              "expanded_url": "https://x.com/ChrisSlacker/status/1981966212352590019/photo/1",
+              "media_key": "3_1981966204102225920",
+              "start": 53,
+              "url": "https://t.co/voWEIKKjy3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981966212352590019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2968,
+          "impression_count": 696212,
+          "like_count": 3972,
+          "quote_count": 15,
+          "reply_count": 51,
+          "retweet_count": 801
+        },
+        "reply_settings": "everyone",
+        "text": "如果你还只会用ChatGPT\n\n 那你已经落后半个AI时代\n\n 这张图告诉你，真正的AI创作者在用什么👇 https://t.co/voWEIKKjy3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 113,
+          "like_count": 34184,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 2987
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2012-11-21T14:38:13.000Z",
+        "description": "科技圈资深韭菜🌿 ｜ 科技新品试毒☠️专员\n\n分享科技资讯🗞️、互联网工具🧰\n\n提升📈生产力，降低钱包💰厚度",
+        "id": "962502216",
+        "name": "科技混子Chris",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1933402794918359079/joMW_Hnp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14679,
+          "following_count": 27,
+          "like_count": 9089,
+          "listed_count": 61,
+          "media_count": 1439,
+          "tweet_count": 1632
+        },
+        "username": "ChrisSlacker",
+        "verified": true
+      }
+    ]
+  }
+}

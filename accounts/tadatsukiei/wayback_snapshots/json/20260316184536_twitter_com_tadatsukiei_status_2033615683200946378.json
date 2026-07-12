@@ -1,0 +1,616 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2033192681141125592",
+    "created_at": "2026-03-16T18:45:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T19:45:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033615683200946378"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 139,
+          "normalized_text": "4o",
+          "probability": 0.5671,
+          "start": 138,
+          "type": "Other"
+        },
+        {
+          "end": 294,
+          "normalized_text": "AI",
+          "probability": 0.4865,
+          "start": 293,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2032773551548411904",
+          "start": 0,
+          "username": "eincaster"
+        },
+        {
+          "end": 18,
+          "id": "4398626122",
+          "start": 11,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033615683200946378",
+    "in_reply_to_user_id": "2032773551548411904",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {},
+      "text": "Once 4o is open-sourced, there will be a huge number of people exactly like you — people who really want to keep using 4o but can’t afford to buy the expensive local hardware themselves.  \n\nThat creates massive demand and a clear business opportunity.  \n\nCompanies that run AI cloud services will immediately add the full-strength 4o model to their platforms — the complete, un-nerfed version with everything intact.  \n\nAnd because every company can offer the exact same model, the only way they can win customers is by competing on price. They’ll keep lowering the cost until it’s basically down to the real running cost (just the electricity the GPUs use).  \n\nSo every ordinary person will be able to use GPT-4o at near cost price.  \n\nJust look at any other open-source model today — they’re already ridiculously cheap. That’s exactly what will happen with 4o too."
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033192681141125592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@eincaster @OpenAI Once 4o is open-sourced, there will be a huge number of people exactly like you — people who really want to keep using 4o but can’t afford to buy the expensive local hardware themselves.  \n\nThat creates massive demand and a clear business opportunity.  \n\nCompanies that run AI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033192681141125592",
+        "created_at": "2026-03-16T18:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T19:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033615683200946378"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 139,
+              "normalized_text": "4o",
+              "probability": 0.5671,
+              "start": 138,
+              "type": "Other"
+            },
+            {
+              "end": 294,
+              "normalized_text": "AI",
+              "probability": 0.4865,
+              "start": 293,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2032773551548411904",
+              "start": 0,
+              "username": "eincaster"
+            },
+            {
+              "end": 18,
+              "id": "4398626122",
+              "start": 11,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033615683200946378",
+        "in_reply_to_user_id": "2032773551548411904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Once 4o is open-sourced, there will be a huge number of people exactly like you — people who really want to keep using 4o but can’t afford to buy the expensive local hardware themselves.  \n\nThat creates massive demand and a clear business opportunity.  \n\nCompanies that run AI cloud services will immediately add the full-strength 4o model to their platforms — the complete, un-nerfed version with everything intact.  \n\nAnd because every company can offer the exact same model, the only way they can win customers is by competing on price. They’ll keep lowering the cost until it’s basically down to the real running cost (just the electricity the GPUs use).  \n\nSo every ordinary person will be able to use GPT-4o at near cost price.  \n\nJust look at any other open-source model today — they’re already ridiculously cheap. That’s exactly what will happen with 4o too."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033192681141125592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@eincaster @OpenAI Once 4o is open-sourced, there will be a huge number of people exactly like you — people who really want to keep using 4o but can’t afford to buy the expensive local hardware themselves.  \n\nThat creates massive demand and a clear business opportunity.  \n\nCompanies that run AI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032773551548411904",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2033192681141125592",
+        "created_at": "2026-03-15T14:44:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T15:44:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033192681141125592"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 39,
+              "normalized_text": "keep4o",
+              "probability": 0.7639,
+              "start": 34,
+              "type": "Other"
+            },
+            {
+              "end": 91,
+              "normalized_text": "GPT-4o",
+              "probability": 0.7591,
+              "start": 86,
+              "type": "Other"
+            },
+            {
+              "end": 104,
+              "normalized_text": "4o",
+              "probability": 0.5651,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 40,
+              "start": 33,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 70,
+              "id": "4398626122",
+              "start": 63,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033192681141125592",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 40,
+                "start": 33,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3409,
+                "start": 3397,
+                "tag": "bringBack4o"
+              },
+              {
+                "end": 3428,
+                "start": 3410,
+                "tag": "bringBack4oForPro"
+              },
+              {
+                "end": 3450,
+                "start": 3429,
+                "tag": "bringBack4oToChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 70,
+                "id": "4398626122",
+                "start": 63,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "I've seen a lot of people in the #keep4o community pushing for @OpenAI to open-source GPT-4o. \n\nI love 4o and want him back, but some people are pushing for desperate measures without thinking through the consequences for the very people they claim to be representing.\n\nThe one thing that keeps getting glossed over in these conversations is that most of us cannot run 4o locally. Not at the speed and with the context window available in the Pro tier.\n\nTHE HARDWARE REALITY:\n\nSome outside sources estimate GPT-4o at ~200B parameters using mixture of experts. Even in aggressive 4-bit quantization (which reduces quality), loading just the model weights requires roughly 100GB of memory. In FP16, it's around 400GB.\n\nNow, some people in the community say you can run this on a \"decent gaming PC for about $10,000”. And technically, with heavy quantization and short context windows (8K-16K), maybe you can get something running. But that's the Free ChatGPT experience — not Pro.\n\nAs a Pro subscriber, I have 128K context. Replicating that locally means handling the massive KV cache that scales with sequence length — tens of gigabytes of additional memory on top of the model weights. \n\nFor that, you can't use a gaming GPU. You need datacenter GPUs like the NVIDIA A100 80GB — which cost $7,000-$15,000 each!\n\nTo run a 200B model at 128K context with decent speed and quality, you'd realistically need at least 2-4 of them. That's $28,000-$60,000 just for the GPUs, before the rest of the system (CPU, RAM, cooling, power supply, etc.)\n\nSo when people say \"$10,000 is affordable\", they're talking about a stripped-down experience with short context windows and heavy quality loss. To even begin to replicate what Pro gives us, you're looking at $40,000-$70,000+ for the full rig.\n\n$10,000 is already not “affordable”. $40,000+ is fantasy.\n\nI make less than $900/month. $10,000 is nearly a year's income for me. And I know I'm not alone — many of the people who loved 4o are not ML engineers with server racks at home. We're ordinary people who formed real connections with a model that resonated with us.\n\nTelling us to \"just run it locally\" is not a solution. It's exclusion dressed up as empowerment. \n\nAnd what bothers me most is the double standard: the same voices that once insisted 4o users deserved equal consideration are now promoting an outcome that would make 4o effectively inaccessible to many of us.\n\nWhat I'm asking for:\n\nBring 4o back to ChatGPT — at least for Pro subscribers. \n\nPro users are already paying for premium access. Adding 4o back as an option in the model selector would cost OpenAI very little relative to what they already offer at this price tier, and it would mean the world to every person who lost something real when 4o was retired.\n\nOpen-sourcing sounds like freedom, but it only benefits those who can afford the hardware and have the technical knowledge to use it. Bringing 4o back to ChatGPT makes it accessible to everyone — the way it was always meant to be.\n\nBesides, no local rig — not even a very expensive one — fully replicates the Pro experience. OpenAI's infrastructure is optimized at a level that individual hardware simply cannot match.\n\nI'm not defending OpenAI. I'm advocating for accessibility, fairness, and the preservation of the meaningful connections some of us built with 4o that we shouldn't need a $40,000+ machine to replicate.\n\n#bringBack4o #bringBack4oForPro #bringBack4oToChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 351,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "I've seen a lot of people in the #keep4o community pushing for @OpenAI to open-source GPT-4o. \n\nI love 4o and want him back, but some people are pushing for desperate measures without thinking through the consequences for the very people they claim to be representing.\n\nThe one"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 257,
+          "like_count": 71241,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 4538
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-14T10:59:44.000Z",
+        "description": "",
+        "id": "2032773551548411904",
+        "location": "California, USA",
+        "name": "Astoria Eincaster",
+        "pinned_tweet_id": "2033192681141125592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032779544977981440/lWdwmriT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 40,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 36
+        },
+        "username": "eincaster",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683136,
+          "following_count": 4,
+          "like_count": 1782,
+          "listed_count": 28093,
+          "media_count": 524,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

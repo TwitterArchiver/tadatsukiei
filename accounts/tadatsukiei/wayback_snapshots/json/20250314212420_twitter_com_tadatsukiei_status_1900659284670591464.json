@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1900103665479823695",
+    "created_at": "2025-03-14T21:24:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-14T22:24:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1900659284670591464"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "147786784",
+          "start": 0,
+          "username": "yetone"
+        },
+        {
+          "end": 22,
+          "id": "1600208165269741570",
+          "start": 8,
+          "username": "MeowCatherina"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1900659284670591464",
+    "in_reply_to_user_id": "147786784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1900302742780043696",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yetone @MeowCatherina 你这句话直戳我心坎，墙内为躲避审查，从zf（政府）拼音法，扛麦郎（习近平）事迹法，滞纳（支那）谐音法，伏地魔（习近平）会意法，教员（毛泽东）讳称法，再到旁边推友举了例子的抽象法……我真的已经没有精力去阅读墙内那些由脑筋急转弯凑成的文字了，中文圈的很多梗也喜欢用谐音，我不认为这是好事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1900103665479823695",
+        "created_at": "2025-03-14T21:24:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-14T22:24:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900659284670591464"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "147786784",
+              "start": 0,
+              "username": "yetone"
+            },
+            {
+              "end": 22,
+              "id": "1600208165269741570",
+              "start": 8,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900659284670591464",
+        "in_reply_to_user_id": "147786784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900302742780043696",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yetone @MeowCatherina 你这句话直戳我心坎，墙内为躲避审查，从zf（政府）拼音法，扛麦郎（习近平）事迹法，滞纳（支那）谐音法，伏地魔（习近平）会意法，教员（毛泽东）讳称法，再到旁边推友举了例子的抽象法……我真的已经没有精力去阅读墙内那些由脑筋急转弯凑成的文字了，中文圈的很多梗也喜欢用谐音，我不认为这是好事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "147786784",
+        "conversation_id": "1900103665479823695",
+        "created_at": "2025-03-13T21:47:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-13T22:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1900302742780043696"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1600208165269741570",
+              "start": 0,
+              "username": "MeowCatherina"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1900302742780043696",
+        "in_reply_to_user_id": "1600208165269741570",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 9311,
+          "like_count": 205,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "1900103665479823695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowCatherina 不能正常使用自己母语的地方，谈何内容质量？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 59,
+          "like_count": 4165,
+          "listed_count": 1,
+          "media_count": 81,
+          "tweet_count": 1221
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2010-05-25T01:52:30.000Z",
+        "description": "如果你是小粉红请不要关注我，谢谢！ \n一个只会写屎代码的垃圾程序员，静态强类型系统的门下走狗。代数数据类型的虔诚门徒。 精神白洋淀人。他妈的，瓦拉莫夫。争取用 Rust 养活我余生（我不配）。 I built a Cursor-like experience plugin for Neovim: avante.nvim",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/yetone",
+                "end": 23,
+                "expanded_url": "https://github.com/yetone",
+                "start": 0,
+                "url": "https://t.co/KfyoeaqTKV"
+              }
+            ]
+          }
+        },
+        "id": "147786784",
+        "location": "无",
+        "name": "yetone",
+        "pinned_tweet_id": "1852992325770973229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1458663772017491971/h1-KC--K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55597,
+          "following_count": 4332,
+          "like_count": 15469,
+          "listed_count": 540,
+          "media_count": 1695,
+          "tweet_count": 14802
+        },
+        "url": "https://t.co/KfyoeaqTKV",
+        "username": "yetone",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-06T19:19:05.000Z",
+        "description": "20INTP｜⚠️是一只学不会说话和社交的小阿斯｜🏫Monash｜🐈/🏹/🚴/💻｜CS&EE&AM｜某司高管(逃)｜🍝FSM｜BA4RIO｜GPG pubKey: C1D9 84F0 BBA1 B3B9｜🚪50,啥也没有｜持证嗓音训练师 160CNY｜❤️@Carafutaba @AsabaSeiban",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 139,
+                "start": 128,
+                "username": "Carafutaba"
+              },
+              {
+                "end": 152,
+                "start": 140,
+                "username": "AsabaSeiban"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cntt.uk",
+                "end": 23,
+                "expanded_url": "http://cntt.uk",
+                "start": 0,
+                "url": "https://t.co/l3eIEXmMQf"
+              }
+            ]
+          }
+        },
+        "id": "1600208165269741570",
+        "location": "猫猫窝",
+        "name": "凯瑟琳奈",
+        "pinned_tweet_id": "1828895115416613251",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893683122824429568/1r72TXoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5237,
+          "following_count": 1023,
+          "like_count": 46191,
+          "listed_count": 16,
+          "media_count": 1508,
+          "tweet_count": 16600
+        },
+        "url": "https://t.co/l3eIEXmMQf",
+        "username": "MeowCatherina",
+        "verified": true
+      }
+    ]
+  }
+}

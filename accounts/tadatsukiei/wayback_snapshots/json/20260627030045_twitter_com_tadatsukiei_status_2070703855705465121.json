@@ -1,0 +1,376 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2070235480960934173",
+    "created_at": "2026-06-27T03:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070703855705465121"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "465803322",
+          "start": 0,
+          "username": "__BumbleBea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070703855705465121",
+    "in_reply_to_user_id": "465803322",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070235480960934173",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__BumbleBea 我也很喜欢它🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1493,
+        "media_key": "3_2070235061480214528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz0eEWUAApuBL.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1291,
+        "media_key": "3_2070235067096403968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz0y_WkAAsa4V.jpg",
+        "width": 1080
+      },
+      {
+        "height": 707,
+        "media_key": "3_2070235073719201792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz1LqWcAAx02b.jpg",
+        "width": 1080
+      },
+      {
+        "height": 944,
+        "media_key": "3_2070235079817744384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLrz1iYW0AADV3m.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2070235480960934173",
+        "created_at": "2026-06-27T03:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070703855705465121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "465803322",
+              "start": 0,
+              "username": "__BumbleBea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070703855705465121",
+        "in_reply_to_user_id": "465803322",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070235480960934173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__BumbleBea 我也很喜欢它🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070235061480214528",
+            "3_2070235067096403968",
+            "3_2070235073719201792",
+            "3_2070235079817744384"
+          ]
+        },
+        "author_id": "465803322",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          }
+        ],
+        "conversation_id": "2070235480960934173",
+        "created_at": "2026-06-25T19:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T20:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070235480960934173"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235061480214528",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            },
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235067096403968",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            },
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235073719201792",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            },
+            {
+              "display_url": "pic.x.com/oHFnqmc9Aq",
+              "end": 281,
+              "expanded_url": "https://x.com/__BumbleBea/status/2070235480960934173/photo/1",
+              "media_key": "3_2070235079817744384",
+              "start": 258,
+              "url": "https://t.co/oHFnqmc9Aq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070235480960934173",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 107030,
+          "like_count": 1114,
+          "quote_count": 16,
+          "reply_count": 7,
+          "retweet_count": 205
+        },
+        "reply_settings": "everyone",
+        "text": "No sé si lo habéis visto, pero IKEA ha sacado un Manual de empatía usando el famoso tiburón Blåhaj, que de alguna forma se ha convertido en un icono de la comunidad LGTB+ (especialmente la gente trans) y es lo más tierno que he visto en la vida. 🥹🏳️‍🌈🏳️‍⚧️🦈 https://t.co/oHFnqmc9Aq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2070554053042651315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 646,
+          "like_count": 107441,
+          "listed_count": 10,
+          "media_count": 626,
+          "tweet_count": 7753
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2012-01-16T19:11:42.000Z",
+        "description": "🟡🐝;\nJurista y opositora ⚖️\nMe gusta dormir, quejarme, los videojuegos y los animalitos 🐾🐶🦜🎮 \nA veces leo, otras veo series🎬\nT'estimo una pechá @Plorcs 💛",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 150,
+                "start": 143,
+                "username": "Plorcs"
+              }
+            ]
+          }
+        },
+        "id": "465803322",
+        "location": "Granada, Andalucía",
+        "name": "𝕭𝖊𝖆 🍋🦈",
+        "pinned_tweet_id": "1701294184089399449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064352952517591040/Y8jqvy4l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1889,
+          "following_count": 1137,
+          "like_count": 225306,
+          "listed_count": 16,
+          "media_count": 13570,
+          "tweet_count": 195267
+        },
+        "url": "",
+        "username": "__BumbleBea",
+        "verified": false
+      }
+    ]
+  }
+}

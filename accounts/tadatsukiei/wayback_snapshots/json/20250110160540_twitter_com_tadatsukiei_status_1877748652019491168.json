@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1877193118258196792",
+    "created_at": "2025-01-10T16:05:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-10T17:05:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1877748652019491168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1309455512895807488",
+          "start": 0,
+          "username": "codemica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1877748652019491168",
+    "in_reply_to_user_id": "1309455512895807488",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1877193118258196792",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codemica 【我爱她，哪怕她不存在】也许我和她也没什么差别。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1877193118258196792",
+        "created_at": "2025-01-10T16:05:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-10T17:05:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1877748652019491168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1309455512895807488",
+              "start": 0,
+              "username": "codemica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877748652019491168",
+        "in_reply_to_user_id": "1309455512895807488",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1877193118258196792",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codemica 【我爱她，哪怕她不存在】也许我和她也没什么差别。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1877193107974033408"
+          ]
+        },
+        "author_id": "1309455512895807488",
+        "conversation_id": "1877193118258196792",
+        "created_at": "2025-01-09T03:18:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-09T04:18:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1877193118258196792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MdEmKWFRoO",
+              "end": 25,
+              "expanded_url": "https://x.com/anachronm/status/1877193118258196792/photo/1",
+              "media_key": "3_1877193107974033408",
+              "start": 2,
+              "url": "https://t.co/MdEmKWFRoO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1877193118258196792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 112,
+          "impression_count": 111154,
+          "like_count": 1660,
+          "quote_count": 14,
+          "reply_count": 50,
+          "retweet_count": 77
+        },
+        "reply_settings": "everyone",
+        "text": "😥 https://t.co/MdEmKWFRoO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 45,
+          "like_count": 1839,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 688
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-25T11:31:43.000Z",
+        "description": "Cognitio ipsa divinitas｜Also individual of @codemetic｜某人日记",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 43,
+                "username": "codemetic"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreams.plus",
+                "end": 23,
+                "expanded_url": "https://dreams.plus",
+                "start": 0,
+                "url": "https://t.co/ys8P710ap3"
+              }
+            ]
+          }
+        },
+        "id": "1309455512895807488",
+        "location": "Constantinopolis",
+        "name": "但为君故✨",
+        "pinned_tweet_id": "1874102164165190019",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1871949233814970369/_mRkLJaX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3441,
+          "following_count": 397,
+          "like_count": 48683,
+          "listed_count": 12,
+          "media_count": 627,
+          "tweet_count": 8336
+        },
+        "url": "https://t.co/ys8P710ap3",
+        "username": "codemica",
+        "verified": false
+      }
+    ]
+  }
+}

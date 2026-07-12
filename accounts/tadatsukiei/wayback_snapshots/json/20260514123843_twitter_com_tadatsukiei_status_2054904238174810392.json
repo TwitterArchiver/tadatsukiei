@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2054874903195902091",
+    "created_at": "2026-05-14T12:38:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T13:38:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054904238174810392"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "jusirthree"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054904238174810392",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054874903195902091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jusirthree cool～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2054874884237590528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRh0ezagAAMviQ.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2054874903195902091",
+        "created_at": "2026-05-14T12:38:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T13:38:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054904238174810392"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "jusirthree"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054904238174810392",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054874903195902091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jusirthree cool～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054874884237590528"
+          ]
+        },
+        "author_id": "2026283442259017729",
+        "conversation_id": "2054874903195902091",
+        "created_at": "2026-05-14T10:42:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T11:42:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054874903195902091"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3C0hrsJy4a",
+              "end": 39,
+              "expanded_url": "https://x.com/jusirthree/status/2054874903195902091/photo/1",
+              "media_key": "3_2054874884237590528",
+              "start": 16,
+              "url": "https://t.co/3C0hrsJy4a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054874903195902091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 126,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "恰同学少年，书生意气，挥斥方遒 https://t.co/3C0hrsJy4a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 525,
+          "following_count": 504,
+          "like_count": 89098,
+          "listed_count": 9,
+          "media_count": 485,
+          "tweet_count": 6217
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 811,
+          "like_count": 2592,
+          "listed_count": 6,
+          "media_count": 493,
+          "tweet_count": 1792
+        },
+        "username": "jusirthree",
+        "verified": false
+      }
+    ]
+  }
+}

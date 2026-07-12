@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2027553639120965884",
+    "created_at": "2026-02-28T11:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-28T12:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2027709717964001765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2472531601",
+          "start": 0,
+          "username": "vahnxu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2027709717964001765",
+    "in_reply_to_user_id": "2472531601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027553639120965884",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vahnxu 的确，我常常会觉得ai输出的中文简明扼要、清晰易懂（甚至带点文学性书卷气），总之很“优美”。这也是我喜欢和ai对话的原因之一，与生活中大多数人相比，它的交流效率和传情达意能力强多了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2027553639120965884",
+        "created_at": "2026-02-28T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027709717964001765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2472531601",
+              "start": 0,
+              "username": "vahnxu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027709717964001765",
+        "in_reply_to_user_id": "2472531601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027553639120965884",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vahnxu 的确，我常常会觉得ai输出的中文简明扼要、清晰易懂（甚至带点文学性书卷气），总之很“优美”。这也是我喜欢和ai对话的原因之一，与生活中大多数人相比，它的交流效率和传情达意能力强多了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2472531601",
+        "conversation_id": "2027553639120965884",
+        "created_at": "2026-02-28T01:17:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-28T02:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2027553639120965884"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2027553639120965884",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "一个反直觉的事实：包括 DeepSeek、千问在内的中国大模型，其逻辑推理能力的底座是用英文世界的高质量语料（代码、论文、技术文档）训练出来的。模型从英文语料中习得的推理模式，在输出中文时被保留了下来——低语境、重逻辑、主谓宾清晰。\n\n这让大量中国网民第一次在日常场景中持续接触到了结构化、高信息密度的中文表达。过去这种风格只存在于翻译体媒体（比如纽约时报中文网）或少数作者的输出中。曾经我第一次看这些媒体的感受是，原来中文新闻可以这么写...\n\n现在每天跟 DeepSeek、Kimi 对话、让它写邮件改方案，就是在被这种语言风格反复浸泡。对于过去浸泡在官话和高语境语言环境的中文使用者来说，算是一个语言环境的升级吧."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 190,
+          "impression_count": 124305,
+          "like_count": 484,
+          "quote_count": 12,
+          "reply_count": 84,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "一个反直觉的事实：包括 DeepSeek、千问在内的中国大模型，其逻辑推理能力的底座是用英文世界的高质量语料（代码、论文、技术文档）训练出来的。模型从英文语料中习得的推理模式，在输出中文时被保留了下来——低语境、重逻辑、主谓宾清晰。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 198,
+          "like_count": 62897,
+          "listed_count": 6,
+          "media_count": 291,
+          "tweet_count": 4231
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2014-05-01T13:40:54.000Z",
+        "description": "",
+        "id": "2472531601",
+        "name": "vahnxu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019762160390598656/Z16lVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 895,
+          "like_count": 6437,
+          "listed_count": 3,
+          "media_count": 103,
+          "tweet_count": 1123
+        },
+        "username": "vahnxu",
+        "verified": false
+      }
+    ]
+  }
+}

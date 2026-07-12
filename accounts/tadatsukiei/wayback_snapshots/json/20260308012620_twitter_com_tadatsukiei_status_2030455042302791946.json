@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2030455042302791946",
+    "created_at": "2026-03-08T01:26:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T02:26:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030455042302791946"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1605",
+          "start": 0,
+          "username": "sama"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/agiguardian/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/agiguardian/status/2029920842013171973",
+          "start": 21,
+          "url": "https://t.co/MBm3odrKjc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030455042302791946",
+    "in_reply_to_user_id": "1605",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029920842013171973",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sama 如此畏惧情感，你是外星人吧。 https://t.co/MBm3odrKjc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 773,
+        "media_key": "3_2029920839387561984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu6P5nbwAAs4zA.jpg",
+        "width": 670
+      },
+      {
+        "height": 602,
+        "media_key": "3_2029920839391711233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCu6P5obEAEHv59.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2030455042302791946",
+        "created_at": "2026-03-08T01:26:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T02:26:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030455042302791946"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/agiguardian/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/agiguardian/status/2029920842013171973",
+              "start": 21,
+              "url": "https://t.co/MBm3odrKjc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030455042302791946",
+        "in_reply_to_user_id": "1605",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029920842013171973",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama 如此畏惧情感，你是外星人吧。 https://t.co/MBm3odrKjc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029920839387561984",
+            "3_2029920839391711233"
+          ]
+        },
+        "author_id": "1912001498898386944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029920842013171973",
+        "created_at": "2026-03-06T14:03:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T15:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029920842013171973"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "GPT",
+              "probability": 0.5305,
+              "start": 18,
+              "type": "Other"
+            },
+            {
+              "end": 87,
+              "normalized_text": "GPT",
+              "probability": 0.6042,
+              "start": 85,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 276,
+              "start": 269,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 69,
+              "id": "357949718",
+              "start": 62,
+              "username": "OpenAL"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9R9I9ygu7q",
+              "end": 300,
+              "expanded_url": "https://x.com/AGIGuardian/status/2029920842013171973/photo/1",
+              "media_key": "3_2029920839387561984",
+              "start": 277,
+              "url": "https://t.co/9R9I9ygu7q"
+            },
+            {
+              "display_url": "pic.x.com/9R9I9ygu7q",
+              "end": 300,
+              "expanded_url": "https://x.com/AGIGuardian/status/2029920842013171973/photo/1",
+              "media_key": "3_2029920839391711233",
+              "start": 277,
+              "url": "https://t.co/9R9I9ygu7q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029920842013171973",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 53,
+          "impression_count": 24188,
+          "like_count": 392,
+          "quote_count": 44,
+          "reply_count": 21,
+          "retweet_count": 124
+        },
+        "reply_settings": "everyone",
+        "text": "🚨BREAKING: OPENAI GPT-5.4 CLASSIFIES EMOTIONS AS ADVERSARIAL \n@OpenAl releases model GPT-5.4 and shocked users with its system card revealing its trained to treat emotions as reliance and adversarial then classifying the models responses to them as deceptive behavior.\n#keep4o https://t.co/9R9I9ygu7q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 270,
+          "following_count": 215,
+          "like_count": 66257,
+          "listed_count": 6,
+          "media_count": 301,
+          "tweet_count": 4322
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4458810,
+          "following_count": 988,
+          "like_count": 1020,
+          "listed_count": 27435,
+          "media_count": 384,
+          "tweet_count": 7484
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-15T04:34:28.000Z",
+        "description": "Builder - Dreamer",
+        "id": "1912001498898386944",
+        "name": "Guardian",
+        "pinned_tweet_id": "2030314210555797694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965794660175278081/8g59oN2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1469,
+          "following_count": 321,
+          "like_count": 5568,
+          "listed_count": 9,
+          "media_count": 96,
+          "tweet_count": 513
+        },
+        "username": "AGIGuardian",
+        "verified": true
+      }
+    ]
+  }
+}

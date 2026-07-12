@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1931546736608313465",
+    "created_at": "2025-06-08T07:35:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-08T08:35:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1931616160174297442"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 18,
+          "normalized_text": "越无知",
+          "probability": 0.532,
+          "start": 16,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1931616160174297442",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1931546736608313465",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 越无知、越自大"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1290,
+        "media_key": "3_1931481663390818304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4AVuSXIAAGoy9.jpg",
+        "width": 2503
+      },
+      {
+        "height": 1617,
+        "media_key": "3_1931481686568529920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4AXEoW8AApj0k.jpg",
+        "width": 2401
+      },
+      {
+        "height": 1615,
+        "media_key": "3_1931481708345319424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4AYVwWYAAHu8z.jpg",
+        "width": 2340
+      },
+      {
+        "height": 1617,
+        "media_key": "3_1931481730340257792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gs4AZnsWgAA0Flh.jpg",
+        "width": 1482
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1931546736608313465",
+        "created_at": "2025-06-08T07:35:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T08:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1931616160174297442"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 18,
+              "normalized_text": "越无知",
+              "probability": 0.532,
+              "start": 16,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931616160174297442",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931546736608313465",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 越无知、越自大"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1931481663390818304",
+            "3_1931481686568529920",
+            "3_1931481708345319424",
+            "3_1931481730340257792"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "1931546736608313465",
+        "created_at": "2025-06-08T03:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-08T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1931546736608313465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8OTF79eZp0",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931546736608313465/photo/1",
+              "media_key": "3_1931481663390818304",
+              "start": 144,
+              "url": "https://t.co/8OTF79eZp0"
+            },
+            {
+              "display_url": "pic.x.com/8OTF79eZp0",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931546736608313465/photo/1",
+              "media_key": "3_1931481686568529920",
+              "start": 144,
+              "url": "https://t.co/8OTF79eZp0"
+            },
+            {
+              "display_url": "pic.x.com/8OTF79eZp0",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931546736608313465/photo/1",
+              "media_key": "3_1931481708345319424",
+              "start": 144,
+              "url": "https://t.co/8OTF79eZp0"
+            },
+            {
+              "display_url": "pic.x.com/8OTF79eZp0",
+              "end": 167,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1931546736608313465/photo/1",
+              "media_key": "3_1931481730340257792",
+              "start": 144,
+              "url": "https://t.co/8OTF79eZp0"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 191,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1931303285626986852",
+              "start": 168,
+              "url": "https://t.co/aXA7xr60u7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1931546736608313465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有人对比了中国高考和法国高考的作文题目，可以看到，法国高考的题目涉及科学哲学、政治哲学、认识论、文艺理论等深度哲学议题。例如，“想要和平就是想要正义吗？”、“艺术家是其作品的主宰吗？”……博主称赞法国高考的思辨性。不过有很多网友不以为然，嘲讽道：“也没见法国出什么惊天动地的人才“、”讨论这些有什么具体成果？”"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 239,
+          "impression_count": 354465,
+          "like_count": 1072,
+          "quote_count": 32,
+          "reply_count": 182,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "1931303285626986852",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有人对比了中国高考和法国高考的作文题目，可以看到，法国高考的题目涉及科学哲学、政治哲学、认识论、文艺理论等深度哲学议题。例如，“想要和平就是想要正义吗？”、“艺术家是其作品的主宰吗？”……博主称赞法国高考的思辨性。不过有很多网友不以为然，嘲讽道：“也没见法国出什么惊天动地的人才“、”讨 https://t.co/8OTF79eZp0 https://t.co/aXA7xr60u7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 77,
+          "like_count": 8426,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1676
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1930033346018480586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2010583,
+          "following_count": 959,
+          "like_count": 6864,
+          "listed_count": 8167,
+          "media_count": 29539,
+          "tweet_count": 36080
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

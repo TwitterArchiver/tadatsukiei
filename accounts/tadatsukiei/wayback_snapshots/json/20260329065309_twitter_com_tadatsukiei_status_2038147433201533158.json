@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2038084069976932857",
+    "created_at": "2026-03-29T06:53:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T07:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038147433201533158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861778149970997248",
+          "start": 0,
+          "username": "a_lei83862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038147433201533158",
+    "in_reply_to_user_id": "1861778149970997248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038084069976932857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@a_lei83862 我不好说🙂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2038084069976932857",
+        "created_at": "2026-03-29T06:53:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T07:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038147433201533158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861778149970997248",
+              "start": 0,
+              "username": "a_lei83862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038147433201533158",
+        "in_reply_to_user_id": "1861778149970997248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038084069976932857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@a_lei83862 我不好说🙂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861778149970997248",
+        "conversation_id": "2038084069976932857",
+        "created_at": "2026-03-29T02:41:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T03:41:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038084069976932857"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2038084069976932857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "14億人有無辜的嗎？😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 343,
+          "like_count": 76779,
+          "listed_count": 6,
+          "media_count": 343,
+          "tweet_count": 4832
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T14:24:54.000Z",
+        "description": "",
+        "id": "1861778149970997248",
+        "location": "殺の世界",
+        "name": "小麥子",
+        "pinned_tweet_id": "2038084069976932857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870665348154114048/-vJWs354_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 1116,
+          "like_count": 1454,
+          "listed_count": 3,
+          "media_count": 71,
+          "tweet_count": 2969
+        },
+        "username": "a_lei83862",
+        "verified": false
+      }
+    ]
+  }
+}

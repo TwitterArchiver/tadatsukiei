@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1899270388900893117",
+    "created_at": "2025-03-11T11:37:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T12:37:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899424413118022060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1249525383797456898",
+          "start": 0,
+          "username": "jakobsonradical"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899424413118022060",
+    "in_reply_to_user_id": "1249525383797456898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1899270388900893117",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jakobsonradical 中国人只有一种信仰，那就是对「苦难」的崇拜，仿佛这是一种资源、一份荣誉————我吃的苦越多＝精神越高尚伟大＝我的成就越高"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 301,
+        "media_key": "3_1899270386807975937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GluQWqIbsAEzxvQ.jpg",
+        "width": 860
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1899270388900893117",
+        "created_at": "2025-03-11T11:37:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T12:37:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899424413118022060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1249525383797456898",
+              "start": 0,
+              "username": "jakobsonradical"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899424413118022060",
+        "in_reply_to_user_id": "1249525383797456898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1899270388900893117",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jakobsonradical 中国人只有一种信仰，那就是对「苦难」的崇拜，仿佛这是一种资源、一份荣誉————我吃的苦越多＝精神越高尚伟大＝我的成就越高"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1899270386807975937"
+          ]
+        },
+        "author_id": "1249525383797456898",
+        "conversation_id": "1899270388900893117",
+        "created_at": "2025-03-11T01:25:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T02:25:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1899270388900893117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zPgHtYgShd",
+              "end": 33,
+              "expanded_url": "https://x.com/jakobsonradical/status/1899270388900893117/photo/1",
+              "media_key": "3_1899270386807975937",
+              "start": 10,
+              "url": "https://t.co/zPgHtYgShd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899270388900893117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 19969,
+          "like_count": 238,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "有网友如此锐评—— https://t.co/zPgHtYgShd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71,
+          "following_count": 57,
+          "like_count": 3975,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1177
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-04-13T02:30:47.000Z",
+        "description": "中文/English/日本語/Español。 追求理性，追求自由。社会科学/文史哲/编程/代数学/经济/etc。五毛/粉红请绕道。",
+        "id": "1249525383797456898",
+        "name": "Jacobson🌎🌸贴贴BOT",
+        "pinned_tweet_id": "1436195522604199960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1290953925764558848/J6rhBr0A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233710,
+          "following_count": 1476,
+          "like_count": 41573,
+          "listed_count": 951,
+          "media_count": 17674,
+          "tweet_count": 24864
+        },
+        "username": "jakobsonradical",
+        "verified": false
+      }
+    ]
+  }
+}

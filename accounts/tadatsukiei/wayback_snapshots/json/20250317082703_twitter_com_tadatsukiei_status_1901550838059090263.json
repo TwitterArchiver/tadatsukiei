@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1901423236295856303",
+    "created_at": "2025-03-17T08:27:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-17T09:27:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1901550838059090263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1756342617326157824",
+          "start": 0,
+          "username": "iamnabins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1901550838059090263",
+    "in_reply_to_user_id": "1756342617326157824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901423236295856303",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamnabins 过于真实"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11850,
+        "height": 1920,
+        "media_key": "7_1901249819353776128",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1901249819353776128/pu/img/8HBNIN9RDI3sbwbh.jpg",
+        "public_metrics": {
+          "view_count": 14461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901249819353776128/pu/vid/avc1/320x568/c2a-hEesR7mwG86p.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901249819353776128/pu/vid/avc1/480x852/xr3NjSZ6x1gmTu4L.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1901249819353776128/pu/vid/avc1/720x1280/OCsOMyi3fe9Affnz.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1901249819353776128/pu/pl/QfjNcBFC6ImTopNR.m3u8?tag=12"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1901423236295856303",
+        "created_at": "2025-03-17T08:27:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T09:27:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1901550838059090263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1756342617326157824",
+              "start": 0,
+              "username": "iamnabins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901550838059090263",
+        "in_reply_to_user_id": "1756342617326157824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901423236295856303",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamnabins 过于真实"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1901249819353776128"
+          ]
+        },
+        "author_id": "1756342617326157824",
+        "conversation_id": "1901423236295856303",
+        "created_at": "2025-03-17T00:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-17T01:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1901423236295856303"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h7UFYuxfei",
+              "end": 37,
+              "expanded_url": "https://x.com/iamnabins/status/1901423236295856303/video/1",
+              "media_key": "7_1901249819353776128",
+              "start": 14,
+              "url": "https://t.co/h7UFYuxfei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1901423236295856303",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 220,
+          "impression_count": 31758,
+          "like_count": 3001,
+          "quote_count": 6,
+          "reply_count": 55,
+          "retweet_count": 312
+        },
+        "reply_settings": "everyone",
+        "text": "Don't stretch https://t.co/h7UFYuxfei"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 60,
+          "like_count": 4256,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1236
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-10T15:41:32.000Z",
+        "description": "저는 달에 갈 거예요",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@iamnabins/",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@iamnabins/",
+                "start": 0,
+                "url": "https://t.co/ayRx2b3TRs"
+              }
+            ]
+          }
+        },
+        "id": "1756342617326157824",
+        "name": "나는나비",
+        "pinned_tweet_id": "1889464439126295031",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1878081296611844096/A88AIn-4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60792,
+          "following_count": 315,
+          "like_count": 16495,
+          "listed_count": 126,
+          "media_count": 448,
+          "tweet_count": 3849
+        },
+        "url": "https://t.co/ayRx2b3TRs",
+        "username": "iamnabins",
+        "verified": true
+      }
+    ]
+  }
+}

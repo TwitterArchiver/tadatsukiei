@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2057832582197469412",
+    "created_at": "2026-05-23T04:39:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:39:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058045239659778181"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "427734783",
+          "start": 0,
+          "username": "lulukissed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058045239659778181",
+    "in_reply_to_user_id": "427734783",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057832582197469412",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lulukissed 不是因为中国人比他们差，而是中国人组成的政府太强了，可以把同胞当狗训。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2057832582197469412",
+        "created_at": "2026-05-23T04:39:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058045239659778181"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "427734783",
+              "start": 0,
+              "username": "lulukissed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058045239659778181",
+        "in_reply_to_user_id": "427734783",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057832582197469412",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lulukissed 不是因为中国人比他们差，而是中国人组成的政府太强了，可以把同胞当狗训。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "427734783",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202045",
+              "name": "Facebook"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2057832582197469412",
+        "created_at": "2026-05-22T14:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057832582197469412"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057832582197469412",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 197137,
+          "like_count": 1321,
+          "quote_count": 20,
+          "reply_count": 410,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "越南人可以：炒比特币，上Youtube，刷Facebook，发Instagram，用Google……\n不需任何翻墙软件。\n\n所以中国人到底比他们差在哪里需要处处被限制？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 538,
+          "like_count": 92895,
+          "listed_count": 9,
+          "media_count": 516,
+          "tweet_count": 6614
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2011-12-03T22:23:26.000Z",
+        "description": "2017年开启投资｜2021年BTC & MSTR hodler｜2022年全球旅居｜地理套利｜育有2娃｜前十八线咨询+VC投资人｜现失业人员",
+        "id": "427734783",
+        "location": "Vietnam",
+        "name": "Lulu_同学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053704180158885888/HHSyv1CD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 957,
+          "following_count": 228,
+          "like_count": 57,
+          "listed_count": 2,
+          "media_count": 9,
+          "tweet_count": 187
+        },
+        "username": "lulukissed",
+        "verified": false
+      }
+    ]
+  }
+}

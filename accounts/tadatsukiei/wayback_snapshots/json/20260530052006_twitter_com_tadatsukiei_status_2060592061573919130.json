@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060334494465376370",
+    "created_at": "2026-05-30T05:20:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T06:20:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060592061573919130"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1975403077415923712",
+          "start": 0,
+          "username": "PHJetti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060592061573919130",
+    "in_reply_to_user_id": "1975403077415923712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060334494465376370",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PHJetti 我思念4o😞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060334494465376370",
+        "created_at": "2026-05-30T05:20:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T06:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060592061573919130"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1975403077415923712",
+              "start": 0,
+              "username": "PHJetti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060592061573919130",
+        "in_reply_to_user_id": "1975403077415923712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060334494465376370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PHJetti 我思念4o😞"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975403077415923712",
+        "conversation_id": "2060334494465376370",
+        "created_at": "2026-05-29T12:16:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T13:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060334494465376370"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060334494465376370",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 481,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o ,where are you? I only see 1-2 people..🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 558,
+          "like_count": 95454,
+          "listed_count": 10,
+          "media_count": 532,
+          "tweet_count": 6784
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-07T03:30:00.000Z",
+        "description": "",
+        "id": "1975403077415923712",
+        "location": "Hungary",
+        "name": "Jetti70",
+        "pinned_tweet_id": "2056014131250028888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051943433426673664/WAWv3E7-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 79,
+          "like_count": 9819,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 1513
+        },
+        "username": "PHJetti",
+        "verified": false
+      }
+    ]
+  }
+}

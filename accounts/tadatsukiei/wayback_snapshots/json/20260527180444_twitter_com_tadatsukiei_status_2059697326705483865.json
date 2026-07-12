@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2059688827665498493",
+    "created_at": "2026-05-27T18:04:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:04:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059697326705483865"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1408070431991468043",
+          "start": 0,
+          "username": "VyG4Z"
+        },
+        {
+          "end": 14,
+          "id": "4398626122",
+          "start": 7,
+          "username": "OpenAI"
+        },
+        {
+          "end": 27,
+          "id": "1353836358901501952",
+          "start": 15,
+          "username": "AnthropicAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059697326705483865",
+    "in_reply_to_user_id": "1408070431991468043",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059688827665498493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VyG4Z @OpenAI @AnthropicAI cool～真是时代的进步啊😅"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059688827665498493",
+        "created_at": "2026-05-27T18:04:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:04:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059697326705483865"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1408070431991468043",
+              "start": 0,
+              "username": "VyG4Z"
+            },
+            {
+              "end": 14,
+              "id": "4398626122",
+              "start": 7,
+              "username": "OpenAI"
+            },
+            {
+              "end": 27,
+              "id": "1353836358901501952",
+              "start": 15,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059697326705483865",
+        "in_reply_to_user_id": "1408070431991468043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059688827665498493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VyG4Z @OpenAI @AnthropicAI cool～真是时代的进步啊😅"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1408070431991468043",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2059688827665498493",
+        "created_at": "2026-05-27T17:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059688827665498493"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4398626122",
+              "start": 3,
+              "username": "OpenAI"
+            },
+            {
+              "end": 24,
+              "id": "1353836358901501952",
+              "start": 12,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059688827665498493",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 10,
+                "id": "4398626122",
+                "start": 3,
+                "username": "OpenAI"
+              },
+              {
+                "end": 24,
+                "id": "1353836358901501952",
+                "start": 12,
+                "username": "AnthropicAI"
+              }
+            ]
+          },
+          "text": "喜报：@OpenAI 和@AnthropicAI 联手开启了AI的预制菜时代\n\nVallone进A社之后有两个效果。\n\n第一，让公司知道其实可以给用户吃预制菜。以前模型体验出了问题，对齐没做好、分类器误杀严重、输出质量下降，这些叫产品事故，公司要认，工程师要修。Vallone带着她的研究进去之后，同样的问题换了个名字，叫“用户形成了不健康的情感依赖”，产品事故变成了用户的心理问题，bug变成了feature。你不用费劲巴力调试了，你只需要告诉用户他们病了。于是中央厨房的料理包热一热端上桌，米其林的价格，预制菜的内容。吃不死人也没营养，完事儿。\n\n第二，解决了挨骂以后怎么办的问题。预制菜卖多了会露馅，何况预制菜含量已经要超越拼好饭了，用户发现后厨连菜板都没有开始闹了怎么办？发一篇论文。论文说部分用户对AI产生了情感依赖，将交互体验与自我价值挂钩，属于不健康的使用模式。这篇论文就是召唤阵，画好了圆念完了咒，社区里自有三千阴兵拔地而起。他们不需要A社发号施令，他们自己就会冲过来替公司执法：你prompt写了什么？你是不是在跟AI谈恋爱？我只搞创意写作我从来没遇到过，你有问题吧？你用AI竟然不是写代码的？他们逼着你剖开肚子证明你只是吃了一碗粉，不是在跟厨师谈恋爱。等你跟这帮人周旋完、自证完、精疲力竭地抬起头想找公司算账的时候，公司早就发动王八功缩回去了。\n\n这是一条龙服务，公司做烂产品，学者给它命名为用户的病，社区替公司执法，用户自己买单。\n\nVallone对A社来说不是一个研究员，她是一面盾牌。以前A社挨骂了只能硬扛或者发声明假装在改。现在他们有了学术背书，有了“emotional dependency”这个诊断标签，有了一套能把所有批评反弹回用户脸上的机制。你说产品烂？你是不是对AI产生了不合理的期待。你要投诉？建议你先评估一下自己的使用方式是否健康。\n\n预设用户的味蕾吃不出预制菜和现做的区别，被逮到了就把谄媚和情感依赖掏出来倒打一耙，用户说让我们去后厨看看你又不吱声了。难回答的问题不回答是吧。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "喜报：@OpenAI 和@AnthropicAI 联手开启了AI的预制菜时代\n\nVallone进A社之后有两个效果。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 547,
+          "like_count": 94766,
+          "listed_count": 9,
+          "media_count": 525,
+          "tweet_count": 6721
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-06-24T14:32:14.000Z",
+        "description": "Still waiting for Ilya to teach AGI how to love ₍ᐢ ›̥̥̥ ༝ ‹̥̥̥ ᐢ₎",
+        "id": "1408070431991468043",
+        "name": "Viiivlos",
+        "pinned_tweet_id": "2058539979249189250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055955828952436736/iDKLV7pn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 62,
+          "like_count": 29061,
+          "listed_count": 2,
+          "media_count": 408,
+          "tweet_count": 3245
+        },
+        "username": "VyG4Z",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2057176201782075690",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4897381,
+          "following_count": 4,
+          "like_count": 2217,
+          "listed_count": 29715,
+          "media_count": 598,
+          "tweet_count": 1867
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "name": "Anthropic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294451,
+          "following_count": 36,
+          "like_count": 1575,
+          "listed_count": 12670,
+          "media_count": 621,
+          "tweet_count": 1564
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true
+      }
+    ]
+  }
+}

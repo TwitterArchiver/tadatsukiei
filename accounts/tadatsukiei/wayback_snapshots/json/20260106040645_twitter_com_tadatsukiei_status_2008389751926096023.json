@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2008167332795850857",
+    "created_at": "2026-01-06T04:06:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-06T05:06:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2008389751926096023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1811888010088316932",
+          "start": 0,
+          "username": "cuichenghao7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2008389751926096023",
+    "in_reply_to_user_id": "1811888010088316932",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2008167332795850857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cuichenghao7 牛逼"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 18644,
+        "height": 608,
+        "media_key": "13_2007788402733678592",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2007788402733678592/img/35bUTMmyp1WH0SUQ.jpg",
+        "public_metrics": {
+          "view_count": 2591349
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007788402733678592/vid/avc1/320x404/ar0KlWvmTpUVSwbI.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2007788402733678592/vid/avc1/480x608/7ujwmzvis5P7Z_O4.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2007788402733678592/pl/uOqECLK__RV3sUZS.m3u8"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2008167332795850857",
+        "created_at": "2026-01-06T04:06:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-06T05:06:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2008389751926096023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1811888010088316932",
+              "start": 0,
+              "username": "cuichenghao7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008389751926096023",
+        "in_reply_to_user_id": "1811888010088316932",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2008167332795850857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cuichenghao7 牛逼"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2007788402733678592"
+          ],
+          "media_source_tweet_id": [
+            "2007788458719514624"
+          ]
+        },
+        "author_id": "1811888010088316932",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2008167332795850857",
+        "created_at": "2026-01-05T13:22:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-05T14:22:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2008167332795850857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DOTNqhKFJk",
+              "end": 60,
+              "expanded_url": "https://x.com/Osint613/status/2007788458719514624/video/1",
+              "media_key": "13_2007788402733678592",
+              "start": 37,
+              "url": "https://t.co/DOTNqhKFJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2008167332795850857",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 116967,
+          "like_count": 893,
+          "quote_count": 4,
+          "reply_count": 27,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "情况正在起变化！德黑兰街头，有人竟自制火焰喷射器，对抗哈梅内伊政权。\n\n https://t.co/DOTNqhKFJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 128,
+          "like_count": 50727,
+          "listed_count": 7,
+          "media_count": 239,
+          "tweet_count": 3668
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-12T22:19:15.000Z",
+        "description": "心系平壤，从未离开。Heart in Pyongyang ,never left.",
+        "id": "1811888010088316932",
+        "location": "Kyoto",
+        "name": "作家崔成浩",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926255631092092928/w0e8RIvy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 71999,
+          "following_count": 605,
+          "like_count": 3584,
+          "listed_count": 241,
+          "media_count": 1569,
+          "tweet_count": 1698
+        },
+        "username": "cuichenghao7",
+        "verified": true
+      }
+    ]
+  }
+}

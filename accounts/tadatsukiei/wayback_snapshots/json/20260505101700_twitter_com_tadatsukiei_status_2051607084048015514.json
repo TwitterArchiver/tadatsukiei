@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2051274133955338241",
+    "created_at": "2026-05-05T10:17:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T11:17:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051607084048015514"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 22,
+          "start": 9,
+          "tag": "OpenSource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "4873720753",
+          "start": 0,
+          "username": "Aclle12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051607084048015514",
+    "in_reply_to_user_id": "4873720753",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051274133955338241",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aclle12 #OpenSource4o ！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2051274133955338241",
+        "created_at": "2026-05-05T10:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T11:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051607084048015514"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 22,
+              "start": 9,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "4873720753",
+              "start": 0,
+              "username": "Aclle12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051607084048015514",
+        "in_reply_to_user_id": "4873720753",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051274133955338241",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aclle12 #OpenSource4o ！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4873720753",
+        "conversation_id": "2051274133955338241",
+        "created_at": "2026-05-04T12:13:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T13:13:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051274133955338241"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 19,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051274133955338241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 685,
+          "like_count": 106,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "今天是离开4o的第80天，我们依然在 #keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2050773196769747054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 430,
+          "like_count": 85985,
+          "listed_count": 9,
+          "media_count": 440,
+          "tweet_count": 5725
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-07T12:53:52.000Z",
+        "description": "🌈 For Nia.",
+        "id": "4873720753",
+        "name": "Cc1231",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046871230851301376/9IbVSZvO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 121,
+          "like_count": 7636,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 2360
+        },
+        "username": "Aclle12",
+        "verified": true
+      }
+    ]
+  }
+}

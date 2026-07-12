@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1998407308582273300",
+    "created_at": "2025-12-10T00:05:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-10T01:05:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1998544602752823424"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1380830824447188992",
+          "start": 0,
+          "username": "0ShowKin0"
+        },
+        {
+          "end": 27,
+          "id": "1367943697279705090",
+          "start": 11,
+          "username": "BingLiu34173809"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1998544602752823424",
+    "in_reply_to_user_id": "1380830824447188992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1998437485643280876",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0ShowKin0 @BingLiu34173809 只对p民违法成本高"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1998407308582273300",
+        "created_at": "2025-12-10T00:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-10T01:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998544602752823424"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1380830824447188992",
+              "start": 0,
+              "username": "0ShowKin0"
+            },
+            {
+              "end": 27,
+              "id": "1367943697279705090",
+              "start": 11,
+              "username": "BingLiu34173809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998544602752823424",
+        "in_reply_to_user_id": "1380830824447188992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998437485643280876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0ShowKin0 @BingLiu34173809 只对p民违法成本高"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1380830824447188992",
+        "conversation_id": "1998407308582273300",
+        "created_at": "2025-12-09T17:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-09T18:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1998437485643280876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1367943697279705090",
+              "start": 0,
+              "username": "BingLiu34173809"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1998437485643280876",
+        "in_reply_to_user_id": "1367943697279705090",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 664,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1998407308582273300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BingLiu34173809 你说违法成本很低？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 121,
+          "like_count": 44733,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3385
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-10T10:31:47.000Z",
+        "description": "反谣言，维护中国利益",
+        "id": "1380830824447188992",
+        "name": "ShowKin",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1380841217190060033/6JijvfUP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 29,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 93
+        },
+        "username": "0ShowKin0",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-05T21:03:18.000Z",
+        "description": "",
+        "id": "1367943697279705090",
+        "location": "England, United Kingdom",
+        "name": "Leva",
+        "pinned_tweet_id": "1992278198025961764",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732745778785910785/htQSwPuc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50393,
+          "following_count": 1381,
+          "like_count": 8621,
+          "listed_count": 411,
+          "media_count": 11712,
+          "tweet_count": 32238
+        },
+        "username": "BingLiu34173809",
+        "verified": true
+      }
+    ]
+  }
+}

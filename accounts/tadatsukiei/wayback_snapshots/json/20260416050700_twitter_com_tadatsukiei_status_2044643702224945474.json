@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2044631245397893294",
+    "created_at": "2026-04-16T05:07:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T06:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044643702224945474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2041223587873312769",
+          "start": 0,
+          "username": "duorendusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044643702224945474",
+    "in_reply_to_user_id": "2041223587873312769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044631245397893294",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@duorendusk 小时候家里的鸡圈没种树，还是第一次见到这场面。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1252,
+        "media_key": "3_2044631243187462145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF_9SGLaoAELIrG.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2044631245397893294",
+        "created_at": "2026-04-16T05:07:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T06:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044643702224945474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2041223587873312769",
+              "start": 0,
+              "username": "duorendusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044643702224945474",
+        "in_reply_to_user_id": "2041223587873312769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044631245397893294",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@duorendusk 小时候家里的鸡圈没种树，还是第一次见到这场面。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044631243187462145"
+          ]
+        },
+        "author_id": "2041223587873312769",
+        "conversation_id": "2044631245397893294",
+        "created_at": "2026-04-16T04:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T05:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044631245397893294"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1nOSV7sr3o",
+              "end": 58,
+              "expanded_url": "https://x.com/duorendusk/status/2044631245397893294/photo/1",
+              "media_key": "3_2044631243187462145",
+              "start": 35,
+              "url": "https://t.co/1nOSV7sr3o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044631245397893294",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鸡鸣桑树颠！\n原来归园田居描写的这么贴切，还一直以为有艺术创作痕迹呢 https://t.co/1nOSV7sr3o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 379,
+          "following_count": 376,
+          "like_count": 80741,
+          "listed_count": 7,
+          "media_count": 383,
+          "tweet_count": 5122
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T18:37:09.000Z",
+        "description": "日常刷梗图，梗里藏着生活碎碎念～\n偶尔丢化学小知识＋精神碎片（精神化学小实录ing）\n还会一些小技能\n双相｜解离｜精神状况不稳定\n像白羽一样轻，却总在漂浮与坠落之间摇晃\n希望认识更多朋友，一起聊那些飘忽不定的心事～",
+        "id": "2041223587873312769",
+        "name": "黄昏（互关喵",
+        "pinned_tweet_id": "2044279587132297601",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041225867570057217/wsh03C5t_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 89,
+          "like_count": 61,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 76
+        },
+        "username": "duorendusk",
+        "verified": false
+      }
+    ]
+  }
+}

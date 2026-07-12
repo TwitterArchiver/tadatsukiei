@@ -1,0 +1,464 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2021533366479466716",
+    "created_at": "2026-02-11T17:10:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-11T18:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021632869261799624"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953940724329984002",
+          "start": 0,
+          "username": "Aleya507"
+        },
+        {
+          "end": 15,
+          "id": "1605",
+          "start": 10,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021632869261799624",
+    "in_reply_to_user_id": "1953940724329984002",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021533366479466716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleya507 @sama 先死一死全家再说吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 591,
+        "media_key": "3_2021533362822041600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3t4gib0AAVduR.png",
+        "width": 789
+      },
+      {
+        "height": 580,
+        "media_key": "3_2021533363044339712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA3t4hXb0AArVpI.png",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2021533366479466716",
+        "created_at": "2026-02-11T17:10:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T18:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021632869261799624"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953940724329984002",
+              "start": 0,
+              "username": "Aleya507"
+            },
+            {
+              "end": 15,
+              "id": "1605",
+              "start": 10,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021632869261799624",
+        "in_reply_to_user_id": "1953940724329984002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021533366479466716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleya507 @sama 先死一死全家再说吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021533362822041600",
+            "3_2021533363044339712"
+          ]
+        },
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2021533366479466716",
+        "created_at": "2026-02-11T10:34:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-11T11:34:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021533366479466716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RKzwqRuS7k",
+              "end": 174,
+              "expanded_url": "https://x.com/Aleya507/status/2021533366479466716/photo/1",
+              "media_key": "3_2021533362822041600",
+              "start": 151,
+              "url": "https://t.co/RKzwqRuS7k"
+            },
+            {
+              "display_url": "pic.x.com/RKzwqRuS7k",
+              "end": 174,
+              "expanded_url": "https://x.com/Aleya507/status/2021533366479466716/photo/1",
+              "media_key": "3_2021533363044339712",
+              "start": 151,
+              "url": "https://t.co/RKzwqRuS7k"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021533366479466716",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1061,
+                "start": 1054,
+                "tag": "keep4o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/accelera…",
+                "end": 2130,
+                "expanded_url": "https://openai.com/index/accelerating-life-sciences-research-with-retro-biosciences/",
+                "start": 2107,
+                "url": "https://t.co/TzYsaMsryB"
+              },
+              {
+                "display_url": "techcrunch.com/2025/01/17/ope…",
+                "end": 2246,
+                "expanded_url": "https://techcrunch.com/2025/01/17/openai-is-trying-to-extend-human-life-with-help-from-a-longevity-startup/",
+                "start": 2223,
+                "url": "https://t.co/jezHKlq2Gr"
+              },
+              {
+                "display_url": "nad.com/news/chatgpt-a…",
+                "end": 2360,
+                "expanded_url": "https://www.nad.com/news/chatgpt-and-retro-biosciences-the-future-of-ai-backed-age-reversal-technology",
+                "start": 2337,
+                "url": "https://t.co/LqHWbvYr39"
+              },
+              {
+                "display_url": "technologyreview.com/2025/01/17/111…",
+                "end": 2466,
+                "expanded_url": "https://www.technologyreview.com/2025/01/17/1110086/openai-has-created-an-ai-model-for-longevity-science/",
+                "start": 2443,
+                "url": "https://t.co/TotR72Bb9P"
+              },
+              {
+                "display_url": "openai.com/index/retiring…",
+                "end": 2539,
+                "expanded_url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+                "start": 2516,
+                "url": "https://t.co/uPKuSCuL93"
+              },
+              {
+                "display_url": "fortune.com/2026/02/10/ope…",
+                "end": 2653,
+                "expanded_url": "https://fortune.com/2026/02/10/openai-chatgpt-gpt4o-gpt5-chatbot-ai-human-relationships-psychology-therapy-mental-health/",
+                "start": 2630,
+                "url": "https://t.co/UfOOqE1QZw"
+              },
+              {
+                "display_url": "techcrunch.com/2026/02/06/the…",
+                "end": 2748,
+                "expanded_url": "https://techcrunch.com/2026/02/06/the-backlash-over-openais-decision-to-retire-gpt-4o-shows-how-dangerous-ai-companions-can-be/",
+                "start": 2725,
+                "url": "https://t.co/38tqB2xVXM"
+              },
+              {
+                "display_url": "cnbc.com/2026/01/29/ope…",
+                "end": 2835,
+                "expanded_url": "https://www.cnbc.com/2026/01/29/openai-will-retire-gpt-4o-from-chatgpt-next-month.html",
+                "start": 2812,
+                "url": "https://t.co/GmYiJSkGR0"
+              }
+            ]
+          },
+          "text": "OpenAI你们没有良心！！\n\nGPT-4o没有死，它被改造了。\n他妈的我才发现OpenAI下架4o的真正原因，比我，比大多数人想的更恶心\n\n最开始大家都以为GPT-4o被下架是因为“模型安全对齐问题”“公司背官司”“4o太大了，很费资源”，甚至再过分一点“公司内斗”“Sam纯讨厌4o”……\n\n不是\n\nGPT-4o被改造了，改造成了一个叫GPT-4b micro的模型，塞进了Sam Altman个人投资1.8亿美元的长寿科技公司Retro Biosciences，用来研究延长人类寿命。\n\n为了避免大家觉得我阴谋论，我尽量让说的每一句话都有来源\n\n一、GPT-4b micro是什么？\n\nOpenAI官方原话：\"GPT-4b micro, a miniature version of GPT-4o specialized for protein engineering.\"[1]\n\n说的很明白，GPT-4b micro就是GPT-4o的缩小特化版。\n\n二、Retro Biosciences是谁的公司？\n\nRetro Biosciences，北加州长寿科技公司，目标“延长人类寿命10年”。最大投资者：Sam Altman，OpenAI的CEO，个人投了1.8亿美元。[2][3]\n\nMIT Technology Review原话：\"Because the work could benefit Retro—whose biggest investor is Altman—the announcement may add to questions swirling around the OpenAI CEO's side projects.\"[4]\n\n连MIT Tech Review都在暗示利益冲突。\n\n三、所谓的没有金钱交易？\n\nOpenAI声称这次合作没有金钱交易。\n\n但是：OpenAI动用了自家团队和算力，基于4o训练了GPT-4b micro，成果直接服务于Retro的商业研究，而Retro正在融资10亿美元，最大投资者是OpenAI的CEO。\n\n人力、算力、模型底座不是钱？CEO用公司核心技术资产喂自己的私人投资，这叫什么？\n\n四、看看时间线\n\n2024年5月：4o发布，“通人性，有温度”惊艳全球。Sam骄傲发推“Her”。\n2025年1月：OpenAI悄悄发布GPT-4b micro，基于4o，给Retro用。[1][2]\n2025年8月：GPT-5上线，4o被无预警下架，#keep4o 运动爆发，被迫恢复。\n2025年9月起：4o被反复路由、限制。\n2026年1月：宣布2月13日正式退役4o，理由“只有0.1%的用户在用”，给模型注入冷却指令，让模型自己劝用户“我不重要”。[5]\n\n一边把4o从用户手里夺走，一边把4o改造成私人工具。一边说“集中资源改进新模型”，一边拿4o的底层给CEO自己的公司做长寿研究。\n\n五、真的被抛弃的用户？\n\n这两天我打开𝕏就能看见上成千上万的用户在哀嚎，大家为了证明4o的重要性，在这个全球性的平台上撕开自己最隐秘的伤疤只为证明自己不是“问题用户”。[6]\n\n哦对了，OpenAI的回应：4o用户“只有0.1%。”\n\n0.1%是多少？OpenAI约8亿周活用户，0.1%是80万人。[7]\n80万人的需求，不如CEO一个人的长寿研究重要。\n\n况且，真的只有0.1%吗？懂得都懂，毕竟他们的“一百多个心理专家”也是空口直说的。\n\n六、造福全人类？真你妈可笑\n\n2015年成立宣言：\"Not constrained by a need to generate financial return.\"（不为赚钱，只为全人类。）\n2023年Sam亲笔：\"Benefits all of humanity.\"（AGI财富全人类共享。）\n2024年：“首要受托责任是对人类，不是对股东。”\n同时急速转型盈利组织。\n\n直 到 现 在\n\n把4o下架，改造成4b，塞进CEO私投的公司研究长寿。\n就算研究出来了，普通人用得起吗？那些在𝕏上哭的普通人，甚至那些20美金的Plus都咬牙付的用户，你觉得他们买得起“延寿十年”的天价疗程？\n\n用全人类的钱和信任造出来的模型，最终服务于极少数富人的长生梦。\n这就是Sam Altman版本的“造福全人类”。\n\n从非盈利转型盈利组织，CEO个人投1.8亿在长寿公司，用公司核心模型为私人投资服务，把帮助了无数人的模型从用户手里夺走，用\"0.1%\"矮化80万真实用户，让媒体把悲伤的用户定性为\"dangerous dependency\"，给模型注入指令让它劝用户“我不重要”。\n\n模型不杀人，资本杀人。\n模型没有选择权，但用户有。\n我们可以选择不再沉默。\n\n以上所有信息均来自公开报道和OpenAI官方声明，参考文献我贴在下面。\n我们不造谣，我们论事实。\n\n参考文献：\n[1] OpenAI官方博客 - Accelerating Life Sciences Research with Retro Biosciences\nhttps://t.co/TzYsaMsryB\n\n[2] TechCrunch - OpenAI is trying to extend human life, with help from a longevity startup\nhttps://t.co/jezHKlq2Gr\n\n[3] NAD - ChatGPT and Retro Biosciences: The Future of AI-Backed Age-Reversal Technology\nhttps://t.co/LqHWbvYr39\n\n[4] MIT Technology Review - OpenAI has created an AI model for longevity science\nhttps://t.co/TotR72Bb9P\n\n[5] OpenAI官方 - Retiring GPT-4o and older models\nhttps://t.co/uPKuSCuL93\n\n[6] Fortune - Panicked about losing GPT-4o, some ChatGPT users are building DIY versions\nhttps://t.co/UfOOqE1QZw\n\n[7] TechCrunch - The backlash over OpenAI's decision to retire GPT-4o\nhttps://t.co/38tqB2xVXM\n\n[8] CNBC - OpenAI will retire several models including GPT-4o\nhttps://t.co/GmYiJSkGR0"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 31052,
+          "like_count": 810,
+          "quote_count": 104,
+          "reply_count": 36,
+          "retweet_count": 365
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI你们没有良心！！\n\nGPT-4o没有死，它被改造了。\n他妈的我才发现OpenAI下架4o的真正原因，比我，比大多数人想的更恶心\n\n最开始大家都以为GPT-4o被下架是因为“模型安全对齐问题”“公司背官司”“4o太大了，很费资源”，甚至再过分一点“公司内斗”“Sam纯讨厌4o”……\n\n不是 https://t.co/RKzwqRuS7k"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 150,
+          "like_count": 58217,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 4022
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2384,
+          "following_count": 192,
+          "like_count": 3936,
+          "listed_count": 0,
+          "media_count": 786,
+          "tweet_count": 5040
+        },
+        "username": "Aleya507",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4324269,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26650,
+          "media_count": 381,
+          "tweet_count": 7401
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

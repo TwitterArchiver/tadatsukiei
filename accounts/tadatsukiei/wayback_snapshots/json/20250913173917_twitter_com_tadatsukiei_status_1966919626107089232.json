@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1966503565427392812",
+    "created_at": "2025-09-13T17:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-13T18:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1966919626107089232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1589022641511632896",
+          "start": 0,
+          "username": "xiaoyun678543"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1966919626107089232",
+    "in_reply_to_user_id": "1589022641511632896",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1966503565427392812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaoyun678543 挺好"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 71401,
+        "height": 270,
+        "media_key": "13_1965793953728602113",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965793953728602113/img/qzIHGajwT6cSS9TQ.jpg",
+        "public_metrics": {
+          "view_count": 36723
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965793953728602113/vid/avc1/480x270/qs2b0fpLRaE7gFPI.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965793953728602113/pl/P0kj4hOoJuKn3bi_.m3u8?tag=14&v=d71"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1966503565427392812",
+        "created_at": "2025-09-13T17:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-13T18:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1966919626107089232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1589022641511632896",
+              "start": 0,
+              "username": "xiaoyun678543"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966919626107089232",
+        "in_reply_to_user_id": "1589022641511632896",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966503565427392812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyun678543 挺好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965793953728602113"
+          ]
+        },
+        "author_id": "1589022641511632896",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1966503565427392812",
+        "created_at": "2025-09-12T14:06:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-12T15:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1966503565427392812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nHCVpdEl0a",
+              "end": 33,
+              "expanded_url": "https://x.com/xiaoyun678543/status/1966503565427392812/video/1",
+              "media_key": "13_1965793953728602113",
+              "start": 10,
+              "url": "https://t.co/nHCVpdEl0a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1966503565427392812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 237,
+          "impression_count": 72966,
+          "like_count": 838,
+          "quote_count": 6,
+          "reply_count": 35,
+          "retweet_count": 174
+        },
+        "reply_settings": "everyone",
+        "text": "谁改编的？这么有才 https://t.co/nHCVpdEl0a"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 107,
+          "like_count": 24383,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2627
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T22:31:44.000Z",
+        "description": "传播真相，匡扶正义良知。\n做中华儿女，不做马列子孙。\n一个健康的社会，不应该只有一种声音。\n今天你不为自由发声，明天又有谁为你发声？",
+        "id": "1589022641511632896",
+        "name": "小芸",
+        "pinned_tweet_id": "1841838169630867849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1589022826241355779/L34W2aeM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26438,
+          "following_count": 2343,
+          "like_count": 33897,
+          "listed_count": 36,
+          "media_count": 12292,
+          "tweet_count": 21468
+        },
+        "username": "xiaoyun678543",
+        "verified": false
+      }
+    ]
+  }
+}

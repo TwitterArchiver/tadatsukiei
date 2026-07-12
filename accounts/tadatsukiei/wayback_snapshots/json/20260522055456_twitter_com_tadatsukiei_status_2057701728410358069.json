@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057701720009199616"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2057701728410358069",
+    "created_at": "2026-05-22T05:54:56.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T06:54:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057701728410358069"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zjpdpQb88M",
+          "end": 35,
+          "expanded_url": "https://x.com/tadatsukiei/status/2057701728410358069/photo/1",
+          "media_key": "3_2057701720009199616",
+          "start": 12,
+          "url": "https://t.co/zjpdpQb88M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057701728410358069",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "感谢旁边阿姨高抬贵手😋 https://t.co/zjpdpQb88M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3558,
+        "media_key": "3_2057701720009199616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI5sz-rb0AA_pZN.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057701720009199616"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2057701728410358069",
+        "created_at": "2026-05-22T05:54:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T06:54:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057701728410358069"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zjpdpQb88M",
+              "end": 35,
+              "expanded_url": "https://x.com/tadatsukiei/status/2057701728410358069/photo/1",
+              "media_key": "3_2057701720009199616",
+              "start": 12,
+              "url": "https://t.co/zjpdpQb88M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057701728410358069",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "感谢旁边阿姨高抬贵手😋 https://t.co/zjpdpQb88M"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，我喜欢这样的人，也在努力成为。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 536,
+          "like_count": 92645,
+          "listed_count": 9,
+          "media_count": 516,
+          "tweet_count": 6596
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

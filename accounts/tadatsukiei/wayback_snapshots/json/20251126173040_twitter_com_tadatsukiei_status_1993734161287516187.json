@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "id": "1129090662622588930",
+          "name": "Psychology"
+        }
+      }
+    ],
+    "conversation_id": "1993681214465863801",
+    "created_at": "2025-11-26T17:30:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T18:30:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993734161287516187"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1270254879370440707",
+          "start": 0,
+          "username": "WaFFsdzAiNop"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993734161287516187",
+    "in_reply_to_user_id": "1270254879370440707",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993681214465863801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WaFFsdzAiNop 其实就是非常怕冷场，非常怕氛围变僵，生怕语气过硬让人觉得被冒犯，简称：讨好型人格。（在心理学上不一定准确）"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30800,
+        "height": 720,
+        "media_key": "13_1993681131410272259",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1993681131410272259/img/vCQaxV553dqY5dsj.jpg",
+        "public_metrics": {
+          "view_count": 1141
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993681131410272259/vid/avc1/480x270/jaRaJLMgPsOvFyU6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993681131410272259/vid/avc1/640x360/84S1pztB73_UqEnf.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1993681131410272259/vid/avc1/1280x720/NGrugzw7tGr-Fd-V.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1993681131410272259/pl/aFtwPRf9R_LdfFOc.m3u8?v=9a4"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          }
+        ],
+        "conversation_id": "1993681214465863801",
+        "created_at": "2025-11-26T17:30:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T18:30:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993734161287516187"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1270254879370440707",
+              "start": 0,
+              "username": "WaFFsdzAiNop"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993734161287516187",
+        "in_reply_to_user_id": "1270254879370440707",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993681214465863801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WaFFsdzAiNop 其实就是非常怕冷场，非常怕氛围变僵，生怕语气过硬让人觉得被冒犯，简称：讨好型人格。（在心理学上不一定准确）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1993681131410272259"
+          ]
+        },
+        "author_id": "1270254879370440707",
+        "conversation_id": "1993681214465863801",
+        "created_at": "2025-11-26T14:00:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T15:00:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993681214465863801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ka05cRFUro",
+              "end": 39,
+              "expanded_url": "https://x.com/WaFFsdzAiNop/status/1993681214465863801/video/1",
+              "media_key": "13_1993681131410272259",
+              "start": 16,
+              "url": "https://t.co/Ka05cRFUro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993681214465863801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2017,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "请珍惜那个总爱给你发表情包的人 https://t.co/Ka05cRFUro"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 115,
+          "like_count": 41323,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 3289
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-09T07:22:36.000Z",
+        "description": "",
+        "id": "1270254879370440707",
+        "name": "Kiki",
+        "pinned_tweet_id": "1903100872285925555",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975187099583455232/07zqjsgP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12810,
+          "following_count": 332,
+          "like_count": 17185,
+          "listed_count": 48,
+          "media_count": 802,
+          "tweet_count": 4285
+        },
+        "username": "WaFFsdzAiNop",
+        "verified": false
+      }
+    ]
+  }
+}

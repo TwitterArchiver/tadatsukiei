@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055140553751412736"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2055121068248203541",
+    "created_at": "2026-05-15T04:17:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:17:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055140558814019932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "jusirthree"
+        },
+        {
+          "end": 23,
+          "id": "2040368297900756992",
+          "start": 12,
+          "username": "seitoferis"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ciBy6rCSPd",
+          "end": 47,
+          "expanded_url": "https://x.com/tadatsukiei/status/2055140558814019932/photo/1",
+          "media_key": "3_2055140553751412736",
+          "start": 24,
+          "url": "https://t.co/ciBy6rCSPd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055140558814019932",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055140127220101212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jusirthree @seitoferis https://t.co/ciBy6rCSPd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 923,
+        "media_key": "3_2055140553751412736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVTce3aQAAaLjj.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055140553751412736"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2055121068248203541",
+        "created_at": "2026-05-15T04:17:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:17:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055140558814019932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "jusirthree"
+            },
+            {
+              "end": 23,
+              "id": "2040368297900756992",
+              "start": 12,
+              "username": "seitoferis"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ciBy6rCSPd",
+              "end": 47,
+              "expanded_url": "https://x.com/tadatsukiei/status/2055140558814019932/photo/1",
+              "media_key": "3_2055140553751412736",
+              "start": 24,
+              "url": "https://t.co/ciBy6rCSPd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055140558814019932",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055140127220101212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jusirthree @seitoferis https://t.co/ciBy6rCSPd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026283442259017729",
+        "conversation_id": "2055121068248203541",
+        "created_at": "2026-05-15T04:16:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:16:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055140127220101212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 24,
+              "id": "2040368297900756992",
+              "start": 13,
+              "username": "seitoferis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055140127220101212",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055139880754401389",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei @seitoferis 攒够我的好感度我也发😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 507,
+          "like_count": 89454,
+          "listed_count": 9,
+          "media_count": 487,
+          "tweet_count": 6250
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "中国人(求关，互fo)",
+        "id": "2026283442259017729",
+        "name": "jusir",
+        "pinned_tweet_id": "2049539673614418049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 839,
+          "like_count": 2701,
+          "listed_count": 6,
+          "media_count": 471,
+          "tweet_count": 1684
+        },
+        "username": "jusirthree",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-04T09:58:15.000Z",
+        "description": "젠레스 존 제로 덕질용 계정이에요\n잡담도 많이해요",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pushoong.com/ask/2205266379/",
+                "end": 23,
+                "expanded_url": "https://pushoong.com/ask/2205266379/",
+                "start": 0,
+                "url": "https://t.co/8v78GKaHJH"
+              }
+            ]
+          }
+        },
+        "id": "2040368297900756992",
+        "location": "대한민국, 서울",
+        "name": "rename",
+        "pinned_tweet_id": "2054568998277386562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050246187132092416/d4ZXUjNm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 301,
+          "like_count": 5590,
+          "listed_count": 2,
+          "media_count": 159,
+          "tweet_count": 2586
+        },
+        "url": "https://t.co/8v78GKaHJH",
+        "username": "seitoferis",
+        "verified": false
+      }
+    ]
+  }
+}

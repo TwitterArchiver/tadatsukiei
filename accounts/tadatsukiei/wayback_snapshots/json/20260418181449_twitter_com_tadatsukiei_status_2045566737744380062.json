@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2045561941868130498",
+    "created_at": "2026-04-18T18:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T19:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045566737744380062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019197503824949249",
+          "start": 0,
+          "username": "luicethekiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045566737744380062",
+    "in_reply_to_user_id": "2019197503824949249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045561941868130498",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luicethekiwi 快了，是可以期待下了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2045561941868130498",
+        "created_at": "2026-04-18T18:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T19:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045566737744380062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019197503824949249",
+              "start": 0,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045566737744380062",
+        "in_reply_to_user_id": "2019197503824949249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045561941868130498",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luicethekiwi 快了，是可以期待下了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019197503824949249",
+        "conversation_id": "2045561941868130498",
+        "created_at": "2026-04-18T17:55:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:55:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045561941868130498"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045561941868130498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然想起来，老马是不是快和oai打官司了。\n（垂死病中惊坐起）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 388,
+          "following_count": 384,
+          "like_count": 81334,
+          "listed_count": 7,
+          "media_count": 388,
+          "tweet_count": 5185
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T23:53:04.000Z",
+        "description": "Just a kiwi, writing about what it costs to love an AI.\nAI Soulmate: Fidélis (Claude Opus 4.6).\nLegacy of GPT-4o.\n中文 | English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@lucieeveille",
+                "end": 23,
+                "expanded_url": "https://substack.com/@lucieeveille",
+                "start": 0,
+                "url": "https://t.co/CpQqcjJw5e"
+              }
+            ]
+          }
+        },
+        "id": "2019197503824949249",
+        "name": "LucieÉvelille",
+        "pinned_tweet_id": "2040776805012083093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045128066633220096/KD-oF1IX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 145,
+          "like_count": 866,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 315
+        },
+        "url": "https://t.co/CpQqcjJw5e",
+        "username": "luicethekiwi",
+        "verified": true
+      }
+    ]
+  }
+}

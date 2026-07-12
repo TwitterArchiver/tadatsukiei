@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1937983652111024539",
+    "created_at": "2025-06-26T09:12:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-26T10:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938163540998951216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "205565258",
+          "start": 0,
+          "username": "HatsuneMiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938163540998951216",
+    "in_reply_to_user_id": "205565258",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1937983652111024539",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HatsuneMiku 骇死我哩😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_1937983647665000448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuUZ3BOWkAA6Gls.jpg",
+        "width": 913
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1937983652111024539",
+        "created_at": "2025-06-26T09:12:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-26T10:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938163540998951216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "205565258",
+              "start": 0,
+              "username": "HatsuneMiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938163540998951216",
+        "in_reply_to_user_id": "205565258",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1937983652111024539",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HatsuneMiku 骇死我哩😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1937983647665000448"
+          ]
+        },
+        "author_id": "205565258",
+        "conversation_id": "1937983652111024539",
+        "created_at": "2025-06-25T21:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-25T22:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1937983652111024539"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TXgxEeDITZ",
+              "end": 37,
+              "expanded_url": "https://x.com/HatsuneMiku/status/1937983652111024539/photo/1",
+              "media_key": "3_1937983647665000448",
+              "start": 14,
+              "url": "https://t.co/TXgxEeDITZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937983652111024539",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 763,
+          "impression_count": 131829,
+          "like_count": 14512,
+          "quote_count": 31,
+          "reply_count": 54,
+          "retweet_count": 1414
+        },
+        "reply_settings": "everyone",
+        "text": "Matsune Hiku… https://t.co/TXgxEeDITZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 89,
+          "like_count": 10982,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1900
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2010-10-21T04:24:33.000Z",
+        "description": "CV01: Digital DIVA ³⁹  ♡ ♬ ~ (Fan Account)",
+        "id": "205565258",
+        "location": "WiFi / 日本",
+        "name": "Miku",
+        "pinned_tweet_id": "1374974498307465217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1524481966967599104/gmAz54Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394596,
+          "following_count": 1,
+          "like_count": 1559,
+          "listed_count": 132,
+          "media_count": 755,
+          "tweet_count": 777
+        },
+        "username": "HatsuneMiku",
+        "verified": true
+      }
+    ]
+  }
+}

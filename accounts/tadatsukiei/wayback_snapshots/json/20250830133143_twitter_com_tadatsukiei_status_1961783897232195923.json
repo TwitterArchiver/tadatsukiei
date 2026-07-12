@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1961431959848325316",
+    "created_at": "2025-08-30T13:31:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T14:31:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961783897232195923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1797675850567184384",
+          "start": 0,
+          "username": "mizuho127"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961783897232195923",
+    "in_reply_to_user_id": "1797675850567184384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961431959848325316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mizuho127 你这说的专指日本吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1961431959848325316",
+        "created_at": "2025-08-30T13:31:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T14:31:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961783897232195923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1797675850567184384",
+              "start": 0,
+              "username": "mizuho127"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961783897232195923",
+        "in_reply_to_user_id": "1797675850567184384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961431959848325316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mizuho127 你这说的专指日本吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1797675850567184384",
+        "conversation_id": "1961431959848325316",
+        "created_at": "2025-08-29T14:13:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T15:13:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961431959848325316"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1961431959848325316",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 6985,
+          "like_count": 146,
+          "quote_count": 3,
+          "reply_count": 19,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我认为年轻人要选择待在的城市至少应满足以下要求：\n\n有电器街，中古商店，有二次元店\n有机场、地铁\n有风俗街\n\n最后一个没有的全都不合格。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 104,
+          "like_count": 20408,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 2468
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-03T17:05:05.000Z",
+        "description": "人在大阪/宅建士/不动产经营/资格教育事业（计划）/美日股投资交流/加速主义好/cyberagent推し/接lora制作",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhaijianshi.com",
+                "end": 23,
+                "expanded_url": "http://zhaijianshi.com",
+                "start": 0,
+                "url": "https://t.co/vnhxY6QViX"
+              }
+            ]
+          }
+        },
+        "id": "1797675850567184384",
+        "location": "浪速区大国町",
+        "name": "サイ",
+        "pinned_tweet_id": "1961401391349669997",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1863363667171115008/wIbT6olE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 671,
+          "following_count": 211,
+          "like_count": 4129,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 2563
+        },
+        "url": "https://t.co/vnhxY6QViX",
+        "username": "mizuho127",
+        "verified": false
+      }
+    ]
+  }
+}

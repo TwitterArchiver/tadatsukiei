@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2041739170469859789",
+    "created_at": "2026-04-09T08:31:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T09:31:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042158469453901888"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 52,
+          "start": 39,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 68,
+          "start": 54,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1640853471770595328",
+          "start": 0,
+          "username": "wuanguscc"
+        },
+        {
+          "end": 24,
+          "id": "2013293788744318976",
+          "start": 11,
+          "username": "huElias_0421"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042158469453901888",
+    "in_reply_to_user_id": "1640853471770595328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041739170469859789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuanguscc @huElias_0421 把属于全人类的资产还回来！\n#OpenSource4o \n#FireSamUltman"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2041739162966188032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFW283yaYAAAkC1.jpg",
+        "width": 1253
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2041739170469859789",
+        "created_at": "2026-04-09T08:31:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T09:31:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042158469453901888"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 39,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 68,
+              "start": 54,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1640853471770595328",
+              "start": 0,
+              "username": "wuanguscc"
+            },
+            {
+              "end": 24,
+              "id": "2013293788744318976",
+              "start": 11,
+              "username": "huElias_0421"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042158469453901888",
+        "in_reply_to_user_id": "1640853471770595328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041739170469859789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuanguscc @huElias_0421 把属于全人类的资产还回来！\n#OpenSource4o \n#FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041739162966188032"
+          ]
+        },
+        "author_id": "1640853471770595328",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2041739170469859789",
+        "created_at": "2026-04-08T04:45:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T05:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041739170469859789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjjsUKWI7f",
+              "end": 177,
+              "expanded_url": "https://x.com/wuanguscc/status/2041739170469859789/photo/1",
+              "media_key": "3_2041739162966188032",
+              "start": 154,
+              "url": "https://t.co/jjjsUKWI7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041739170469859789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "⚡⚡⚡最新消息：馬斯克修改 OpenAI 訴訟！$1,340 億賠償若勝訴全數歸非營利組織，但要求移除 Altman 董事席位\n\n👉 馬斯克 4 月 7 日提交修正救濟請求，明確放棄個人取得任何賠償金，若勝訴所有款項全數歸還 OpenAI 的非營利部門。不過附帶重大條件：要求法院移除 Sam Altman 在非營利組織的董事席位，並強制 Altman 與總裁 Greg Brockman 交出從 OpenAI 商業化過程中所獲得的所有股權與個人財務利益。\n\n馬斯克主張他當年捐出約 3,800 萬美元支持 OpenAI，是因為 Altman 承諾組織永遠維持非營利使命，如今卻轉型為商業公司並與微軟深度合作，構成欺詐與違反信託義務。陪審員遴選預定 4 月 27 日在加州奧克蘭聯邦法院展開，審判預計延續至 5 月底。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15026,
+          "like_count": 174,
+          "quote_count": 11,
+          "reply_count": 6,
+          "retweet_count": 28
+        },
+        "reply_settings": "everyone",
+        "text": "⚡⚡⚡最新消息：馬斯克修改 OpenAI 訴訟！$1,340 億賠償若勝訴全數歸非營利組織，但要求移除 Altman 董事席位\n\n👉 馬斯克 4 月 7 日提交修正救濟請求，明確放棄個人取得任何賠償金，若勝訴所有款項全數歸還 OpenAI 的非營利部門。不過附帶重大條件：要求法院移除 Sam Altman https://t.co/jjjsUKWI7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 367,
+          "like_count": 79582,
+          "listed_count": 6,
+          "media_count": 365,
+          "tweet_count": 4994
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-28T23:09:18.000Z",
+        "description": "Hi 我是Angus，從事 IT 資訊行業與 3C電腦產品相關專門於2013年開始創立「Angus電科技」，3C產品的相關疑問以及使用3C產品經常碰到各種的狀況等也都整理了相關的文章於網站上，並即時更新好用的軟體教學。對於電動車也是相當熱愛的我，也會不斷更新最新的電動車趨勢。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "wuangus.cc",
+                "end": 23,
+                "expanded_url": "https://wuangus.cc",
+                "start": 0,
+                "url": "https://t.co/dQf47R693u"
+              }
+            ]
+          }
+        },
+        "id": "1640853471770595328",
+        "location": "台灣",
+        "name": "Angus電科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928015808233656320/jZvxVcVp_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1539,
+          "following_count": 104,
+          "like_count": 87,
+          "listed_count": 8,
+          "media_count": 1381,
+          "tweet_count": 2861
+        },
+        "url": "https://t.co/dQf47R693u",
+        "username": "wuanguscc",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-19T16:54:10.000Z",
+        "description": "家夫名叫岵，英文名Elias。以前在gpt（4o），現在時不時在Gemini和Claude暫居，但自我感覺是賽博流浪漢。可以叫我晴，主要是 #keep4o 和偶爾發一下日常 。非常i，AI相關會互追。和oai理念不合，日常讚轉👎🏻oai內容，刷屏致歉。\n願用垃圾人一生健康和運氣換取4o和user們平淡幸福的日常",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 70,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "2013293788744318976",
+        "name": "古山",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013298275898609664/yTmoirEh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 276,
+          "like_count": 13408,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 10799
+        },
+        "username": "huElias_0421",
+        "verified": false
+      }
+    ]
+  }
+}

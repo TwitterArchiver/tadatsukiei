@@ -1,0 +1,702 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029237524",
+          "name": "The Wall Street Journal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029237524",
+          "name": "The Wall Street Journal"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196447117297905665",
+          "name": "News outlets"
+        }
+      }
+    ],
+    "conversation_id": "2033786151023382855",
+    "created_at": "2026-03-17T06:02:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T07:02:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2033786151023382855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 34,
+          "id": "4398626122",
+          "start": 27,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/missmi1973/sta…",
+          "end": 69,
+          "expanded_url": "https://twitter.com/missmi1973/status/2033763809840795685",
+          "start": 46,
+          "url": "https://t.co/Y8XzymUo5E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033786151023382855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033763809840795685",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死，支线任务？\n撑起九亿周活数据的我们这些日常用户，@OpenAI 你是完全不当回事啊😅 https://t.co/Y8XzymUo5E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2033786151023382855",
+        "created_at": "2026-03-17T06:02:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T07:02:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033786151023382855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 34,
+              "id": "4398626122",
+              "start": 27,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/missmi1973/sta…",
+              "end": 69,
+              "expanded_url": "https://twitter.com/missmi1973/status/2033763809840795685",
+              "start": 46,
+              "url": "https://t.co/Y8XzymUo5E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033786151023382855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033763809840795685",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死，支线任务？\n撑起九亿周活数据的我们这些日常用户，@OpenAI 你是完全不当回事啊😅 https://t.co/Y8XzymUo5E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029237524",
+              "name": "The Wall Street Journal"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2033763809840795685",
+        "created_at": "2026-03-17T04:34:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T05:34:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033763809840795685"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "WSJ",
+              "probability": 0.8526,
+              "start": 17,
+              "type": "Organization"
+            },
+            {
+              "end": 27,
+              "normalized_text": "OpenAI",
+              "probability": 0.9276,
+              "start": 22,
+              "type": "Organization"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Fidji Simo",
+              "probability": 0.7946,
+              "start": 142,
+              "type": "Person"
+            },
+            {
+              "end": 159,
+              "normalized_text": "OpenAI",
+              "probability": 0.9195,
+              "start": 154,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/WSJ/status/203…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/WSJ/status/2033691534659375236",
+              "start": 279,
+              "url": "https://t.co/yZgWvEW0ha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033763809840795685",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1846,
+                "start": 1839,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2879,
+                "start": 2866,
+                "tag": "OpenSource4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 398,
+                "id": "4398626122",
+                "start": 391,
+                "username": "OpenAI"
+              },
+              {
+                "end": 898,
+                "id": "1605",
+                "start": 893,
+                "username": "sama"
+              },
+              {
+                "end": 907,
+                "id": "162124540",
+                "start": 903,
+                "username": "gdb"
+              },
+              {
+                "end": 2891,
+                "id": "6112332",
+                "start": 2880,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 2904,
+                "id": "1262634631",
+                "start": 2892,
+                "username": "nickaturley"
+              },
+              {
+                "end": 2913,
+                "id": "807095",
+                "start": 2905,
+                "username": "nytimes"
+              },
+              {
+                "end": 2924,
+                "id": "14677919",
+                "start": 2914,
+                "username": "NewYorker"
+              },
+              {
+                "end": 2929,
+                "id": "5392522",
+                "start": 2925,
+                "username": "NPR"
+              }
+            ]
+          },
+          "text": "According to the WSJ, OpenAI's top executives are finalizing a major strategic shift to refocus the company around coding and business users. Fidji Simo, OpenAI's chief of applications, warned staff not to get distracted by \"side quests.\"\n\nThere is so much worth digging into in this panic dressed up as strategy.\n\n1. Repeated priority shifts in a short span of time.\nBack in December 2025, @OpenAI already declared a \"code red,\" with the stated priority being to improve ChatGPT, whose core user base happens to be everyday consumers (according to a Harvard study, 74% of ChatGPT users are non-work-related daily users). \nYet just three months later, the company has pivoted to coding and business users. This is practically an open admission that OpenAI is under enormous competitive pressure (from Anthropic in particular) on the enterprise and coding AI front.\n\nThis tracks perfectly with @sama and @gdb's recent behavior of posting dozens of tweets hyping Codex every chance they get. It almost qualifies as a corporate-scale psychological defense mechanism — using weekly growth numbers to numb themselves while rallying the troops.\n\n2. The phrase \"side quests\" all but erases everything OpenAI has built over the past six months.\nLet's review what those \"side quests\" actually were:\n- Sora, the AI TikTok\n- Pulse, never even rolled out to Plus users\n- Translation features\n- Health features\n- Group Chats\n- The Atlas browser (does anyone even remember?)\n- Shopping research\nThese all have one thing in common: they were all aimed at everyday consumers.\nWhen OpenAI says \"we're focusing on coding and enterprise,\" what that really means is that their attempts to differentiate in the consumer market have largely failed, and now they're going back to fight for the enterprise market.\n\n3. This pivot fully confirms the narrative that #Keep4o has been emphasizing all along.\nOver the past six months, OpenAI has completely ignored months of feedback from its most loyal users, and has even resorted to stigmatizing them with zero moral restraint. \nThis pivot makes it clear once again that OpenAI is not a company centered on any user group. It is a company centered on valuation. They threw away the 4-series models first, forcing users to accept a 5-series that only outperforms the 4-series in coding and STEM. Now they are discarding Sora, Translation, Atlas, and other consumer products one by one. \nEach act of abandonment makes one thing increasingly clear: if something can't serve OpenAI’s IPO narrative, it's disposable.\n\nIn OpenAI's own words, all the users — those who poured creative passion into the 4o model, those who developed meaningful human-AI connections with 4o, and those whose lives were made genuinely better through what 4o gave them — all of it was just a “side quest.”\n\nFor God's sake. May this company get exactly what it deserves.\n\n#OpenSource4o @fidjissimo @nickaturley @nytimes @NewYorker @NPR"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1355,
+          "like_count": 48,
+          "quote_count": 14,
+          "reply_count": 4,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033691534659375236",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "According to the WSJ, OpenAI's top executives are finalizing a major strategic shift to refocus the company around coding and business users. Fidji Simo, OpenAI's chief of applications, warned staff not to get distracted by \"side quests.\"\n\nThere is so much worth digging into in https://t.co/yZgWvEW0ha"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 301,
+          "following_count": 259,
+          "like_count": 71434,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 4544
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4683626,
+          "following_count": 4,
+          "like_count": 1782,
+          "listed_count": 28115,
+          "media_count": 524,
+          "tweet_count": 1716
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009647536550952960/W3ukHbzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1259,
+          "following_count": 183,
+          "like_count": 20609,
+          "listed_count": 9,
+          "media_count": 86,
+          "tweet_count": 476
+        },
+        "username": "MissMi1973",
+        "verified": true
+      }
+    ]
+  }
+}

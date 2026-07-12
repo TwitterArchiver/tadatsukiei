@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1932996277589196800",
+    "created_at": "2025-06-12T22:42:36.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-12T23:42:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1933293889542369562"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "913462435981402112",
+          "start": 0,
+          "username": "masami777777"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1933293889542369562",
+    "in_reply_to_user_id": "913462435981402112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1932996277589196800",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@masami777777 まぁまぁ、あまり信用しないほうがいいよ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19233,
+        "height": 1280,
+        "media_key": "13_1932398152449224704",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1932398152449224704/img/VZEHqnQJBRQwyRzK.jpg",
+        "public_metrics": {
+          "view_count": 2720096
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932398152449224704/vid/avc1/320x568/UOtuvkK9ZPCjAgL6.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932398152449224704/vid/avc1/480x852/6vgO5nK6UUlOLXGT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1932398152449224704/vid/avc1/720x1280/DlvK68l78T3iXu3w.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1932398152449224704/pl/ZwtndiT9aE3Ofyzc.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1932996277589196800",
+        "created_at": "2025-06-12T22:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T23:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1933293889542369562"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "913462435981402112",
+              "start": 0,
+              "username": "masami777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1933293889542369562",
+        "in_reply_to_user_id": "913462435981402112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1932996277589196800",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@masami777777 まぁまぁ、あまり信用しないほうがいいよ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1932398152449224704"
+          ],
+          "media_source_tweet_id": [
+            "1932414949491347757"
+          ]
+        },
+        "author_id": "913462435981402112",
+        "conversation_id": "1932996277589196800",
+        "created_at": "2025-06-12T03:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-12T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1932996277589196800"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 3,
+              "normalized_text": "🇨🇳",
+              "probability": 0.5742,
+              "start": 0,
+              "type": "Place"
+            },
+            {
+              "end": 5,
+              "normalized_text": "中国",
+              "probability": 0.9143,
+              "start": 4,
+              "type": "Place"
+            },
+            {
+              "end": 51,
+              "normalized_text": "Fang Cheng Bao",
+              "probability": 0.3278,
+              "start": 38,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/JFR5PusbIi",
+              "end": 96,
+              "expanded_url": "https://x.com/sz_mediagroup/status/1932414949491347757/video/1",
+              "media_key": "13_1932398152449224704",
+              "start": 73,
+              "url": "https://t.co/JFR5PusbIi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1932996277589196800",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 316,
+          "impression_count": 2908600,
+          "like_count": 3245,
+          "quote_count": 254,
+          "reply_count": 898,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "🇨🇳中国のBYD新車、45度の坂で停止😱。GBAオートショーで話題に。Fang Cheng Baoの技術力、すごいけど、本当に信頼できる？🤔\n\n https://t.co/JFR5PusbIi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95,
+          "following_count": 75,
+          "like_count": 8971,
+          "listed_count": 1,
+          "media_count": 82,
+          "tweet_count": 1694
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2017-09-28T17:56:30.000Z",
+        "description": "日本の食の異常を見直し、自然の食材で免疫力アップ🌱化学物質を避け、自然治癒力を信じる暮らし。薬いらずの健康体に！学び実践する日々🙌",
+        "id": "913462435981402112",
+        "location": "日本",
+        "name": "マサミ",
+        "pinned_tweet_id": "1660090076943253504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1873691800789291008/YV3W00VI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 129691,
+          "following_count": 35456,
+          "like_count": 1090037,
+          "listed_count": 529,
+          "media_count": 26689,
+          "tweet_count": 69423
+        },
+        "username": "masami777777",
+        "verified": true
+      }
+    ]
+  }
+}

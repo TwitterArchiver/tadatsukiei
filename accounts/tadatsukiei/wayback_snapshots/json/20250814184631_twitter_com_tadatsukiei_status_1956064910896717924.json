@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1955692925213667446",
+    "created_at": "2025-08-14T18:46:31.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-14T19:46:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1956064910896717924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1937594393772589058",
+          "start": 0,
+          "username": "san45142"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1956064910896717924",
+    "in_reply_to_user_id": "1937594393772589058",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1955692925213667446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@san45142 确实，相当恶心，像是粉红网左小学生"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1955692925213667446",
+        "created_at": "2025-08-14T18:46:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-14T19:46:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1956064910896717924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1937594393772589058",
+              "start": 0,
+              "username": "san45142"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1956064910896717924",
+        "in_reply_to_user_id": "1937594393772589058",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1955692925213667446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@san45142 确实，相当恶心，像是粉红网左小学生"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937594393772589058",
+        "conversation_id": "1955692925213667446",
+        "created_at": "2025-08-13T18:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T19:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955692925213667446"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1955692925213667446",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13673,
+          "like_count": 291,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "共青团皮下运营皆有一种小学学历的美"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 140,
+          "following_count": 100,
+          "like_count": 18216,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2332
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-24T19:32:41.000Z",
+        "description": "也许可以叫我小雀/大号@N0rthern_Land",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "N0rthern_Land"
+              }
+            ]
+          }
+        },
+        "id": "1937594393772589058",
+        "name": "小三暴打老公带我私奔的那个雨夜",
+        "pinned_tweet_id": "1937603009221136501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947580324973875200/oEhjJur4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 678,
+          "following_count": 150,
+          "like_count": 1388,
+          "listed_count": 4,
+          "media_count": 59,
+          "tweet_count": 538
+        },
+        "username": "san45142",
+        "verified": false
+      }
+    ]
+  }
+}

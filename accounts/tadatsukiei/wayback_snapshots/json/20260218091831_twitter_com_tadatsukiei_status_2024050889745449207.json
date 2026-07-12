@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2024024150499594601",
+    "created_at": "2026-02-18T09:18:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T10:18:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024050889745449207"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3150623335",
+          "start": 0,
+          "username": "himself65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024050889745449207",
+    "in_reply_to_user_id": "3150623335",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024024150499594601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himself65 但这就是事实，只是没说全而已。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2024024150499594601",
+        "created_at": "2026-02-18T09:18:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:18:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024050889745449207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3150623335",
+              "start": 0,
+              "username": "himself65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024050889745449207",
+        "in_reply_to_user_id": "3150623335",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024024150499594601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himself65 但这就是事实，只是没说全而已。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3150623335",
+        "conversation_id": "2024024150499594601",
+        "created_at": "2026-02-18T07:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T08:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024024150499594601"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2024024150499594601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 9450,
+          "like_count": 165,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "能看到「高市早苗内阁集体辞职」这种炸裂的标题\n只国内新闻媒体抛开事实不谈已经达到了新高度"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 167,
+          "like_count": 60030,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 4113
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2015-04-12T00:07:21.000Z",
+        "description": "Not a trader, not a programmer. All posts are not financial advice nor tech insight.",
+        "id": "3150623335",
+        "location": "California, USA",
+        "name": "面包🍞",
+        "pinned_tweet_id": "2019886969992671513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1883626401947136000/k8x5k3f8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60065,
+          "following_count": 224,
+          "like_count": 111284,
+          "listed_count": 325,
+          "media_count": 1403,
+          "tweet_count": 17080
+        },
+        "username": "himself65",
+        "verified": true
+      }
+    ]
+  }
+}

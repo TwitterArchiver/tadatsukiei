@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1918199461316304896"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "1918199466513056138",
+    "created_at": "2025-05-02T07:02:45.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T08:02:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1918199466513056138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0nXCbAhJkV",
+          "end": 38,
+          "expanded_url": "https://x.com/tadatsukiei/status/1918199466513056138/photo/1",
+          "media_key": "3_1918199461316304896",
+          "start": 15,
+          "url": "https://t.co/0nXCbAhJkV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918199466513056138",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "この営業時間、本当に大丈夫? https://t.co/0nXCbAhJkV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1918199461316304896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gp7QPzwaoAAvUXW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1918199461316304896"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1918199466513056138",
+        "created_at": "2025-05-02T07:02:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T08:02:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1918199466513056138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0nXCbAhJkV",
+              "end": 38,
+              "expanded_url": "https://x.com/tadatsukiei/status/1918199466513056138/photo/1",
+              "media_key": "3_1918199461316304896",
+              "start": 15,
+              "url": "https://t.co/0nXCbAhJkV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918199466513056138",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "この営業時間、本当に大丈夫? https://t.co/0nXCbAhJkV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 74,
+          "like_count": 6867,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1533
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      }
+    ]
+  }
+}

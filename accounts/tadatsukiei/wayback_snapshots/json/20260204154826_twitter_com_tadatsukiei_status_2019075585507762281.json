@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2018889799479054620",
+    "created_at": "2026-02-04T15:48:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T16:48:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2019075585507762281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1832847225346809856",
+          "start": 0,
+          "username": "MoQiuyao201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2019075585507762281",
+    "in_reply_to_user_id": "1832847225346809856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018889799479054620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MoQiuyao201314 就跟如今的伊朗一样，政权大于主权只会让独裁者肆无忌惮。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21685,
+        "height": 720,
+        "media_key": "7_2018889769095430144",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2018889769095430144/pu/img/KWnLTcPyh2K1MRsP.jpg",
+        "public_metrics": {
+          "view_count": 202260
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018889769095430144/pu/vid/avc1/342x270/RsnmI4Ar58Yb-YmS.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018889769095430144/pu/vid/avc1/456x360/_SfSKIop-xvBS5He.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2018889769095430144/pu/vid/avc1/912x720/22oFnRjs3-FI8oUt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2018889769095430144/pu/pl/kbhwWk5rGSHgqQ7m.m3u8?v=722"
+          }
+        ],
+        "width": 912
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2018889799479054620",
+        "created_at": "2026-02-04T15:48:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T16:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019075585507762281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1832847225346809856",
+              "start": 0,
+              "username": "MoQiuyao201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019075585507762281",
+        "in_reply_to_user_id": "1832847225346809856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018889799479054620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MoQiuyao201314 就跟如今的伊朗一样，政权大于主权只会让独裁者肆无忌惮。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2018889769095430144"
+          ]
+        },
+        "author_id": "1832847225346809856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2018889799479054620",
+        "created_at": "2026-02-04T03:30:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:30:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018889799479054620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4NhkyyHoYJ",
+              "end": 165,
+              "expanded_url": "https://x.com/MoQiuyao201314/status/2018889799479054620/video/1",
+              "media_key": "7_2018889769095430144",
+              "start": 142,
+              "url": "https://t.co/4NhkyyHoYJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018889799479054620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 206414,
+          "like_count": 484,
+          "quote_count": 12,
+          "reply_count": 95,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "从采访中就能看出，习近平的思维就是，只要坑的不是别国，别国就没权管。就像家暴，只要打的是自己家里的人，外人就无权干涉，但如今国际社会已经是人权大于政权，有这种思想就是一种耻辱。它让坏人肆无忌惮地做恶，但好人却不能伸出援手，严惩施暴者。中共就是想以“内政”为名，将侵犯中国人权合法化。 https://t.co/4NhkyyHoYJ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1981733925367296396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 140,
+          "like_count": 56035,
+          "listed_count": 6,
+          "media_count": 255,
+          "tweet_count": 3883
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-08T18:23:50.000Z",
+        "description": "为自由、民主而努力，我从不停歇。欢迎点赞转发，让我的声音能传播得更远。TikTok: https://t.co/LnmsVTgoXV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@qiuyaomo?_t=8…",
+                "end": 66,
+                "expanded_url": "https://www.tiktok.com/@qiuyaomo?_t=8qUD8AH7Hic&_r=1",
+                "start": 43,
+                "url": "https://t.co/LnmsVTgoXV"
+              }
+            ]
+          }
+        },
+        "id": "1832847225346809856",
+        "location": "Los Angeles, CA",
+        "name": "Qiuyao Mo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1833319040439476224/WHb-Fe77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12218,
+          "following_count": 44,
+          "like_count": 46,
+          "listed_count": 36,
+          "media_count": 1446,
+          "tweet_count": 7277
+        },
+        "username": "MoQiuyao201314",
+        "verified": true
+      }
+    ]
+  }
+}

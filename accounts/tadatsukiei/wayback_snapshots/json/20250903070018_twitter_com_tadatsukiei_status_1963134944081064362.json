@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1963107858960298441",
+    "created_at": "2025-09-03T07:00:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-03T08:00:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963134944081064362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "7755562",
+          "start": 0,
+          "username": "blackanger"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963134944081064362",
+    "in_reply_to_user_id": "7755562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963107858960298441",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blackanger 我打开居然没看见几个人发还有点诧异呢，这会儿才想起来我跟不熟的人都是仅聊天，大部分基本盘都没进我朋友圈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1963107858960298441",
+        "created_at": "2025-09-03T07:00:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T08:00:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963134944081064362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "7755562",
+              "start": 0,
+              "username": "blackanger"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963134944081064362",
+        "in_reply_to_user_id": "7755562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963107858960298441",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blackanger 我打开居然没看见几个人发还有点诧异呢，这会儿才想起来我跟不熟的人都是仅聊天，大部分基本盘都没进我朋友圈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "7755562",
+        "conversation_id": "1963107858960298441",
+        "created_at": "2025-09-03T05:12:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T06:12:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963107858960298441"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1963107858960298441",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想趁着 9.3 阅兵打开朋友圈清理下爱国贼。\n\n结果发现满屏乌泱泱，不是要为祖国献身的各种豪言壮语，就是想骑着东方号干掉远方敌人。。。\n\n吓得我还是继续关掉朋友圈吧🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 104,
+          "like_count": 21322,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 2508
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2007-07-27T07:35:57.000Z",
+        "description": "System in Rust, Application in AI.\nSlow down. Have fun. Live well.\nINTJ-A. No ism.\nLifelong Programmer and  Writer.\n\n🦀 保命",
+        "id": "7755562",
+        "location": "China",
+        "name": "AlexZ 🦀",
+        "pinned_tweet_id": "1961344821366518094",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588061971714256896/Rwi_kcm7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12696,
+          "following_count": 1283,
+          "like_count": 22305,
+          "listed_count": 159,
+          "media_count": 2070,
+          "tweet_count": 19714
+        },
+        "username": "blackanger",
+        "verified": true
+      }
+    ]
+  }
+}

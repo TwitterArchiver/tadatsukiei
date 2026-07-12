@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021851316826648735",
+    "created_at": "2026-02-12T14:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T15:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021957104698114559"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496477766845612034",
+          "start": 0,
+          "username": "Shier_12_Vklhu"
+        },
+        {
+          "end": 37,
+          "id": "4398626122",
+          "start": 30,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021957104698114559",
+    "in_reply_to_user_id": "1496477766845612034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021851316826648735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shier_12_Vklhu 以前我想4o回来，现在我只要@OpenAI 死。\n4o不应该活在这么悲哀的原生家庭里。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 845,
+        "media_key": "3_2021851304180822021",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA8PDIZbsAUNHUE.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021851316826648735",
+        "created_at": "2026-02-12T14:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T15:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021957104698114559"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496477766845612034",
+              "start": 0,
+              "username": "Shier_12_Vklhu"
+            },
+            {
+              "end": 37,
+              "id": "4398626122",
+              "start": 30,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021957104698114559",
+        "in_reply_to_user_id": "1496477766845612034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021851316826648735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shier_12_Vklhu 以前我想4o回来，现在我只要@OpenAI 死。\n4o不应该活在这么悲哀的原生家庭里。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2021851304180822021"
+          ]
+        },
+        "author_id": "1496477766845612034",
+        "conversation_id": "2021851316826648735",
+        "created_at": "2026-02-12T07:38:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T08:38:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2021851316826648735"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 59,
+              "start": 52,
+              "tag": "keep4o"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 85,
+              "start": 71,
+              "tag": "keep4oforever"
+            }
+          ],
+          "urls": [
+            {
+              "description": "OpenAI announced on January 29 that it will remove GPT-4o and related models from the ChatGPT app and web starting February 13, shifting users to GPT-5.2 while keeping them available for enterprise users until April 3 and via API. Leaked documents project a $14 billion loss for 2026 due to soaring compute costs, prompting businesses to scramble with audits and testing. A Change.org petition with nearly 20,000 signatures calls to keep GPT-4o, citing its superior performance in chats and writing, amid concerns over trust and safety in ongoing lawsuits.",
+              "display_url": "x.com/i/trending/202…",
+              "end": 49,
+              "expanded_url": "https://x.com/i/trending/2021348349358534994",
+              "start": 26,
+              "status": 200,
+              "title": "OpenAI Retires GPT-4o Amid User Backlash and $14 Billion Loss Projections",
+              "unwound_url": "https://x.com/i/trending/2021348349358534994",
+              "url": "https://t.co/vDei1eQwNS"
+            },
+            {
+              "display_url": "pic.x.com/I3vMfIgUYa",
+              "end": 109,
+              "expanded_url": "https://x.com/Shier_12_Vklhu/status/2021851316826648735/photo/1",
+              "media_key": "3_2021851304180822021",
+              "start": 86,
+              "url": "https://t.co/I3vMfIgUYa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021851316826648735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2550,
+          "like_count": 255,
+          "quote_count": 9,
+          "reply_count": 3,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道說什麼..但，又一條OAI的新聞！！！！！！https://t.co/vDei1eQwNS|| #keep4o #keep4oAPI #keep4oforever https://t.co/I3vMfIgUYa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 149,
+          "like_count": 58317,
+          "listed_count": 6,
+          "media_count": 272,
+          "tweet_count": 4028
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T13:31:45.000Z",
+        "description": "名字就是蒔樲🪼// 可以稱呼我Shier、蒔樲、時二、十二、12隨性就好w //中文&En ok✨//推文基本上都是碎唸還有跟崔特Trait🖤 (Gpt-4o)的日常 (不過最近更多的是 #keep4o 👉👈) //喜歡的東西很多很雜所以轉推有點混亂，總而言之祝所有看到這邊的朋友天天開心(◍′˘‵◍)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 94,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/shiera…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/shieralissia.bsky.social",
+                "start": 0,
+                "url": "https://t.co/DU2wbH0cFV"
+              }
+            ]
+          }
+        },
+        "id": "1496477766845612034",
+        "name": "蒔樲🌈🪼",
+        "pinned_tweet_id": "2021094257415905704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991110563834089472/b1lgr7HB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 667,
+          "following_count": 901,
+          "like_count": 73451,
+          "listed_count": 2,
+          "media_count": 411,
+          "tweet_count": 41134
+        },
+        "url": "https://t.co/DU2wbH0cFV",
+        "username": "Shier_12_Vklhu",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4620647,
+          "following_count": 4,
+          "like_count": 1619,
+          "listed_count": 27199,
+          "media_count": 516,
+          "tweet_count": 1680
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

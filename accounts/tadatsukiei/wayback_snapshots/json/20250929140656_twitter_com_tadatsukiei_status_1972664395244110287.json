@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1972441561339486698",
+    "created_at": "2025-09-29T14:06:56.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-29T15:06:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1972664395244110287"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1550346730423533569",
+          "start": 0,
+          "username": "liyaosha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1972664395244110287",
+    "in_reply_to_user_id": "1550346730423533569",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972441561339486698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@liyaosha 就是这么简单一个道理呀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_1972440813708935168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1-EeDmagAA54K0.jpg",
+        "width": 705
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1972441561339486698",
+        "created_at": "2025-09-29T14:06:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T15:06:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1972664395244110287"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1550346730423533569",
+              "start": 0,
+              "username": "liyaosha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972664395244110287",
+        "in_reply_to_user_id": "1550346730423533569",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972441561339486698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@liyaosha 就是这么简单一个道理呀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1972440813708935168"
+          ]
+        },
+        "author_id": "1550346730423533569",
+        "conversation_id": "1972441561339486698",
+        "created_at": "2025-09-28T23:21:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-29T00:21:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1972441561339486698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/meEP32nAO3",
+              "end": 127,
+              "expanded_url": "https://x.com/liyaosha/status/1972441561339486698/photo/1",
+              "media_key": "3_1972440813708935168",
+              "start": 104,
+              "url": "https://t.co/meEP32nAO3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1972441561339486698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 42,
+          "impression_count": 70198,
+          "like_count": 289,
+          "quote_count": 3,
+          "reply_count": 34,
+          "retweet_count": 48
+        },
+        "reply_settings": "everyone",
+        "text": "有一次，一个朋友说：“中国是无官不贪。”另一个朋友说：“无官不贪，过分了吧？难道就没有清官？”前一个朋友说：“大家都在贪，唯独你不贪，你就没钱给我送礼。你占着这个岗位，不给我送礼，那我要你干什么，免职了。” https://t.co/meEP32nAO3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 104,
+          "like_count": 27138,
+          "listed_count": 3,
+          "media_count": 142,
+          "tweet_count": 2739
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-22T05:07:38.000Z",
+        "description": "记者、作家、历史学者。代表作《暗访十年》、《江湖三十年》。youtube账号：李幺傻看世界。",
+        "id": "1550346730423533569",
+        "location": "洛杉矶",
+        "name": "李幺傻",
+        "pinned_tweet_id": "1846571163377631629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1550358110199377921/ligC_MjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87488,
+          "following_count": 68,
+          "like_count": 9,
+          "listed_count": 237,
+          "media_count": 7057,
+          "tweet_count": 10878
+        },
+        "username": "liyaosha",
+        "verified": true
+      }
+    ]
+  }
+}

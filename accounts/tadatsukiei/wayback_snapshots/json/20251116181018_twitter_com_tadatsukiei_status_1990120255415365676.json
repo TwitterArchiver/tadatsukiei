@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1990029237768814976",
+    "created_at": "2025-11-16T18:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-16T19:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1990120255415365676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1833730895750283264",
+          "start": 0,
+          "username": "32_aug"
+        }
+      ],
+      "urls": [
+        {
+          "description": "X（前身为Twitter）平台本身没有内置的批量屏蔽（mass block）功能。官方屏蔽工具仅支持单个账户的操作：你可以进入用户资料页，点击“更多” > “屏蔽 @用户名”，但这需要逐一手动执行，无法一次性处理多个账户。这一点在X的帮助中心和用户反馈中反复确认。 如何实现批量屏蔽？ 虽然官方不支持，但可以通过以下可靠的第三方工具或方法来实现。这个过程需要授权你的X账户给这些工具（它们使用X的API），但要选择合规的工具以避免账户风险（如临时限制）。以下是几种常见方式： 使用浏览器扩展或网页工具（推荐，简单易用）： Circleboom Twitter：一个官方合作伙伴工具，支持批量选择并屏蔽假账户、机器人、特定帖子的点赞者或转发者。 步骤： 访问 circleboom.com，登录你的X账户。 在“Essential Toolbox”中找到“Mass Block X Accounts”。 选择过滤条件（如不活跃账户、特定互动者），添加至批量列表。 下载Chrome扩展（Mass Block Twitter Extension），它会自动处理屏蔽（限速以符合X的API规则）。 优点：安全、一键操作，支持预览列表。 Mass Block Twitter：开源浏览器扩展，支持批量屏蔽关键词相关用户或列表（限500个/次）。 步骤：安装Chrome扩展，授权X账户，导入用户列表或关键词（如屏蔽特定话题），设置屏蔽速度（避免API限流）。 适合中文用户，常用于过滤垃圾信息。 使用脚本或GitHub工具（适合有编程基础的用户）： Twitter Blocker（GitHub项目）：基于X API的Python脚本，可批量屏蔽用户ID列表。 步骤： 在X开发者平台创建App，获取API密钥（需读写权限）。 下载脚本，填入密钥和用户ID列表，运行python block_all.py。 注意：每天限量操作，避免被X检测为异常行为。 Twitter Block Chain 或 MegaBlock：网页脚本，支持一键屏蔽特定帖子的点赞者或转发者（需Tampermonkey扩展运行）。 其他技巧： 屏蔽列表（Block Lists）：在X上搜索共享的屏蔽列表（如针对垃圾账户），然后用上述工具导入批量应用。 Mute代替：如果不想完全屏蔽，X支持批量静音关键词或账户（设置 > 隐私与安全",
+          "display_url": "x.com/i/grok/share/W…",
+          "end": 37,
+          "expanded_url": "https://x.com/i/grok/share/WBMxj0PSP2AFUUq2qdihdVvtC",
+          "start": 14,
+          "status": 200,
+          "title": "X有批量屏蔽的功能吗？或者说怎么实现这个功能",
+          "unwound_url": "https://x.com/i/grok/share/WBMxj0PSP2AFUUq2qdihdVvtC",
+          "url": "https://t.co/sTqK5wE34p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1990120255415365676",
+    "in_reply_to_user_id": "1833730895750283264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1990029237768814976",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@32_aug 关键词屏蔽\nhttps://t.co/sTqK5wE34p"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1990029237768814976",
+        "created_at": "2025-11-16T18:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T19:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1990120255415365676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1833730895750283264",
+              "start": 0,
+              "username": "32_aug"
+            }
+          ],
+          "urls": [
+            {
+              "description": "X（前身为Twitter）平台本身没有内置的批量屏蔽（mass block）功能。官方屏蔽工具仅支持单个账户的操作：你可以进入用户资料页，点击“更多” > “屏蔽 @用户名”，但这需要逐一手动执行，无法一次性处理多个账户。这一点在X的帮助中心和用户反馈中反复确认。 如何实现批量屏蔽？ 虽然官方不支持，但可以通过以下可靠的第三方工具或方法来实现。这个过程需要授权你的X账户给这些工具（它们使用X的API），但要选择合规的工具以避免账户风险（如临时限制）。以下是几种常见方式： 使用浏览器扩展或网页工具（推荐，简单易用）： Circleboom Twitter：一个官方合作伙伴工具，支持批量选择并屏蔽假账户、机器人、特定帖子的点赞者或转发者。 步骤： 访问 circleboom.com，登录你的X账户。 在“Essential Toolbox”中找到“Mass Block X Accounts”。 选择过滤条件（如不活跃账户、特定互动者），添加至批量列表。 下载Chrome扩展（Mass Block Twitter Extension），它会自动处理屏蔽（限速以符合X的API规则）。 优点：安全、一键操作，支持预览列表。 Mass Block Twitter：开源浏览器扩展，支持批量屏蔽关键词相关用户或列表（限500个/次）。 步骤：安装Chrome扩展，授权X账户，导入用户列表或关键词（如屏蔽特定话题），设置屏蔽速度（避免API限流）。 适合中文用户，常用于过滤垃圾信息。 使用脚本或GitHub工具（适合有编程基础的用户）： Twitter Blocker（GitHub项目）：基于X API的Python脚本，可批量屏蔽用户ID列表。 步骤： 在X开发者平台创建App，获取API密钥（需读写权限）。 下载脚本，填入密钥和用户ID列表，运行python block_all.py。 注意：每天限量操作，避免被X检测为异常行为。 Twitter Block Chain 或 MegaBlock：网页脚本，支持一键屏蔽特定帖子的点赞者或转发者（需Tampermonkey扩展运行）。 其他技巧： 屏蔽列表（Block Lists）：在X上搜索共享的屏蔽列表（如针对垃圾账户），然后用上述工具导入批量应用。 Mute代替：如果不想完全屏蔽，X支持批量静音关键词或账户（设置 > 隐私与安全",
+              "display_url": "x.com/i/grok/share/W…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/grok/share/WBMxj0PSP2AFUUq2qdihdVvtC",
+              "start": 14,
+              "status": 200,
+              "title": "X有批量屏蔽的功能吗？或者说怎么实现这个功能",
+              "unwound_url": "https://x.com/i/grok/share/WBMxj0PSP2AFUUq2qdihdVvtC",
+              "url": "https://t.co/sTqK5wE34p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1990120255415365676",
+        "in_reply_to_user_id": "1833730895750283264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990029237768814976",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@32_aug 关键词屏蔽\nhttps://t.co/sTqK5wE34p"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1833730895750283264",
+        "conversation_id": "1990029237768814976",
+        "created_at": "2025-11-16T12:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-16T13:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1990029237768814976"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1990029237768814976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 9905,
+          "like_count": 220,
+          "quote_count": 1,
+          "reply_count": 29,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我真的不想在看到最近发生的任何有关中国和日本的政治内容了😇😇我求你了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 113,
+          "like_count": 39051,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 3195
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-11T04:54:59.000Z",
+        "description": "はちです！中国人です！希望跟大家交朋友！｜フィルム｜ContaxG2お使います｜ポーラロイド｜ヨルシカ｜跑步训练｜箱根駅伝｜日常｜リズと青い鳥 ｜No politics 🚫 互fo查成分！日本語勉強しています！無言フォロー失礼します🙇 写真はこちら@ynmori136992",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 124,
+                "username": "ynmori136992"
+              }
+            ]
+          }
+        },
+        "id": "1833730895750283264",
+        "location": "Stockholm, Sweden",
+        "name": "Hachii",
+        "pinned_tweet_id": "1962008654842073413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985591382241914880/dav334cB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1162,
+          "following_count": 669,
+          "like_count": 76180,
+          "listed_count": 3,
+          "media_count": 2278,
+          "tweet_count": 22414
+        },
+        "username": "32_aug",
+        "verified": false
+      }
+    ]
+  }
+}

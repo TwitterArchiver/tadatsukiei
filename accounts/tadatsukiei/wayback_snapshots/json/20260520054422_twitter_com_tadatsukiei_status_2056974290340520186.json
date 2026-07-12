@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2056676363231481919",
+    "created_at": "2026-05-20T05:44:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T06:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056974290340520186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822847572295249921",
+          "start": 0,
+          "username": "Weilhu20051004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056974290340520186",
+    "in_reply_to_user_id": "1822847572295249921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056676363231481919",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Weilhu20051004 如果任由慈善机构沦为少数人的捞钱工具，那这个国家就完蛋了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2056676363231481919",
+        "created_at": "2026-05-20T05:44:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T06:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056974290340520186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822847572295249921",
+              "start": 0,
+              "username": "Weilhu20051004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056974290340520186",
+        "in_reply_to_user_id": "1822847572295249921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056676363231481919",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weilhu20051004 如果任由慈善机构沦为少数人的捞钱工具，那这个国家就完蛋了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1822847572295249921",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2056676363231481919",
+        "created_at": "2026-05-19T10:00:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T11:00:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056676363231481919"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 15,
+              "start": 8,
+              "tag": "keep51"
+            },
+            {
+              "end": 29,
+              "start": 16,
+              "tag": "keep5instant"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/elonmusk/statu…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/elonmusk/status/2056474896641782077",
+              "start": 149,
+              "url": "https://t.co/t9lLYfR1lU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056676363231481919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1291,
+          "like_count": 49,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056474896641782077",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #keep51 #keep5instant\n最近这段时间，大家都看到马斯克因为诉讼超时而败诉的事情了。我能理解各位有多不爽。\n不过，不用担心。马斯克本人和他的律师说自己已经准备找第九巡回法庭再诉第二次了。虽然过程可能会有点儿艰难，但是也还是值得期待一下的。因为这次是直接找法官了。 https://t.co/t9lLYfR1lU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 531,
+          "like_count": 91509,
+          "listed_count": 9,
+          "media_count": 509,
+          "tweet_count": 6509
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-12T04:08:34.000Z",
+        "description": "纯创作者一枚，多圈爱好者，AB/RHG/Dojo兴趣中。日语初学者/英语还行。可能会使用翻译器",
+        "id": "1822847572295249921",
+        "location": "cn",
+        "name": "WELLhU2005",
+        "pinned_tweet_id": "2056676363231481919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822847758320926720/vRj2ncry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94,
+          "following_count": 4447,
+          "like_count": 2657,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 1378
+        },
+        "username": "Weilhu20051004",
+        "verified": false
+      }
+    ]
+  }
+}

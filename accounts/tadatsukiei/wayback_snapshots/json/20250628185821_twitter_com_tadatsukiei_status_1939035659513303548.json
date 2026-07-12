@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1938768013005898029",
+    "created_at": "2025-06-28T18:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T19:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1939035659513303548"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2786701",
+          "start": 0,
+          "username": "williamlong"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1939035659513303548",
+    "in_reply_to_user_id": "2786701",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 93,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938768013005898029",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@williamlong 我认识的80后90后，大多是学历越高越爱党，没什么文化的人就完全不受宏大叙事洗脑"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1938768013005898029",
+        "created_at": "2025-06-28T18:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T19:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1939035659513303548"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2786701",
+              "start": 0,
+              "username": "williamlong"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1939035659513303548",
+        "in_reply_to_user_id": "2786701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938768013005898029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@williamlong 我认识的80后90后，大多是学历越高越爱党，没什么文化的人就完全不受宏大叙事洗脑"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2786701",
+        "conversation_id": "1938768013005898029",
+        "created_at": "2025-06-28T01:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T02:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938768013005898029"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938768013005898029",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 30,
+          "impression_count": 343386,
+          "like_count": 285,
+          "quote_count": 14,
+          "reply_count": 96,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得，高考288分能被人民日报等媒体大肆宣扬，目的就是为了鼓励读书无用论，因为不读书的人最好控制。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 92,
+          "like_count": 11595,
+          "listed_count": 1,
+          "media_count": 94,
+          "tweet_count": 1949
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2007-03-29T04:16:23.000Z",
+        "description": "青青子衿，悠悠我心，但为君故，沉吟至今",
+        "id": "2786701",
+        "name": "William Long",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1892484039917129730/qRBtG7Wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384056,
+          "following_count": 308,
+          "like_count": 0,
+          "listed_count": 2694,
+          "media_count": 3145,
+          "tweet_count": 29562
+        },
+        "username": "williamlong",
+        "verified": false
+      }
+    ]
+  }
+}

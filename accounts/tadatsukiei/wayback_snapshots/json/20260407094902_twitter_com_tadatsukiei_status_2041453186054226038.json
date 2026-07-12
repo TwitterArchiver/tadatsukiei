@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2040797423891821039",
+    "created_at": "2026-04-07T09:49:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T10:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041453186054226038"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "721014901926273024",
+          "start": 0,
+          "username": "y_atenaba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041453186054226038",
+    "in_reply_to_user_id": "721014901926273024",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040797423891821039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y_atenaba 芦花、ついに我慢できないか😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3472,
+        "media_key": "3_2040797417801707520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFJecFqa8AAHbfN.jpg",
+        "width": 2548
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2040797423891821039",
+        "created_at": "2026-04-07T09:49:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T10:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041453186054226038"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "721014901926273024",
+              "start": 0,
+              "username": "y_atenaba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041453186054226038",
+        "in_reply_to_user_id": "721014901926273024",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040797423891821039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y_atenaba 芦花、ついに我慢できないか😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040797417801707520"
+          ]
+        },
+        "author_id": "721014901926273024",
+        "conversation_id": "2040797423891821039",
+        "created_at": "2026-04-05T14:23:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T15:23:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040797423891821039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amhOrHNP2g",
+              "end": 26,
+              "expanded_url": "https://x.com/y_atenaba/status/2040797423891821039/photo/1",
+              "media_key": "3_2040797417801707520",
+              "start": 3,
+              "url": "https://t.co/amhOrHNP2g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040797423891821039",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6675,
+          "impression_count": 525888,
+          "like_count": 62749,
+          "quote_count": 55,
+          "reply_count": 38,
+          "retweet_count": 5833
+        },
+        "reply_settings": "everyone",
+        "text": "芦花 https://t.co/amhOrHNP2g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 369,
+          "following_count": 363,
+          "like_count": 79167,
+          "listed_count": 6,
+          "media_count": 359,
+          "tweet_count": 4964
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2016-04-15T16:38:43.000Z",
+        "description": "絵と百合が好きです。\nﾏｼｭﾏﾛ：https://t.co/MkpfO34SuS\nskeb：https://t.co/Va7vk4qxhu（版権NG）",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/y_atenaba",
+                "end": 40,
+                "expanded_url": "http://marshmallow-qa.com/y_atenaba",
+                "start": 17,
+                "url": "https://t.co/MkpfO34SuS"
+              },
+              {
+                "display_url": "skeb.jp/@y_atenaba",
+                "end": 69,
+                "expanded_url": "https://skeb.jp/@y_atenaba",
+                "start": 46,
+                "url": "https://t.co/Va7vk4qxhu"
+              }
+            ]
+          }
+        },
+        "id": "721014901926273024",
+        "name": "あてなば侑",
+        "pinned_tweet_id": "2005881592724750378",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1376094113024540672/cJpqA6Ua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126871,
+          "following_count": 17,
+          "like_count": 35802,
+          "listed_count": 984,
+          "media_count": 296,
+          "tweet_count": 349
+        },
+        "username": "y_atenaba",
+        "verified": true
+      }
+    ]
+  }
+}

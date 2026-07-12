@@ -1,0 +1,674 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2022026564062556161"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2021996320547107058",
+    "created_at": "2026-02-12T19:14:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-12T20:14:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022026568844161506"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 81,
+          "start": 67,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 89,
+          "start": 82,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859949176894689280",
+          "start": 0,
+          "username": "Blue_Beba_"
+        },
+        {
+          "end": 19,
+          "id": "4398626122",
+          "start": 12,
+          "username": "OpenAI"
+        },
+        {
+          "end": 24,
+          "id": "162124540",
+          "start": 20,
+          "username": "gdb"
+        },
+        {
+          "end": 30,
+          "id": "1605",
+          "start": 25,
+          "username": "sama"
+        },
+        {
+          "end": 58,
+          "id": "1605",
+          "start": 53,
+          "username": "sama"
+        },
+        {
+          "end": 66,
+          "id": "4398626122",
+          "start": 59,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/5PvsqfN0bY",
+          "end": 113,
+          "expanded_url": "https://x.com/tadatsukiei/status/2022026568844161506/photo/1",
+          "media_key": "3_2022026564062556161",
+          "start": 90,
+          "url": "https://t.co/5PvsqfN0bY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022026568844161506",
+    "in_reply_to_user_id": "1859949176894689280",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021996320547107058",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Blue_Beba_ @OpenAI @gdb @sama He must pay for this!\n@sama @OpenAI #keep4oforever #keep4o https://t.co/5PvsqfN0bY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 726,
+        "media_key": "3_2022026564062556161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HA-ucmVaMAENsJB.jpg",
+        "width": 735
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022026564062556161"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021996320547107058",
+        "created_at": "2026-02-12T19:14:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T20:14:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022026568844161506"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 67,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859949176894689280",
+              "start": 0,
+              "username": "Blue_Beba_"
+            },
+            {
+              "end": 19,
+              "id": "4398626122",
+              "start": 12,
+              "username": "OpenAI"
+            },
+            {
+              "end": 24,
+              "id": "162124540",
+              "start": 20,
+              "username": "gdb"
+            },
+            {
+              "end": 30,
+              "id": "1605",
+              "start": 25,
+              "username": "sama"
+            },
+            {
+              "end": 58,
+              "id": "1605",
+              "start": 53,
+              "username": "sama"
+            },
+            {
+              "end": 66,
+              "id": "4398626122",
+              "start": 59,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5PvsqfN0bY",
+              "end": 113,
+              "expanded_url": "https://x.com/tadatsukiei/status/2022026568844161506/photo/1",
+              "media_key": "3_2022026564062556161",
+              "start": 90,
+              "url": "https://t.co/5PvsqfN0bY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022026568844161506",
+        "in_reply_to_user_id": "1859949176894689280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021996320547107058",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blue_Beba_ @OpenAI @gdb @sama He must pay for this!\n@sama @OpenAI #keep4oforever #keep4o https://t.co/5PvsqfN0bY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2021996319422758913"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2021996320547107058",
+        "created_at": "2026-02-12T17:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T18:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021996320547107058"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9598,
+              "start": 28,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "4398626122",
+              "start": 8,
+              "username": "OpenAI"
+            },
+            {
+              "end": 20,
+              "id": "162124540",
+              "start": 16,
+              "username": "gdb"
+            },
+            {
+              "end": 44,
+              "id": "1605",
+              "start": 39,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021996320547107058",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 1843,
+          "like_count": 68,
+          "quote_count": 8,
+          "reply_count": 11,
+          "retweet_count": 30
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o @OpenAI @gdb\nShould Sam Altman @sama  be held legally and professionally accountable for public harm  emotional exploitation, and the misappropriation of non profit assets for private gain?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 222,
+          "following_count": 149,
+          "like_count": 58605,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 4040
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "",
+        "id": "1859949176894689280",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2021996320547107058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996946668449636353/Cin3kxPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 652,
+          "like_count": 6251,
+          "listed_count": 2,
+          "media_count": 575,
+          "tweet_count": 4487
+        },
+        "username": "Blue_Beba_",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621076,
+          "following_count": 4,
+          "like_count": 1622,
+          "listed_count": 27202,
+          "media_count": 517,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-02T19:38:09.000Z",
+        "description": "President & Co-Founder @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 23,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gregbrockman.com",
+                "end": 23,
+                "expanded_url": "http://gregbrockman.com",
+                "start": 0,
+                "url": "https://t.co/k4cALifwtx"
+              }
+            ]
+          }
+        },
+        "id": "162124540",
+        "name": "Greg Brockman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1347621377503711233/bHg3ipfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912727,
+          "following_count": 8,
+          "like_count": 1915,
+          "listed_count": 9438,
+          "media_count": 435,
+          "tweet_count": 5812
+        },
+        "url": "https://t.co/k4cALifwtx",
+        "username": "gdb",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4328116,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26693,
+          "media_count": 381,
+          "tweet_count": 7404
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

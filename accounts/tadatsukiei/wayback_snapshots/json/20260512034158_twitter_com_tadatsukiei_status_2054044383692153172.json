@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2053877177792479309",
+    "created_at": "2026-05-12T03:41:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T04:41:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054044383692153172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861778149970997248",
+          "start": 0,
+          "username": "a_lei83862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054044383692153172",
+    "in_reply_to_user_id": "1861778149970997248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053987430798410127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_lei83862 没办法，马斯克不怎么管这些bot啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2053877177792479309",
+        "created_at": "2026-05-12T03:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054044383692153172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861778149970997248",
+              "start": 0,
+              "username": "a_lei83862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054044383692153172",
+        "in_reply_to_user_id": "1861778149970997248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053987430798410127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_lei83862 没办法，马斯克不怎么管这些bot啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1861778149970997248",
+        "conversation_id": "2053877177792479309",
+        "created_at": "2026-05-11T23:55:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T00:55:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053987430798410127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053987430798410127",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053877177792479309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 有夠明目張膽的毒犯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "pinned_tweet_id": "2053760944057327624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 489,
+          "like_count": 88335,
+          "listed_count": 9,
+          "media_count": 468,
+          "tweet_count": 6091
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T14:24:54.000Z",
+        "description": "藍白草跟粉紅給我有多遠死多遠",
+        "id": "1861778149970997248",
+        "location": "賽博世界",
+        "name": "❤️小麵包❤️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049532620544106496/sIJWoxpK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 1233,
+          "like_count": 1917,
+          "listed_count": 5,
+          "media_count": 70,
+          "tweet_count": 3804
+        },
+        "username": "a_lei83862",
+        "verified": false
+      }
+    ]
+  }
+}

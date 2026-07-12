@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1967082593415033109",
+    "created_at": "2025-09-14T19:15:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T20:15:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967306113831084434"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 11,
+          "normalized_text": "恭喜",
+          "probability": 0.6233,
+          "start": 10,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1205503686912270336",
+          "start": 0,
+          "username": "yajunwwz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967306113831084434",
+    "in_reply_to_user_id": "1205503686912270336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967082593415033109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yajunwwz 恭喜🎉辞旧迎新～"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16344,
+        "height": 1280,
+        "media_key": "13_1967082523110109184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1967082523110109184/img/JSHdfkBPVFOdFjDc.jpg",
+        "public_metrics": {
+          "view_count": 86882
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967082523110109184/vid/avc1/320x568/3Ov_tjiYLqXJidek.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967082523110109184/vid/avc1/480x852/KLgpf8SccYVXN4aN.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1967082523110109184/vid/avc1/720x1280/tz0o7kmCj9Wvxui2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1967082523110109184/pl/MJSfa8kwJ0x3ljX6.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1967082593415033109",
+        "created_at": "2025-09-14T19:15:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T20:15:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967306113831084434"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "恭喜",
+              "probability": 0.6233,
+              "start": 10,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1205503686912270336",
+              "start": 0,
+              "username": "yajunwwz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967306113831084434",
+        "in_reply_to_user_id": "1205503686912270336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967082593415033109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yajunwwz 恭喜🎉辞旧迎新～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1967082523110109184"
+          ]
+        },
+        "author_id": "1205503686912270336",
+        "conversation_id": "1967082593415033109",
+        "created_at": "2025-09-14T04:26:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:26:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967082593415033109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o0voBWSDYq",
+              "end": 54,
+              "expanded_url": "https://x.com/yajunwwz/status/1967082593415033109/video/1",
+              "media_key": "13_1967082523110109184",
+              "start": 31,
+              "url": "https://t.co/o0voBWSDYq"
+            },
+            {
+              "display_url": "x.com/yajunwwz/statu…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/yajunwwz/status/1966814767240364503",
+              "start": 55,
+              "url": "https://t.co/Whu2suhPdC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967082593415033109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 96,
+          "impression_count": 307393,
+          "like_count": 1700,
+          "quote_count": 8,
+          "reply_count": 92,
+          "retweet_count": 198
+        },
+        "referenced_tweets": [
+          {
+            "id": "1966814767240364503",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "尼泊尔年轻人在推翻共产政府组建临时政府之后，走上街头清理卫生 https://t.co/o0voBWSDYq https://t.co/Whu2suhPdC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163,
+          "following_count": 107,
+          "like_count": 24692,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 2644
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2019-12-13T15:04:18.000Z",
+        "description": "店铺：https://t.co/D1435SA7XM 博客：https://t.co/bhwowVEzq0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "j.youzan.com/2ub0kB",
+                "end": 26,
+                "expanded_url": "http://j.youzan.com/2ub0kB",
+                "start": 3,
+                "url": "https://t.co/D1435SA7XM"
+              },
+              {
+                "display_url": "blogger.com/blog/posts/484…",
+                "end": 53,
+                "expanded_url": "https://www.blogger.com/blog/posts/4848814272470825663",
+                "start": 30,
+                "url": "https://t.co/bhwowVEzq0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "j.youzan.com/2ub0kB",
+                "end": 23,
+                "expanded_url": "https://j.youzan.com/2ub0kB",
+                "start": 0,
+                "url": "https://t.co/2Z925kUG6S"
+              }
+            ]
+          }
+        },
+        "id": "1205503686912270336",
+        "location": "厨房",
+        "name": "亚军&王歪嘴",
+        "pinned_tweet_id": "1967188183793418336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1265146085070299136/3xSUb-Og_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 238244,
+          "following_count": 2046,
+          "like_count": 1098,
+          "listed_count": 613,
+          "media_count": 9016,
+          "tweet_count": 20360
+        },
+        "url": "https://t.co/2Z925kUG6S",
+        "username": "yajunwwz",
+        "verified": true
+      }
+    ]
+  }
+}

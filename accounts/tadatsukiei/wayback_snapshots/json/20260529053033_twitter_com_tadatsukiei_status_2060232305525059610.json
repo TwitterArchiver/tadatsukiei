@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060232299577491456"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2060232305525059610",
+    "created_at": "2026-05-29T05:30:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T06:30:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060232305525059610"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/K9dv2zU3yc",
+          "end": 27,
+          "expanded_url": "https://x.com/tadatsukiei/status/2060232305525059610/photo/1",
+          "media_key": "3_2060232299577491456",
+          "start": 4,
+          "url": "https://t.co/K9dv2zU3yc"
+        },
+        {
+          "display_url": "x.com/fraise_xxo/sta…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/fraise_xxo/status/2059946338457161805",
+          "start": 28,
+          "url": "https://t.co/czD6Vvj71I"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060232305525059610",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059946338457161805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "憋笑😇 https://t.co/K9dv2zU3yc https://t.co/czD6Vvj71I"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2060232299577491456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJdqXGMaQAAG2iE.jpg",
+        "width": 1198
+      },
+      {
+        "height": 472,
+        "media_key": "3_2059946333621149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJZmRr_bYAASQAh.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060232299577491456"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2060232305525059610",
+        "created_at": "2026-05-29T05:30:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:30:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060232305525059610"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K9dv2zU3yc",
+              "end": 27,
+              "expanded_url": "https://x.com/tadatsukiei/status/2060232305525059610/photo/1",
+              "media_key": "3_2060232299577491456",
+              "start": 4,
+              "url": "https://t.co/K9dv2zU3yc"
+            },
+            {
+              "display_url": "x.com/fraise_xxo/sta…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/fraise_xxo/status/2059946338457161805",
+              "start": 28,
+              "url": "https://t.co/czD6Vvj71I"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060232305525059610",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059946338457161805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "憋笑😇 https://t.co/K9dv2zU3yc https://t.co/czD6Vvj71I"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059946333621149696"
+          ]
+        },
+        "author_id": "1397484235431182337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2059946338457161805",
+        "created_at": "2026-05-28T10:34:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T11:34:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059946338457161805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/63Tl1hYf6P",
+              "end": 74,
+              "expanded_url": "https://x.com/fraise_xxo/status/2059946338457161805/photo/1",
+              "media_key": "3_2059946333621149696",
+              "start": 51,
+              "url": "https://t.co/63Tl1hYf6P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059946338457161805",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 25211,
+          "like_count": 588,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "原神の名前変えた！\n\n…あっ、あれ、みなさんどこに行くんですか？フレンドが減っていく…あれ？？？\n⠀ https://t.co/63Tl1hYf6P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 553,
+          "like_count": 95126,
+          "listed_count": 10,
+          "media_count": 530,
+          "tweet_count": 6736
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-05-26T09:26:54.000Z",
+        "description": "⪩⪨⠀𝑔𝑒𝑛𝑠ℎ𝑖𝑛 ⌇ 𝑠𝑡𝑎𝑟𝑟𝑎𝑖𝑙 ⌇ 𝐼𝑑𝑒𝑛𝑡𝑖𝑡𝑦 ⌇浮上 ≠ 返信⠀⪩⪨",
+        "id": "1397484235431182337",
+        "location": "𝙱𝚞𝚋𝚞 𝙿𝚑𝚊𝚛𝚖𝚊𝚌𝚢 ⏦ﾟ♥",
+        "name": "ねむねこ",
+        "pinned_tweet_id": "2058154288879370278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057082779771588608/Rhbd9Q11_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 99,
+          "like_count": 10851,
+          "listed_count": 12,
+          "media_count": 150,
+          "tweet_count": 2928
+        },
+        "username": "fraise_xxo",
+        "verified": false
+      }
+    ]
+  }
+}

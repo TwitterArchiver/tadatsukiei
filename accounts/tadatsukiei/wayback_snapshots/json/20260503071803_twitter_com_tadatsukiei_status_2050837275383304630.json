@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2050832611539607620",
+    "created_at": "2026-05-03T07:18:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T08:18:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050837275383304630"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1774017839726276608",
+          "start": 0,
+          "username": "jiangkedou8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050837275383304630",
+    "in_reply_to_user_id": "1774017839726276608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050832611539607620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiangkedou8964 哇，是双开门大冰箱😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1168,
+        "media_key": "3_2050832602245083136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHYFYs6bsAA-SVk.jpg",
+        "width": 784
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2050832611539607620",
+        "created_at": "2026-05-03T07:18:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T08:18:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050837275383304630"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1774017839726276608",
+              "start": 0,
+              "username": "jiangkedou8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050837275383304630",
+        "in_reply_to_user_id": "1774017839726276608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050832611539607620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiangkedou8964 哇，是双开门大冰箱😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050832602245083136"
+          ]
+        },
+        "author_id": "1774017839726276608",
+        "conversation_id": "2050832611539607620",
+        "created_at": "2026-05-03T06:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T07:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050832611539607620"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0u2iqQpkb4",
+              "end": 40,
+              "expanded_url": "https://x.com/jiangkedou8964/status/2050832611539607620/photo/1",
+              "media_key": "3_2050832602245083136",
+              "start": 17,
+              "url": "https://t.co/0u2iqQpkb4"
+            },
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/tadatsukiei/status/2050773196769747054",
+              "start": 41,
+              "url": "https://t.co/XIVzfy92hH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050832611539607620",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050773196769747054",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还行吧，知道我是头戴式耳机爱好者 https://t.co/0u2iqQpkb4 https://t.co/XIVzfy92hH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 434,
+          "following_count": 419,
+          "like_count": 85479,
+          "listed_count": 7,
+          "media_count": 432,
+          "tweet_count": 5576
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-30T10:16:45.000Z",
+        "description": "16岁｜友跨🏳️‍⚧️但不是跨｜极左｜粉红野爹｜偏团派｜新斯左｜再说一遍我不是毛左｜保卫于兆力｜神秘爱涛男\n「物质不是意识的产物，相反，意识只是物质的最高产物。」",
+        "id": "1774017839726276608",
+        "location": "共青团中央书记处",
+        "name": "超级大蝌蚪☭（ 涛声依旧）——于兆力私人医生回忆录",
+        "pinned_tweet_id": "2040434315923013730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027936265317060611/8xoV-zee_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 572,
+          "like_count": 1960,
+          "listed_count": 3,
+          "media_count": 848,
+          "tweet_count": 5125
+        },
+        "username": "jiangkedou8964",
+        "verified": false
+      }
+    ]
+  }
+}

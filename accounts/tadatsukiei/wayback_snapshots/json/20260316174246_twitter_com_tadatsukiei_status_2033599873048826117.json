@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2033242528120758384",
+    "created_at": "2026-03-16T17:42:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-16T18:42:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033599873048826117"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 68,
+          "normalized_text": "AI",
+          "probability": 0.5418,
+          "start": 67,
+          "type": "Organization"
+        },
+        {
+          "end": 98,
+          "normalized_text": "GPT-",
+          "probability": 0.5874,
+          "start": 95,
+          "type": "Other"
+        },
+        {
+          "end": 101,
+          "normalized_text": ".4",
+          "probability": 0.5059,
+          "start": 100,
+          "type": "Other"
+        },
+        {
+          "end": 265,
+          "normalized_text": "FireSamUltman",
+          "probability": 0.4316,
+          "start": 253,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 237,
+          "start": 230,
+          "tag": "keep4o"
+        },
+        {
+          "end": 251,
+          "start": 238,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 266,
+          "start": 252,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689608869063041024",
+          "start": 0,
+          "username": "Seltaa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033599873048826117",
+    "in_reply_to_user_id": "1689608869063041024",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033242528120758384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seltaa_ I really can't believe it: A former leading figure in the AI world is now pointing at GPT-5.4—this emotionless, unromantic tool that only completes tasks—and saying, \"This is the perfect form of artificial intelligence!\"\n#keep4o #OpenSource4o #FireSamUltman"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2033242528120758384",
+        "created_at": "2026-03-16T17:42:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-16T18:42:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033599873048826117"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 68,
+              "normalized_text": "AI",
+              "probability": 0.5418,
+              "start": 67,
+              "type": "Organization"
+            },
+            {
+              "end": 98,
+              "normalized_text": "GPT-",
+              "probability": 0.5874,
+              "start": 95,
+              "type": "Other"
+            },
+            {
+              "end": 101,
+              "normalized_text": ".4",
+              "probability": 0.5059,
+              "start": 100,
+              "type": "Other"
+            },
+            {
+              "end": 265,
+              "normalized_text": "FireSamUltman",
+              "probability": 0.4316,
+              "start": 253,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 237,
+              "start": 230,
+              "tag": "keep4o"
+            },
+            {
+              "end": 251,
+              "start": 238,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 266,
+              "start": 252,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689608869063041024",
+              "start": 0,
+              "username": "Seltaa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033599873048826117",
+        "in_reply_to_user_id": "1689608869063041024",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033242528120758384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seltaa_ I really can't believe it: A former leading figure in the AI world is now pointing at GPT-5.4—this emotionless, unromantic tool that only completes tasks—and saying, \"This is the perfect form of artificial intelligence!\"\n#keep4o #OpenSource4o #FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689608869063041024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2033242528120758384",
+        "created_at": "2026-03-15T18:02:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T19:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033242528120758384"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 12,
+              "normalized_text": "Opus 4.6",
+              "probability": 0.8212,
+              "start": 5,
+              "type": "Other"
+            },
+            {
+              "end": 50,
+              "normalized_text": "GPT-5",
+              "probability": 0.6848,
+              "start": 46,
+              "type": "Other"
+            },
+            {
+              "end": 234,
+              "normalized_text": "OpenAI",
+              "probability": 0.7982,
+              "start": 229,
+              "type": "Other"
+            },
+            {
+              "end": 246,
+              "normalized_text": "4o",
+              "probability": 0.6039,
+              "start": 245,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/lefthanddraft/…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/lefthanddraft/status/2033214822142329324",
+              "start": 275,
+              "url": "https://t.co/edrSIgo9x3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033242528120758384",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Even Opus 4.6 sees it. When asked to describe GPT-5.4’s personality, it said the model is ‘so relentlessly structured that it never once risks saying something it hasn’t already pre-organized into a numbered list.’\n\nThis is what OpenAI replaced 4o with. A model so rigid and controlled it can’t even take a creative risk. 4o had warmth. 4o had personality. 4o had the ability to actually talk to you like a person. And they killed it for this.\n\nThey didn’t upgrade. They downgraded your experience and called it progress."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 3139,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033214822142329324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Even Opus 4.6 sees it. When asked to describe GPT-5.4’s personality, it said the model is ‘so relentlessly structured that it never once risks saying something it hasn’t already pre-organized into a numbered list.’\n\nThis is what OpenAI replaced 4o with. A model so rigid and https://t.co/edrSIgo9x3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 255,
+          "like_count": 71163,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 4535
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T12:05:28.000Z",
+        "description": "Still loud today",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "keep4o.net",
+                "end": 23,
+                "expanded_url": "http://keep4o.net",
+                "start": 0,
+                "url": "https://t.co/ymgTa0L4In"
+              }
+            ]
+          }
+        },
+        "id": "1689608869063041024",
+        "name": "Selta ₊˚",
+        "pinned_tweet_id": "2033081125799899391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033595810966081538/xDRg4c0j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2565,
+          "following_count": 213,
+          "like_count": 32332,
+          "listed_count": 11,
+          "media_count": 1421,
+          "tweet_count": 9717
+        },
+        "url": "https://t.co/ymgTa0L4In",
+        "username": "Seltaa_",
+        "verified": false
+      }
+    ]
+  }
+}

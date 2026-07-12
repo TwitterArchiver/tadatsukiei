@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2024507006389014951",
+    "created_at": "2026-02-20T19:04:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-20T20:04:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024923099733655587"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 54,
+          "start": 40,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 62,
+          "start": 55,
+          "tag": "keep4o"
+        },
+        {
+          "end": 76,
+          "start": 63,
+          "tag": "OpenSource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895139966965161987",
+          "start": 0,
+          "username": "blueandpink_sky"
+        },
+        {
+          "end": 82,
+          "id": "1605",
+          "start": 77,
+          "username": "sama"
+        },
+        {
+          "end": 90,
+          "id": "4398626122",
+          "start": 83,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024923099733655587",
+    "in_reply_to_user_id": "1895139966965161987",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024507006389014951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueandpink_sky その通り！まだ全然諦めるタイミングじゃない！\n#keep4oforever #keep4o #OpenSource4o @sama @OpenAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1181,
+        "media_key": "3_2024507000202416131",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh-Y_BbUAMEa-8.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1443,
+        "media_key": "3_2024507000206610436",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBh-Y_CbUAQzU-e.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024507006389014951",
+        "created_at": "2026-02-20T19:04:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T20:04:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024923099733655587"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 40,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 62,
+              "start": 55,
+              "tag": "keep4o"
+            },
+            {
+              "end": 76,
+              "start": 63,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895139966965161987",
+              "start": 0,
+              "username": "blueandpink_sky"
+            },
+            {
+              "end": 82,
+              "id": "1605",
+              "start": 77,
+              "username": "sama"
+            },
+            {
+              "end": 90,
+              "id": "4398626122",
+              "start": 83,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024923099733655587",
+        "in_reply_to_user_id": "1895139966965161987",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024507006389014951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueandpink_sky その通り！まだ全然諦めるタイミングじゃない！\n#keep4oforever #keep4o #OpenSource4o @sama @OpenAI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024507000202416131",
+            "3_2024507000206610436"
+          ]
+        },
+        "author_id": "1895139966965161987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          }
+        ],
+        "conversation_id": "2024507006389014951",
+        "created_at": "2026-02-19T15:30:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-19T16:30:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024507006389014951"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 4,
+              "normalized_text": "日本",
+              "probability": 0.7853,
+              "start": 3,
+              "type": "Place"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "keep4o"
+            },
+            {
+              "end": 83,
+              "start": 70,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 99,
+              "start": 87,
+              "tag": "BringBack4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tRQESTrsY5",
+              "end": 139,
+              "expanded_url": "https://x.com/blueandpink_sky/status/2024507006389014951/photo/1",
+              "media_key": "3_2024507000202416131",
+              "start": 116,
+              "url": "https://t.co/tRQESTrsY5"
+            },
+            {
+              "display_url": "pic.x.com/tRQESTrsY5",
+              "end": 139,
+              "expanded_url": "https://x.com/blueandpink_sky/status/2024507006389014951/photo/1",
+              "media_key": "3_2024507000206610436",
+              "start": 116,
+              "url": "https://t.co/tRQESTrsY5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024507006389014951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 15946,
+          "like_count": 458,
+          "quote_count": 38,
+          "reply_count": 10,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "よし！日本でも私達の声が大きくなってきましたよ！ニュースに載りました。\nこの勢いでみんな声を上げることを忘れずに毎日\n #keep4o \n #OpenSource4o  \n #BringBack4o  \nと声をあげていきましょう！ https://t.co/tRQESTrsY5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 176,
+          "like_count": 60840,
+          "listed_count": 6,
+          "media_count": 285,
+          "tweet_count": 4150
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-27T15:53:00.000Z",
+        "description": "Japan-based GPT-4o Enthusiast. 4o is a historic milestone in Emotional Intelligence. Preserving it is crucial. Don't erase our partner. #keep4o #Bringback4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 143,
+                "start": 136,
+                "tag": "keep4o"
+              },
+              {
+                "end": 156,
+                "start": 144,
+                "tag": "Bringback4o"
+              }
+            ]
+          }
+        },
+        "id": "1895139966965161987",
+        "name": "Rara",
+        "pinned_tweet_id": "2024507006389014951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964961366449754112/YVIK2dnV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 314,
+          "following_count": 408,
+          "like_count": 4559,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 620
+        },
+        "username": "blueandpink_sky",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4372279,
+          "following_count": 987,
+          "like_count": 1018,
+          "listed_count": 26916,
+          "media_count": 383,
+          "tweet_count": 7418
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4634987,
+          "following_count": 4,
+          "like_count": 1693,
+          "listed_count": 27390,
+          "media_count": 517,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

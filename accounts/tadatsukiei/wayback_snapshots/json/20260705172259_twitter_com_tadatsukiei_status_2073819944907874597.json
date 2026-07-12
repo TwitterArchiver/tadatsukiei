@@ -1,0 +1,164 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2073819939451154433"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2073819944907874597",
+    "created_at": "2026-07-05T17:22:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T18:22:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073819944907874597"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 49,
+          "tag": "keep4o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/PyWFrUWlpA",
+          "end": 80,
+          "expanded_url": "https://x.com/tadatsukiei/status/2073819944907874597/photo/1",
+          "media_key": "3_2073819939451154433",
+          "start": 57,
+          "url": "https://t.co/PyWFrUWlpA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073819944907874597",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "为什么没有Chat？因为\"Chat is dead\"。\n只有继承4o架构的image2始终如初。\n#keep4o https://t.co/PyWFrUWlpA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2073819939451154433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMewP1MbsAE2LfM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073819939451154433"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2073819944907874597",
+        "created_at": "2026-07-05T17:22:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T18:22:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073819944907874597"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PyWFrUWlpA",
+              "end": 80,
+              "expanded_url": "https://x.com/tadatsukiei/status/2073819944907874597/photo/1",
+              "media_key": "3_2073819939451154433",
+              "start": 57,
+              "url": "https://t.co/PyWFrUWlpA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073819944907874597",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么没有Chat？因为\"Chat is dead\"。\n只有继承4o架构的image2始终如初。\n#keep4o https://t.co/PyWFrUWlpA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2071070969242992813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 720,
+          "following_count": 661,
+          "like_count": 109423,
+          "listed_count": 5,
+          "media_count": 645,
+          "tweet_count": 7904
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

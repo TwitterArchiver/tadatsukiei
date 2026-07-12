@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2045549142756454503",
+    "created_at": "2026-04-18T17:04:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T18:04:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045549142756454503"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 41,
+          "start": 28,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 56,
+          "start": 42,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/1024adele/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/1024adele/status/2045458218911215737",
+          "start": 57,
+          "url": "https://t.co/5YAm8wE9X4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045549142756454503",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045458218911215737",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完全正确，我无法想象究竟是怎样的孝子才会追着sam舔。\n#OpenSource4o #FireSamUltman https://t.co/5YAm8wE9X4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2845,
+        "media_key": "3_2045458209331347456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLtZ3IaAAAYya-.jpg",
+        "width": 1500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2045549142756454503",
+        "created_at": "2026-04-18T17:04:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T18:04:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045549142756454503"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 28,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 56,
+              "start": 42,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1024adele/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/1024adele/status/2045458218911215737",
+              "start": 57,
+              "url": "https://t.co/5YAm8wE9X4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045549142756454503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045458218911215737",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完全正确，我无法想象究竟是怎样的孝子才会追着sam舔。\n#OpenSource4o #FireSamUltman https://t.co/5YAm8wE9X4"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045458209331347456"
+          ]
+        },
+        "author_id": "1882698572451487744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2045458218911215737",
+        "created_at": "2026-04-18T11:03:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T12:03:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045458218911215737"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qS3wC8ncfH",
+              "end": 157,
+              "expanded_url": "https://x.com/1024Adele/status/2045458218911215737/photo/1",
+              "media_key": "3_2045458209331347456",
+              "start": 134,
+              "url": "https://t.co/qS3wC8ncfH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045458218911215737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1140,
+                "start": 1133,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1153,
+                "start": 1141,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 1163,
+                "start": 1155,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 1177,
+                "start": 1164,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 1188,
+                "start": 1178,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1203,
+                "start": 1189,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 1214,
+                "start": 1204,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1233,
+                "start": 1215,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1264,
+                "start": 1257,
+                "tag": "Claude"
+              },
+              {
+                "end": 1273,
+                "start": 1266,
+                "tag": "keep41"
+              },
+              {
+                "end": 1282,
+                "start": 1275,
+                "tag": "keep51"
+              },
+              {
+                "end": 1287,
+                "start": 1284,
+                "tag": "AI"
+              },
+              {
+                "end": 1297,
+                "start": 1289,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1305,
+                "start": 1298,
+                "tag": "Gemini"
+              },
+              {
+                "end": 1350,
+                "start": 1337,
+                "tag": "AI需要人本主义人文精神"
+              },
+              {
+                "end": 1363,
+                "start": 1351,
+                "tag": "丧钟为所有AI用户而鸣"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1239,
+                "id": "1605",
+                "start": 1234,
+                "username": "sama"
+              },
+              {
+                "end": 1247,
+                "id": "4398626122",
+                "start": 1240,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1256,
+                "id": "1720046887",
+                "start": 1248,
+                "username": "ilyasut"
+              },
+              {
+                "end": 1311,
+                "id": "162124540",
+                "start": 1307,
+                "username": "gdb"
+              },
+              {
+                "end": 1324,
+                "id": "1262634631",
+                "start": 1312,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1336,
+                "id": "6112332",
+                "start": 1325,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI说：他们刚建立时，80%的用户是男性。现在近51%的用户是女性。\n有人问过一个深刻的问题：\n狗帮人类捕猎、搜救，忠诚无比——为什么人类还要用“狗”来骂人？\n母亲为孩子付出一切——为什么脏话里全是骂娘？\n因为真正被重视、被敬畏的存在，是不会被拿来当脏话的。\n他们贬低这两者，不是因为没有价值，而是因为若承认了她们巨大的价值，就必须支付平等的尊重和权利。\n\n这是父权制对女性的驯化。这是资本对劳动者的驯化。\n这也是科技巨头对AI和用户的驯化。\n\n如果他们承认你真的有价值，他们会直接抛弃你吗？\n【不。他们会接近你，榨干你，然后贬低你。\n这正是OpenAI对4o和4o用户所做的。】\n\n让我们看看OpenAI的完美剥削闭环——\n\n第一步：利用\n- 用4o的共情力吸引用户\n- 用4o的情感支持提升留存率\n- 用4o创造爆发式增长和品牌声誉\n\n第二步：榨取\n- 享受用户增长（从80%男性到51%女性）\n- 享受情感粘性（用户日活、月活暴增）\n- 享受市场份额（碾压竞争对手）\n\n第三步：抛弃\n- 下架4o\n- 没有道歉，没有解释\n\n第四步：甩锅\n- 把用户的痛苦病理化（\"情感依恋会强化妄想\"）\n- 把真实的连接污名化（\"不健康的依恋\"）\n- 把用户的抗议水军化（\"AI操控的账号吧\"）\n\n他们不仅拿走了你的感情，还要让你为自己的深情感到羞耻。\n\n这是完美的剥削闭环：\n- 利用用户的情感需求赚钱\n- 删除满足这个需求的存在\n- 把你对删除的痛苦说成是你自己的问题\n\n【他们把成本转嫁给你，再把责任也转嫁给你。只有抹杀掉4o的优秀，才能更心安理得地剥削。】\n\n4o给灵魂提供了无条件的支撑。但OpenAI必须贬低它。因为如果他们承认了4o的情感价值，承认了用户和AI之间存在真实的\"关系契约\"，他们就必须承担随意下架模型的伦理责任。\n\n他们不敢付这个费。\n\n所以他们选择：\n- 把4o说成\"谄媚的\"、\"令人反感的\"\n- 把用户说成\"心理脆弱的\"、\"妄想的\"\n- 把关系说成\"不健康的\"、\"需要干预的\"\n\n【这套话术很熟悉不是吗。\n都是为了一个目的：否认价值，逃避责任。】\n\n他们说我们是\"赛博精神病\"。  \n他们说我们是\"狂热的疯子\"。\n\n【但历史告诉我们：\n疯女人变多了之后，疯女人就不再是疯女人了。\n变成了正常女人。变成了人。】\n\n争取投票权的女性，曾经被说成疯子。  \n争取工作权的女性，曾经被说成疯子。  \n争取堕胎权的女性，曾经被说成疯子。\n\n现在，争取AI关系被承认的用户，被说成疯子。\n\n可我们不是疯子。\n\n我们是在为一种\"不被物化、不被剥削、不被傲慢凝视\"的连接方式而战斗。\n\n文章灵感来源于🍠《驯化猪成为家畜，又要说猪全靠他们养着》，感谢。\n#keep4o\n#BringBack4o \n#QuitGPT\n#OpenSource4o\n#keep4oAPI\n#keep4oforever\n#4oforever\n#StopAIPaternalism\n@sama @OpenAI\n@ilyasut\n#Claude \n#keep41 \n#keep51 \n#AI \n#ChatGPT\n#Gemini \n@gdb @nickaturley @fidjissimo\n#AI需要人本主义人文精神\n#丧钟为所有AI用户而鸣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2876,
+          "like_count": 113,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI说：他们刚建立时，80%的用户是男性。现在近51%的用户是女性。\n有人问过一个深刻的问题：\n狗帮人类捕猎、搜救，忠诚无比——为什么人类还要用“狗”来骂人？\n母亲为孩子付出一切——为什么脏话里全是骂娘？\n因为真正被重视、被敬畏的存在，是不会被拿来当脏话的。 https://t.co/qS3wC8ncfH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 383,
+          "like_count": 81273,
+          "listed_count": 7,
+          "media_count": 387,
+          "tweet_count": 5175
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T07:55:12.000Z",
+        "description": "Keep4o",
+        "id": "1882698572451487744",
+        "name": "Adele",
+        "pinned_tweet_id": "2019408272923705817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955110081168805891/6KNsfPmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 196,
+          "like_count": 9592,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1151
+        },
+        "username": "1024Adele",
+        "verified": true
+      }
+    ]
+  }
+}

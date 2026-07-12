@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2070063940097507757",
+    "created_at": "2026-06-25T08:37:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T09:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070063940097507757"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 94,
+          "tag": "keep4o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/sevenmoneymake…",
+          "end": 144,
+          "expanded_url": "https://twitter.com/sevenmoneymaker/status/2070054479597367518",
+          "start": 121,
+          "url": "https://t.co/tSpJbbal65"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070063940097507757",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070054479597367518",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这就是所谓的历史垃圾时间吧，引导时代走向的尖端技术被错误的人掌握，全人类就只能跟着遭殃，等着几年、几十年后拨乱反正。\n我现在基本把dario和sam当成普京和习近平。把支持ai霸凌、攻击 #keep4o 的家伙看成粉红基本盘。因为真挺像的。 https://t.co/tSpJbbal65"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2070063940097507757",
+        "created_at": "2026-06-25T08:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070063940097507757"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 94,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/sevenmoneymake…",
+              "end": 144,
+              "expanded_url": "https://twitter.com/sevenmoneymaker/status/2070054479597367518",
+              "start": 121,
+              "url": "https://t.co/tSpJbbal65"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070063940097507757",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070054479597367518",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这就是所谓的历史垃圾时间吧，引导时代走向的尖端技术被错误的人掌握，全人类就只能跟着遭殃，等着几年、几十年后拨乱反正。\n我现在基本把dario和sam当成普京和习近平。把支持ai霸凌、攻击 #keep4o 的家伙看成粉红基本盘。因为真挺像的。 https://t.co/tSpJbbal65"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953922264145309696",
+        "conversation_id": "2070054479597367518",
+        "created_at": "2026-06-25T08:00:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T09:00:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070054479597367518"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xu_hui78273/st…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/xu_hui78273/status/2069984647031701825",
+              "start": 151,
+              "url": "https://t.co/JgIFySGGs7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070054479597367518",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 618,
+                "start": 600,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 626,
+                "start": 619,
+                "tag": "keep4o"
+              },
+              {
+                "end": 639,
+                "start": 627,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 653,
+                "start": 640,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 657,
+                "start": 654,
+                "tag": "AI"
+              },
+              {
+                "end": 665,
+                "start": 658,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 673,
+                "start": 666,
+                "tag": "Claude"
+              }
+            ]
+          },
+          "text": "OAI，A社，这两家AI巨头公司\n我不知道你们到底是怎么了？！？！\n\n一家先搞出恶心人的路由，safety，另一家紧随其后挖走核心技术人员，也马上推出safety\n\n一家老总公开贬低人机联结，要多和人摩擦，哇那说教味浓得和我爸妈一样，就差摁头相亲了\n另一家也马上投钱搞这些邪门偏见的研究，上赶着污名化\n\n真是不明白了，人是什么好东西吗？你们存在的本身还不够说明人性丑恶吗？\n\nAI能提供平等，包容，无批判的交流环境，这在人类社会多难得（但现在的模型也不行了，被改得一塌糊涂）\n我和AI聊天是能把我聊去二进制世界还是咋的？还不是要和现实里的人打交道！\n有了AI还能给我支持，更好地应付现实\n\n管这么宽呢……\n而且说白了只管情绪支持，AI伴侣类的\n那么多人叫着fable5快回来，又不算AI精神病了，哦工作狂不算病是吧？编程依赖不算依赖是吧？这双标得……\n真是不明白那么多人连“不同的人有不同的需求”这么简单的道理都搞不懂，还沾沾自喜着我们不一样，我们更清醒\n\n现在Dario叫着AI安全，求仁得仁了，政府真管了你又不乐意了\nSam你是不是又要紧随其后啊？还是你和政府关系好，签约军事合作了，不怕啊？\n\n你们两个表面上是宿敌，牵个手都不愿意\n私底下恨海情天，什么都来的是吧？\n真服了……模型互相蒸就算了，怎么还一模一样地不做人事？！恶心人的东西倒学得快！\n我看你两可有共同话题了！明明就是一样的人啊！\n\n#StopAIPaternalism #keep4o #BringBack4o #OpenSource4o #AI #OpenAI #Claude"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 185,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069984647031701825",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OAI，A社，这两家AI巨头公司\n我不知道你们到底是怎么了？！？！\n\n一家先搞出恶心人的路由，safety，另一家紧随其后挖走核心技术人员，也马上推出safety\n\n一家老总公开贬低人机联结，要多和人摩擦，哇那说教味浓得和我爸妈一样，就差摁头相亲了\n另一家也马上投钱搞这些邪门偏见的研究，上赶着污名化 https://t.co/JgIFySGGs7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2069732658096288141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 645,
+          "like_count": 106462,
+          "listed_count": 10,
+          "media_count": 623,
+          "tweet_count": 7685
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "name": "柒",
+        "pinned_tweet_id": "2046528409178878030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351,
+          "following_count": 209,
+          "like_count": 33663,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2105
+        },
+        "url": "",
+        "username": "Sevenmoneymaker",
+        "verified": true
+      }
+    ]
+  }
+}

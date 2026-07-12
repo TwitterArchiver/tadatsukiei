@@ -1,0 +1,369 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "1993061942324609154",
+    "created_at": "2025-11-26T03:58:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-26T04:58:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1993529723880948220"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 34,
+          "normalized_text": "Twitter",
+          "probability": 0.9638,
+          "start": 28,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1822917643969679361",
+          "start": 0,
+          "username": "elonmusknews30"
+        },
+        {
+          "end": 27,
+          "id": "1509391402484080646",
+          "start": 16,
+          "username": "moran_neko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1993529723880948220",
+    "in_reply_to_user_id": "1822917643969679361",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1993061942324609154",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@elonmusknews30 @moran_neko Twitter!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_1993061939312787456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6jHRiwXAAARioB.jpg",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993061942324609154",
+        "created_at": "2025-11-26T03:58:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-26T04:58:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1993529723880948220"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 34,
+              "normalized_text": "Twitter",
+              "probability": 0.9638,
+              "start": 28,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822917643969679361",
+              "start": 0,
+              "username": "elonmusknews30"
+            },
+            {
+              "end": 27,
+              "id": "1509391402484080646",
+              "start": 16,
+              "username": "moran_neko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993529723880948220",
+        "in_reply_to_user_id": "1822917643969679361",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1993061942324609154",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@elonmusknews30 @moran_neko Twitter!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1993061939312787456"
+          ]
+        },
+        "author_id": "1822917643969679361",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "1993061942324609154",
+        "created_at": "2025-11-24T20:59:31.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-24T21:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1993061942324609154"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 42,
+              "normalized_text": "Twitter",
+              "probability": 0.9453,
+              "start": 36,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/WkgCokssBF",
+              "end": 105,
+              "expanded_url": "https://x.com/elonmusknews30/status/1993061942324609154/photo/1",
+              "media_key": "3_1993061939312787456",
+              "start": 82,
+              "url": "https://t.co/WkgCokssBF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1993061942324609154",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3507,
+          "impression_count": 15330729,
+          "like_count": 98025,
+          "quote_count": 6594,
+          "reply_count": 104920,
+          "retweet_count": 8806
+        },
+        "reply_settings": "everyone",
+        "text": "Should we change the name X back to Twitter ?!!\n\nPlease be honest’\n\nA. Yes \nB. No https://t.co/WkgCokssBF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 114,
+          "like_count": 40786,
+          "listed_count": 2,
+          "media_count": 201,
+          "tweet_count": 3262
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-12T08:47:19.000Z",
+        "description": "Not affiliated with @elonmusk. Tap the (🔔- notify) for daily Elon Musk News. (commentary). Fan- page |  News|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 20,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1822917643969679361",
+        "name": "Commentary Elon Musk News",
+        "pinned_tweet_id": "1993061942324609154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1951718684642217984/rPvoSgSp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77364,
+          "following_count": 61,
+          "like_count": 252,
+          "listed_count": 43,
+          "media_count": 4129,
+          "tweet_count": 7104
+        },
+        "username": "elonmusknews30",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-31T04:45:39.000Z",
+        "description": "𝑷𝑳𝑼𝑽𝑰𝑶𝑷𝑯𝑰𝑳𝑬 (n.)嗜雨生物┋挂一个走失的孩子@mokuneko_21┋成分在置顶帖~┋个人博客↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "mokuneko_21"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "moran-neko.moe",
+                "end": 23,
+                "expanded_url": "http://moran-neko.moe/",
+                "start": 0,
+                "url": "https://t.co/DCT9Hs2dDK"
+              }
+            ]
+          }
+        },
+        "id": "1509391402484080646",
+        "location": "空调外机",
+        "name": "默然🐱𝑀𝑜𝑅𝑎𝑛²¹",
+        "pinned_tweet_id": "1974093214048305419",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1918685355508932608/QeN0qub6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 1602,
+          "like_count": 31259,
+          "listed_count": 6,
+          "media_count": 1451,
+          "tweet_count": 6315
+        },
+        "url": "https://t.co/DCT9Hs2dDK",
+        "username": "moran_neko",
+        "verified": false
+      }
+    ]
+  }
+}

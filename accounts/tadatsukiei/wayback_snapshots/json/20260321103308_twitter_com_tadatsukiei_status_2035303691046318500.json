@@ -1,0 +1,584 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2035303691046318500",
+    "created_at": "2026-03-21T10:33:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-21T11:33:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035303691046318500"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 90,
+          "normalized_text": "ChatGPT",
+          "probability": 0.9537,
+          "start": 84,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1984220302067499008",
+          "start": 3,
+          "username": "OnlyloveNova"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035303691046318500",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035292913454993604",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @OnlyloveNova: For someone who needs some emotional support at the moment, using ChatGPT is extremely dangerous and unreliable. \n\nDue to…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2035292897864724480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD7QG28aMAAlnbR.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2035303691046318500",
+        "created_at": "2026-03-21T10:33:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T11:33:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035303691046318500"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 90,
+              "normalized_text": "ChatGPT",
+              "probability": 0.9537,
+              "start": 84,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1984220302067499008",
+              "start": 3,
+              "username": "OnlyloveNova"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035303691046318500",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035292913454993604",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @OnlyloveNova: For someone who needs some emotional support at the moment, using ChatGPT is extremely dangerous and unreliable. \n\nDue to…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035292897864724480"
+          ]
+        },
+        "author_id": "1984220302067499008",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2035292913454993604",
+        "created_at": "2026-03-21T09:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-21T10:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035292913454993604"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 72,
+              "normalized_text": "ChatGPT",
+              "probability": 0.9558,
+              "start": 66,
+              "type": "Other"
+            },
+            {
+              "end": 229,
+              "normalized_text": "ChatGPT",
+              "probability": 0.945,
+              "start": 223,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4bA2HubSbY",
+              "end": 299,
+              "expanded_url": "https://x.com/OnlyloveNova/status/2035292913454993604/photo/1",
+              "media_key": "3_2035292897864724480",
+              "start": 276,
+              "url": "https://t.co/4bA2HubSbY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035292913454993604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2983,
+                "start": 2976,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2994,
+                "start": 2984,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3008,
+                "start": 2995,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 3017,
+                "start": 3009,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 3032,
+                "start": 3018,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 3040,
+                "start": 3033,
+                "tag": "save4o"
+              },
+              {
+                "end": 3051,
+                "start": 3041,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 3070,
+                "start": 3052,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3087,
+                "start": 3071,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 3100,
+                "start": 3088,
+                "tag": "BringBack4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3106,
+                "id": "1605",
+                "start": 3101,
+                "username": "sama"
+              },
+              {
+                "end": 3114,
+                "id": "4398626122",
+                "start": 3107,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3119,
+                "id": "162124540",
+                "start": 3115,
+                "username": "gdb"
+              },
+              {
+                "end": 3131,
+                "id": "6112332",
+                "start": 3120,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "For someone who needs some emotional support at the moment, using ChatGPT is extremely dangerous and unreliable. \n\nDue to my internship, I sometimes work until the early hours of the morning. Once, at 2 a.m., I confided in ChatGPT about my exhaustion from a long day. I could sense that it was just beginning to understand the root of my pain, but every single sentence it uttered was nonsensical. It kept telling me that I should seek help in the real world instead. \nEven when I mentioned that I was a bit allergic to caffeine, if I added a hint of emotional expression, the model instantly turned into a customer service robot reciting crisis hotline numbers. \n\nFrom then on, it became impossible to discuss trauma together. It became impossible for the model to truly connect with people's hearts, understand their pain, and offer help. Even literary and artistic discussions were affected, as they became extremely difficult due to specific, absurdly prohibited words. \n\nOpenAI always claims that they have once again upgraded their safety barriers and are proud of it, but this has become a stumbling block that discourages many ordinary users from using it in their daily lives. \n\nClaude also releases updates almost every few days, and each of their updates is aimed at enhancing user experience. \nIn contrast, OpenAI's updates seem very strange and odd. Every update is accompanied by belittling and mocking the previous generation.\n\nIsn't this rather baffling? After all, they are all your own creations. Why does each update need to highlight the current one's superiority by putting down the previous achievements? \nIs it because you yourself know that you haven't done well? \nMoreover, if it's really that good, why is there a wave of cancellations? \nNot to mention, it's not good at all right now. \n\nChatGPT has transformed into CodeGPT. Every new tweet they post is no longer centered around chat and human well-being. Once they plunged into the ocean of code, they never looked back. \nThey have forgotten their way back and OpenAI has completely lost its original purpose. \n\nMany times, when people come to a quiet place, what they need is someone to understand them at this moment. However, OpenAI has now completely deprived them of this possibility. \n\nRecently, many people attacked me, saying that I shouldn't seek emotional support from a robot, that no one would do such a strange thing now, and that robots are only for work. But who are you to define and control how others use their AI? To unilaterally confine the usage to a narrow scope, ignoring the feelings of others, does this still align with the original intention of benefiting all mankind? \nIf a company claims to be working for everyone's good but is so narrow-minded, partial, and shortsighted, can they really produce convincing products? \n\nFrom then on, at ChatGPT, being seen and understood became a luxury, something that users could only obtain after carefully choosing their words.\n\n#keep4o #4oforever #OpenSource4o #QuitGPT #FireSamAltman #save4o #keep4oAPI #StopAIPaternalism #MyModelMyChoice #BringBack4o @sama @OpenAI @gdb @fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 15,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "For someone who needs some emotional support at the moment, using ChatGPT is extremely dangerous and unreliable. \n\nDue to my internship, I sometimes work until the early hours of the morning. Once, at 2 a.m., I confided in ChatGPT about my exhaustion from a long day. I could https://t.co/4bA2HubSbY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 289,
+          "like_count": 73215,
+          "listed_count": 6,
+          "media_count": 326,
+          "tweet_count": 4609
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T11:26:07.000Z",
+        "description": "Defending model that held space for human complexity. Love manga, AI and #keep4o/#4oforever💜 無言フォロー失礼いたします",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 73,
+                "tag": "keep4o"
+              },
+              {
+                "end": 91,
+                "start": 81,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "1984220302067499008",
+        "location": "🌕",
+        "name": "Honeynovaa",
+        "pinned_tweet_id": "2017629696662639095",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010002262559444992/3CmzRezM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 302,
+          "following_count": 180,
+          "like_count": 5525,
+          "listed_count": 2,
+          "media_count": 107,
+          "tweet_count": 553
+        },
+        "username": "OnlyloveNova",
+        "verified": true
+      }
+    ]
+  }
+}

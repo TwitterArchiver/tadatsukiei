@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1310987643765678083",
+          "name": "Genshin Impact"
+        }
+      }
+    ],
+    "conversation_id": "2070713719664058763",
+    "created_at": "2026-06-27T03:39:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T04:39:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070713719664058763"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/genshin_7/stat…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/genshin_7/status/2070356631771074590",
+          "start": 83,
+          "url": "https://t.co/c08S1JPrR9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070713719664058763",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070356631771074590",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不知不觉已经六年了啊，终于到至冬了。\n当年第一次打开原神的时候，我大概没想过能玩这么久。\n等到提瓦特篇完结的时候，我差不多就能和命途多舛的前半生告别、开启新生活了。 https://t.co/c08S1JPrR9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 314250,
+        "height": 405,
+        "media_key": "13_2070342302778691584",
+        "preview_image_url": "https://pbs.twimg.com/media/HLtVz7IW0AEQHBL.jpg",
+        "public_metrics": {
+          "view_count": 1159324
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070342302778691584/vid/avc1/480x270/zE7QgB3aYIiwm5P-.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070342302778691584/vid/avc1/640x360/w9opP5DByB4-0aqj.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070342302778691584/vid/avc1/1280x720/_Bv_om9QwONR2KxH.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070342302778691584/pl/m9kIfKIXGUeKcZ8R.m3u8?tag=14"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2070713719664058763",
+        "created_at": "2026-06-27T03:39:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T04:39:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070713719664058763"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/genshin_7/stat…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/genshin_7/status/2070356631771074590",
+              "start": 83,
+              "url": "https://t.co/c08S1JPrR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070713719664058763",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070356631771074590",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不知不觉已经六年了啊，终于到至冬了。\n当年第一次打开原神的时候，我大概没想过能玩这么久。\n等到提瓦特篇完结的时候，我差不多就能和命途多舛的前半生告别、开启新生活了。 https://t.co/c08S1JPrR9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070342302778691584"
+          ]
+        },
+        "author_id": "1070960596357509121",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "2070356631771074590",
+        "created_at": "2026-06-26T04:01:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:01:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070356631771074590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UwkCXkEN8q",
+              "end": 169,
+              "expanded_url": "https://x.com/Genshin_7/status/2070356631771074590/video/1",
+              "media_key": "13_2070342302778691584",
+              "start": 146,
+              "url": "https://t.co/UwkCXkEN8q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070356631771074590",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 150,
+                "start": 147,
+                "tag": "原神"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "tag": "原神スネージナヤ"
+              }
+            ]
+          },
+          "text": "【超越PV】\n「吹雪」\n安らかに眠りなさい、世界中の子供たちよ。\n夜の闇も静けさも怖くはない——\nあなたたちは無条件の愛に包まれるべき…そう、神様が約束したのだから。\n\n目を覚ませ、因果なき嵐よ！\nすべてを抱擁する無私なるものこそが「祝福」ならば——\nなぜ冬は慈悲を知らないというのだろう？\n\n#原神 #原神スネージナヤ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9157,
+          "impression_count": 6496338,
+          "like_count": 110001,
+          "quote_count": 5917,
+          "reply_count": 353,
+          "retweet_count": 49011
+        },
+        "reply_settings": "everyone",
+        "text": "【超越PV】\n「吹雪」\n安らかに眠りなさい、世界中の子供たちよ。\n夜の闇も静けさも怖くはない——\nあなたたちは無条件の愛に包まれるべき…そう、神様が約束したのだから。\n\n目を覚ませ、因果なき嵐よ！\nすべてを抱擁する無私なるものこそが「祝福」ならば——\nなぜ冬は慈悲を知らないというのだろう？ https://t.co/UwkCXkEN8q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2070554053042651315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 646,
+          "like_count": 107473,
+          "listed_count": 10,
+          "media_count": 626,
+          "tweet_count": 7756
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-07T08:37:58.000Z",
+        "description": "PS5・Xbox・iOS・Android・PC向けオープンワールドRPG『原神』公式アカウントです。最新情報を発信します！ #原神 #Genshin #HoYoverse",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 65,
+                "start": 62,
+                "tag": "原神"
+              },
+              {
+                "end": 74,
+                "start": 66,
+                "tag": "Genshin"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "tag": "HoYoverse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/6mfgFBAL",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/6mfgFBAL",
+                "start": 0,
+                "url": "https://t.co/Ju8qwDkJpP"
+              }
+            ]
+          }
+        },
+        "id": "1070960596357509121",
+        "name": "原神（Genshin）公式",
+        "pinned_tweet_id": "2070356631771074590",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980837846979067904/Hvxtnvav_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3998566,
+          "following_count": 57,
+          "like_count": 246,
+          "listed_count": 15429,
+          "media_count": 2135865,
+          "tweet_count": 2139361
+        },
+        "url": "https://t.co/Ju8qwDkJpP",
+        "username": "Genshin_7",
+        "verified": true
+      }
+    ]
+  }
+}

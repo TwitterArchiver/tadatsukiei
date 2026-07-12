@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060549242931003429",
+    "created_at": "2026-05-30T02:40:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T03:40:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060551963444748381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1937439177962115072",
+          "start": 0,
+          "username": "ayuni8629070498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060551963444748381",
+    "in_reply_to_user_id": "1937439177962115072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060549242931003429",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ayuni8629070498 你好呀(^o^)／"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060549242931003429",
+        "created_at": "2026-05-30T02:40:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:40:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060551963444748381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1937439177962115072",
+              "start": 0,
+              "username": "ayuni8629070498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060551963444748381",
+        "in_reply_to_user_id": "1937439177962115072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060549242931003429",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ayuni8629070498 你好呀(^o^)／"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937439177962115072",
+        "conversation_id": "2060549242931003429",
+        "created_at": "2026-05-30T02:29:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T03:29:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060549242931003429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060549242931003429",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "나랑 연락 주고받을 트친 없어요?!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 585,
+          "following_count": 559,
+          "like_count": 95310,
+          "listed_count": 10,
+          "media_count": 531,
+          "tweet_count": 6775
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-24T09:14:47.000Z",
+        "description": "연락 좋아해여",
+        "id": "1937439177962115072",
+        "name": "유",
+        "pinned_tweet_id": "1937444526286864479",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058451761690759168/YTyZNPbG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 91,
+          "like_count": 570,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 82
+        },
+        "username": "ayuni8629070498",
+        "verified": false
+      }
+    ]
+  }
+}

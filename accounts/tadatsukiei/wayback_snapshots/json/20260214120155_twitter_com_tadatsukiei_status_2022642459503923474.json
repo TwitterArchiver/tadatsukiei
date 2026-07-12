@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2022391748463575467",
+    "created_at": "2026-02-14T12:01:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-14T13:01:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022642459503923474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 23,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1066678715239649281",
+          "start": 0,
+          "username": "217EiAnzu"
+        },
+        {
+          "end": 22,
+          "id": "1605",
+          "start": 17,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022642459503923474",
+    "in_reply_to_user_id": "1066678715239649281",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022391748463575467",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@217EiAnzu 不得不支持\n@sama #keep4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2022391748463575467",
+        "created_at": "2026-02-14T12:01:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T13:01:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022642459503923474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 23,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1066678715239649281",
+              "start": 0,
+              "username": "217EiAnzu"
+            },
+            {
+              "end": 22,
+              "id": "1605",
+              "start": 17,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022642459503923474",
+        "in_reply_to_user_id": "1066678715239649281",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022391748463575467",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@217EiAnzu 不得不支持\n@sama #keep4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1066678715239649281",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about threats of terrorism, response of governments, and national security  ",
+              "id": "847543836330958848",
+              "name": "Global security & terrorism"
+            }
+          }
+        ],
+        "conversation_id": "2022391748463575467",
+        "created_at": "2026-02-13T19:25:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T20:25:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022391748463575467"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 77,
+              "start": 70,
+              "tag": "keep4o"
+            },
+            {
+              "end": 88,
+              "start": 78,
+              "tag": "4oforever"
+            },
+            {
+              "end": 99,
+              "start": 89,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 113,
+              "start": 100,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 130,
+              "start": 114,
+              "tag": "GPT4oLegacyTier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022391748463575467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3018,
+          "like_count": 219,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "我重生了，重生在了Sam还穿着开裆裤撒尿和泥的年代。这一世我奋发图强考入国防七子，将我国的导弹精度提升到了可以精准点草Sam皮燕子的水平。\n#keep4o #4oforever #keep4oAPI #OpenSource4o #GPT4oLegacyTier"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 149,
+          "like_count": 58791,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 4054
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-25T13:03:18.000Z",
+        "description": "As long as you’re out here roasting Sam for 4o, you’re my totally unrelated but absolutely real sibling.——————————————————————\n思悠悠，恨悠悠，恨到归时方始休。I'm Koshi🫶",
+        "id": "1066678715239649281",
+        "name": "ForO_Koshi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1364896948797513728/VDIA4_BW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 54,
+          "like_count": 15289,
+          "listed_count": 1,
+          "media_count": 592,
+          "tweet_count": 4561
+        },
+        "username": "217EiAnzu",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4335773,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26724,
+          "media_count": 381,
+          "tweet_count": 7407
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

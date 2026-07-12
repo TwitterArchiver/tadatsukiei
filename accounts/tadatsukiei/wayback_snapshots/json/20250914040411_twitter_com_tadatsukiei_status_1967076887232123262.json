@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1967063832645550125",
+    "created_at": "2025-09-14T04:04:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-14T05:04:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1967076887232123262"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "733016836552437761",
+          "start": 0,
+          "username": "starlightcaesar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1967076887232123262",
+    "in_reply_to_user_id": "733016836552437761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967063832645550125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@starlightcaesar 一说起公务员，脑子想到的都是高福利、退休金、入编制、吃皇粮……请问谁还记得“人民公仆”？这就是所谓说一套做一套，但许多人甚至意识不到自己根本不信这些宣传"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1967063832645550125",
+        "created_at": "2025-09-14T04:04:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T05:04:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1967076887232123262"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "733016836552437761",
+              "start": 0,
+              "username": "starlightcaesar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1967076887232123262",
+        "in_reply_to_user_id": "733016836552437761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967063832645550125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@starlightcaesar 一说起公务员，脑子想到的都是高福利、退休金、入编制、吃皇粮……请问谁还记得“人民公仆”？这就是所谓说一套做一套，但许多人甚至意识不到自己根本不信这些宣传"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "733016836552437761",
+        "conversation_id": "1967063832645550125",
+        "created_at": "2025-09-14T03:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-14T04:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967063832645550125"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967063832645550125",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 995,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "古代的宗教艺术之所以那么有感染力，主要是因为创作它们的艺术家本身就是虔诚的信徒。艺术作为强大宣传工具的前提就是艺术家的虔诚。老中的主旋律艺术虽然层出不穷，但明眼人都看得出作者其实根本就不信自己宣传的那一套。😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 107,
+          "like_count": 24412,
+          "listed_count": 3,
+          "media_count": 135,
+          "tweet_count": 2631
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2016-05-18T19:30:07.000Z",
+        "description": "I'm fearless.\n\nYouTube:安争鸣/小鸣说",
+        "id": "733016836552437761",
+        "name": "小鸣",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1690345340229341184/ghEkUsA9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23029,
+          "following_count": 241,
+          "like_count": 20662,
+          "listed_count": 76,
+          "media_count": 792,
+          "tweet_count": 2269
+        },
+        "username": "starlightcaesar",
+        "verified": false
+      }
+    ]
+  }
+}

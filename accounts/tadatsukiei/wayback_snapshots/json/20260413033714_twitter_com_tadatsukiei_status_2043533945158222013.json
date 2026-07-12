@@ -1,0 +1,406 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2043489520184905828",
+    "created_at": "2026-04-13T03:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T04:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043533945158222013"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "3178231",
+          "start": 0,
+          "username": "dotey"
+        },
+        {
+          "end": 21,
+          "id": "1843992459162124288",
+          "start": 7,
+          "username": "SolenmeChiara"
+        },
+        {
+          "end": 27,
+          "id": "1605",
+          "start": 22,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043533945158222013",
+    "in_reply_to_user_id": "3178231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043489520184905828",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dotey @SolenmeChiara @sama 你搞这些自导自演，有意思吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1346,
+        "media_key": "3_2043489443202453504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvu0lxX0AAZGUF.jpg",
+        "width": 1920
+      },
+      {
+        "height": 800,
+        "media_key": "3_2043489476396163072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvu2hbXoAAL1bF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2043489520184905828",
+        "created_at": "2026-04-13T03:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T04:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043533945158222013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "3178231",
+              "start": 0,
+              "username": "dotey"
+            },
+            {
+              "end": 21,
+              "id": "1843992459162124288",
+              "start": 7,
+              "username": "SolenmeChiara"
+            },
+            {
+              "end": 27,
+              "id": "1605",
+              "start": 22,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043533945158222013",
+        "in_reply_to_user_id": "3178231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043489520184905828",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dotey @SolenmeChiara @sama 你搞这些自导自演，有意思吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043489443202453504",
+            "3_2043489476396163072"
+          ]
+        },
+        "author_id": "3178231",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2043489520184905828",
+        "created_at": "2026-04-13T00:40:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T01:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043489520184905828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/29JR7jpW7f",
+              "end": 173,
+              "expanded_url": "https://x.com/dotey/status/2043489520184905828/photo/1",
+              "media_key": "3_2043489443202453504",
+              "start": 150,
+              "url": "https://t.co/29JR7jpW7f"
+            },
+            {
+              "display_url": "pic.x.com/29JR7jpW7f",
+              "end": 173,
+              "expanded_url": "https://x.com/dotey/status/2043489520184905828/photo/1",
+              "media_key": "3_2043489476396163072",
+              "start": 150,
+              "url": "https://t.co/29JR7jpW7f"
+            },
+            {
+              "display_url": "x.com/dotey/status/2…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/dotey/status/2042748811014013435",
+              "start": 174,
+              "url": "https://t.co/vZd78wSwrW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043489520184905828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "sfstandard.com/2026/04/12/sam…",
+                "end": 567,
+                "expanded_url": "https://sfstandard.com/2026/04/12/sam-altman-s-home-targeted-second-attack/",
+                "start": 544,
+                "url": "https://t.co/1YHSqE3yAx"
+              }
+            ]
+          },
+          "text": "就在 Sam Altman 贴出全家福、写下那篇深夜反思博文两天后，他的旧金山住宅再次遭到袭击。4 月 12 日凌晨 1 点 40 分，一辆本田轿车在他位于俄罗斯山的房子前停下，副驾乘客伸出手，朝 Lombard Street 一侧开了一枪。车随后逃离，但监控拍到了车牌。\n\n当天下午 4 点 15 分，旧金山警方宣布逮捕两名嫌疑人：25 岁的 Amanda Tom 和 23 岁的 Muhamad Tarik Hussein，罪名是疏忽开枪。\n\n这是 48 小时内的第二起袭击。上周五凌晨，一名来自得克萨斯州的 20 岁男子 Daniel Alejandro Moreno-Gama 向 Altman 住宅的金属大门扔了一枚燃烧瓶。安保人员扑灭了火，监控拍下了全过程。这名嫌疑人随后出现在 OpenAI 位于 Mission Bay 的总部附近，对建筑物发表了威胁言论，被警方当场拘留。他面临的指控包括谋杀未遂和纵火。\n\n两起事件均无人受伤。\n\n两天两起袭击，一起纵火一起枪击，针对的是同一栋房子。Altman 在第一次袭击后写的那篇博文里说，他低估了\"言语和叙事的力量\"。现在看来，他可能也低估了局势恶化的速度。旧金山警方和 OpenAI 都没有对第二起事件发表进一步评论。\n\n来源：https://t.co/1YHSqE3yAx"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 62509,
+          "like_count": 103,
+          "quote_count": 9,
+          "reply_count": 26,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042748811014013435",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "就在 Sam Altman 贴出全家福、写下那篇深夜反思博文两天后，他的旧金山住宅再次遭到袭击。4 月 12 日凌晨 1 点 40 分，一辆本田轿车在他位于俄罗斯山的房子前停下，副驾乘客伸出手，朝 Lombard Street 一侧开了一枪。车随后逃离，但监控拍到了车牌。\n\n当天下午 4 点 15 https://t.co/29JR7jpW7f https://t.co/vZd78wSwrW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 372,
+          "like_count": 80163,
+          "listed_count": 6,
+          "media_count": 371,
+          "tweet_count": 5049
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2007-04-02T03:42:14.000Z",
+        "description": "Prompt Engineer, dedicated to learning and disseminating knowledge about AI, software engineering, and engineering management.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baoyu.io",
+                "end": 23,
+                "expanded_url": "https://baoyu.io",
+                "start": 0,
+                "url": "https://t.co/icobX4A3Ae"
+              }
+            ]
+          }
+        },
+        "id": "3178231",
+        "location": "Chicago, IL",
+        "name": "宝玉",
+        "pinned_tweet_id": "1996285439867556304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/561086911561736192/6_g58vEs_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207197,
+          "following_count": 1601,
+          "like_count": 48753,
+          "listed_count": 3781,
+          "media_count": 5422,
+          "tweet_count": 30992
+        },
+        "url": "https://t.co/icobX4A3Ae",
+        "username": "dotey",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T12:30:52.000Z",
+        "description": "20 | Non-binary | ND | ENG/中文 | Do Not Disturb | Delusional at times🔞 | 🚫 AI-generated image | Apologies for silent follows/RTs just bcs admire your work",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/SolenmeChiara",
+                "end": 23,
+                "expanded_url": "https://vgen.co/SolenmeChiara",
+                "start": 0,
+                "url": "https://t.co/k70hlBRawP"
+              }
+            ]
+          }
+        },
+        "id": "1843992459162124288",
+        "location": "they/them",
+        "name": "SolenmeChiara",
+        "pinned_tweet_id": "1924396954278105575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262449848606720/5ryZwEnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 265,
+          "like_count": 8734,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 1413
+        },
+        "url": "https://t.co/k70hlBRawP",
+        "username": "SolenmeChiara",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4610866,
+          "following_count": 990,
+          "like_count": 1020,
+          "listed_count": 28097,
+          "media_count": 386,
+          "tweet_count": 7508
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

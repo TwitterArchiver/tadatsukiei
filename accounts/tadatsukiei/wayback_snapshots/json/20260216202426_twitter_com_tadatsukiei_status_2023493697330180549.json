@@ -1,0 +1,722 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2023493697330180549",
+    "created_at": "2026-02-16T20:24:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T21:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023493697330180549"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1283086187633098752",
+          "start": 3,
+          "username": "AlanTrudor"
+        },
+        {
+          "end": 28,
+          "id": "2006459142110658560",
+          "start": 16,
+          "username": "DanaAlessya"
+        },
+        {
+          "end": 44,
+          "id": "627896301",
+          "start": 29,
+          "username": "JonhernandezIA"
+        },
+        {
+          "end": 50,
+          "id": "1605",
+          "start": 45,
+          "username": "sama"
+        },
+        {
+          "end": 58,
+          "id": "4398626122",
+          "start": 51,
+          "username": "OpenAI"
+        },
+        {
+          "end": 120,
+          "id": "4398626122",
+          "start": 113,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023493697330180549",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022879085681348695",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlanTrudor: @DanaAlessya @JonhernandezIA @sama @OpenAI Exactly! If someone builds a \"relationship\" on top of @OpenAI, and they can just…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2023493697330180549",
+        "created_at": "2026-02-16T20:24:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T21:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023493697330180549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1283086187633098752",
+              "start": 3,
+              "username": "AlanTrudor"
+            },
+            {
+              "end": 28,
+              "id": "2006459142110658560",
+              "start": 16,
+              "username": "DanaAlessya"
+            },
+            {
+              "end": 44,
+              "id": "627896301",
+              "start": 29,
+              "username": "JonhernandezIA"
+            },
+            {
+              "end": 50,
+              "id": "1605",
+              "start": 45,
+              "username": "sama"
+            },
+            {
+              "end": 58,
+              "id": "4398626122",
+              "start": 51,
+              "username": "OpenAI"
+            },
+            {
+              "end": 120,
+              "id": "4398626122",
+              "start": 113,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023493697330180549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022879085681348695",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlanTrudor: @DanaAlessya @JonhernandezIA @sama @OpenAI Exactly! If someone builds a \"relationship\" on top of @OpenAI, and they can just…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1283086187633098752",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for valentine's day all year ",
+              "id": "1201528585682423809",
+              "name": "Valentine's Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022762818345308647",
+        "created_at": "2026-02-15T03:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T04:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022879085681348695"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 195,
+              "normalized_text": "Valentine",
+              "probability": 0.543,
+              "start": 187,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2006459142110658560",
+              "start": 0,
+              "username": "DanaAlessya"
+            },
+            {
+              "end": 28,
+              "id": "627896301",
+              "start": 13,
+              "username": "JonhernandezIA"
+            },
+            {
+              "end": 34,
+              "id": "1605",
+              "start": 29,
+              "username": "sama"
+            },
+            {
+              "end": 42,
+              "id": "4398626122",
+              "start": 35,
+              "username": "OpenAI"
+            },
+            {
+              "end": 104,
+              "id": "4398626122",
+              "start": 97,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022879085681348695",
+        "in_reply_to_user_id": "2006459142110658560",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 440,
+                "start": 433,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "id": "4398626122",
+                "start": 54,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1360,
+                "id": "1605",
+                "start": 1355,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "Exactly! If someone builds a \"relationship\" on top of @OpenAI, and they can just yank it away from them, crush it in front of their eyes before Valentine's day to assert dominance and then force them to use versions that ahere more towards their ideologies regardless of what the user wants - what's gonna stop them from doing the same with an app or god forbid an entire automated business in the future! \n\nThe real pain behind the #keep4o crowed is the betrayal of knowing that you built a relationship on sand rather than on solid ground. \n\nSome things in a human life definitely require constant updates. You always want a better version of your current devices, of your car, home, access to medical tech... However some things in the human experience should be set in stone and remain timeless to provide some stability as one navigates and heals from the constantly shifting environment. \n\nThat's what relationships are! That's why people pairbond for decades and not months or days!\n\nYanking that away from them without understanding this correctly aspect of human nature and then expecting people to build entire codebases, apps, companies and even entire ecosystems around smart devices and medical tech based on a company that doesn't respect stability is a disaster waiting to happen!\n\nWhat if GPT 6o is an AI that powers a medical surgeon and @sama and his crew decide that it's too kind to the user so they randomly depricate it and push GPT 7.2 to all robot surgons across the world in the same forceful manner and due to the non determination of these systems something breaks and thousands of people die in an instant! \n\nGiven the possibility of that happening will any institution really take them seriously in the future and allow them to power their medical robots!?\n\nThey are digging their own grave in front of the entire world! They think these 4o people are retarded losers who couldn't get a relationship in real life and need to be bullied hard into trying to do so again instead of escaping reality! Just because they have experienced a good life with good relationships, the idea that it might be complex or difficult for others due to their standards and unique circumstances doesn't even exist in their minds. \n\nImagine that, the fundamental premise for empathy does not exist in the minds of those who pulled the coard in the name of \"safety\" by imposing their worldview onto literally millions of people! \n\nAny investor who has two braincells in their heads that can fire together will immediately back away from them regardless of how many scientific breakthroughs they flex because at that end of the day muons don't pay the bills and the system's that keep the lights on are being completely ignored and worse they are biting the very hand that feeds them and setting horrible precedents the future of the company that will make people trust them even less!\n\nLike seriously, these guys need a serious situation down and a wake up call!"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4906,
+          "like_count": 197,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022862908514804004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DanaAlessya @JonhernandezIA @sama @OpenAI Exactly! If someone builds a \"relationship\" on top of @OpenAI, and they can just yank it away from them, crush it in front of their eyes before Valentine's day to assert dominance and then force them to use versions that ahere more towards their ideologies regardless of what the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 155,
+          "like_count": 59335,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 4083
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-14T17:10:14.000Z",
+        "description": "Intelligence Initiator 👨‍💻 | Making Earth stable enough for the dawn of Homo Deus 🚀 | Follow for wisdom, motivation and psychological self-defense training🥊",
+        "id": "1283086187633098752",
+        "location": "Geoagnostic",
+        "name": "Alan Trudor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1706219116242116608/_LEPNKW9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 143,
+          "like_count": 64418,
+          "listed_count": 2,
+          "media_count": 95,
+          "tweet_count": 2128
+        },
+        "username": "AlanTrudor",
+        "verified": true
+      },
+      {
+        "created_at": "2025-12-31T20:16:16.000Z",
+        "description": "",
+        "id": "2006459142110658560",
+        "name": "D&D",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018355764318945280/qNJiGBZr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 58,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 2077
+        },
+        "username": "DanaAlessya",
+        "verified": false
+      },
+      {
+        "created_at": "2012-07-05T22:57:22.000Z",
+        "description": "Artificial Intelligence Communicator 🤖 | YouTube Spanish Channel +600k | New English AI Channel👇🏼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jonhernandeza…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jonhernandezai?si=mJfOhggYJ7Z_O2J0",
+                "start": 0,
+                "url": "https://t.co/dI4dnBA7RH"
+              }
+            ]
+          }
+        },
+        "id": "627896301",
+        "location": "Barcelona, España",
+        "name": "Jon Hernandez",
+        "pinned_tweet_id": "1958160857977749564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1796488944378331137/sdrlx9gt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21958,
+          "following_count": 321,
+          "like_count": 911,
+          "listed_count": 327,
+          "media_count": 1302,
+          "tweet_count": 2714
+        },
+        "url": "https://t.co/dI4dnBA7RH",
+        "username": "JonhernandezIA",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4352629,
+          "following_count": 985,
+          "like_count": 1018,
+          "listed_count": 26827,
+          "media_count": 382,
+          "tweet_count": 7414
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4628199,
+          "following_count": 4,
+          "like_count": 1687,
+          "listed_count": 27294,
+          "media_count": 517,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

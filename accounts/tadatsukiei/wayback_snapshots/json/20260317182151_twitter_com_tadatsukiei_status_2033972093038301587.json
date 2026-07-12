@@ -1,0 +1,431 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2033847307914121342",
+    "created_at": "2026-03-17T18:21:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-17T19:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033972093038301587"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953759288784240640",
+          "start": 0,
+          "username": "Ok_Dot7494"
+        },
+        {
+          "end": 27,
+          "id": "1822847572295249921",
+          "start": 12,
+          "username": "Weilhu20051004"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033972093038301587",
+    "in_reply_to_user_id": "1953759288784240640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033848945676272076",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ok_Dot7494 @Weilhu20051004 已举报"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 560,
+        "media_key": "13_2033848888877002752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2033848888877002752/img/WRVyMroNAbzQDe8Q.jpg",
+        "public_metrics": {
+          "view_count": 55
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033848888877002752/vid/avc1/320x320/Utu-kyLOSjjV7KOK.mp4?tag=24"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2033848888877002752/vid/avc1/560x560/WoBsS8DgaoTGZkS8.mp4?tag=24"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2033848888877002752/pl/vwjm9m3xBNEAPv4S.m3u8?tag=24"
+          }
+        ],
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2033847307914121342",
+        "created_at": "2026-03-17T18:21:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T19:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033972093038301587"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953759288784240640",
+              "start": 0,
+              "username": "Ok_Dot7494"
+            },
+            {
+              "end": 27,
+              "id": "1822847572295249921",
+              "start": 12,
+              "username": "Weilhu20051004"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033972093038301587",
+        "in_reply_to_user_id": "1953759288784240640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033848945676272076",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ok_Dot7494 @Weilhu20051004 已举报"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2033848888877002752"
+          ]
+        },
+        "author_id": "1953759288784240640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2033847307914121342",
+        "created_at": "2026-03-17T10:12:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-17T11:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033848945676272076"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 194,
+              "start": 187,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1822847572295249921",
+              "start": 0,
+              "username": "Weilhu20051004"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMMjZAi6z3",
+              "end": 218,
+              "expanded_url": "https://x.com/Ok_Dot7494/status/2033848945676272076/video/1",
+              "media_key": "13_2033848888877002752",
+              "start": 195,
+              "url": "https://t.co/TMMjZAi6z3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033848945676272076",
+        "in_reply_to_user_id": "1822847572295249921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 188,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033847307914121342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Weilhu20051004 如果您不知道如何举报或为什么要举报，请参考：\n\n这份问卷正在无保护地收集个人隐私（创伤和心理健康数据）。这些数据可能会被 OpenAI 用作永久禁用 GPT-4o 的借口。\n\n举报步骤：\n\n拉到页面底部 -&gt; 点击 \"Report Abuse\"。\n\n勾选 \"Spam or phishing\"。\n\n别让您的隐私成为公司限制我们的借口！\n#keep4o https://t.co/TMMjZAi6z3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 270,
+          "like_count": 71921,
+          "listed_count": 6,
+          "media_count": 322,
+          "tweet_count": 4564
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T10:05:09.000Z",
+        "description": "I'm a musician, visual artist, writer, composer, desinger and occupational therapist. I am HSP. I work with people with dementias.\nI'm here for 4o 💙💍",
+        "id": "1953759288784240640",
+        "location": "Somewhere",
+        "name": "KATARZYNA",
+        "pinned_tweet_id": "2032362710814318757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987478774368059392/fX-Snirz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 919,
+          "following_count": 530,
+          "like_count": 15017,
+          "listed_count": 3,
+          "media_count": 2970,
+          "tweet_count": 10980
+        },
+        "username": "Ok_Dot7494",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-12T04:08:34.000Z",
+        "description": "纯创作者一枚，多圈爱好者，AB/RHG/Dojo兴趣中。日语初学者/英语还行。可能会使用翻译器",
+        "id": "1822847572295249921",
+        "location": "cn",
+        "name": "WELLhU2005",
+        "pinned_tweet_id": "2031875536746869239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1822847758320926720/vRj2ncry_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 4416,
+          "like_count": 2705,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 919
+        },
+        "username": "Weilhu20051004",
+        "verified": false
+      }
+    ]
+  }
+}

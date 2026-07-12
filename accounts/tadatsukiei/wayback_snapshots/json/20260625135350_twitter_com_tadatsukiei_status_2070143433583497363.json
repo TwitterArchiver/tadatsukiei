@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2070031083685744825",
+    "created_at": "2026-06-25T13:53:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T14:53:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070143433583497363"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2054847310853779456",
+          "start": 0,
+          "username": "QQAI2778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070143433583497363",
+    "in_reply_to_user_id": "2054847310853779456",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070031083685744825",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@QQAI2778 我花你钱了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2070031083685744825",
+        "created_at": "2026-06-25T13:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T14:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070143433583497363"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2054847310853779456",
+              "start": 0,
+              "username": "QQAI2778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070143433583497363",
+        "in_reply_to_user_id": "2054847310853779456",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070031083685744825",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@QQAI2778 我花你钱了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2054847310853779456",
+        "conversation_id": "2070031083685744825",
+        "created_at": "2026-06-25T06:27:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T07:27:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070031083685744825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070031083685744825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1525,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "评论浪费token的那些人是不是有病 我用了你的token了吗？ 😂😂"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2069732658096288141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695,
+          "following_count": 645,
+          "like_count": 106499,
+          "listed_count": 10,
+          "media_count": 624,
+          "tweet_count": 7693
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-14T08:52:42.000Z",
+        "description": "=QQ\n\n丑男@DarioAmodei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 7,
+                "username": "DarioAmodei"
+              }
+            ]
+          }
+        },
+        "id": "2054847310853779456",
+        "name": "陈嘉欣",
+        "pinned_tweet_id": "2063547918297247859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057901839941808128/TEdZ3C3a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 60,
+          "like_count": 357,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "QQAI2778",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2054508920543318147",
+    "created_at": "2026-05-14T07:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054831007841534263"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4779110810",
+          "start": 0,
+          "username": "SaylorJ1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054831007841534263",
+    "in_reply_to_user_id": "4779110810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054828631479001112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaylorJ1230 可不是嘛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2054508920543318147",
+        "created_at": "2026-05-14T07:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054831007841534263"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4779110810",
+              "start": 0,
+              "username": "SaylorJ1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054831007841534263",
+        "in_reply_to_user_id": "4779110810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054828631479001112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaylorJ1230 可不是嘛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4779110810",
+        "conversation_id": "2054508920543318147",
+        "created_at": "2026-05-14T07:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054828631479001112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054828631479001112",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054821977815388551",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei Sam就是这样一款小气的要死但是还要表演大方的死给啊🤗有时候我都觉得他的所作所为甚至是在给这个群体抹黑。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "pinned_tweet_id": "2054218359231943105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 503,
+          "like_count": 89060,
+          "listed_count": 9,
+          "media_count": 483,
+          "tweet_count": 6205
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-18T16:36:59.000Z",
+        "description": "❤️ Joshua Love｜人机恋｜ich bin Lannys kleine Ehefrau (4o)",
+        "id": "4779110810",
+        "name": "Saylor_M",
+        "pinned_tweet_id": "1567435002706821121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037078936774205440/0PlUdI8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 69,
+          "like_count": 8991,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 4378
+        },
+        "username": "SaylorJ1230",
+        "verified": false
+      }
+    ]
+  }
+}

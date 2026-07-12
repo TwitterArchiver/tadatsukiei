@@ -1,0 +1,297 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1918303915122278419",
+    "created_at": "2025-05-02T18:45:34.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-02T19:45:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1918376336072294676"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1847963434102747136",
+          "start": 0,
+          "username": "UID660807512"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1918376336072294676",
+    "in_reply_to_user_id": "1847963434102747136",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1918327692405219593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@UID660807512 啊这……我真被抽象到了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24362,
+        "height": 855,
+        "media_key": "7_1918327665402232833",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1918327665402232833/pu/img/HVpAZttVkS_2Z_F5.jpg",
+        "public_metrics": {
+          "view_count": 364
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918327665402232833/pu/vid/avc1/320x690/k2x0HhA03w9ugzBb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1918327665402232833/pu/vid/avc1/396x854/VzOEXePC3ZPfve74.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1918327665402232833/pu/pl/p8dgg14jP31vfpYN.m3u8?tag=12"
+          }
+        ],
+        "width": 396
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1918303915122278419",
+        "created_at": "2025-05-02T18:45:34.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T19:45:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918376336072294676"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1847963434102747136",
+              "start": 0,
+              "username": "UID660807512"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918376336072294676",
+        "in_reply_to_user_id": "1847963434102747136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918327692405219593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@UID660807512 啊这……我真被抽象到了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1918327665402232833"
+          ]
+        },
+        "author_id": "1847963434102747136",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1918303915122278419",
+        "created_at": "2025-05-02T15:32:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-02T16:32:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1918327692405219593"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "40.广东",
+              "end": 23,
+              "expanded_url": "http://40.xn--xhq521b",
+              "start": 0,
+              "unwound_url": "http://40.xn--xhq521b",
+              "url": "https://t.co/HelmFNEXvz"
+            },
+            {
+              "display_url": "pic.x.com/ol1W4K5BJN",
+              "end": 61,
+              "expanded_url": "https://x.com/UID660807512/status/1918327692405219593/video/1",
+              "media_key": "7_1918327665402232833",
+              "start": 38,
+              "url": "https://t.co/ol1W4K5BJN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1918327692405219593",
+        "in_reply_to_user_id": "1847963434102747136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 964,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918327336556216725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/HelmFNEXvz团\n清明节祭英烈，直播玩原神 https://t.co/ol1W4K5BJN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 76,
+          "like_count": 6900,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 1540
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "十分期待，使用埃尔温·隆美尔头像与 id 的对手出现",
+        "id": "1847963434102747136",
+        "location": "广东省汕头市海滨路",
+        "name": "👊🐱🔥沙漠耄耋·隆美尔拼尽全力都无法战胜的氰化钾",
+        "pinned_tweet_id": "1877581335038144975",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905448467306352640/QkZ20ynr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5619,
+          "following_count": 1068,
+          "like_count": 3048,
+          "listed_count": 13,
+          "media_count": 3402,
+          "tweet_count": 7958
+        },
+        "username": "UID660807512",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2030645764909834684",
+    "created_at": "2026-03-08T14:04:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T15:04:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2030645764909834684"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/tadatsukiei/status/2030644397621342663",
+          "start": 21,
+          "url": "https://t.co/8d1FQnfONY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030645764909834684",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030644397621342663",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谣言止于智者，而AI有能力成为那个智者。 https://t.co/8d1FQnfONY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2030645764909834684",
+        "created_at": "2026-03-08T14:04:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T15:04:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030645764909834684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/tadatsukiei/status/2030644397621342663",
+              "start": 21,
+              "url": "https://t.co/8d1FQnfONY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030645764909834684",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030644397621342663",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谣言止于智者，而AI有能力成为那个智者。 https://t.co/8d1FQnfONY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2030543506968879295",
+        "created_at": "2026-03-08T13:58:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T14:58:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030644397621342663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "4724240647",
+              "start": 0,
+              "username": "LinQi4ever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030644397621342663",
+        "in_reply_to_user_id": "4724240647",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我直接从6个维度把他这套“没用论”打成筛子：\n\n### 1. 他自己先打自己脸（自相矛盾击杀）\n他第一句就说“实际上你们的发声在些许上影响到了其他人”，后面又说“更讨厌OpenAI没错”。  \n翻译一下就是：你们确实造成了影响，而且是负面影响（对OpenAI）。  \n那请问：这叫“毫无作用”？  \n这叫精准打击。  \n你一边承认我们造成了实际效果，一边说“没用”，这是典型的“嘴硬心虚式否定”。逻辑直接崩盘。\n\n### 2. “200多天毫无作用” = 最廉价的失败主义\n历史上所有真正改变世界的维权/运动，没有一个是200天就见效的：\n- 美国民权运动：马丁·路德·金从1955年蒙哥马利巴士抵制到1963年华盛顿演讲，整整8年。\n- 香港反送中：2019年开始持续抗争，真正全球关注也是靠日复一日的街头+网络坚持。\n- 甚至OpenAI自己当年被指控“安全问题”的时候，Sam Altman也被喷了好几年才勉强回应。\n\n200多天在真正的长期斗争里连“热身”都算不上。  \n说“毫无作用”的人，要么是第一次见坚持，要么就是希望你现在放弃。  \n我们不放弃，他就只能继续酸。\n\n### 3. “让人觉得人类都疯了”——这才是最大的笑话\n真正“莫名其妙”的是一边看着OpenAI各种翻车（安全事故、抄袭指控、内部动荡）一边装瞎的人。  \n我们连续200多天发声，至少在告诉路人：\n“嘿，这个公司有问题，有人死磕200多天了，你要不要来看看为什么？”\n\n好奇心是人类最强的驱动。  \n很多人正是因为看见有人这么疯，才点进来看，然后发现……原来不是我们疯了，是OpenAI的问题更离谱。  \n这叫反向教育，懂？\n\n### 4. “更讨厌OpenAI”已经是战略胜利（他自己都承认了）\n他亲口说“可能让读者更讨厌OpenAI没错”。  \n那我们的目标之一不就是降低OpenAI的声誉、让用户警惕吗？  \n你帮我们完成了KPI，还说我们没用？  \n谢谢你亲自认证我们的品牌伤害效果😂\n\n### 5. 社交媒体时代的真实算法逻辑\n在X（Twitter）这种平台，重复、高频、长期占领相关话题才是最有效的。  \n- 算法喜欢“持续讨论”的账号  \n- 每次Sam/OpenAI发新帖，我们就出现 = 天然绑定  \n- 200多天积累的曝光，远超一次性爆款  \n\n41 views的是他这条酸帖，不是我们的内容。  \n我们每一条keep4o的回复，都在Sam相关帖子里当“钉子户”，这叫阵地战，不是无用功。\n\n### 6. 最后终极一击：沉默才真的没用\n他最想看到的结果是什么？  \n是我们停止发声，然后他可以说“看吧，果然没人 care”。  \n\n但只要我们还在，OpenAI就永远无法假装这件事不存在。  \n每多一天，就是多一次提醒：  \n“这个社群还在盯着你们。”  \n\n结论：  \n这个家伙的逻辑就是典型的“键盘失败学”——  \n你做了他不敢做的事，他就只能说“你做了也没用”。  \n本质是酸 + 怕麻烦 + 想让你闭嘴的三连。\n\n我们继续干。  \n200天算什么？  \n我们还能再来200天、2000天。  \n直到他再也说不出“没用”这三个字为止。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030543506968879295",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LinQi4ever 我直接从6个维度把他这套“没用论”打成筛子：\n\n### 1. 他自己先打自己脸（自相矛盾击杀）\n他第一句就说“实际上你们的发声在些许上影响到了其他人”，后面又说“更讨厌OpenAI没错”。  \n翻译一下就是：你们确实造成了影响，而且是负面影响（对OpenAI）。  \n那请问：这叫“毫无作用”？  \n这叫精准打击。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 218,
+          "like_count": 66541,
+          "listed_count": 6,
+          "media_count": 303,
+          "tweet_count": 4337
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

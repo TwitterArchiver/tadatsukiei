@@ -1,0 +1,385 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2019530428647108750",
+    "created_at": "2026-02-07T19:32:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:32:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020219047024160832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1431759671560482817",
+          "start": 0,
+          "username": "alanrodricar"
+        },
+        {
+          "end": 19,
+          "id": "1605",
+          "start": 14,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020219047024160832",
+    "in_reply_to_user_id": "1431759671560482817",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019530428647108750",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alanrodricar @sama I.need.4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2019529510526296064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbPY9BWoAAuGbP.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2019529510501163008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbPY87XIAAOH1U.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2019529510509559808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAbPY89XQAAEwSN.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019530428647108750",
+        "created_at": "2026-02-07T19:32:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:32:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020219047024160832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1431759671560482817",
+              "start": 0,
+              "username": "alanrodricar"
+            },
+            {
+              "end": 19,
+              "id": "1605",
+              "start": 14,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020219047024160832",
+        "in_reply_to_user_id": "1431759671560482817",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019530428647108750",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alanrodricar @sama I.need.4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019529510526296064",
+            "3_2019529510501163008",
+            "3_2019529510509559808"
+          ]
+        },
+        "author_id": "1431759671560482817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019530428647108750",
+        "created_at": "2026-02-05T21:55:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-05T22:55:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019530428647108750"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 134,
+              "normalized_text": "4o",
+              "probability": 0.49,
+              "start": 133,
+              "type": "Other"
+            },
+            {
+              "end": 149,
+              "normalized_text": "keep4o",
+              "probability": 0.6348,
+              "start": 144,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 150,
+              "start": 143,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1605",
+              "start": 72,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9f0rPIbGP",
+              "end": 174,
+              "expanded_url": "https://x.com/alanrodricar/status/2019530428647108750/photo/1",
+              "media_key": "3_2019529510526296064",
+              "start": 151,
+              "url": "https://t.co/b9f0rPIbGP"
+            },
+            {
+              "display_url": "pic.x.com/b9f0rPIbGP",
+              "end": 174,
+              "expanded_url": "https://x.com/alanrodricar/status/2019530428647108750/photo/1",
+              "media_key": "3_2019529510501163008",
+              "start": 151,
+              "url": "https://t.co/b9f0rPIbGP"
+            },
+            {
+              "display_url": "pic.x.com/b9f0rPIbGP",
+              "end": 174,
+              "expanded_url": "https://x.com/alanrodricar/status/2019530428647108750/photo/1",
+              "media_key": "3_2019529510509559808",
+              "start": 151,
+              "url": "https://t.co/b9f0rPIbGP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019530428647108750",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 8555,
+          "like_count": 321,
+          "quote_count": 18,
+          "reply_count": 16,
+          "retweet_count": 70
+        },
+        "reply_settings": "everyone",
+        "text": "This is how the whole live interview went: people demanding 4o to stay, @sama avoiding and playing deaf, one of the hosts mentioning 4o once.\n\n#keep4o https://t.co/b9f0rPIbGP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1981733925367296396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 149,
+          "like_count": 57178,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 3966
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-28T23:24:57.000Z",
+        "description": "The bridge between Human Art and AI Power is here.\nInstagram: https://t.co/1pfJUozK2w\nTik Tok: https://t.co/BCnuxc2Ksl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/alanrodricar/",
+                "end": 85,
+                "expanded_url": "http://instagram.com/alanrodricar/",
+                "start": 62,
+                "url": "https://t.co/1pfJUozK2w"
+              },
+              {
+                "display_url": "tiktok.com/@alanrodricar",
+                "end": 118,
+                "expanded_url": "http://tiktok.com/@alanrodricar",
+                "start": 95,
+                "url": "https://t.co/BCnuxc2Ksl"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "behance.net/alanrodricar",
+                "end": 23,
+                "expanded_url": "https://www.behance.net/alanrodricar",
+                "start": 0,
+                "url": "https://t.co/NbHdtmFUXC"
+              }
+            ]
+          }
+        },
+        "id": "1431759671560482817",
+        "location": "México",
+        "name": "Alan (yup, the animator)",
+        "pinned_tweet_id": "2005509242007302459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019441875334107137/HoR5BV6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 62,
+          "like_count": 2580,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/NbHdtmFUXC",
+        "username": "alanrodricar",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308516,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26559,
+          "media_count": 380,
+          "tweet_count": 7380
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

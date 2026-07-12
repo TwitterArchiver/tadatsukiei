@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1959195591847903446",
+    "created_at": "2025-08-23T11:28:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-23T12:28:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1959216238099567062"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1959216238099567062",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959195591847903446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot 我觉得なんいみ大多时候是在用疑惑隐喻不满"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1116,
+        "media_key": "3_1959195582100377601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzB2AGybkAEv-So.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1959195591847903446",
+        "created_at": "2025-08-23T11:28:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T12:28:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1959216238099567062"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959216238099567062",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959195591847903446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 我觉得なんいみ大多时候是在用疑惑隐喻不满"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1959195582100377601"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "1959195591847903446",
+        "created_at": "2025-08-23T10:06:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-23T11:06:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959195591847903446"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6dwKrvatcF",
+              "end": 23,
+              "expanded_url": "https://x.com/whyuounot/status/1959195591847903446/photo/1",
+              "media_key": "3_1959195582100377601",
+              "start": 0,
+              "url": "https://t.co/6dwKrvatcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1959195591847903446",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2038,
+          "like_count": 74,
+          "quote_count": 1,
+          "reply_count": 24,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/6dwKrvatcF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 102,
+          "like_count": 19301,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 2397
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1939668050128908726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1958920538589732865/ya4nJUF6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7502,
+          "following_count": 1159,
+          "like_count": 8006,
+          "listed_count": 15,
+          "media_count": 2029,
+          "tweet_count": 14007
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

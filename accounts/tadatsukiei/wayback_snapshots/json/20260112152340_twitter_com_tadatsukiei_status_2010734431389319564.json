@@ -1,0 +1,350 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2010482750458097929",
+    "created_at": "2026-01-12T15:23:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-12T16:23:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2010734431389319564"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1269196211447148545",
+          "start": 0,
+          "username": "yuuui__sub"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2010734431389319564",
+    "in_reply_to_user_id": "1269196211447148545",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2010482750458097929",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuuui__sub 良いじゃない〜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2010482719709646848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-arYa9a0AABvlO.jpg",
+        "width": 1736
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2010482719713873921",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-arYa-bUAE4sTa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2010482750458097929",
+        "created_at": "2026-01-12T15:23:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-12T16:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010734431389319564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1269196211447148545",
+              "start": 0,
+              "username": "yuuui__sub"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010734431389319564",
+        "in_reply_to_user_id": "1269196211447148545",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2010482750458097929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuuui__sub 良いじゃない〜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2010482719709646848",
+            "3_2010482719713873921"
+          ]
+        },
+        "author_id": "1269196211447148545",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for all years for 成人式 (A Coming‐Of‐Age Ceremony)",
+              "id": "1333426778145058817",
+              "name": "成人式 (A Coming‐Of‐Age Ceremony)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for Coming of Age day for all years.\n",
+              "id": "1322279676769755136",
+              "name": "Coming of age day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2010482750458097929",
+        "created_at": "2026-01-11T22:43:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-11T23:43:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2010482750458097929"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 36,
+              "tag": "成人の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eyVTn4jAim",
+              "end": 65,
+              "expanded_url": "https://x.com/yuuui__sub/status/2010482750458097929/photo/1",
+              "media_key": "3_2010482719709646848",
+              "start": 42,
+              "url": "https://t.co/eyVTn4jAim"
+            },
+            {
+              "display_url": "pic.x.com/eyVTn4jAim",
+              "end": 65,
+              "expanded_url": "https://x.com/yuuui__sub/status/2010482750458097929/photo/1",
+              "media_key": "3_2010482719713873921",
+              "start": 42,
+              "url": "https://t.co/eyVTn4jAim"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2010482750458097929",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 725,
+          "impression_count": 264083,
+          "like_count": 8954,
+          "quote_count": 25,
+          "reply_count": 27,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "成人式懐かしいなぁ〜😂😂😂\n⬅️当時の俺\n　　　　　　　　現在の私➡️\n#成人の日 https://t.co/eyVTn4jAim"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1981733925367296396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 225,
+          "following_count": 127,
+          "like_count": 52214,
+          "listed_count": 7,
+          "media_count": 244,
+          "tweet_count": 3700
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-06-06T09:15:42.000Z",
+        "description": "見ての通りおとこです。サブ(@miiio__chan1 )プレゼントくれたら超超喜んでお礼します↓↓↓ #女装 #男の娘ᅠ #crossdresser",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 52,
+                "tag": "女装"
+              },
+              {
+                "end": 61,
+                "start": 56,
+                "tag": "男の娘ᅠ"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "tag": "crossdresser"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 27,
+                "start": 14,
+                "username": "miiio__chan1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.jp/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.jp/hz/wishlist/ls/MRQWKJFO3DN3?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/y7l3KHHI8A"
+              }
+            ]
+          }
+        },
+        "id": "1269196211447148545",
+        "name": "唯。",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923873859674988544/KkK1wEi2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4583,
+          "following_count": 623,
+          "like_count": 791,
+          "listed_count": 13,
+          "media_count": 160,
+          "tweet_count": 779
+        },
+        "url": "https://t.co/y7l3KHHI8A",
+        "username": "yuuui__sub",
+        "verified": true
+      }
+    ]
+  }
+}

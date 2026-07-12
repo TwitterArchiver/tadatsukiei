@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2037395426329100647",
+    "created_at": "2026-03-27T19:58:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-27T20:58:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037620170089513190"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1536879871694999553",
+          "start": 0,
+          "username": "seitenkanna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037620170089513190",
+    "in_reply_to_user_id": "1536879871694999553",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037395426329100647",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@seitenkanna 嗯……我是右边那种。从小活在泥潭里，现在总算爬出来了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 791,
+        "media_key": "3_2037395419718918144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEZIVvNaoAAm0cX.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2037395426329100647",
+        "created_at": "2026-03-27T19:58:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T20:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037620170089513190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1536879871694999553",
+              "start": 0,
+              "username": "seitenkanna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037620170089513190",
+        "in_reply_to_user_id": "1536879871694999553",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037395426329100647",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@seitenkanna 嗯……我是右边那种。从小活在泥潭里，现在总算爬出来了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2037395419718918144"
+          ]
+        },
+        "author_id": "1536879871694999553",
+        "conversation_id": "2037395426329100647",
+        "created_at": "2026-03-27T05:04:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T06:04:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037395426329100647"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/O6wLAr4hOc",
+              "end": 23,
+              "expanded_url": "https://x.com/seitenkanna/status/2037395426329100647/photo/1",
+              "media_key": "3_2037395419718918144",
+              "start": 0,
+              "url": "https://t.co/O6wLAr4hOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037395426329100647",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 20027,
+          "like_count": 1160,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/O6wLAr4hOc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356,
+          "following_count": 340,
+          "like_count": 76475,
+          "listed_count": 6,
+          "media_count": 341,
+          "tweet_count": 4804
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-15T01:15:55.000Z",
+        "description": "一位在魔界練習偽聲實況的陰角魅魔大叔\nFA:#晴天繪 直播:#天晴放送 FN:#Master\n棉花糖:https://t.co/O6HztSuX6j\n圖奇:https://t.co/YkKOU5z2az \nDC群:https://t.co/5dcpXrExHx",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 26,
+                "start": 22,
+                "tag": "晴天繪"
+              },
+              {
+                "end": 35,
+                "start": 30,
+                "tag": "天晴放送"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "tag": "Master"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/seitenkanna",
+                "end": 74,
+                "expanded_url": "http://marshmallow-qa.com/seitenkanna",
+                "start": 51,
+                "url": "https://t.co/O6HztSuX6j"
+              },
+              {
+                "display_url": "twitch.tv/seitenkanna",
+                "end": 101,
+                "expanded_url": "https://www.twitch.tv/seitenkanna",
+                "start": 78,
+                "url": "https://t.co/YkKOU5z2az"
+              },
+              {
+                "display_url": "discord.gg/EbKZJbrYtJ",
+                "end": 130,
+                "expanded_url": "https://discord.gg/EbKZJbrYtJ",
+                "start": 107,
+                "url": "https://t.co/5dcpXrExHx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@seiten_kanna",
+                "end": 23,
+                "expanded_url": "http://youtube.com/@seiten_kanna",
+                "start": 0,
+                "url": "https://t.co/SRtlcPGY3c"
+              }
+            ]
+          }
+        },
+        "id": "1536879871694999553",
+        "location": "魔界",
+        "name": "晴天神奈@兩聲類Vtuber",
+        "pinned_tweet_id": "1713829179014426931",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991793225141825536/rU2YpGKA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7137,
+          "following_count": 689,
+          "like_count": 21680,
+          "listed_count": 37,
+          "media_count": 2732,
+          "tweet_count": 13507
+        },
+        "url": "https://t.co/SRtlcPGY3c",
+        "username": "seitenkanna",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1975509929617403997",
+    "created_at": "2025-10-08T11:43:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-08T12:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975889864525856952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "940403420766150656",
+          "start": 0,
+          "username": "Necokeine"
+        },
+        {
+          "end": 21,
+          "id": "1909553877739085825",
+          "start": 11,
+          "username": "heshan258"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975889864525856952",
+    "in_reply_to_user_id": "940403420766150656",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975871218504130878",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Necokeine @heshan258 不，我的意思是，你要不检查检查你打的是个啥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1975509929617403997",
+        "created_at": "2025-10-08T11:43:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T12:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975889864525856952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "940403420766150656",
+              "start": 0,
+              "username": "Necokeine"
+            },
+            {
+              "end": 21,
+              "id": "1909553877739085825",
+              "start": 11,
+              "username": "heshan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975889864525856952",
+        "in_reply_to_user_id": "940403420766150656",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975871218504130878",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Necokeine @heshan258 不，我的意思是，你要不检查检查你打的是个啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "940403420766150656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1975509929617403997",
+        "created_at": "2025-10-08T10:29:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T11:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975871218504130878"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 23,
+              "id": "1909553877739085825",
+              "start": 13,
+              "username": "heshan258"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975871218504130878",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975840555180724700",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei @heshan258 想表达自己不会日语时候的用语，比如面对Nhk收钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 106,
+          "like_count": 28907,
+          "listed_count": 3,
+          "media_count": 146,
+          "tweet_count": 2779
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2017-12-12T02:10:22.000Z",
+        "description": "Go, Dream, Deliver 中文, English と日本语\n到处出现，到处消失。\n旅が大好き、色々な場に行きたいです。\nPowtain 开发者\n Telegram: https://t.co/xaFd1fKnqO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/necokeine",
+                "end": 112,
+                "expanded_url": "https://t.me/necokeine",
+                "start": 89,
+                "url": "https://t.co/xaFd1fKnqO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "web.powtain.com/home",
+                "end": 23,
+                "expanded_url": "http://web.powtain.com/home",
+                "start": 0,
+                "url": "https://t.co/yf7pbmpfJG"
+              }
+            ]
+          }
+        },
+        "id": "940403420766150656",
+        "location": "上海",
+        "name": "知识和历史的半兽",
+        "pinned_tweet_id": "1943363060758122572",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1501095595838439427/ANgAmBua_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 463,
+          "like_count": 7278,
+          "listed_count": 3,
+          "media_count": 33,
+          "tweet_count": 4402
+        },
+        "url": "https://t.co/yf7pbmpfJG",
+        "username": "Necokeine",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "坐标🇯🇵東京／🇨🇳武汉｜🏳️‍⚧️07伪娘｜🌊自由民主｜🏳️‍🌈友跨友同｜🍯包蜜｜🍀雏草姬｜舞萌痴｜纯搞抽象乐子人 日本語勉强中 喜欢看番玩galgame和打各种音游二游 欢迎友好交流 极端魔怔人会b 时不时更新奇异搞笑幽默抽象TV和女装",
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960310976596889600/7GPALHar_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7765,
+          "following_count": 694,
+          "like_count": 890,
+          "listed_count": 31,
+          "media_count": 531,
+          "tweet_count": 922
+        },
+        "username": "heshan258",
+        "verified": false
+      }
+    ]
+  }
+}

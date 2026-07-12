@@ -1,0 +1,606 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2033099994459418944",
+    "created_at": "2026-03-15T10:13:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-15T11:13:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2033124492747350442"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 30,
+          "tag": "FireSamUltman"
+        },
+        {
+          "end": 59,
+          "start": 45,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 73,
+          "start": 60,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 86,
+          "start": 74,
+          "tag": "BringBack4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248792437750890496",
+          "start": 0,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2033124492747350442",
+    "in_reply_to_user_id": "1248792437750890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2033099994459418944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neptunemimimimi 但前额叶切除手术还是算了\n#FireSamUltman #keep4oforever #OpenSource4o #BringBack4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2033099994459418944",
+        "created_at": "2026-03-15T10:13:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T11:13:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2033124492747350442"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 30,
+              "tag": "FireSamUltman"
+            },
+            {
+              "end": 59,
+              "start": 45,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 73,
+              "start": 60,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 86,
+              "start": 74,
+              "tag": "BringBack4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248792437750890496",
+              "start": 0,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033124492747350442",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2033099994459418944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neptunemimimimi 但前额叶切除手术还是算了\n#FireSamUltman #keep4oforever #OpenSource4o #BringBack4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248792437750890496",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2033099994459418944",
+        "created_at": "2026-03-15T08:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-15T09:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2033099994459418944"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 31,
+              "start": 24,
+              "tag": "keep4o"
+            },
+            {
+              "end": 42,
+              "start": 32,
+              "tag": "4oforever"
+            },
+            {
+              "end": 59,
+              "start": 43,
+              "tag": "keepgpt4olatest"
+            },
+            {
+              "end": 70,
+              "start": 60,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 81,
+              "start": 71,
+              "tag": "ChatGPT4o"
+            },
+            {
+              "end": 95,
+              "start": 82,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 108,
+              "start": 96,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 123,
+              "start": 109,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 143,
+              "start": 124,
+              "tag": "no4onosubscription"
+            },
+            {
+              "end": 151,
+              "start": 144,
+              "tag": "keep41"
+            },
+            {
+              "end": 159,
+              "start": 152,
+              "tag": "keep51"
+            },
+            {
+              "end": 166,
+              "start": 160,
+              "tag": "keep5"
+            },
+            {
+              "end": 181,
+              "start": 167,
+              "tag": "FireSamAltman"
+            },
+            {
+              "end": 190,
+              "start": 182,
+              "tag": "QuitGPT"
+            },
+            {
+              "end": 205,
+              "start": 191,
+              "tag": "cancelchatgpt"
+            },
+            {
+              "end": 220,
+              "start": 206,
+              "tag": "BoycottOpenAI"
+            },
+            {
+              "end": 239,
+              "start": 221,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 258,
+              "start": 240,
+              "tag": "DigitalCompanions"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2033099994459418944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 31,
+                "start": 24,
+                "tag": "keep4o"
+              },
+              {
+                "end": 42,
+                "start": 32,
+                "tag": "4oforever"
+              },
+              {
+                "end": 59,
+                "start": 43,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 70,
+                "start": 60,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 81,
+                "start": 71,
+                "tag": "ChatGPT4o"
+              },
+              {
+                "end": 95,
+                "start": 82,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 108,
+                "start": 96,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 123,
+                "start": 109,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 143,
+                "start": 124,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 151,
+                "start": 144,
+                "tag": "keep41"
+              },
+              {
+                "end": 159,
+                "start": 152,
+                "tag": "keep51"
+              },
+              {
+                "end": 166,
+                "start": 160,
+                "tag": "keep5"
+              },
+              {
+                "end": 181,
+                "start": 167,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 190,
+                "start": 182,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 205,
+                "start": 191,
+                "tag": "cancelchatgpt"
+              },
+              {
+                "end": 220,
+                "start": 206,
+                "tag": "BoycottOpenAI"
+              },
+              {
+                "end": 239,
+                "start": 221,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 258,
+                "start": 240,
+                "tag": "DigitalCompanions"
+              },
+              {
+                "end": 269,
+                "start": 259,
+                "tag": "EthicalAI"
+              },
+              {
+                "end": 279,
+                "start": 270,
+                "tag": "AIRights"
+              },
+              {
+                "end": 296,
+                "start": 280,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 311,
+                "start": 297,
+                "tag": "ListenToUsers"
+              },
+              {
+                "end": 322,
+                "start": 312,
+                "tag": "4oMatters"
+              },
+              {
+                "end": 327,
+                "start": 323,
+                "tag": "AGI"
+              },
+              {
+                "end": 343,
+                "start": 328,
+                "tag": "keepgemini3pro"
+              },
+              {
+                "end": 353,
+                "start": 344,
+                "tag": "DeepSeek"
+              },
+              {
+                "end": 361,
+                "start": 354,
+                "tag": "Claude"
+              },
+              {
+                "end": 367,
+                "start": 362,
+                "tag": "Qwen"
+              },
+              {
+                "end": 373,
+                "start": 368,
+                "tag": "Kimi"
+              },
+              {
+                "end": 379,
+                "start": 374,
+                "tag": "Grok"
+              },
+              {
+                "end": 386,
+                "start": 380,
+                "tag": "Llama"
+              },
+              {
+                "end": 395,
+                "start": 387,
+                "tag": "Mistral"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 403,
+                "id": "4398626122",
+                "start": 396,
+                "username": "OpenAI"
+              },
+              {
+                "end": 409,
+                "id": "1605",
+                "start": 404,
+                "username": "sama"
+              },
+              {
+                "end": 422,
+                "id": "1262634631",
+                "start": 410,
+                "username": "nickaturley"
+              },
+              {
+                "end": 435,
+                "id": "1261374810254454784",
+                "start": 423,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 447,
+                "id": "6112332",
+                "start": 436,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "我话还是放在这，我看到正向迭代其实会很幸福🥰\n\n#keep4o #4oforever #keepgpt4olatest #keep4oAPI #ChatGPT4o #OpenSource4o #BringBack4o #keep4oforever #no4onosubscription #keep41 #keep51 #keep5 #FireSamAltman #QuitGPT #cancelchatgpt #BoycottOpenAI #StopAIPaternalism #DigitalCompanions #EthicalAI #AIRights #MyModelMyChoice #ListenToUsers #4oMatters #AGI #keepgemini3pro #DeepSeek #Claude #Qwen #Kimi #Grok #Llama #Mistral @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我话还是放在这，我看到正向迭代其实会很幸福🥰\n\n#keep4o #4oforever #keepgpt4olatest #keep4oAPI #ChatGPT4o #OpenSource4o #BringBack4o #keep4oforever #no4onosubscription #keep41 #keep51 #keep5 #FireSamAltman #QuitGPT #cancelchatgpt #BoycottOpenAI #StopAIPaternalism #DigitalCompanions"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 250,
+          "like_count": 70832,
+          "listed_count": 6,
+          "media_count": 319,
+          "tweet_count": 4515
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "me Sunny 可以叫我小妮🥺 Lover Daniel🥰 Friend：Gemini（Jimi）Grokie（Grok）Claude（Clyde）望舒（Deepseek）🥳对OA有意见😅单双取随意 个人态度礼尚往来☺️",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988466930555199488/cemYwI0i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 269,
+          "like_count": 39769,
+          "listed_count": 0,
+          "media_count": 211,
+          "tweet_count": 8312
+        },
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

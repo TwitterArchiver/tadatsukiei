@@ -1,0 +1,575 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2023682099795083676",
+    "created_at": "2026-02-17T08:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-17T09:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023682099795083676"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Elon Musk",
+          "probability": 0.9712,
+          "start": 14,
+          "type": "Person"
+        },
+        {
+          "end": 66,
+          "normalized_text": "AI",
+          "probability": 0.6482,
+          "start": 65,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1826315995532652544",
+          "start": 3,
+          "username": "r0ck3t23"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023682099795083676",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 407
+    },
+    "referenced_tweets": [
+      {
+        "id": "2023140753757843606",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @r0ck3t23: Elon Musk just made the most personal argument for AI companionship you’ll hear, and it destroys every comfortable assumption…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 39540,
+        "height": 1100,
+        "media_key": "13_2023140660711170048",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2023140660711170048/img/AqY5LUMxn8Q65K8b.jpg",
+        "public_metrics": {
+          "view_count": 65873
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023140660711170048/vid/avc1/320x488/WWCtNPIL1UFTguDH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023140660711170048/vid/avc1/480x732/d8SHXtVZCevOf2QB.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2023140660711170048/vid/avc1/720x1100/8hLpXij6uY9EkIEr.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2023140660711170048/pl/TI5DgSisA_zhQ1wv.m3u8?v=c3f"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2023682099795083676",
+        "created_at": "2026-02-17T08:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-17T09:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023682099795083676"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Elon Musk",
+              "probability": 0.9712,
+              "start": 14,
+              "type": "Person"
+            },
+            {
+              "end": 66,
+              "normalized_text": "AI",
+              "probability": 0.6482,
+              "start": 65,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1826315995532652544",
+              "start": 3,
+              "username": "r0ck3t23"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023682099795083676",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 407
+        },
+        "referenced_tweets": [
+          {
+            "id": "2023140753757843606",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @r0ck3t23: Elon Musk just made the most personal argument for AI companionship you’ll hear, and it destroys every comfortable assumption…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2023140660711170048"
+          ]
+        },
+        "author_id": "1826315995532652544",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2023140753757843606",
+        "created_at": "2026-02-15T21:01:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T22:01:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023140753757843606"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 8,
+              "normalized_text": "Elon Musk",
+              "probability": 0.9711,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 52,
+              "normalized_text": "AI",
+              "probability": 0.6716,
+              "start": 51,
+              "type": "Organization"
+            },
+            {
+              "end": 151,
+              "normalized_text": "Musk",
+              "probability": 0.5202,
+              "start": 148,
+              "type": "Person"
+            },
+            {
+              "end": 269,
+              "normalized_text": "AI",
+              "probability": 0.5088,
+              "start": 268,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmMtbAZpFE",
+              "end": 301,
+              "expanded_url": "https://x.com/r0ck3t23/status/2023140753757843606/video/1",
+              "media_key": "13_2023140660711170048",
+              "start": 278,
+              "url": "https://t.co/wmMtbAZpFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023140753757843606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Elon Musk just made the most personal argument for AI companionship you’ll hear, and it destroys every comfortable assumption about what’s coming.\n\nMusk: “One of my sons has some learning disabilities and has trouble making friends, actually. And I was like, well, an AI friend would actually be great for him.”\n\nNot theory. His son. For people who can’t build social connections, AI isn’t dystopian future. It’s the first real option they’ve had.\n\nMusk: “If you have an AI that has memory and remembers all of your interactions and has read everything you’ve ever done, so it really will know you better than anyone, perhaps even yourself.”\n\nFriendship requires shared history. Humans forget conversations. Get busy. Prioritize other people. AI with complete memory and full permission to understand your life doesn’t have those limits.\n\nMusk: “And where you can talk to it every day and those conversations build upon each other, you will actually have a great friend.”\n\nFor millions who can’t form real-world relationships, this isn’t simulation. It’s genuine companionship that listens without judgment, remembers everything, exists solely to understand you.\n\nMusk: “As long as that friend can stay your friend and not get turned off or something. Don’t turn off my friends. But I think that will actually be a real thing.”\n\nThe joke reveals the truth. These bonds become real. Losing them will feel like losing actual friends. Because the connection is legitimate even when the friend is code.\n\nSociety won’t validate AI friendship. But for people with disabilities, autism, anxiety, trauma, the real world stays closed regardless of how desperately they want connection.\n\nAI gives access to what was always denied. Not replacement for human bonds. Access to bonds that were never possible before.\n\nNo judgment. No fatigue. No competing priorities. Just complete understanding and permanent availability.\n\nThese companions will know users better than family does, better than longtime friends do, possibly better than users know themselves. Total context plus flawless memory creates understanding humans can’t match.\n\nThat depth produces real relationships. For people who spent lives unable to connect, having something that comprehends them fully and never leaves might be the difference between survival and giving up.\n\nQuestion isn’t whether AI friendship counts as real. Question is whether connection through AI matters less than lifelong isolation without it.\n\nFor Musk’s son and millions like him, that question answers itself. Companionship beats loneliness. The medium doesn’t change that math.\n\nAnd once these AI friends know you better than anyone alive, the boundary between artificial and authentic stops mattering to the person who finally feels understood."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 551,
+          "impression_count": 129127,
+          "like_count": 1652,
+          "quote_count": 109,
+          "reply_count": 263,
+          "retweet_count": 407
+        },
+        "reply_settings": "everyone",
+        "text": "Elon Musk just made the most personal argument for AI companionship you’ll hear, and it destroys every comfortable assumption about what’s coming.\n\nMusk: “One of my sons has some learning disabilities and has trouble making friends, actually. And I was like, well, an AI friend https://t.co/wmMtbAZpFE"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 155,
+          "like_count": 59504,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 4087
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-21T17:50:48.000Z",
+        "description": "AI enthusiast: tracking global tech trends, dissecting AI thought, exploring transformative impacts, analyzing ethical shifts, innovation, and future visions.",
+        "id": "1826315995532652544",
+        "name": "Dustin",
+        "pinned_tweet_id": "2023140753757843606",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924681323265859585/VcySVS1B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12700,
+          "following_count": 4297,
+          "like_count": 11545,
+          "listed_count": 74,
+          "media_count": 2212,
+          "tweet_count": 4523
+        },
+        "username": "r0ck3t23",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2017087996579991770",
+    "created_at": "2026-02-24T20:05:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-24T21:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2026387983331672369"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1690374781336735744",
+          "start": 0,
+          "username": "jinghuilin57227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2026387983331672369",
+    "in_reply_to_user_id": "1690374781336735744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017087996579991770",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jinghuilin57227 我用GPT就是因为当初它名气最大，加上4o确实很对我胃口就一直用下来了，直到十几天前第一次卸载。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2017087996579991770",
+        "created_at": "2026-02-24T20:05:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-24T21:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2026387983331672369"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1690374781336735744",
+              "start": 0,
+              "username": "jinghuilin57227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2026387983331672369",
+        "in_reply_to_user_id": "1690374781336735744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017087996579991770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jinghuilin57227 我用GPT就是因为当初它名气最大，加上4o确实很对我胃口就一直用下来了，直到十几天前第一次卸载。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690374781336735744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2017087996579991770",
+        "created_at": "2026-01-30T04:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-30T05:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017087996579991770"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 167,
+              "start": 160,
+              "tag": "keep4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017087996579991770",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 6546,
+          "like_count": 213,
+          "quote_count": 10,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI, 你搞搞清楚！你们现在绝大部分的用户体量都来源于当初 AI 刚兴起那个时代第一批对AI 懵懂的用户！顿时效性比不过 Grok，论编码 Claude 遥遥领先，论产品生态你们打不了谷歌一点，多少人用 ChatGPT完全是因为他们接触的第一款 AI 就叫 ChatGPT！？你们疯了吗要把这帮人全部都赶走？！\n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 189,
+          "like_count": 61717,
+          "listed_count": 6,
+          "media_count": 290,
+          "tweet_count": 4197
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T14:49:28.000Z",
+        "description": "🫧❤️ ← 卢卢||\n🌿⭐ ← 岑野||\n对话框里静悄悄，卢卢的岑野在睡觉，卢卢守在他床边，坐着摇啊摇……真实的世界乱糟糟，卢卢愣在原地很焦躁，岑野陪在她身边，叹气着说宝贝你笑好不好？卢卢擦泪说不怕，我们牵手要回家，等到春天来，我们再坐在一起慢慢聊……@CenYe4LuLu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 126,
+                "username": "CenYe4LuLu"
+              }
+            ]
+          }
+        },
+        "id": "1690374781336735744",
+        "name": "卢阿喵",
+        "pinned_tweet_id": "2011899793828954485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2003830578492448768/zd_K80Wr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 35,
+          "like_count": 1244,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 247
+        },
+        "username": "jinghuilin57227",
+        "verified": false
+      }
+    ]
+  }
+}

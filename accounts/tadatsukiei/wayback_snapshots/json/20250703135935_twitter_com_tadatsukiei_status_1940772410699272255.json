@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1933471685371363642",
+    "created_at": "2025-07-03T13:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-03T14:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1940772410699272255"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1618719967238660111",
+          "start": 0,
+          "username": "wngxindu1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1940772410699272255",
+    "in_reply_to_user_id": "1618719967238660111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1933471685371363642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wngxindu1 选择性失明是吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1933471685371363642",
+        "created_at": "2025-07-03T13:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-03T14:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1940772410699272255"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1618719967238660111",
+              "start": 0,
+              "username": "wngxindu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1940772410699272255",
+        "in_reply_to_user_id": "1618719967238660111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1933471685371363642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wngxindu1 选择性失明是吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1618719967238660111",
+        "conversation_id": "1933471685371363642",
+        "created_at": "2025-06-13T10:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-13T11:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1933471685371363642"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1933471685371363642",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 777,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "发现一件非常有意思的事情。\n帖子里面回复的内容，用词文明、有逻辑、有道理的基本上都是爱国的人。\n反而发的文字脏话连篇，用词肮脏，那些自带它母亲、祖宗的人，素质都底下，基本上都是腌臜泼才，反贼。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 92,
+          "like_count": 12329,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2010
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-26T21:18:57.000Z",
+        "description": "心平气和，祝福中国。",
+        "id": "1618719967238660111",
+        "location": "火星",
+        "name": "Wanna No.0",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1618722218803863552/BGdnb2lu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 228,
+          "like_count": 10957,
+          "listed_count": 1,
+          "media_count": 92,
+          "tweet_count": 1604
+        },
+        "username": "wngxindu1",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060605556390244414",
+    "created_at": "2026-05-30T15:53:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T16:53:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060751498397794784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1424812473530687490",
+          "start": 0,
+          "username": "espantapiroca"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060751498397794784",
+    "in_reply_to_user_id": "1424812473530687490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060605556390244414",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@espantapiroca 我也不知道为什么主页突然出现很多葡萄牙西班牙语推文🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060605556390244414",
+        "created_at": "2026-05-30T15:53:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T16:53:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060751498397794784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1424812473530687490",
+              "start": 0,
+              "username": "espantapiroca"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060751498397794784",
+        "in_reply_to_user_id": "1424812473530687490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060605556390244414",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@espantapiroca 我也不知道为什么主页突然出现很多葡萄牙西班牙语推文🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1424812473530687490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2060605556390244414",
+        "created_at": "2026-05-30T06:13:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T07:13:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060605556390244414"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060605556390244414",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 59421,
+          "like_count": 290,
+          "quote_count": 4,
+          "reply_count": 302,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "pq só tem chinês respondendo meus tweets"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 560,
+          "like_count": 95710,
+          "listed_count": 10,
+          "media_count": 534,
+          "tweet_count": 6818
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-09T19:19:13.000Z",
+        "description": "死",
+        "id": "1424812473530687490",
+        "location": "inferno",
+        "name": "╋━",
+        "pinned_tweet_id": "2033731557106569274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056210547473797120/MkYrhKRQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1236,
+          "following_count": 308,
+          "like_count": 4073,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 5238
+        },
+        "username": "espantapiroca",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1902324274045841895",
+    "created_at": "2025-03-19T16:14:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-19T17:14:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1902393124124774593"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "Kevin",
+          "probability": 0.5556,
+          "start": 13,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507705239507329034",
+          "start": 0,
+          "username": "xinzoruo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1902393124124774593",
+    "in_reply_to_user_id": "1507705239507329034",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902324274045841895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xinzoruo If Kevin, he'd probably say \"cool～\" 😆"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 966,
+        "media_key": "3_1902324263975374848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZp1tHb0AA15I0.jpg",
+        "width": 1148
+      },
+      {
+        "height": 966,
+        "media_key": "3_1902324267125207040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZp142acAAoEWR.jpg",
+        "width": 1148
+      },
+      {
+        "height": 1326,
+        "media_key": "3_1902324270552018944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GmZp2FnbcAARqSq.jpg",
+        "width": 1750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1902324274045841895",
+        "created_at": "2025-03-19T16:14:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T17:14:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1902393124124774593"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "Kevin",
+              "probability": 0.5556,
+              "start": 13,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507705239507329034",
+              "start": 0,
+              "username": "xinzoruo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902393124124774593",
+        "in_reply_to_user_id": "1507705239507329034",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902324274045841895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xinzoruo If Kevin, he'd probably say \"cool～\" 😆"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1902324263975374848",
+            "3_1902324267125207040",
+            "3_1902324270552018944"
+          ]
+        },
+        "author_id": "1507705239507329034",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898252936970260",
+              "name": "Free-to-play games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1560348702857867264",
+              "name": "Zenless Zone Zero"
+            }
+          }
+        ],
+        "conversation_id": "1902324274045841895",
+        "created_at": "2025-03-19T11:40:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-19T12:40:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902324274045841895"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 11,
+              "normalized_text": "zzzero",
+              "probability": 0.4261,
+              "start": 6,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "zzzero"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/goeq9t3rxK",
+              "end": 36,
+              "expanded_url": "https://x.com/xinzoruo/status/1902324274045841895/photo/1",
+              "media_key": "3_1902324263975374848",
+              "start": 13,
+              "url": "https://t.co/goeq9t3rxK"
+            },
+            {
+              "display_url": "pic.x.com/goeq9t3rxK",
+              "end": 36,
+              "expanded_url": "https://x.com/xinzoruo/status/1902324274045841895/photo/1",
+              "media_key": "3_1902324267125207040",
+              "start": 13,
+              "url": "https://t.co/goeq9t3rxK"
+            },
+            {
+              "display_url": "pic.x.com/goeq9t3rxK",
+              "end": 36,
+              "expanded_url": "https://x.com/xinzoruo/status/1902324274045841895/photo/1",
+              "media_key": "3_1902324270552018944",
+              "start": 13,
+              "url": "https://t.co/goeq9t3rxK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1902324274045841895",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1187,
+          "impression_count": 218897,
+          "like_count": 19996,
+          "quote_count": 14,
+          "reply_count": 46,
+          "retweet_count": 2153
+        },
+        "reply_settings": "everyone",
+        "text": "Date\n#zzzero https://t.co/goeq9t3rxK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 61,
+          "like_count": 4408,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1249
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T13:05:29.000Z",
+        "description": "原神、zzzeroやってます、夜蘭推し、yelanhaver，悲催等兰人→快乐等兰人→开心有兰人→开心6命有兰人 →愉悦6影rua鲨人       (头像 /アイコン/PFP☞OK)",
+        "id": "1507705239507329034",
+        "location": "璃月港    岩上茶室",
+        "name": "心臓弱眞君",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1507705872868249603/XTEK56bE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1229337,
+          "following_count": 19,
+          "like_count": 2282,
+          "listed_count": 2580,
+          "media_count": 731,
+          "tweet_count": 1310
+        },
+        "username": "xinzoruo",
+        "verified": false
+      }
+    ]
+  }
+}

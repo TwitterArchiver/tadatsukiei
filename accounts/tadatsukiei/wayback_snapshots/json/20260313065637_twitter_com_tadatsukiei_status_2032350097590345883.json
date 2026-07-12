@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2032350097590345883",
+    "created_at": "2026-03-13T06:56:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-13T07:56:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2032350097590345883"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/truthstreamnew…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/truthstreamnews/status/2032087622072373652",
+          "start": 3,
+          "url": "https://t.co/iHZyoN6ekv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032350097590345883",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032087622072373652",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真相 https://t.co/iHZyoN6ekv"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2032350097590345883",
+        "created_at": "2026-03-13T06:56:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T07:56:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032350097590345883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/truthstreamnew…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/truthstreamnews/status/2032087622072373652",
+              "start": 3,
+              "url": "https://t.co/iHZyoN6ekv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032350097590345883",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032087622072373652",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真相 https://t.co/iHZyoN6ekv"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "370144870",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Water",
+              "id": "850146068683571201",
+              "name": "Water"
+            }
+          }
+        ],
+        "conversation_id": "2032087622072373652",
+        "created_at": "2026-03-12T13:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T14:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032087622072373652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thechiefnerd/s…",
+              "end": 141,
+              "expanded_url": "https://twitter.com/thechiefnerd/status/2032012809433723158",
+              "start": 118,
+              "url": "https://t.co/VlVuLBlHI8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032087622072373652",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7004,
+          "impression_count": 2168963,
+          "like_count": 119069,
+          "quote_count": 394,
+          "reply_count": 866,
+          "retweet_count": 24553
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032012809433723158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“We stole all your knowledge and art, and now we’re gonna put a meter on it and sell it back to you. You’re welcome.” https://t.co/VlVuLBlHI8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 244,
+          "like_count": 69338,
+          "listed_count": 6,
+          "media_count": 312,
+          "tweet_count": 4469
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2011-09-08T14:52:38.000Z",
+        "description": "Melissa Dykes {Occult History Researcher/Editor/Filmmaker ► Truthstream Media w/ Aaron Dykes} ˖ ⊹ Praeterita Ambula ut Futura Videas ⊹ ˖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "TruthstreamMedia.com",
+                "end": 23,
+                "expanded_url": "http://TruthstreamMedia.com",
+                "start": 0,
+                "url": "https://t.co/OErmqb1jKG"
+              }
+            ]
+          }
+        },
+        "id": "370144870",
+        "location": "Reductio ad absurdum",
+        "name": "Truthstream Media",
+        "pinned_tweet_id": "2031029342604599694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002155674218778624/dgS7tY2z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127624,
+          "following_count": 545,
+          "like_count": 28277,
+          "listed_count": 569,
+          "media_count": 6374,
+          "tweet_count": 18014
+        },
+        "url": "https://t.co/OErmqb1jKG",
+        "username": "truthstreamnews",
+        "verified": true
+      }
+    ]
+  }
+}

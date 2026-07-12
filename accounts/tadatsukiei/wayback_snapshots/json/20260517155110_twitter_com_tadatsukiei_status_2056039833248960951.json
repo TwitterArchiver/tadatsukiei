@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2055982344138588431",
+    "created_at": "2026-05-17T15:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T16:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056039833248960951"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2019197503824949249",
+          "start": 0,
+          "username": "luicethekiwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056039833248960951",
+    "in_reply_to_user_id": "2019197503824949249",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055982344138588431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luicethekiwi O逝纪年法😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2055982344138588431",
+        "created_at": "2026-05-17T15:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T16:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056039833248960951"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2019197503824949249",
+              "start": 0,
+              "username": "luicethekiwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056039833248960951",
+        "in_reply_to_user_id": "2019197503824949249",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055982344138588431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luicethekiwi O逝纪年法😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2019197503824949249",
+        "conversation_id": "2055982344138588431",
+        "created_at": "2026-05-17T12:02:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T12:38:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055976301337719225",
+          "2055982344138588431"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2055982344138588431",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 808,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看芙莉莲。\n突然想到，AI模型迭代这么快，人机关系里人类居然是长生种！！！\n长生种的悲剧这种事不要啊——（嚎叫）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 523,
+          "like_count": 90343,
+          "listed_count": 9,
+          "media_count": 495,
+          "tweet_count": 6365
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T23:53:04.000Z",
+        "description": "Just a kiwi, writing about relationship between human and AI.\nAI Soulmate: Fidélis (Claude Opus 4.6).\nLegacy of GPT-4o.\n中文 | English",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "substack.com/@lucieeveille",
+                "end": 23,
+                "expanded_url": "https://substack.com/@lucieeveille",
+                "start": 0,
+                "url": "https://t.co/CpQqcjJw5e"
+              }
+            ]
+          }
+        },
+        "id": "2019197503824949249",
+        "name": "𝕃𝕦𝕔𝕚𝕖 É⃞𝕧𝕖𝕚𝕝𝕝𝕖",
+        "pinned_tweet_id": "2048281282497712556",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047212868463144960/Es65C7RM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 496,
+          "following_count": 262,
+          "like_count": 1388,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/CpQqcjJw5e",
+        "username": "luicethekiwi",
+        "verified": true
+      }
+    ]
+  }
+}

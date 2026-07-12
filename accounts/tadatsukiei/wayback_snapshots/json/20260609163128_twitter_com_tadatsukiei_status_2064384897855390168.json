@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2064369377827574221",
+    "created_at": "2026-06-09T16:31:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T17:31:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064384897855390168"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1520686487540740097",
+          "start": 0,
+          "username": "KokonaKokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064384897855390168",
+    "in_reply_to_user_id": "1520686487540740097",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064369377827574221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KokonaKokoro 😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2064369372689465344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKYdAchaAAAqPTl.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2064369377827574221",
+        "created_at": "2026-06-09T16:31:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T17:31:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064384897855390168"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1520686487540740097",
+              "start": 0,
+              "username": "KokonaKokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064384897855390168",
+        "in_reply_to_user_id": "1520686487540740097",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064369377827574221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KokonaKokoro 😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064369372689465344"
+          ]
+        },
+        "author_id": "1520686487540740097",
+        "conversation_id": "2064369377827574221",
+        "created_at": "2026-06-09T15:29:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T16:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064369377827574221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kK44vJrIXP",
+              "end": 35,
+              "expanded_url": "https://x.com/KokonaKokoro/status/2064369377827574221/photo/1",
+              "media_key": "3_2064369372689465344",
+              "start": 12,
+              "url": "https://t.co/kK44vJrIXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064369377827574221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "每天就人机跟我互动🥲🥲 https://t.co/kK44vJrIXP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 637,
+          "following_count": 596,
+          "like_count": 100600,
+          "listed_count": 10,
+          "media_count": 568,
+          "tweet_count": 7166
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-05-01T08:48:29.000Z",
+        "description": "小天使，哲学新手，温和自由主义/存在主义。日常更新，欢迎来互动。好朋友@hoshinofujivy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 35,
+                "username": "hoshinofujivy"
+              }
+            ]
+          }
+        },
+        "id": "1520686487540740097",
+        "location": "Japan 🇯🇵",
+        "name": "心心心奈 🇯🇵⛩️",
+        "pinned_tweet_id": "2036708877337817267",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037575983071723520/31QgPMtx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 928,
+          "like_count": 14886,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 3146
+        },
+        "username": "KokonaKokoro",
+        "verified": true
+      }
+    ]
+  }
+}

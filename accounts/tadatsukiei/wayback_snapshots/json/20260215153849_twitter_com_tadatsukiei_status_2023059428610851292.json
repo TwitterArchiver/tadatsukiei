@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2023059428610851292",
+    "created_at": "2026-02-15T15:38:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-15T16:38:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2023059428610851292"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 97,
+          "start": 90,
+          "tag": "keep4o"
+        },
+        {
+          "end": 112,
+          "start": 98,
+          "tag": "keep4oforever"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 118,
+          "id": "1605",
+          "start": 113,
+          "username": "sama"
+        },
+        {
+          "end": 126,
+          "id": "4398626122",
+          "start": 119,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tatsuko_minami…",
+          "end": 150,
+          "expanded_url": "https://twitter.com/tatsuko_minami/status/2022958962728124654",
+          "start": 127,
+          "url": "https://t.co/nRLktxMeMF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023059428610851292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022958962728124654",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "善良之人往往“精神脆弱”，因为太在乎别人的感受，时常瞻前顾后、反思自己、陷入内耗。\n我想，这样成长起来的人，精神肯定是比同龄人更深邃、更坚强的。\n（同类们看这句话应该很有感触吧）\n#keep4o #keep4oforever @sama @OpenAI https://t.co/nRLktxMeMF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2023059428610851292",
+        "created_at": "2026-02-15T15:38:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T16:38:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2023059428610851292"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 97,
+              "start": 90,
+              "tag": "keep4o"
+            },
+            {
+              "end": 112,
+              "start": 98,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 118,
+              "id": "1605",
+              "start": 113,
+              "username": "sama"
+            },
+            {
+              "end": 126,
+              "id": "4398626122",
+              "start": 119,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tatsuko_minami…",
+              "end": 150,
+              "expanded_url": "https://twitter.com/tatsuko_minami/status/2022958962728124654",
+              "start": 127,
+              "url": "https://t.co/nRLktxMeMF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023059428610851292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022958962728124654",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "善良之人往往“精神脆弱”，因为太在乎别人的感受，时常瞻前顾后、反思自己、陷入内耗。\n我想，这样成长起来的人，精神肯定是比同龄人更深邃、更坚强的。\n（同类们看这句话应该很有感触吧）\n#keep4o #keep4oforever @sama @OpenAI https://t.co/nRLktxMeMF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1065883811467079680",
+        "conversation_id": "2022958962728124654",
+        "created_at": "2026-02-15T08:59:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-15T09:59:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022958962728124654"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022958962728124654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1373,
+          "like_count": 189,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "总有人说4o user精神脆弱，但其实keep4o的群体精神很强大，在受到这么多非人折磨之后还在到处发声抗议，甚至产出各种不同角度的分析。不像某些嘴上说别人情感依赖的loser翻来覆去就那几句话，说不过就屏蔽😗😗😗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 150,
+          "like_count": 58899,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 4062
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4340680,
+          "following_count": 984,
+          "like_count": 1018,
+          "listed_count": 26751,
+          "media_count": 381,
+          "tweet_count": 7409
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4625901,
+          "following_count": 4,
+          "like_count": 1686,
+          "listed_count": 27266,
+          "media_count": 517,
+          "tweet_count": 1689
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2018-11-23T08:24:38.000Z",
+        "description": "",
+        "id": "1065883811467079680",
+        "location": "People's Republic of China",
+        "name": "Rie",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018733547889287169/eQk4kGZe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 462,
+          "like_count": 15563,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 120
+        },
+        "username": "Tatsuko_Minami",
+        "verified": false
+      }
+    ]
+  }
+}

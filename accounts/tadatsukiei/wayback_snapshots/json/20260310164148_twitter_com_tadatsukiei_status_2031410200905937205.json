@@ -1,0 +1,372 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      }
+    ],
+    "conversation_id": "2031410200905937205",
+    "created_at": "2026-03-10T16:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T17:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2031410200905937205"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thomaskong9663…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/thomaskong96638/status/2031328987100880927",
+          "start": 21,
+          "url": "https://t.co/sdNMygzGWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031410200905937205",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031328987100880927",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不意外，\n“狡兔死，走狗烹”是中华传统。 https://t.co/sdNMygzGWQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 58690,
+        "height": 576,
+        "media_key": "13_2031328922340880384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2031328922340880384/img/YkxzWvbB_qpJGviR.jpg",
+        "public_metrics": {
+          "view_count": 32543
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031328922340880384/vid/avc1/432x270/Np4uva8y9njL_abn.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031328922340880384/vid/avc1/576x360/HliH3MSeVBQu3Qq_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2031328922340880384/vid/avc1/922x576/0In7ryFSLAP2YfC_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2031328922340880384/pl/hhWue1HFeq_GfRkB.m3u8?v=a3b"
+          }
+        ],
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2031410200905937205",
+        "created_at": "2026-03-10T16:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T17:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031410200905937205"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thomaskong9663…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/thomaskong96638/status/2031328987100880927",
+              "start": 21,
+              "url": "https://t.co/sdNMygzGWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031410200905937205",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031328987100880927",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不意外，\n“狡兔死，走狗烹”是中华传统。 https://t.co/sdNMygzGWQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2031328922340880384"
+          ]
+        },
+        "author_id": "1789179729695891456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          }
+        ],
+        "conversation_id": "2031328987100880927",
+        "created_at": "2026-03-10T11:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T12:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031328987100880927"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/USkUodqe6B",
+              "end": 164,
+              "expanded_url": "https://x.com/Thomaskong96638/status/2031328987100880927/video/1",
+              "media_key": "13_2031328922340880384",
+              "start": 141,
+              "url": "https://t.co/USkUodqe6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031328987100880927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "凡是跟着共产党的一定没有好下场！\n\n2005年央视播出电视剧《亮剑》，一时风糜全国，成为收视冠军，引发全民热议和追捧。\n可电视剧《亮剑》只拍了小说《亮剑》的上半场。\n下半场在这里，\n为中共打下江山的将领李云龙等全都不得好死。\n国军将楚云飞去台湾后发了大财，简直就是人生达到了巅峰。\n\n小说《亮剑》主要人物的下场：\n李云龙：文革期间因镇压造反派被批斗迫害，在家中用枪自尽。  \n•  田雨（李云龙妻子）：得知李云龙死讯后，在狱中割腕自杀。  \n•  赵刚：文革中因反对运动被迫害，与妻子冯楠在家中自杀，留下四个孩子。  \n•  冯楠（赵刚妻子）：与赵刚一起自杀。  \n•  丁伟：因对庐山会议不满被逮捕，下放农村，不知所终。  \n•  楚云飞：败退台湾，升至中将，晚年退役经商，改革开放后买下李云龙旧宅以作纪念。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 58427,
+          "like_count": 235,
+          "quote_count": 5,
+          "reply_count": 25,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "凡是跟着共产党的一定没有好下场！\n\n2005年央视播出电视剧《亮剑》，一时风糜全国，成为收视冠军，引发全民热议和追捧。\n可电视剧《亮剑》只拍了小说《亮剑》的上半场。\n下半场在这里，\n为中共打下江山的将领李云龙等全都不得好死。\n国军将楚云飞去台湾后发了大财，简直就是人生达到了巅峰。 https://t.co/USkUodqe6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 227,
+          "like_count": 67724,
+          "listed_count": 6,
+          "media_count": 304,
+          "tweet_count": 4388
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-11T06:24:49.000Z",
+        "description": "爱国就要反共 反共才是爱国。",
+        "id": "1789179729695891456",
+        "location": "New Zealand",
+        "name": "Thomas",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015568670223966208/ombfyiDy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5872,
+          "following_count": 1684,
+          "like_count": 5991,
+          "listed_count": 17,
+          "media_count": 450,
+          "tweet_count": 4091
+        },
+        "username": "Thomaskong96638",
+        "verified": true
+      }
+    ]
+  }
+}

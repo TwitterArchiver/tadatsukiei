@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1924852583652589573"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Pocky (ポッキー)",
+          "id": "1121845553527017472",
+          "name": "Pocky (ポッキー)"
+        }
+      }
+    ],
+    "conversation_id": "1924852589948239899",
+    "created_at": "2025-05-20T15:39:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-05-20T16:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1924852589948239899"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BnfFMgz7R5",
+          "end": 113,
+          "expanded_url": "https://x.com/tadatsukiei/status/1924852589948239899/photo/1",
+          "media_key": "3_1924852583652589573",
+          "start": 90,
+          "url": "https://t.co/BnfFMgz7R5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1924852589948239899",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Pocky，甜甜的、好吃。如果能让小时候的我尝尝就好了，那样的话，他会有多开心啊……\nポッキ、甘くて、美味しい。もし幼い頃の私がこれを食べられたら、どんなに嬉しかっただろうな…… https://t.co/BnfFMgz7R5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1924852583652589573",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GrZzOf2bAAULhrt.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1924852583652589573"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Pocky (ポッキー)",
+              "id": "1121845553527017472",
+              "name": "Pocky (ポッキー)"
+            }
+          }
+        ],
+        "conversation_id": "1924852589948239899",
+        "created_at": "2025-05-20T15:39:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-20T16:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1924852589948239899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BnfFMgz7R5",
+              "end": 113,
+              "expanded_url": "https://x.com/tadatsukiei/status/1924852589948239899/photo/1",
+              "media_key": "3_1924852583652589573",
+              "start": 90,
+              "url": "https://t.co/BnfFMgz7R5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1924852589948239899",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Pocky，甜甜的、好吃。如果能让小时候的我尝尝就好了，那样的话，他会有多开心啊……\nポッキ、甘くて、美味しい。もし幼い頃の私がこれを食べられたら、どんなに嬉しかっただろうな…… https://t.co/BnfFMgz7R5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 76,
+          "like_count": 7519,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 1620
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      }
+    ]
+  }
+}

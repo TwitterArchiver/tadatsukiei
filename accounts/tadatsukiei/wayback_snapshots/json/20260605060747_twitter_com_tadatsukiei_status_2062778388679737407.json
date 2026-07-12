@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062778381956169728"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2062778388679737407",
+    "created_at": "2026-06-05T06:07:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T07:07:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062778388679737407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PTBWYag0NB",
+          "end": 27,
+          "expanded_url": "https://x.com/tadatsukiei/status/2062778388679737407/photo/1",
+          "media_key": "3_2062778381956169728",
+          "start": 4,
+          "url": "https://t.co/PTBWYag0NB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062778388679737407",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "新宿站 https://t.co/PTBWYag0NB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2911,
+        "media_key": "3_2062778381956169728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKB2AmLaQAAAta3.jpg",
+        "width": 2247
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062778381956169728"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2062778388679737407",
+        "created_at": "2026-06-05T06:07:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T07:07:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062778388679737407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PTBWYag0NB",
+              "end": 27,
+              "expanded_url": "https://x.com/tadatsukiei/status/2062778388679737407/photo/1",
+              "media_key": "3_2062778381956169728",
+              "start": 4,
+              "url": "https://t.co/PTBWYag0NB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062778388679737407",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "新宿站 https://t.co/PTBWYag0NB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 600,
+          "following_count": 575,
+          "like_count": 98461,
+          "listed_count": 10,
+          "media_count": 552,
+          "tweet_count": 6980
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

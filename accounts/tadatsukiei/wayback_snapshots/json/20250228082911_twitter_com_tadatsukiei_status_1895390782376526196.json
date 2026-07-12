@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Kizuna Ai (キズナアイ)",
+          "id": "1040257001886871552",
+          "name": "Kizuna Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Influencers who create content on digital platforms",
+          "id": "120",
+          "name": "Digital Creator"
+        },
+        "entity": {
+          "description": "Kizuna Ai (キズナアイ)",
+          "id": "1040257001886871552",
+          "name": "Kizuna Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543456678596608",
+          "name": "Digital creators"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Kizuna Ai (キズナアイ)",
+          "id": "1040257001886871552",
+          "name": "Kizuna Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247288073542463488",
+          "name": "Virtual YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      }
+    ],
+    "conversation_id": "1895026584597237823",
+    "created_at": "2025-02-28T08:29:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-28T09:29:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1895390782376526196"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "803480007775383552",
+          "start": 0,
+          "username": "aichan_nel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1895390782376526196",
+    "in_reply_to_user_id": "803480007775383552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895026584597237823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aichan_nel 欢迎回来，好久不见～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1895026584597237823",
+        "created_at": "2025-02-28T08:29:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-28T09:29:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895390782376526196"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "803480007775383552",
+              "start": 0,
+              "username": "aichan_nel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895390782376526196",
+        "in_reply_to_user_id": "803480007775383552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895026584597237823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aichan_nel 欢迎回来，好久不见～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "803480007775383552",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Kizuna Ai (キズナアイ)",
+              "id": "1040257001886871552",
+              "name": "Kizuna Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          }
+        ],
+        "conversation_id": "1895026584597237823",
+        "created_at": "2025-02-27T08:22:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-27T09:22:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1895026584597237823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1895026584597237823",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 498,
+          "impression_count": 2534211,
+          "like_count": 52719,
+          "quote_count": 91,
+          "reply_count": 672,
+          "retweet_count": 4561
+        },
+        "reply_settings": "everyone",
+        "text": "みんな、温かいおかえりの言葉ほんとうにありがとう🥲\n全部は返せないけど、ちゃんと見てます。\n\n年内に絶対ライブやるから、楽しみに待っててね🫶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 55,
+          "like_count": 3410,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 1060
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2016-11-29T06:05:36.000Z",
+        "description": "https://t.co/Ikhxv0s6wE\n\n@KizunaAIinc\n🎀#KizunaAI 🎨#KizunaPost",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 39,
+                "tag": "KizunaAI"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "tag": "KizunaPost"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 37,
+                "start": 25,
+                "username": "KizunaAIinc"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@AIChannel",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@AIChannel",
+                "start": 0,
+                "url": "https://t.co/Ikhxv0s6wE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lnk.to/kizunaai_top",
+                "end": 23,
+                "expanded_url": "https://lnk.to/kizunaai_top",
+                "start": 0,
+                "url": "https://t.co/BOM4mApwTa"
+              }
+            ]
+          }
+        },
+        "id": "803480007775383552",
+        "location": "Tokyo,Japan",
+        "name": "KizunaAI",
+        "pinned_tweet_id": "1895027339735584874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894737335482478592/fZo-YMTs_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723442,
+          "following_count": 13369,
+          "like_count": 33475,
+          "listed_count": 5452,
+          "media_count": 3967,
+          "tweet_count": 31744
+        },
+        "url": "https://t.co/BOM4mApwTa",
+        "username": "aichan_nel",
+        "verified": false
+      }
+    ]
+  }
+}

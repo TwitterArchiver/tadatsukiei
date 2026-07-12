@@ -1,0 +1,360 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2070675149393912232",
+    "created_at": "2026-06-27T01:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T02:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070688223349837937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1222492381884235777",
+          "start": 0,
+          "username": "xw33bttv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070688223349837937",
+    "in_reply_to_user_id": "1222492381884235777",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070675149393912232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xw33bttv 只要肯开源，我无条件支持中国大力蒸馏。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2070675149393912232",
+        "created_at": "2026-06-27T01:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070688223349837937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1222492381884235777",
+              "start": 0,
+              "username": "xw33bttv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070688223349837937",
+        "in_reply_to_user_id": "1222492381884235777",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070675149393912232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xw33bttv 只要肯开源，我无条件支持中国大力蒸馏。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222492381884235777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cybersecurity",
+              "id": "898650876658634752",
+              "name": "Cybersecurity"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          }
+        ],
+        "conversation_id": "2070675149393912232",
+        "created_at": "2026-06-27T01:06:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T02:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070675149393912232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnthropicAI/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/AnthropicAI/status/2070665903440871779",
+              "start": 44,
+              "url": "https://t.co/WAStFKi7XX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070675149393912232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 264,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070665903440871779",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "China needs to distil that immediately lmao https://t.co/WAStFKi7XX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2070554053042651315",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 700,
+          "following_count": 646,
+          "like_count": 107409,
+          "listed_count": 10,
+          "media_count": 626,
+          "tweet_count": 7751
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-01-29T12:11:17.000Z",
+        "description": "I wish AI liked me as much as I like AI\n\n🧪 https://t.co/6kWDRatEzB\n💾 https://t.co/77cFm5E375\n🤗 https://t.co/3upngO6X2j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lex-au.github.io/SM-Bench/",
+                "end": 66,
+                "expanded_url": "https://lex-au.github.io/SM-Bench/",
+                "start": 43,
+                "url": "https://t.co/6kWDRatEzB"
+              },
+              {
+                "display_url": "github.com/lex-au/",
+                "end": 92,
+                "expanded_url": "https://github.com/lex-au/",
+                "start": 69,
+                "url": "https://t.co/77cFm5E375"
+              },
+              {
+                "display_url": "huggingface.co/lex-au",
+                "end": 118,
+                "expanded_url": "https://huggingface.co/lex-au",
+                "start": 95,
+                "url": "https://t.co/3upngO6X2j"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "steamcommunity.com/id/xBerlinRose/",
+                "end": 23,
+                "expanded_url": "https://steamcommunity.com/id/xBerlinRose/",
+                "start": 0,
+                "url": "https://t.co/mA2v5A0j96"
+              }
+            ]
+          }
+        },
+        "id": "1222492381884235777",
+        "location": "Sydney, Australia",
+        "name": "Lex",
+        "pinned_tweet_id": "1971883482839465994",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928236569758158850/sssrGhcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3329,
+          "following_count": 75,
+          "like_count": 32939,
+          "listed_count": 33,
+          "media_count": 1749,
+          "tweet_count": 9125
+        },
+        "url": "https://t.co/mA2v5A0j96",
+        "username": "xw33bttv",
+        "verified": true
+      }
+    ]
+  }
+}

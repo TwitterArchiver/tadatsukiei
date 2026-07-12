@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1980613250501759314",
+    "created_at": "2025-10-21T18:24:49.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-21T19:24:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980701826698866882"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980701826698866882",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980613250501759314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 独处的时候总习惯性自我批判，但后来上网多了就不会了，因为我发现世界上有许多人又蠢又坏到超乎想象，光是忍住不骂他们就已经很费神了……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 640,
+        "media_key": "3_1980613216595017728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yNOgyXAAAxFjB.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1980613250501759314",
+        "created_at": "2025-10-21T18:24:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T19:24:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980701826698866882"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980701826698866882",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980613250501759314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 独处的时候总习惯性自我批判，但后来上网多了就不会了，因为我发现世界上有许多人又蠢又坏到超乎想象，光是忍住不骂他们就已经很费神了……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980613216595017728"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1980613250501759314",
+        "created_at": "2025-10-21T12:32:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T13:32:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980613250501759314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ikmRTVwzv",
+              "end": 27,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1980613250501759314/photo/1",
+              "media_key": "3_1980613216595017728",
+              "start": 4,
+              "url": "https://t.co/1ikmRTVwzv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980613250501759314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 21901,
+          "like_count": 703,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "还真是 https://t.co/1ikmRTVwzv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 109,
+          "like_count": 32850,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 2950
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8072,
+          "following_count": 7158,
+          "like_count": 25571,
+          "listed_count": 15,
+          "media_count": 5676,
+          "tweet_count": 37808
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

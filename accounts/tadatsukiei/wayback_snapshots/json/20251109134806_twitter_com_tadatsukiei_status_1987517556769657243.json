@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1987265888907575722",
+    "created_at": "2025-11-09T13:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T14:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987517556769657243"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987517556769657243",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987265888907575722",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 正好最近有点空看看"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_1987265884033777664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5QvyuQWAAA7IvN.jpg",
+        "width": 849
+      },
+      {
+        "height": 1213,
+        "media_key": "3_1987265884017012737",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5QvyuMWMAET1Pn.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1987265888907575722",
+        "created_at": "2025-11-09T13:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T14:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987517556769657243"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987517556769657243",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987265888907575722",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 正好最近有点空看看"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987265884033777664",
+            "3_1987265884017012737"
+          ]
+        },
+        "author_id": "111942564",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597222535168",
+              "name": "Online Services - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10042999172",
+              "name": "Crunchyroll"
+            }
+          }
+        ],
+        "conversation_id": "1987265888907575722",
+        "created_at": "2025-11-08T21:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T22:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987265888907575722"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 156,
+              "start": 150,
+              "tag": "观影碎碎念"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u2BTnKefpi",
+              "end": 180,
+              "expanded_url": "https://x.com/boiledwater/status/1987265888907575722/photo/1",
+              "media_key": "3_1987265884033777664",
+              "start": 157,
+              "url": "https://t.co/u2BTnKefpi"
+            },
+            {
+              "display_url": "pic.x.com/u2BTnKefpi",
+              "end": 180,
+              "expanded_url": "https://x.com/boiledwater/status/1987265888907575722/photo/1",
+              "media_key": "3_1987265884017012737",
+              "start": 157,
+              "url": "https://t.co/u2BTnKefpi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987265888907575722",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2287,
+          "like_count": 34,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "读新闻，说crunchyroll评的年度最佳动画是《solo leveling》，但大家认为《章鱼噼的原罪》更该得奖\n\n于是猝不及防的看完。\n\n绝对是一流佳作。会很残忍，残忍到让有童年创伤的人感到不安，但残忍中又带着深深的理解。\n\n孩子从来不是天生暴力、冷漠或恐惧的，他们只是学会了模仿和取悦家长\n\n#观影碎碎念 https://t.co/u2BTnKefpi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 115,
+          "like_count": 37745,
+          "listed_count": 2,
+          "media_count": 184,
+          "tweet_count": 3146
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1940516537993252971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1983445356277841920/TJ0mJFDl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42561,
+          "following_count": 1749,
+          "like_count": 31475,
+          "listed_count": 158,
+          "media_count": 5019,
+          "tweet_count": 38363
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

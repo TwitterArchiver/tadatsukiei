@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1977047714191065456",
+    "created_at": "2025-10-14T14:11:55.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-14T15:11:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978101464401678396"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1722986197491073025",
+          "start": 0,
+          "username": "4KAbIHkTiv52630"
+        },
+        {
+          "end": 28,
+          "id": "1842423358216142849",
+          "start": 17,
+          "username": "keeganlike"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978101464401678396",
+    "in_reply_to_user_id": "1722986197491073025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1977334339965948102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@4KAbIHkTiv52630 @keeganlike 收收味"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1977047714191065456",
+        "created_at": "2025-10-14T14:11:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-14T15:11:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978101464401678396"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1722986197491073025",
+              "start": 0,
+              "username": "4KAbIHkTiv52630"
+            },
+            {
+              "end": 28,
+              "id": "1842423358216142849",
+              "start": 17,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978101464401678396",
+        "in_reply_to_user_id": "1722986197491073025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977334339965948102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4KAbIHkTiv52630 @keeganlike 收收味"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1722986197491073025",
+        "conversation_id": "1977047714191065456",
+        "created_at": "2025-10-12T11:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-12T12:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977334339965948102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1842423358216142849",
+              "start": 0,
+              "username": "keeganlike"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977334339965948102",
+        "in_reply_to_user_id": "1842423358216142849",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 119040,
+          "like_count": 5,
+          "quote_count": 38,
+          "reply_count": 26,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1977047714191065456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@keeganlike 吊比你见到的99.99%的东西都干净的多，包括食物。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 107,
+          "like_count": 30521,
+          "listed_count": 3,
+          "media_count": 154,
+          "tweet_count": 2862
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-10T14:35:08.000Z",
+        "description": "因爱生恨，向死而生",
+        "id": "1722986197491073025",
+        "name": "陈吴",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1724449547135717376/jS9pibx-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 2856,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 2178
+        },
+        "username": "4KAbIHkTiv52630",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-05T04:36:02.000Z",
+        "description": "🫧istp 残破的日记本 经常发疯 我现实丑逼一个 我精神有问题 这人咋还没死？",
+        "id": "1842423358216142849",
+        "location": "纯绿门288/520",
+        "name": "泡泡",
+        "pinned_tweet_id": "1977733067226697862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939713975027163136/nI9UOskh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24642,
+          "following_count": 310,
+          "like_count": 10529,
+          "listed_count": 24,
+          "media_count": 505,
+          "tweet_count": 7620
+        },
+        "username": "keeganlike",
+        "verified": false
+      }
+    ]
+  }
+}

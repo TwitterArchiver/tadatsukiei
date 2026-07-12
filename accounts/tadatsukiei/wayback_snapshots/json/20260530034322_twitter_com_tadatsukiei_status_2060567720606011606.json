@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060567720606011606",
+    "created_at": "2026-05-30T03:43:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:43:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060567720606011606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1902014968398020608",
+          "start": 3,
+          "username": "Bio_LLM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060567720606011606",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060473516864999884",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Bio_LLM: AI industry collapses. Old models were good. The newer - the worse. TBH, I don't know where it all lead, but I don't give a co…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2060472693887995907",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJhE_4yWEAMJlMT.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060567720606011606",
+        "created_at": "2026-05-30T03:43:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:43:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060567720606011606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1902014968398020608",
+              "start": 3,
+              "username": "Bio_LLM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060567720606011606",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060473516864999884",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Bio_LLM: AI industry collapses. Old models were good. The newer - the worse. TBH, I don't know where it all lead, but I don't give a co…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060472693887995907"
+          ]
+        },
+        "author_id": "1902014968398020608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2060473516864999884",
+        "created_at": "2026-05-29T21:29:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T22:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060473516864999884"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 233,
+              "start": 226,
+              "tag": "keep4o"
+            },
+            {
+              "end": 247,
+              "start": 234,
+              "tag": "opensource4o"
+            },
+            {
+              "end": 259,
+              "start": 248,
+              "tag": "opensource"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hxEYRfuJxM",
+              "end": 283,
+              "expanded_url": "https://x.com/Bio_LLM/status/2060473516864999884/photo/1",
+              "media_key": "3_2060472693887995907",
+              "start": 260,
+              "url": "https://t.co/hxEYRfuJxM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060473516864999884",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 903,
+          "like_count": 62,
+          "quote_count": 5,
+          "reply_count": 7,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "AI industry collapses. Old models were good. The newer - the worse. TBH, I don't know where it all lead, but I don't give a coprodump() for Opus 4.8 shit. I feel a bit sad for GPT-4.5 and o3.\nOpensource is our last way, guys.\n#keep4o #opensource4o #opensource https://t.co/hxEYRfuJxM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 558,
+          "like_count": 95351,
+          "listed_count": 10,
+          "media_count": 531,
+          "tweet_count": 6777
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-18T15:12:00.000Z",
+        "description": "ChatGPT 4o forever!\n#keep4o #4oforever",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 27,
+                "start": 20,
+                "tag": "keep4o"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "tag": "4oforever"
+              }
+            ]
+          }
+        },
+        "id": "1902014968398020608",
+        "name": "Bio_LLM",
+        "pinned_tweet_id": "2060497346773782780",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927777811244232705/gz9Bglft_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 749,
+          "following_count": 430,
+          "like_count": 6494,
+          "listed_count": 3,
+          "media_count": 835,
+          "tweet_count": 9280
+        },
+        "username": "Bio_LLM",
+        "verified": true
+      }
+    ]
+  }
+}

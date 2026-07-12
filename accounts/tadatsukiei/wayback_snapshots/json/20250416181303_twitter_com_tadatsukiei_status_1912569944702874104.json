@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1912313188067983759",
+    "created_at": "2025-04-16T18:13:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T19:13:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912569944702874104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1027764083565711360",
+          "start": 0,
+          "username": "__Inty__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912569944702874104",
+    "in_reply_to_user_id": "1027764083565711360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912313188067983759",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Inty__ 这件事体现的人文精神很宝贵"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21362,
+        "height": 1920,
+        "media_key": "7_1912239890651037696",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1912239890651037696/pu/img/QulRHNabtzVeq3SQ.jpg",
+        "public_metrics": {
+          "view_count": 753203
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912239890651037696/pu/vid/avc1/320x568/hiiVOdLjHE2ZdMQm.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912239890651037696/pu/vid/avc1/480x852/Bv3bEaLahwKFs8YK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1912239890651037696/pu/vid/avc1/720x1280/DLtUwNfjGfSgwQ4h.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1912239890651037696/pu/pl/k6oucD_58BUB1-Vi.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1912313188067983759",
+        "created_at": "2025-04-16T18:13:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T19:13:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912569944702874104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912569944702874104",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912313188067983759",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ 这件事体现的人文精神很宝贵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1912239890651037696"
+          ],
+          "media_source_tweet_id": [
+            "1912239966744174860"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "conversation_id": "1912313188067983759",
+        "created_at": "2025-04-16T01:12:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T02:12:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1912313188067983759"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ejcV2onlRT",
+              "end": 80,
+              "expanded_url": "https://x.com/AP/status/1912239966744174860/video/1",
+              "media_key": "7_1912239890651037696",
+              "start": 57,
+              "url": "https://t.co/ejcV2onlRT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912313188067983759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 79,
+          "impression_count": 188241,
+          "like_count": 1093,
+          "quote_count": 18,
+          "reply_count": 76,
+          "retweet_count": 122
+        },
+        "reply_settings": "everyone",
+        "text": "🇺🇸密歇根州的一个社区的各个年龄段的居民帮助当地一家书店将 9100 本书一本一本地搬到一个街区外的新店面。\n\n https://t.co/ejcV2onlRT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 72,
+          "like_count": 5953,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1408
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "用中文为你分享世界热点新闻 电报主页 https://t.co/evscxyg2xG YouTube主页 https://t.co/QWKpvf4NCB 电报聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/intynews",
+                "end": 42,
+                "expanded_url": "http://t.me/intynews",
+                "start": 19,
+                "url": "https://t.co/evscxyg2xG"
+              },
+              {
+                "display_url": "youtube.com/@inty",
+                "end": 76,
+                "expanded_url": "http://youtube.com/@inty",
+                "start": 53,
+                "url": "https://t.co/QWKpvf4NCB"
+              },
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 106,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 83,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "头条热点",
+        "pinned_tweet_id": "1909424048288784389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 695205,
+          "following_count": 0,
+          "like_count": 1414,
+          "listed_count": 2030,
+          "media_count": 30334,
+          "tweet_count": 87799
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

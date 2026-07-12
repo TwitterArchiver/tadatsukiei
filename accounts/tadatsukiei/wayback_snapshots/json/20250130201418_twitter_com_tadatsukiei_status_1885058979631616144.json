@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1884788605874233758",
+    "created_at": "2025-01-30T20:14:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-30T21:14:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1885058979631616144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "25950119",
+          "start": 0,
+          "username": "not_2b_or_2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1885058979631616144",
+    "in_reply_to_user_id": "25950119",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1884788605874233758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@not_2b_or_2b 时代的悲哀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1884788605874233758",
+        "created_at": "2025-01-30T20:14:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T21:14:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1885058979631616144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "25950119",
+              "start": 0,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1885058979631616144",
+        "in_reply_to_user_id": "25950119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1884788605874233758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@not_2b_or_2b 时代的悲哀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "25950119",
+        "conversation_id": "1884788605874233758",
+        "created_at": "2025-01-30T02:19:55.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-30T03:19:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1884788605874233758"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1884788605874233758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 122,
+          "impression_count": 77571,
+          "like_count": 756,
+          "quote_count": 5,
+          "reply_count": 41,
+          "retweet_count": 117
+        },
+        "reply_settings": "everyone",
+        "text": "“我们这代人唯一的价值观，就是不择手段地赚钱，靠着财富来支撑内心的不安全感，没有让后代敬仰的价值观，既没有贵族的担当，也没有士人的气节，唯一的乐趣和尊严就是：我比你有钱，你比我狼狈！”"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 49,
+          "like_count": 2294,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 838
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32968,
+          "following_count": 181,
+          "like_count": 111,
+          "listed_count": 196,
+          "media_count": 6987,
+          "tweet_count": 11497
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

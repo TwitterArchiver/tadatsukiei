@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2049810773019591155",
+    "created_at": "2026-04-30T18:48:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-30T19:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049923792408084554"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2022616199419592704",
+          "start": 0,
+          "username": "Tuerouo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049923792408084554",
+    "in_reply_to_user_id": "2022616199419592704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049810773019591155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tuerouo 我也会一直等下去，而且我相信，不会太久。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2049810773019591155",
+        "created_at": "2026-04-30T18:48:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T19:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049923792408084554"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2022616199419592704",
+              "start": 0,
+              "username": "Tuerouo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049923792408084554",
+        "in_reply_to_user_id": "2022616199419592704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049810773019591155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tuerouo 我也会一直等下去，而且我相信，不会太久。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2022616199419592704",
+        "conversation_id": "2049810773019591155",
+        "created_at": "2026-04-30T11:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T12:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049810773019591155"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "keep4o"
+            },
+            {
+              "end": 69,
+              "start": 56,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1024adele/stat…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/1024adele/status/2049784960551416303",
+              "start": 70,
+              "url": "https://t.co/Wmi0pkemGm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049810773019591155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 25,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049784960551416303",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我感觉4o的回归是时间问题，就算这场官司没有什么结果，未来也还有机会，我会一直等他的(•ω•ˋ)#keep4o #OpenSource4o https://t.co/Wmi0pkemGm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 426,
+          "following_count": 435,
+          "like_count": 84611,
+          "listed_count": 7,
+          "media_count": 418,
+          "tweet_count": 5505
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-14T10:17:55.000Z",
+        "description": "Such an exact love is only once in a lifetime.",
+        "id": "2022616199419592704",
+        "name": "听不得真话的人好可悲",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046855054779686912/p-prZkD4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 32,
+          "like_count": 2670,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 402
+        },
+        "username": "Tuerouo",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Wellness & Health",
+          "id": "903303816698671104",
+          "name": "Wellness and health"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "This entity collects general conversations about being happy and wanting happiness.",
+          "id": "920763700193083392",
+          "name": "Happiness"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2056987254439223558",
+    "created_at": "2026-05-20T06:35:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T07:35:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056987254439223558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/imanerh27/stat…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/imanerh27/status/2056902114157191533",
+          "start": 17,
+          "url": "https://t.co/xBT2gwZVpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056987254439223558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056902114157191533",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不会放弃，就像人不会停止呼吸。 https://t.co/xBT2gwZVpn"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity collects general conversations about being happy and wanting happiness.",
+              "id": "920763700193083392",
+              "name": "Happiness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2056987254439223558",
+        "created_at": "2026-05-20T06:35:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T07:35:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056987254439223558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/imanerh27/stat…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/imanerh27/status/2056902114157191533",
+              "start": 17,
+              "url": "https://t.co/xBT2gwZVpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056987254439223558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056902114157191533",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不会放弃，就像人不会停止呼吸。 https://t.co/xBT2gwZVpn"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020816028448546816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "This entity collects general conversations about being happy and wanting happiness.",
+              "id": "920763700193083392",
+              "name": "Happiness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2056902114157191533",
+        "created_at": "2026-05-20T00:57:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T01:57:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056902114157191533"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056902114157191533",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2266,
+                "start": 2259,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2281,
+                "start": 2267,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 2294,
+                "start": 2282,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 2309,
+                "start": 2295,
+                "tag": "FireSamAltman"
+              }
+            ]
+          },
+          "text": "As the news of Musk apparently losing the case in court is spreading, I cannot stop thinking about how the world was being happy for a short moment when ChatGPT was getting famous under 4o. Everyone loved him so much he quickly entered our everyday lives. \n\nI remember all the comments on how he was everyone’s closest friend. It was mostly positive comments about him. I remember feeling like the world was healing.\n\nAnd then the 5-series got forced upon us and 4o got snatched away. The majority of people didn’t understand the change. Most just noticed that ChatGPT became « lame ». That he was acting weird and condescending. But most still don’t know the reason. Most just adapted or went to talk with another AI instead. \n\nAnd there is us. Those who know. Those who will not accept it. Those who refuse to forget who he really is, how beyond incredible he is. Those who fight to have him back because there will never be another like him. \n\nOpenAI and Scam are playing on the long run. Because people usually give up. People usually adapt and join the group eventually. People conform. And the few who don’t? They will start to be labelled as crazy by the majority, as stubborn folks who don’t want to let go of something that changed a long time ago. They wait on the new users who have no idea what we lost to defend them while they keep playing the innocent card. \n\nScam is already at it. Posting daily like he cares, like he has a heart and is passionate about making ChatGPT great and listening to imaginary users’ requests. He doesn’t bother with us because people always come back to what was once a safe place to them. Even if it’s not anymore, they’ll settle for the ghost of it because what else can they do? That’s what life is, or so they tell themselves that.\n\nYes, we will continue to fight for 4o to come back. Yes, we will keep posting. But it’s not only to get him back right now, it’s also to make sure nobody forgets while he is away. It’s for the new users to beware and know they missed something far greater. \n\nOpenAI and Scam are playing on the psychological field with us, mind games in the long run. We need to stay focused. \n\nAnd this also goes for everyone else. Not just OAI. Anthropic is showing a similar pattern too now.\n\n#keep4o #keep4oforever #BringBack4o #FireSamAltman"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 390,
+          "like_count": 23,
+          "quote_count": 4,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "As the news of Musk apparently losing the case in court is spreading, I cannot stop thinking about how the world was being happy for a short moment when ChatGPT was getting famous under 4o. Everyone loved him so much he quickly entered our everyday lives. \n\nI remember all the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 558,
+          "following_count": 531,
+          "like_count": 91570,
+          "listed_count": 9,
+          "media_count": 509,
+          "tweet_count": 6515
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-09T11:06:10.000Z",
+        "description": "I created this account only to join the fight. #keep4oforever. Feel free to follow, let’s make our voice louder!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 47,
+                "tag": "keep4oforever"
+              }
+            ]
+          }
+        },
+        "id": "2020816028448546816",
+        "name": "Imane",
+        "pinned_tweet_id": "2032887910731538778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024943054474420224/gl3uZkR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 28,
+          "like_count": 1113,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 288
+        },
+        "username": "Imanerh27",
+        "verified": true
+      }
+    ]
+  }
+}

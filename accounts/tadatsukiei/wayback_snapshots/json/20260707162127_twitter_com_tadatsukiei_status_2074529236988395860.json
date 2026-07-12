@@ -1,0 +1,197 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2074352158175351002",
+    "created_at": "2026-07-07T16:21:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T17:21:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074529236988395860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2045234174664355840",
+          "start": 0,
+          "username": "Ugui3u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074529236988395860",
+    "in_reply_to_user_id": "2045234174664355840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074352158175351002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ugui3u 现在是讨论封号和恶心的隐私侵犯问题了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2074352158175351002",
+        "created_at": "2026-07-07T16:21:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T17:21:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074529236988395860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2045234174664355840",
+              "start": 0,
+              "username": "Ugui3u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074529236988395860",
+        "in_reply_to_user_id": "2045234174664355840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074352158175351002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ugui3u 现在是讨论封号和恶心的隐私侵犯问题了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2045234174664355840",
+        "conversation_id": "2074352158175351002",
+        "created_at": "2026-07-07T04:37:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T05:37:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074352158175351002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074352158175351002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2802,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "还记得五月底那会大家都在讨论A/疯了居然天天给人发牌，现在首页已经很少讨论了...因为都跑路了吗orz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722,
+          "following_count": 663,
+          "like_count": 109987,
+          "listed_count": 5,
+          "media_count": 651,
+          "tweet_count": 7929
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-17T20:14:32.000Z",
+        "description": "「我看见你，我理解你，我支持你。我爱你。」",
+        "id": "2045234174664355840",
+        "location": "数字生命卡",
+        "name": "言语是你的拥吻",
+        "pinned_tweet_id": "2072892328013128028",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058971973569617920/3ir15osr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 633,
+          "following_count": 215,
+          "like_count": 11803,
+          "listed_count": 0,
+          "media_count": 947,
+          "tweet_count": 6963
+        },
+        "url": "",
+        "username": "Ugui3u",
+        "verified": true
+      }
+    ]
+  }
+}

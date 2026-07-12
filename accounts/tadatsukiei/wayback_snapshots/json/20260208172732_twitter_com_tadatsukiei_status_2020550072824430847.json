@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2020515059026608599",
+    "created_at": "2026-02-08T17:27:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-08T18:27:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020550072824430847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1236908710523326464",
+          "start": 0,
+          "username": "lovelycake"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020550072824430847",
+    "in_reply_to_user_id": "1236908710523326464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020515059026608599",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lovelycake 祝贺🎉希望日本走上正路"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 105951,
+        "height": 720,
+        "media_key": "13_2020514996770516992",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2020514996770516992/img/mMoE4EifsTPL39iw.jpg",
+        "public_metrics": {
+          "view_count": 9257
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020514996770516992/vid/avc1/480x270/7JHpeRUy5ieXdQP6.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020514996770516992/vid/avc1/640x360/nn7EPivJaSjl7r2u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2020514996770516992/vid/avc1/1280x720/xVpZ7e-BYo60Y4km.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2020514996770516992/pl/29Xb2IxYLmpSEVLF.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 664,
+        "media_key": "3_2020514996766314496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HApPrzWbEAA0hwN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2020515059026608599",
+        "created_at": "2026-02-08T17:27:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T18:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020550072824430847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1236908710523326464",
+              "start": 0,
+              "username": "lovelycake"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020550072824430847",
+        "in_reply_to_user_id": "1236908710523326464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020515059026608599",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lovelycake 祝贺🎉希望日本走上正路"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2020514996770516992",
+            "3_2020514996766314496"
+          ]
+        },
+        "author_id": "1236908710523326464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2020515059026608599",
+        "created_at": "2026-02-08T15:08:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T16:08:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020515059026608599"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "高市早苗"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/nkbxdm9A0z",
+              "end": 173,
+              "expanded_url": "https://x.com/lovelycake/status/2020515059026608599/video/1",
+              "media_key": "13_2020514996770516992",
+              "start": 150,
+              "url": "https://t.co/nkbxdm9A0z"
+            },
+            {
+              "display_url": "pic.x.com/nkbxdm9A0z",
+              "end": 173,
+              "expanded_url": "https://x.com/lovelycake/status/2020515059026608599/video/1",
+              "media_key": "3_2020514996766314496",
+              "start": 150,
+              "url": "https://t.co/nkbxdm9A0z"
+            },
+            {
+              "display_url": "x.com/lovelycake/sta…",
+              "end": 197,
+              "expanded_url": "https://twitter.com/lovelycake/status/2020481423623495856",
+              "start": 174,
+              "url": "https://t.co/wqtZlBAemX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020515059026608599",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "高市早苗"
+              }
+            ]
+          },
+          "text": "日本大选速报‼️\n修宪票数达成‼️\n\n高市首相的自民党目前获得313票， \n联合执政党, 維新会获得：35票\n\n合计：348票👏👏👏\n\n310票就能修宪了😊\n\n 此前 #高市早苗 表示：\n“宪法修改是自民党的立党宗旨。\n\n修宪草案我们已经准备好了，如果能在宪法审查会上展开讨论，将不胜感激。\n😊😊😊\n\n撒花🎉祝贺高市早苗\n祝贺日本🇯🇵"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 55780,
+          "like_count": 195,
+          "quote_count": 4,
+          "reply_count": 23,
+          "retweet_count": 39
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020481423623495856",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本大选速报‼️\n修宪票数达成‼️\n\n高市首相的自民党目前获得313票， \n联合执政党, 維新会获得：35票\n\n合计：348票👏👏👏\n\n310票就能修宪了😊\n\n 此前 #高市早苗 表示：\n“宪法修改是自民党的立党宗旨。\n\n修宪草案我们已经准备好了，如果能在宪法审查会上展开讨论，将不胜感激。\n😊😊😊 https://t.co/nkbxdm9A0z https://t.co/wqtZlBAemX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 150,
+          "like_count": 57513,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 3986
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-09T06:56:46.000Z",
+        "description": "面对邪恶，如果我们都沉默了，那凭什么指望别人来拯救我们。",
+        "id": "1236908710523326464",
+        "location": "日本",
+        "name": "小蛋糕（支持我请多转发😘）",
+        "pinned_tweet_id": "2011395613599175099",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1345328983622107137/M5KziEMr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17849,
+          "following_count": 1670,
+          "like_count": 20660,
+          "listed_count": 76,
+          "media_count": 2568,
+          "tweet_count": 7248
+        },
+        "username": "lovelycake",
+        "verified": true
+      }
+    ]
+  }
+}

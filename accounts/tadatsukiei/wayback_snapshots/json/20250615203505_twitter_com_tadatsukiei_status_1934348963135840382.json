@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1934249541269668158",
+    "created_at": "2025-06-15T20:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-15T21:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934348963135840382"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934348963135840382",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934249541269668158",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 老米可不缺钱……要么是外包团队的锅（大概率），要么这是个搏流量的（可能性较小）。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 702,
+        "media_key": "3_1934245217781063680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfRxwpWoAA5HIj.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1200,
+        "media_key": "3_1934245217928204288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfRxxMb0AArIxD.jpg",
+        "width": 293
+      },
+      {
+        "height": 1615,
+        "media_key": "3_1934245161984204800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfRugyWIAAeXAK.jpg",
+        "width": 2141
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1934245207853187072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GtfRxLqXQAAxKFE.jpg",
+        "width": 597
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1934249541269668158",
+        "created_at": "2025-06-15T20:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T21:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934348963135840382"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934348963135840382",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934249541269668158",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 老米可不缺钱……要么是外包团队的锅（大概率），要么这是个搏流量的（可能性较小）。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1934245217781063680",
+            "3_1934245217928204288",
+            "3_1934245161984204800",
+            "3_1934245207853187072"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1310987643765678083",
+              "name": "Genshin Impact"
+            }
+          }
+        ],
+        "conversation_id": "1934249541269668158",
+        "created_at": "2025-06-15T14:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-15T15:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1934249541269668158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/f6CegMbpjI",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1934249541269668158/photo/1",
+              "media_key": "3_1934245217781063680",
+              "start": 149,
+              "url": "https://t.co/f6CegMbpjI"
+            },
+            {
+              "display_url": "pic.x.com/f6CegMbpjI",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1934249541269668158/photo/1",
+              "media_key": "3_1934245217928204288",
+              "start": 149,
+              "url": "https://t.co/f6CegMbpjI"
+            },
+            {
+              "display_url": "pic.x.com/f6CegMbpjI",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1934249541269668158/photo/1",
+              "media_key": "3_1934245161984204800",
+              "start": 149,
+              "url": "https://t.co/f6CegMbpjI"
+            },
+            {
+              "display_url": "pic.x.com/f6CegMbpjI",
+              "end": 172,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1934249541269668158/photo/1",
+              "media_key": "3_1934245207853187072",
+              "start": 149,
+              "url": "https://t.co/f6CegMbpjI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934249541269668158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "6月15日，一名西班牙人在小红书上用英文讨薪。他称，米哈游新加坡原神的UGC项目拖欠他一年的工资。他于2024年4月加入米哈游一个保密地图项目，凭借9年UGC经验参与项目并招募了42名开发者。尽管签订合同并得到口头承诺，但一年来他未收到任何报酬。多次沟通后，公司仅以延期和模糊回应处理，甚至要求签署保密协议才给\"新提议\"，却不包含过往工作补偿。此前，他已经在外网求助。这次来小红书发贴，希望中国人能帮助他。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 154107,
+          "like_count": 932,
+          "quote_count": 12,
+          "reply_count": 63,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "6月15日，一名西班牙人在小红书上用英文讨薪。他称，米哈游新加坡原神的UGC项目拖欠他一年的工资。他于2024年4月加入米哈游一个保密地图项目，凭借9年UGC经验参与项目并招募了42名开发者。尽管签订合同并得到口头承诺，但一年来他未收到任何报酬。多次沟通后，公司仅以延期和模糊回应处理，甚至要求签 https://t.co/f6CegMbpjI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 81,
+          "like_count": 9210,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1732
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1933896398610526577",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014402,
+          "following_count": 964,
+          "like_count": 6982,
+          "listed_count": 8164,
+          "media_count": 29915,
+          "tweet_count": 36466
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

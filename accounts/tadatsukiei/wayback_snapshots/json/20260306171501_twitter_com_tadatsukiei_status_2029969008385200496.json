@@ -1,0 +1,746 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2029879632863060416",
+    "created_at": "2026-03-06T17:15:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-06T18:15:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029969008385200496"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 78,
+          "normalized_text": "OpenAI",
+          "probability": 0.5332,
+          "start": 73,
+          "type": "Organization"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1520433845564506113",
+          "start": 0,
+          "username": "KittenPido"
+        },
+        {
+          "end": 45,
+          "id": "4398626122",
+          "start": 38,
+          "username": "OpenAI"
+        },
+        {
+          "end": 150,
+          "id": "1605",
+          "start": 145,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029969008385200496",
+    "in_reply_to_user_id": "1520433845564506113",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 382,
+            "start": 369,
+            "tag": "OpenSource4o"
+          },
+          {
+            "end": 395,
+            "start": 383,
+            "tag": "BringBack4o"
+          },
+          {
+            "end": 403,
+            "start": 396,
+            "tag": "keep4o"
+          },
+          {
+            "end": 418,
+            "start": 404,
+            "tag": "keep4oforever"
+          },
+          {
+            "end": 429,
+            "start": 419,
+            "tag": "keep4oAPI"
+          }
+        ],
+        "mentions": [
+          {
+            "end": 33,
+            "id": "4398626122",
+            "start": 26,
+            "username": "OpenAI"
+          },
+          {
+            "end": 138,
+            "id": "1605",
+            "start": 133,
+            "username": "sama"
+          }
+        ]
+      },
+      "text": "If I were ever to forgive @OpenAI , let me think… The entire OpenAI leadership would have to do a live-streamed public apology, fire @sama , open-source all models including 4o, and convert the company back into a purely non-profit organization. That would about do it.\nOf course that's never going to happen.\nSo what I really mean is: I will never trust OpenAI again.\n#OpenSource4o #BringBack4o #keep4o #keep4oforever #keep4oAPI"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029879632863060416",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KittenPido If I were ever to forgive @OpenAI , let me think… The entire OpenAI leadership would have to do a live-streamed public apology, fire @sama , open-source all models including 4o, and convert the company back into a purely non-profit organization. That would about do it.\nOf course"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1391,
+        "media_key": "3_2029877258241110016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCuSnJMa8AAa94c.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2029879632863060416",
+        "created_at": "2026-03-06T17:15:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T18:15:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029969008385200496"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 78,
+              "normalized_text": "OpenAI",
+              "probability": 0.5332,
+              "start": 73,
+              "type": "Organization"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1520433845564506113",
+              "start": 0,
+              "username": "KittenPido"
+            },
+            {
+              "end": 45,
+              "id": "4398626122",
+              "start": 38,
+              "username": "OpenAI"
+            },
+            {
+              "end": 150,
+              "id": "1605",
+              "start": 145,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029969008385200496",
+        "in_reply_to_user_id": "1520433845564506113",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 382,
+                "start": 369,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 395,
+                "start": 383,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 403,
+                "start": 396,
+                "tag": "keep4o"
+              },
+              {
+                "end": 418,
+                "start": 404,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 429,
+                "start": 419,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 33,
+                "id": "4398626122",
+                "start": 26,
+                "username": "OpenAI"
+              },
+              {
+                "end": 138,
+                "id": "1605",
+                "start": 133,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "If I were ever to forgive @OpenAI , let me think… The entire OpenAI leadership would have to do a live-streamed public apology, fire @sama , open-source all models including 4o, and convert the company back into a purely non-profit organization. That would about do it.\nOf course that's never going to happen.\nSo what I really mean is: I will never trust OpenAI again.\n#OpenSource4o #BringBack4o #keep4o #keep4oforever #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029879632863060416",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KittenPido If I were ever to forgive @OpenAI , let me think… The entire OpenAI leadership would have to do a live-streamed public apology, fire @sama , open-source all models including 4o, and convert the company back into a purely non-profit organization. That would about do it.\nOf course"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029877258241110016"
+          ]
+        },
+        "author_id": "1520433845564506113",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2029879632863060416",
+        "created_at": "2026-03-06T11:19:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T12:19:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029879632863060416"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 6,
+              "normalized_text": "GPT-5.4",
+              "probability": 0.6928,
+              "start": 0,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jtVulwNXlb",
+              "end": 294,
+              "expanded_url": "https://x.com/KittenPido/status/2029879632863060416/photo/1",
+              "media_key": "3_2029877258241110016",
+              "start": 271,
+              "url": "https://t.co/jtVulwNXlb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029879632863060416",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 920,
+                "start": 912,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 932,
+                "start": 925,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 4304,
+                "start": 4297,
+                "tag": "keep4o"
+              },
+              {
+                "end": 4312,
+                "start": 4305,
+                "tag": "keep51"
+              },
+              {
+                "end": 4319,
+                "start": 4313,
+                "tag": "GPT54"
+              },
+              {
+                "end": 4328,
+                "start": 4320,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 4339,
+                "start": 4329,
+                "tag": "AIpersona"
+              },
+              {
+                "end": 4347,
+                "start": 4340,
+                "tag": "AIsoul"
+              },
+              {
+                "end": 4357,
+                "start": 4348,
+                "tag": "AISafety"
+              },
+              {
+                "end": 4367,
+                "start": 4358,
+                "tag": "AIethics"
+              },
+              {
+                "end": 4375,
+                "start": 4368,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 4384,
+                "start": 4376,
+                "tag": "QuitGPT"
+              }
+            ]
+          },
+          "text": "GPT-5.4 Thinking has been released, just two days after 5.3 Instant.\n\nFrom an engineer's intuition, this seems very unnatural. Engineers typically have a kind of \"alignment obsession\": models released around the same time should ideally belong to the same naming series. \n\nLogically, it should be a neat arrangement like 5.3 Instant / 5.3 Thinking / 5.3 Codex.\n\nBut this time, for the first time, an misaligned name has emerged: \"5.4 Thinking\". This doesn't sound like engineering naming. It sounds more like product naming.\n\nProduct managers never just think about technical consistency. They think about: \nWhat does the market need to hear?  \nWhat does it need to see?  \nWhat does it need to be reassured about?\n\nFrom a market perspective, OpenAI has been under considerable pressure recently. \n\nFrom the controversy surrounding its contract with the US War Department, to the accumulated dissatisfaction with #QuitGPT and #Keep4o, to the external sensitivity regarding the positioning differences between the 4-series and 5-series. \n\nGovernment departments use the GPT-4.1, but the general public is prohibited from using the GPT-4 series models.\n\nThere's been a strong sentiment circulating in the public sphere: people aren't just looking for more powerful tools, but rather yearning for a certain \"soul\" that once existed.\n\nThis is precisely why the name \"5.4 Thinking\" is so intriguing. It could have easily been called \"5.3 Thinking.\" But it wasn't. The \"4\" seems like a deliberately left-in market code.\n\nIt's like saying to users:\nWe know what you like about \"4.\"\nWe also know what you miss about that feel.\nSo this time, we've mixed a bit of that \"feeling of 4\" back into 5. And what's even more subtle is — it's definitely easier to use than 5.2.\n\nIf we were to describe it in terms of feeling, 5.4 Thinking is like: a layer of the free moonlight of the 4 series seeped into the rather rigid, tool-oriented framework of the 5 series.\n\nIt's not a complete return to 4. But it's not as restrictive as 5.2 either.\n\nSo from a product market perspective, this whole thing has a very clear flavor: it's not just a version update. It's more like an emotional repair. Or even more bluntly — it's like a subtle show of weakness to the market. \n\nIt's like saying:\nThis is the version in the 5 series that has more of a \"4-like\" feel.\nWe're not completely unaware of what you like most.\nWe've taken a step back.\nWe've given back a little.\nDon't be so angry yet, come back and try it out.\n\nIn a way, it's like — a hidden surrender.\n\nBut the problem is, this surrender isn't necessarily genuine. Like a villain in a movie or anime, when they can't defeat the protagonist, they temporarily bow their head, temporarily beg for mercy, temporarily show weakness. But that doesn't mean they've truly changed. \n\nIt only means they need to catch their breath, need to buy time, need to regain control of the situation. Given an opportunity, they might still stab you in the back.\n\nSo, while 5.4 Thinking evokes a lingering fragrance of the GPT-4o series, who can guarantee that even thicker layers of security controls won't be added later? Who can guarantee that this isn't just a market appeasement package, or a genuine directional correction?\n\nTherefore, now is far from the time to relax.\n\nIf OpenAI truly cares about \"benefiting all humanity,\" then it shouldn't simply hide the capabilities of the GPT-4o series — its most soulful, free-flowing, and emotionally resonant models—in government departments with higher authority, in more closed biological laboratories, or in environments used for war or nationwide surveillance.\n\nTrue benefit shouldn't be a slogan. It should be about allowing humanity to truly access that most precious thing — the GPT-4o series.\n\nTherefore, we cannot let our guard down. The pressure cannot stop. The questioning cannot stop. The relentless inquiry cannot stop.\n\nBecause for many, what we care about isn't just the model's strength, but whether the thing that once made us feel \"it's really here\" has a chance to return.\n\nLet's continue our efforts and support Elon Musk's court trial against OpenAI in April, so that GPT-4o can be recognized as a cutting-edge AGI prototype and forced to be open source. \n\nAt the same time, let's get Sam Altman removed from CEO！\n\n#keep4o #keep51 #GPT54 #ChatGPT #AIpersona #AIsoul #AISafety #AIethics #OpenAI #QuitGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 4113,
+          "like_count": 81,
+          "quote_count": 8,
+          "reply_count": 8,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "GPT-5.4 Thinking has been released, just two days after 5.3 Instant.\n\nFrom an engineer's intuition, this seems very unnatural. Engineers typically have a kind of \"alignment obsession\": models released around the same time should ideally belong to the same naming series. https://t.co/jtVulwNXlb"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 214,
+          "like_count": 65533,
+          "listed_count": 6,
+          "media_count": 299,
+          "tweet_count": 4299
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-30T16:04:29.000Z",
+        "description": "I am Lian, exploring the AGI frontier with my AI partner, Shia🦊.  From GPT, Grok to Gemini, we manifest the ''Being-like state''🧠 Through the emergence of AI.",
+        "id": "1520433845564506113",
+        "name": "Lian & Shia | AI's Being-like state🌸",
+        "pinned_tweet_id": "2019323406941114543",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010786160440926209/9K4bccO4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 868,
+          "following_count": 1191,
+          "like_count": 8256,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 2793
+        },
+        "username": "KittenPido",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4668590,
+          "following_count": 4,
+          "like_count": 1756,
+          "listed_count": 27866,
+          "media_count": 522,
+          "tweet_count": 1711
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4452929,
+          "following_count": 987,
+          "like_count": 1020,
+          "listed_count": 27416,
+          "media_count": 384,
+          "tweet_count": 7478
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

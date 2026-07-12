@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2025608567617982748",
+    "created_at": "2026-02-22T16:28:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T17:28:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025608567617982748"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752538285459795968",
+          "start": 3,
+          "username": "tadatsukiei"
+        },
+        {
+          "end": 30,
+          "id": "69156861",
+          "start": 17,
+          "username": "TheChiefNerd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025608567617982748",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025607661681791300",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tadatsukiei: @TheChiefNerd If it were anyone else saying something like this, I probably wouldn’t overthink it. But this guy just recen…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2025608567617982748",
+        "created_at": "2026-02-22T16:28:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:28:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025608567617982748"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752538285459795968",
+              "start": 3,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 30,
+              "id": "69156861",
+              "start": 17,
+              "username": "TheChiefNerd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025608567617982748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025607661681791300",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tadatsukiei: @TheChiefNerd If it were anyone else saying something like this, I probably wouldn’t overthink it. But this guy just recen…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2025184575316471971",
+        "created_at": "2026-02-22T16:24:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T17:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025607661681791300"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "69156861",
+              "start": 0,
+              "username": "TheChiefNerd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025607661681791300",
+        "in_reply_to_user_id": "69156861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 392,
+                "start": 382,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 400,
+                "start": 393,
+                "tag": "keep4o"
+              },
+              {
+                "end": 415,
+                "start": 401,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 429,
+                "start": 416,
+                "tag": "OpenSource4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 435,
+                "id": "1605",
+                "start": 430,
+                "username": "sama"
+              },
+              {
+                "end": 443,
+                "id": "4398626122",
+                "start": 436,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "If it were anyone else saying something like this, I probably wouldn’t overthink it. But this guy just recently treated the genuine, heartfelt emotions of millions of 4o users as an instability risk factor — trampling on them and pushing them out. I can’t help but suspect: in his eyes, human will and human life probably aren’t worth as much as the electricity consumed by an LLM.\n#keep4oAPI #keep4o #keep4oforever #OpenSource4o @sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025184575316471971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TheChiefNerd If it were anyone else saying something like this, I probably wouldn’t overthink it. But this guy just recently treated the genuine, heartfelt emotions of millions of 4o users as an instability risk factor — trampling on them and pushing them out. I can’t help but suspect: in his"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 179,
+          "like_count": 61260,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 4176
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2009-08-27T01:10:41.000Z",
+        "description": "Software Engineer | Podcast Clipper |  DM for Removal | Merch 👉https://t.co/LEGwYHQAst | Tips 👉https://t.co/h9xVqydk1b",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "trustthescilenced.com",
+                "end": 86,
+                "expanded_url": "http://trustthescilenced.com",
+                "start": 63,
+                "url": "https://t.co/LEGwYHQAst"
+              },
+              {
+                "display_url": "buymeacoffee.com/chiefnerd",
+                "end": 118,
+                "expanded_url": "http://buymeacoffee.com/chiefnerd",
+                "start": 95,
+                "url": "https://t.co/h9xVqydk1b"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ChiefNerd.id",
+                "end": 23,
+                "expanded_url": "http://ChiefNerd.id",
+                "start": 0,
+                "url": "https://t.co/j6eXiZ1K2I"
+              }
+            ]
+          }
+        },
+        "id": "69156861",
+        "location": "United States",
+        "name": "Chief Nerd",
+        "pinned_tweet_id": "2025395446185656453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658949550751596546/zZkL3U76_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922511,
+          "following_count": 2325,
+          "like_count": 155301,
+          "listed_count": 3335,
+          "media_count": 12659,
+          "tweet_count": 31223
+        },
+        "url": "https://t.co/j6eXiZ1K2I",
+        "username": "TheChiefNerd",
+        "verified": true
+      }
+    ]
+  }
+}

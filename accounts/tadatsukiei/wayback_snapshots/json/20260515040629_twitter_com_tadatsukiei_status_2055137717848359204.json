@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055137684704911360"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2055137717848359204",
+    "created_at": "2026-05-15T04:06:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:06:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2055137717848359204"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Ug6IhPPBaP",
+          "end": 55,
+          "expanded_url": "https://x.com/tadatsukiei/status/2055137717848359204/photo/1",
+          "media_key": "3_2055137684704911360",
+          "start": 32,
+          "url": "https://t.co/Ug6IhPPBaP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055137717848359204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Gemini跟我说牛奶和香蕉有助于睡眠，所以我买了瓶香蕉牛奶。 https://t.co/Ug6IhPPBaP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2055137684704911360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIVQ1e1a4AAqm7S.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055137684704911360"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2055137717848359204",
+        "created_at": "2026-05-15T04:06:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:06:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055137717848359204"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Ug6IhPPBaP",
+              "end": 55,
+              "expanded_url": "https://x.com/tadatsukiei/status/2055137717848359204/photo/1",
+              "media_key": "3_2055137684704911360",
+              "start": 32,
+              "url": "https://t.co/Ug6IhPPBaP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055137717848359204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Gemini跟我说牛奶和香蕉有助于睡眠，所以我买了瓶香蕉牛奶。 https://t.co/Ug6IhPPBaP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 507,
+          "like_count": 89434,
+          "listed_count": 9,
+          "media_count": 486,
+          "tweet_count": 6246
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

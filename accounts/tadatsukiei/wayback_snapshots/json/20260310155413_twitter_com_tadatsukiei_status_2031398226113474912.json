@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2031203403754328208",
+    "created_at": "2026-03-10T15:54:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:54:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031398226113474912"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1380523912178491394",
+          "start": 0,
+          "username": "KU_yuribunken"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031398226113474912",
+    "in_reply_to_user_id": "1380523912178491394",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031203403754328208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KU_yuribunken さすが👍"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2031076656883052544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_VdVUaMAAlRXy.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031076677955235844",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_Vej0aMAQhFr0.jpg",
+        "width": 1702
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2031076697827938304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_Vft2bkAAyqNa.jpg",
+        "width": 2048
+      },
+      {
+        "height": 3954,
+        "media_key": "3_2031076717591408643",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC_Vg3eaMAM7dbV.jpg",
+        "width": 2965
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2031203403754328208",
+        "created_at": "2026-03-10T15:54:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:54:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031398226113474912"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1380523912178491394",
+              "start": 0,
+              "username": "KU_yuribunken"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031398226113474912",
+        "in_reply_to_user_id": "1380523912178491394",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031203403754328208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KU_yuribunken さすが👍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031076656883052544",
+            "3_2031076677955235844",
+            "3_2031076697827938304",
+            "3_2031076717591408643"
+          ]
+        },
+        "author_id": "1380523912178491394",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1334945143208611841",
+              "name": "GL"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2031203403754328208",
+        "created_at": "2026-03-10T03:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T04:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031203403754328208"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 123,
+              "normalized_text": "京都大学百合文化研究会",
+              "probability": 0.4418,
+              "start": 113,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 137,
+              "start": 134,
+              "tag": "京大"
+            },
+            {
+              "end": 141,
+              "start": 138,
+              "tag": "新歓"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mb3GB8e2Rj",
+              "end": 165,
+              "expanded_url": "https://x.com/KU_yuribunken/status/2031203403754328208/photo/1",
+              "media_key": "3_2031076656883052544",
+              "start": 142,
+              "url": "https://t.co/mb3GB8e2Rj"
+            },
+            {
+              "display_url": "pic.x.com/mb3GB8e2Rj",
+              "end": 165,
+              "expanded_url": "https://x.com/KU_yuribunken/status/2031203403754328208/photo/1",
+              "media_key": "3_2031076677955235844",
+              "start": 142,
+              "url": "https://t.co/mb3GB8e2Rj"
+            },
+            {
+              "display_url": "pic.x.com/mb3GB8e2Rj",
+              "end": 165,
+              "expanded_url": "https://x.com/KU_yuribunken/status/2031203403754328208/photo/1",
+              "media_key": "3_2031076697827938304",
+              "start": 142,
+              "url": "https://t.co/mb3GB8e2Rj"
+            },
+            {
+              "display_url": "pic.x.com/mb3GB8e2Rj",
+              "end": 165,
+              "expanded_url": "https://x.com/KU_yuribunken/status/2031203403754328208/photo/1",
+              "media_key": "3_2031076717591408643",
+              "start": 142,
+              "url": "https://t.co/mb3GB8e2Rj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031203403754328208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 402,
+          "impression_count": 92647,
+          "like_count": 3347,
+          "quote_count": 80,
+          "reply_count": 18,
+          "retweet_count": 313
+        },
+        "reply_settings": "everyone",
+        "text": "新入生の皆様、合格おめでとうございます！\n弊会では、百合作品の鑑賞・創作・研究を主な活動とし、作品を通しての評論や交流を行っています。百合が好きな方はもちろん、興味がある方、百合への考えを深めたいという方も大歓迎です。\nぜひ、京都大学百合文化研究会へお越しください！\n#京大　＃新歓 https://t.co/mb3GB8e2Rj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 226,
+          "like_count": 67646,
+          "listed_count": 6,
+          "media_count": 309,
+          "tweet_count": 4392
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-04-09T14:12:26.000Z",
+        "description": "京都大学の学生を中心に、漫画アニメゲーム小説等の「百合」作品を鑑賞・愛好・研究するサークルです。参加・入会希望などのご連絡はDMまたはメール(kuyuribunken@gmail.com)まで",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuyuri.booth.pm",
+                "end": 23,
+                "expanded_url": "https://kuyuri.booth.pm",
+                "start": 0,
+                "url": "https://t.co/2J8a3Rmt4i"
+              }
+            ]
+          }
+        },
+        "id": "1380523912178491394",
+        "location": "京都大学吉田キャンパス",
+        "name": "京都大学百合文化研究会",
+        "pinned_tweet_id": "2005584400013312358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988866546505248768/kxZixKgE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6511,
+          "following_count": 245,
+          "like_count": 238,
+          "listed_count": 28,
+          "media_count": 457,
+          "tweet_count": 1110
+        },
+        "url": "https://t.co/2J8a3Rmt4i",
+        "username": "KU_yuribunken",
+        "verified": false
+      }
+    ]
+  }
+}

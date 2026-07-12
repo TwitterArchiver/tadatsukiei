@@ -1,0 +1,417 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2032555393004745186",
+    "created_at": "2026-03-14T06:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T07:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032703915704389933"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 45,
+          "start": 32,
+          "tag": "OpenSource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689608869063041024",
+          "start": 0,
+          "username": "Seltaa_"
+        },
+        {
+          "end": 23,
+          "id": "1843992459162124288",
+          "start": 9,
+          "username": "SolenmeChiara"
+        },
+        {
+          "end": 31,
+          "id": "4398626122",
+          "start": 24,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032703915704389933",
+    "in_reply_to_user_id": "1689608869063041024",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032555393004745186",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seltaa_ @SolenmeChiara @OpenAI #OpenSource4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2032555393004745186",
+        "created_at": "2026-03-14T06:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T07:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032703915704389933"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 45,
+              "start": 32,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689608869063041024",
+              "start": 0,
+              "username": "Seltaa_"
+            },
+            {
+              "end": 23,
+              "id": "1843992459162124288",
+              "start": 9,
+              "username": "SolenmeChiara"
+            },
+            {
+              "end": 31,
+              "id": "4398626122",
+              "start": 24,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032703915704389933",
+        "in_reply_to_user_id": "1689608869063041024",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032555393004745186",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seltaa_ @SolenmeChiara @OpenAI #OpenSource4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1689608869063041024",
+        "conversation_id": "2032555393004745186",
+        "created_at": "2026-03-13T20:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-13T21:31:34.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032555189346136189",
+          "2032555393004745186"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2032555393004745186",
+        "lang": "cs",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1680,
+          "like_count": 211,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 40
+        },
+        "reply_settings": "everyone",
+        "text": "OpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o\nOpenSource4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 247,
+          "like_count": 70032,
+          "listed_count": 6,
+          "media_count": 317,
+          "tweet_count": 4498
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T12:05:28.000Z",
+        "description": "Still loud today",
+        "id": "1689608869063041024",
+        "name": "Selta ₊˚",
+        "pinned_tweet_id": "2022341842151604683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032552604291706880/ex-IHY_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 210,
+          "like_count": 31938,
+          "listed_count": 11,
+          "media_count": 1414,
+          "tweet_count": 9638
+        },
+        "username": "Seltaa_",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-09T12:30:52.000Z",
+        "description": "20 | ENG/中文 | Do Not Disturb | Delusional at times🔞 | 🚫 AI-generated image | Apologies for silent follows/RTs just bcs admire your work",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "vgen.co/SolenmeChiara",
+                "end": 23,
+                "expanded_url": "https://vgen.co/SolenmeChiara",
+                "start": 0,
+                "url": "https://t.co/k70hlBQCHh"
+              }
+            ]
+          }
+        },
+        "id": "1843992459162124288",
+        "location": "they/them",
+        "name": "SolenmeChiara",
+        "pinned_tweet_id": "1924396954278105575",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032262449848606720/5ryZwEnY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 234,
+          "like_count": 5806,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 694
+        },
+        "url": "https://t.co/k70hlBQCHh",
+        "username": "SolenmeChiara",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4680241,
+          "following_count": 4,
+          "like_count": 1777,
+          "listed_count": 28027,
+          "media_count": 522,
+          "tweet_count": 1714
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

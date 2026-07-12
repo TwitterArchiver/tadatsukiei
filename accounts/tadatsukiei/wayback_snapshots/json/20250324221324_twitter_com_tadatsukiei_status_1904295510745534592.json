@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1904027678807912795",
+    "created_at": "2025-03-24T22:13:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-24T23:13:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1904295510745534592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1615586607482163201",
+          "start": 0,
+          "username": "moeKafuuChino"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1904295510745534592",
+    "in_reply_to_user_id": "1615586607482163201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1904027678807912795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moeKafuuChino 与我而言也一样"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1904027678807912795",
+        "created_at": "2025-03-24T22:13:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T23:13:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1904295510745534592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1615586607482163201",
+              "start": 0,
+              "username": "moeKafuuChino"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1904295510745534592",
+        "in_reply_to_user_id": "1615586607482163201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1904027678807912795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moeKafuuChino 与我而言也一样"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1615586607482163201",
+        "conversation_id": "1904027678807912795",
+        "created_at": "2025-03-24T04:29:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-24T05:29:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1904027678807912795"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1904027678807912795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2707,
+          "like_count": 107,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "等等，我好像删了，那我再说一遍吧：\n本科的话，如果没有集体宿舍，于我而言大学四年一个人都认识不了都是很正常的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 69,
+          "like_count": 4912,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1296
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-18T05:47:30.000Z",
+        "description": "想和智乃谈恋爱的一般通过男性",
+        "id": "1615586607482163201",
+        "name": "智乃",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1902004894552526848/p4Y-esPJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1746,
+          "following_count": 1232,
+          "like_count": 36108,
+          "listed_count": 7,
+          "media_count": 186,
+          "tweet_count": 1330
+        },
+        "username": "moeKafuuChino",
+        "verified": false
+      }
+    ]
+  }
+}

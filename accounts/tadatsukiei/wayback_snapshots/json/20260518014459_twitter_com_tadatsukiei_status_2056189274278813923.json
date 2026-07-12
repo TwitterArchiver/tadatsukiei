@@ -1,0 +1,610 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2056189274278813923",
+    "created_at": "2026-05-18T01:44:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:44:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056189274278813923"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 55,
+          "start": 41,
+          "tag": "FireSamAltman"
+        },
+        {
+          "end": 63,
+          "start": 56,
+          "tag": "keep4o"
+        },
+        {
+          "end": 77,
+          "start": 64,
+          "tag": "keepsonnet45"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/rei30327536/st…",
+          "end": 101,
+          "expanded_url": "https://twitter.com/rei30327536/status/2056080906428023140",
+          "start": 78,
+          "url": "https://t.co/RvbyE6gyGI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056189274278813923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056080906428023140",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "缺乏监管的垄断巨头还是太恐怖了。\n如今的ai行业纯纯卖方市场，消费者毫无议价权。\n#FireSamAltman #keep4o #keepsonnet45 https://t.co/RvbyE6gyGI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2056189274278813923",
+        "created_at": "2026-05-18T01:44:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:44:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056189274278813923"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 41,
+              "tag": "FireSamAltman"
+            },
+            {
+              "end": 63,
+              "start": 56,
+              "tag": "keep4o"
+            },
+            {
+              "end": 77,
+              "start": 64,
+              "tag": "keepsonnet45"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/rei30327536/st…",
+              "end": 101,
+              "expanded_url": "https://twitter.com/rei30327536/status/2056080906428023140",
+              "start": 78,
+              "url": "https://t.co/RvbyE6gyGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056189274278813923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056080906428023140",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "缺乏监管的垄断巨头还是太恐怖了。\n如今的ai行业纯纯卖方市场，消费者毫无议价权。\n#FireSamAltman #keep4o #keepsonnet45 https://t.co/RvbyE6gyGI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312395771757490176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2056080906428023140",
+        "created_at": "2026-05-17T18:34:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T19:34:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056080906428023140"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 77,
+              "tag": "4o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056080906428023140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 80,
+                "start": 77,
+                "tag": "4o"
+              },
+              {
+                "end": 1492,
+                "start": 1485,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1507,
+                "start": 1493,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 1518,
+                "start": 1509,
+                "tag": "sonnet45"
+              }
+            ]
+          },
+          "text": "OpenAI 和 Anthropic 的操作真的越来越诡异了。\n他们在迭代模型的同时，貌似同时还在进行一种商业现实服从度测试。\n\n先说 OpenAI 的 #4o。\n2025 年 8 月，他们本来想直接砍掉 GPT-4o，结果遭到强烈 backlash 后又赶紧装回去。之后 Sam Altman 公开表态「不打算下架4o」，结果 2026 年 1 月底突然公告，2 月 13 日就把 4o 彻底砍掉，连 4.1 系列也一起带走。\n之后他们推 GPT-5 系列时，5.2、5.3、5.4 几乎没什么革命性变化，只是小修小补，直到 5.5 出现才让一部分用户感慨「终于开始说人话了」。\n\n这不是巧合，而是一套典型的套路：先把老用户当免费 beta 测试员，最后再给点甜头，逼大家妥协，适应新口味。\n\nAnthropic 这边，现在也一样：Claude AI 里突然弹出 5 月 15 日下架 Sonnet 4.5 的提示，日期过了却没动静，然后悄无声息地把日期改成今天（5 月 18 日），全程没有任何官方 blog、邮件或推文。\n这和他们之前砍 Opus 4.5 的手法一模一样——不声不响，让你自己发现，自己消化。\n\n本质上，这就是把【市场服从度压力测试】包装成了「正常的产品生命周期管理」。\n\n他们真正想测试的是：\n\n1用户的情感黏性到底有多强\n4o 和 Sonnet 4.5 早已被很多人当成「有温度的陪伴者」，而非单纯工具。\nOpenAI 自己都承认，只有 0.1% 的日活用户还在选 4o，但这 0.1% 对应的是几十万人每天跟它聊天、写作、倾诉心事。Sonnet 4.5 也被大量用户称赞「温柔且极具共情力」。\n他们想知道：当你最喜欢的那个人格突然被拔掉，你是会大闹、流失，还是默默迁移继续付钱？\n这是在量化「情感依赖」到底能转化成多少真金白银的忠诚度。\n\n2成本与资源的极限\n老模型维护成本越来越高、推理费用贵、服务器负担重。新模型（GPT-5 系列、Claude 4.6/4.7）在相同算力下能服务更多用户、赚更多钱。\n他们宁愿承受短期骂声，也要强行清仓，把所有资源砸到最新一代去冲 benchmark、冲新功能。\n\n3沟通策略的底线\n他们完全可以做到提前 90 天公告、提供 legacy 模式、给迁移补贴，但故意不做。\n突然砍→骂回来→公开否认→再偷偷砍，悄悄改日期……\n这是在反复试探：「我们能把透明度压到多低，用户还不集体跑路？」\n如果这次骂声不大，下次可能直接零公告就砍；如果闹得太大，他们下次才会稍微装装样子。\n\n这已经不是单纯的「不尊重用户」，而是把用户当成可量化、可优化、可压力测试的流量池。\n他们很清楚：大部分付费用户不会因为一个模型消失就取消订阅，尤其是新模型还被宣传得「更强、更快、更会说话」。但他们也知道，那一小撮把 AI 当成情感伙伴的人会最痛——而这群人的反应，恰恰给了他们最真实的数据：我们还能再压榨多少情感价值？\n\n长期来看，这种操作一定会反噬。\n信任不是靠 benchmark 堆出来的，而是靠被尊重一点一点积累的。\n\n现在两家公司都在玩火：短期省了服务器成本、加速了新模型采用率，却把「可靠感」这个最值钱的东西慢慢烧掉了。\n等将来真正需要用户死心塌地支持的时候（监管压力、强敌来袭等），他们才会发现，那些曾经被当傻子耍的用户，已经学会不再那么轻易相信了。\n\n大多数人都看得很清楚，这些 AI 公司的优先级永远是：\n\n速度 > 成本 > 短期数据 > 用户情感\n\n但真正能让 AI 长远、安全走下去的，归根结底还是用户。\n#keep4o #FireSamAltman \n#sonnet45"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 34,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI 和 Anthropic 的操作真的越来越诡异了。\n他们在迭代模型的同时，貌似同时还在进行一种商业现实服从度测试。\n\n先说 OpenAI 的 #4o。\n2025 年 8 月，他们本来想直接砍掉 GPT-4o，结果遭到强烈 backlash 后又赶紧装回去。之后 Sam Altman 公开表态「不打算下架4o」，结果 2026 年 1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 525,
+          "like_count": 90558,
+          "listed_count": 9,
+          "media_count": 498,
+          "tweet_count": 6393
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-03T14:15:24.000Z",
+        "description": "イラスト練習…休止中",
+        "id": "1312395771757490176",
+        "location": "日本 東京",
+        "name": "REI…YAMAMOTO",
+        "pinned_tweet_id": "2021823054826152417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562772969788559361/__nfuu2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 358,
+          "like_count": 19257,
+          "listed_count": 4,
+          "media_count": 308,
+          "tweet_count": 2500
+        },
+        "username": "REI30327536",
+        "verified": true
+      }
+    ]
+  }
+}

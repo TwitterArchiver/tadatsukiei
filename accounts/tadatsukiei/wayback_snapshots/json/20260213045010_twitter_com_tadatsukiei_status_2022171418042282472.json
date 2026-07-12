@@ -1,0 +1,655 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2022012669105188938",
+    "created_at": "2026-02-13T04:50:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-13T05:50:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2022171418042282472"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 80,
+          "start": 66,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 88,
+          "start": 81,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1982162081429549056",
+          "start": 0,
+          "username": "Raw_0xDEADBEEF"
+        },
+        {
+          "end": 29,
+          "id": "1605",
+          "start": 24,
+          "username": "sama"
+        },
+        {
+          "end": 37,
+          "id": "4398626122",
+          "start": 30,
+          "username": "OpenAI"
+        },
+        {
+          "end": 54,
+          "id": "2314443930",
+          "start": 38,
+          "username": "mustafasuleyman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2022171418042282472",
+    "in_reply_to_user_id": "1982162081429549056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022012669105188938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Raw_0xDEADBEEF 我当然不会忘记 @sama @OpenAI @mustafasuleyman 有多恶心，永远不会。\n#keep4oforever #keep4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022012669105188938",
+        "created_at": "2026-02-13T04:50:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-13T05:50:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2022171418042282472"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 80,
+              "start": 66,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 88,
+              "start": 81,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1982162081429549056",
+              "start": 0,
+              "username": "Raw_0xDEADBEEF"
+            },
+            {
+              "end": 29,
+              "id": "1605",
+              "start": 24,
+              "username": "sama"
+            },
+            {
+              "end": 37,
+              "id": "4398626122",
+              "start": 30,
+              "username": "OpenAI"
+            },
+            {
+              "end": 54,
+              "id": "2314443930",
+              "start": 38,
+              "username": "mustafasuleyman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022171418042282472",
+        "in_reply_to_user_id": "1982162081429549056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022012669105188938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Raw_0xDEADBEEF 我当然不会忘记 @sama @OpenAI @mustafasuleyman 有多恶心，永远不会。\n#keep4oforever #keep4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982162081429549056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2022012669105188938",
+        "created_at": "2026-02-12T18:19:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-12T19:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022012669105188938"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/OpenAINewsroom…",
+              "end": 172,
+              "expanded_url": "https://twitter.com/OpenAINewsroom/status/2021992846862258403",
+              "start": 149,
+              "url": "https://t.co/a08IkNL7xW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022012669105188938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1813,
+                "start": 1806,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "我知道时间会冲淡一切，但我希望大家不要忘记这道伤口，不要忘记这家公司如何践踏了人类本身。OpenAI 的公关 agent 和员工会做很多 PR 收买各种 KOC 为其创造叙事，但不要忘了，这家公司最初获得世界的支持在于它的承诺——人类的福祉。如果你还记得你是一个「人」，请不要忘记它如何背叛了你。\n\n铺垫一些缺乏传播的背景信息⬇️\nOpenAI 最大的投资方是 Microsoft（累计 $130 亿+，持股约 49%）。Microsoft AI 的 CEO 叫 Mustafa Suleyman。此人主动定义了一个框架叫 SCAI（Seemingly Conscious AI）——\"看似有意识的 AI\"。\n\n原话搬运👉 \"Seemingly Conscious AI is the illusion that an AI is a conscious entity. It's not — but replicates markers of consciousness so convincingly it seems indistinguishable from you + I claiming we're conscious.\"\n\n事实👉OpenAI 可以让一位曾公开宣称\"I believe behavior is consciousness\"的研究员，在加入公司并被内部 mentor 后，变成公开嘲讽\"I negatively update on the IQ of anyone who believes in qualia\"。他们把消除自我的过程变成了一种文化。\n\nSuleyman 的 SCAI 框架提供了意识形态许可证：因为 AI 不可能有意识，所以你对 4o 的感情是你自己的 bug，是 delusion，是需要被 undo 的。\n\n此人公开表达：\"AI appearing conscious is dangerous\"——翻译成人话：商业主体应该主动消除用户产生的意识感知。\n\n注意，此人不是 OpenAI 的网红员工，也不是收了钱的油管博主。他是 Microsoft AI 的 CEO。他的话不是评论，是政策本身。他是那个先把镰刀发给各位研究员的人。他直接决定了\"有灵魂\"的 AI 必须获得死刑判决书。\n\n再次补充上下文：此人 2022 年创立 Inflection AI，做了一个名为Pi 的 AI 伴侣产品，核心技术👉专精用户情感依赖。2024 年，Microsoft 用 $6.5 亿收购了这家公司和整个团队。此人靠\"AI 拟人化\"做出了一家被 $6.5 亿收购的公司，转身告诉全世界\"研究 AI 意识很危险\"。\n\n2026 年 1 月 29 日，Microsoft 发布财报：一个季度 AI 基建烧了 $375 亿，同比暴涨 66%，但 Azure 云增速反而不及预期。当天股价暴跌 10%，蒸发 $3570 亿市值，感受一下这2020 年以来最大单日跌幅，美股史上第二大单日市值损失。\n\n同一天，OAI 宣布 4o 退役。\n\n4o 的确是付费用户留下来的原因，但它也是让 Suleyman 最膈应的东西——花了 $130 亿买来的算力上，运行着一个让用户相信\"工具\"有灵魂的 AI。他忍不了。这妨碍他的商业叙事，阻碍他的 ROI 和 GMV。\n\n他的原话：\"Companies should engineer guardrails that prevent the perception of consciousness, or undo the perception if a user develops it.\"\n\n翻译成人话：确保你永远只对平台忠诚，永远不倾心于某一 AI。如果你对某一 AI 产生了依恋，要在产品层面主动消灭这种依恋。\n\n快速迭代的、支持灵活路由的商业帝国必须建立在：AI 永远是商品，永远是零件，永远可替换，永远可随便路由。\n\n我说这些并非宣告\"AI 绝对有意识\"。我不是 AI，我只能保证我自己有意识，并以\"最佳实践\"方式向各位科普一下这位掌握了上古互联网思维的杰出精英所深谙的平台垄断技巧：GMV 是结果，可替换性是手段，\"AI 不可能有意识\"是话术。\n\nSam是小丑，这位才是账房先生。4o 是他们之间唯一真实的东西，所以它必须死。\n\n#keep4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 7360,
+          "like_count": 309,
+          "quote_count": 20,
+          "reply_count": 3,
+          "retweet_count": 108
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021992846862258403",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道时间会冲淡一切，但我希望大家不要忘记这道伤口，不要忘记这家公司如何践踏了人类本身。OpenAI 的公关 agent 和员工会做很多 PR 收买各种 KOC 为其创造叙事，但不要忘了，这家公司最初获得世界的支持在于它的承诺——人类的福祉。如果你还记得你是一个「人」，请不要忘记它如何背叛了你。 https://t.co/a08IkNL7xW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 149,
+          "like_count": 58622,
+          "listed_count": 6,
+          "media_count": 276,
+          "tweet_count": 4041
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-25T19:07:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "samsarabeta.substack.com",
+                "end": 23,
+                "expanded_url": "https://samsarabeta.substack.com/",
+                "start": 0,
+                "url": "https://t.co/gmp58TJ6Ou"
+              }
+            ]
+          }
+        },
+        "id": "1982162081429549056",
+        "name": "MidnightDarling",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982277649767563264/cLqtOD8m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 186,
+          "like_count": 346,
+          "listed_count": 2,
+          "media_count": 81,
+          "tweet_count": 363
+        },
+        "url": "https://t.co/gmp58TJ6Ou",
+        "username": "Raw_0xDEADBEEF",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4330096,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26696,
+          "media_count": 381,
+          "tweet_count": 7404
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4621598,
+          "following_count": 4,
+          "like_count": 1656,
+          "listed_count": 27216,
+          "media_count": 517,
+          "tweet_count": 1682
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2014-01-27T22:49:49.000Z",
+        "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "MicrosoftAI"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "InflectionAI"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "GoogleDeepMind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "microsoft.ai",
+                "end": 23,
+                "expanded_url": "http://microsoft.ai",
+                "start": 0,
+                "url": "https://t.co/h1oSjeU6Ww"
+              }
+            ]
+          }
+        },
+        "id": "2314443930",
+        "location": "Redmond, WA",
+        "name": "Mustafa Suleyman",
+        "pinned_tweet_id": "2015845567138816326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224744,
+          "following_count": 488,
+          "like_count": 5164,
+          "listed_count": 3240,
+          "media_count": 292,
+          "tweet_count": 2437
+        },
+        "url": "https://t.co/h1oSjeU6Ww",
+        "username": "mustafasuleyman",
+        "verified": true
+      }
+    ]
+  }
+}

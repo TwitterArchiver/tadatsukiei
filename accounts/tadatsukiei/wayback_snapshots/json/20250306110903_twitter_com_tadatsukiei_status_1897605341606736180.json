@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1897258028640145545",
+    "created_at": "2025-03-06T11:09:03.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-06T12:09:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1897605341606736180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1788485889225834496",
+          "start": 0,
+          "username": "CnHpaHky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1897605341606736180",
+    "in_reply_to_user_id": "1788485889225834496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897258028640145545",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CnHpaHky 我在说出爸爸妈妈这两个词时脑中根本不会对应上真人，因为……现实中的父母太抽象了（主要指父）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1897258028640145545",
+        "created_at": "2025-03-06T11:09:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-06T12:09:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1897605341606736180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1788485889225834496",
+              "start": 0,
+              "username": "CnHpaHky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897605341606736180",
+        "in_reply_to_user_id": "1788485889225834496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897258028640145545",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CnHpaHky 我在说出爸爸妈妈这两个词时脑中根本不会对应上真人，因为……现实中的父母太抽象了（主要指父）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "1897258028640145545",
+        "created_at": "2025-03-05T12:08:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-05T13:08:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897258028640145545"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1897258028640145545",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3105,
+          "like_count": 76,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们都和自己家里的爸爸妈妈关系很好吗？\n喊推U叫爸爸妈妈。\n说实话听这几个词语我都PTSD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 57,
+          "like_count": 3683,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1112
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "Bluesky同名，防走丢可提前前往blue sky。俄罗斯是一个大实验室，中国是一个精神病院。Void @Sayols_  @MikuMiku3648",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Sayols_"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "MikuMiku3648"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "location": "Neverland",
+        "name": "fallen stars",
+        "pinned_tweet_id": "1897576967660323087",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895357639879524352/W86f868N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 816,
+          "like_count": 3478,
+          "listed_count": 2,
+          "media_count": 191,
+          "tweet_count": 2602
+        },
+        "username": "CnHpaHky",
+        "verified": false
+      }
+    ]
+  }
+}

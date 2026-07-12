@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1958386370361045437",
+    "created_at": "2025-08-21T19:58:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T20:58:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958619773799211149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1027764083565711360",
+          "start": 0,
+          "username": "__Inty__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958619773799211149",
+    "in_reply_to_user_id": "1027764083565711360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1958386370361045437",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__Inty__ 防抖真能做到这么强那倒是厉害"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 48583,
+        "height": 1080,
+        "media_key": "13_1958304461207855104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1958304461207855104/img/vpQmpgH0IJWitH-l.jpg",
+        "public_metrics": {
+          "view_count": 395957
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1958304461207855104/pl/8aAAwMmCDTV8iab3.m3u8?v=c57"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958304461207855104/vid/avc1/640x360/lgWon8zF8Vk_XCIn.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958304461207855104/vid/avc1/480x270/XRzO4kdm4By0qL7C.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958304461207855104/vid/avc1/1280x720/Oq6JLdMn7SNJplNo.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1958304461207855104/vid/avc1/1920x1080/SjgRFrZfa_pU2DfB.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1958386370361045437",
+        "created_at": "2025-08-21T19:58:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T20:58:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958619773799211149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1027764083565711360",
+              "start": 0,
+              "username": "__Inty__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958619773799211149",
+        "in_reply_to_user_id": "1027764083565711360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958386370361045437",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__Inty__ 防抖真能做到这么强那倒是厉害"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1958304461207855104"
+          ],
+          "media_source_tweet_id": [
+            "1958304804054483120"
+          ]
+        },
+        "author_id": "1027764083565711360",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "1958386370361045437",
+        "created_at": "2025-08-21T04:31:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T05:31:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1958386370361045437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1Y1PrWVhco",
+              "end": 43,
+              "expanded_url": "https://x.com/tim_cook/status/1958304804054483120/video/1",
+              "media_key": "13_1958304461207855104",
+              "start": 20,
+              "url": "https://t.co/1Y1PrWVhco"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958386370361045437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25,
+          "impression_count": 78890,
+          "like_count": 272,
+          "quote_count": 6,
+          "reply_count": 87,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "苹果用残疾人做广告说他们的相机防抖\n\n https://t.co/1Y1PrWVhco"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 102,
+          "like_count": 19036,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 2379
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2018-08-10T03:50:27.000Z",
+        "description": "为你分享世界热点新闻。\n\n时政聊天群 https://t.co/mfY4RFysrB",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Inty_Fanbase",
+                "end": 42,
+                "expanded_url": "https://t.me/Inty_Fanbase",
+                "start": 19,
+                "url": "https://t.co/mfY4RFysrB"
+              }
+            ]
+          }
+        },
+        "id": "1027764083565711360",
+        "location": "USA",
+        "name": "Inty News",
+        "pinned_tweet_id": "1957417321007309105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683004187951665153/9u75ptcg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 722541,
+          "following_count": 89,
+          "like_count": 1524,
+          "listed_count": 2139,
+          "media_count": 32513,
+          "tweet_count": 91726
+        },
+        "username": "__Inty__",
+        "verified": true
+      }
+    ]
+  }
+}

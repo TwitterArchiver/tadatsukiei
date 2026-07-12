@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1975782559708815466",
+    "created_at": "2025-10-09T20:13:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-09T21:13:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1976380434142654476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1712754288777379840",
+          "start": 0,
+          "username": "sugishita123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1976380434142654476",
+    "in_reply_to_user_id": "1712754288777379840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975782559708815466",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugishita123 这底下机器人和支人含量超标了，建议不要看，我屏蔽了几十个，腻了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1975782559708815466",
+        "created_at": "2025-10-09T20:13:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-09T21:13:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1976380434142654476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1712754288777379840",
+              "start": 0,
+              "username": "sugishita123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976380434142654476",
+        "in_reply_to_user_id": "1712754288777379840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975782559708815466",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugishita123 这底下机器人和支人含量超标了，建议不要看，我屏蔽了几十个，腻了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1712754288777379840",
+        "conversation_id": "1975782559708815466",
+        "created_at": "2025-10-08T04:37:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-08T05:37:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1975782559708815466"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1975782559708815466",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 645798,
+          "like_count": 2250,
+          "quote_count": 39,
+          "reply_count": 1803,
+          "retweet_count": 78
+        },
+        "reply_settings": "everyone",
+        "text": "我爸是日本人，我妈是马来西亚人，我外公外婆也是大马的，我在日本长大，大马华人也会说中文，我妈说会多讲一门语言以后优势大一些，所以从小教我中文，家里也是双语环境。我们家就没有中国人。所以傻逼们腆个逼脸说你也是中国人！日本人也看不起你！抱歉，我不是，你才是中国人，你下辈子也是中国人。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 106,
+          "like_count": 29207,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 2792
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-13T08:57:07.000Z",
+        "description": "日本人ファースト。",
+        "id": "1712754288777379840",
+        "name": "杉下右京",
+        "pinned_tweet_id": "1929403974589042765",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881357980274413568/Osk3otel_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3488,
+          "following_count": 383,
+          "like_count": 12738,
+          "listed_count": 27,
+          "media_count": 1235,
+          "tweet_count": 9387
+        },
+        "username": "sugishita123",
+        "verified": false
+      }
+    ]
+  }
+}

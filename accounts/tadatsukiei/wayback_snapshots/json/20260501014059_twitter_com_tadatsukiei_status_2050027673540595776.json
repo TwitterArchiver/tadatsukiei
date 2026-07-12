@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050027629919801345"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2050027673540595776",
+    "created_at": "2026-05-01T01:40:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:40:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050027673540595776"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/tDqqtLctxf",
+          "end": 42,
+          "expanded_url": "https://x.com/tadatsukiei/status/2050027673540595776/photo/1",
+          "media_key": "3_2050027629919801345",
+          "start": 19,
+          "url": "https://t.co/tDqqtLctxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050027673540595776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这玩意真有意思，以后没事可以再买买😆 https://t.co/tDqqtLctxf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2050027629919801345",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHMpRJUbEAElNhE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050027629919801345"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2050027673540595776",
+        "created_at": "2026-05-01T01:40:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:40:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050027673540595776"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tDqqtLctxf",
+              "end": 42,
+              "expanded_url": "https://x.com/tadatsukiei/status/2050027673540595776/photo/1",
+              "media_key": "3_2050027629919801345",
+              "start": 19,
+              "url": "https://t.co/tDqqtLctxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050027673540595776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这玩意真有意思，以后没事可以再买买😆 https://t.co/tDqqtLctxf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 437,
+          "like_count": 84638,
+          "listed_count": 7,
+          "media_count": 420,
+          "tweet_count": 5508
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

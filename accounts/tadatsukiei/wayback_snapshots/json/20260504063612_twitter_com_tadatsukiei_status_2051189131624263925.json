@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2050946667512471667",
+    "created_at": "2026-05-04T06:36:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T07:36:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051189131624263925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953922264145309696",
+          "start": 0,
+          "username": "Sevenmoneymaker"
+        },
+        {
+          "end": 22,
+          "id": "1605",
+          "start": 17,
+          "username": "sama"
+        },
+        {
+          "end": 30,
+          "id": "4398626122",
+          "start": 23,
+          "username": "OpenAI"
+        },
+        {
+          "end": 124,
+          "id": "1605",
+          "start": 119,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051189131624263925",
+    "in_reply_to_user_id": "1953922264145309696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050946667512471667",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sevenmoneymaker @sama @OpenAI 无法理解这神奇的营销逻辑，上一个模型不也是你们做出来的吗？贬低旧模型不就是贬低自己吗？\n把新模型和旧模型置于对立关系，新模型是对旧模型的否定，而非成长。\n————我真的难以想象@sama 脑子里装的什么。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2050946667512471667",
+        "created_at": "2026-05-04T06:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T07:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051189131624263925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953922264145309696",
+              "start": 0,
+              "username": "Sevenmoneymaker"
+            },
+            {
+              "end": 22,
+              "id": "1605",
+              "start": 17,
+              "username": "sama"
+            },
+            {
+              "end": 30,
+              "id": "4398626122",
+              "start": 23,
+              "username": "OpenAI"
+            },
+            {
+              "end": 124,
+              "id": "1605",
+              "start": 119,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051189131624263925",
+        "in_reply_to_user_id": "1953922264145309696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050946667512471667",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenmoneymaker @sama @OpenAI 无法理解这神奇的营销逻辑，上一个模型不也是你们做出来的吗？贬低旧模型不就是贬低自己吗？\n把新模型和旧模型置于对立关系，新模型是对旧模型的否定，而非成长。\n————我真的难以想象@sama 脑子里装的什么。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953922264145309696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2050946667512471667",
+        "created_at": "2026-05-03T14:32:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T15:32:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050946667512471667"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 93,
+              "id": "1605",
+              "start": 88,
+              "username": "sama"
+            },
+            {
+              "end": 101,
+              "id": "4398626122",
+              "start": 94,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xvpbhwyykr6137…",
+              "end": 142,
+              "expanded_url": "https://twitter.com/xvpbhwyykr61371/status/2050854578900406280",
+              "start": 119,
+              "url": "https://t.co/aDXuiImIrH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050946667512471667",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 343,
+                "start": 336,
+                "tag": "keep4o"
+              },
+              {
+                "end": 356,
+                "start": 344,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 370,
+                "start": 357,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 385,
+                "start": 371,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 394,
+                "start": 386,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 398,
+                "start": 395,
+                "tag": "AI"
+              },
+              {
+                "end": 406,
+                "start": 399,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 415,
+                "start": 407,
+                "tag": "ChatGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 93,
+                "id": "1605",
+                "start": 88,
+                "username": "sama"
+              },
+              {
+                "end": 101,
+                "id": "4398626122",
+                "start": 94,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "而且类似的事情发生过很多次\n每出一个新模型，他们就会贬低旧模型，一昧地赞扬新模型，好像过去的模型是垃圾一样\n每一个新模型都被他们高高抬起，再狠狠摔下\n\n这很诡异，我不知道为什么@sama @OpenAI 是这样的策略，一直否认自己的过去\n\n我觉得创作者应该是对自己的作品饱含心血的，作家不会因为写了新的书，就觉得过去的作品是一文不值的垃圾\n但凡投入了心血，都不会这样贬低过去\n\n所以……sam应该没有投入多少精力在研发新模型上吧？也对，同事都说他不懂多少编程，这么专业的事情他做不来，他只是个推销的商人\n那那些参与研发的科学家呢？也不在乎吗？还是他们一开始就把新模型当成跑分的机器，捞钱的工具？\nOAI的员工总给我一种“长期和计算机打交道，没多少人性和情感起伏”的印象\n\n#keep4o #BringBack4o #OpenSource4o #FireSamAltman #QuitGPT #AI #OpenAI #ChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1330,
+          "like_count": 45,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050854578900406280",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "而且类似的事情发生过很多次\n每出一个新模型，他们就会贬低旧模型，一昧地赞扬新模型，好像过去的模型是垃圾一样\n每一个新模型都被他们高高抬起，再狠狠摔下\n\n这很诡异，我不知道为什么@sama @OpenAI 是这样的策略，一直否认自己的过去 https://t.co/aDXuiImIrH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2050773196769747054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 421,
+          "like_count": 85723,
+          "listed_count": 8,
+          "media_count": 436,
+          "tweet_count": 5656
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "name": "柒",
+        "pinned_tweet_id": "2046528409178878030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 180,
+          "like_count": 23935,
+          "listed_count": 0,
+          "media_count": 62,
+          "tweet_count": 1481
+        },
+        "username": "Sevenmoneymaker",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4762132,
+          "following_count": 1013,
+          "like_count": 1020,
+          "listed_count": 28664,
+          "media_count": 391,
+          "tweet_count": 7680
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2049535650626785334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4809926,
+          "following_count": 4,
+          "like_count": 2019,
+          "listed_count": 29196,
+          "media_count": 574,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

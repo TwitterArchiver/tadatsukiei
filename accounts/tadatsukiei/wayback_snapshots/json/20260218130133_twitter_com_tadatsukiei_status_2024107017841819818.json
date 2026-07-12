@@ -1,0 +1,441 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2024051196298760327",
+    "created_at": "2026-02-18T13:01:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-18T14:01:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2024107017841819818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1734149503907934208",
+          "start": 0,
+          "username": "mo__06_xx"
+        },
+        {
+          "end": 23,
+          "id": "1642895111465103361",
+          "start": 11,
+          "username": "1jouTlex028"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2024107017841819818",
+    "in_reply_to_user_id": "1734149503907934208",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024051196298760327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mo__06_xx @1jouTlex028 かわいすぎる🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2024051191181901825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBbf1aGagAE6Esy.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2024051196298760327",
+        "created_at": "2026-02-18T13:01:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T14:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024107017841819818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1734149503907934208",
+              "start": 0,
+              "username": "mo__06_xx"
+            },
+            {
+              "end": 23,
+              "id": "1642895111465103361",
+              "start": 11,
+              "username": "1jouTlex028"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024107017841819818",
+        "in_reply_to_user_id": "1734149503907934208",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024051196298760327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mo__06_xx @1jouTlex028 かわいすぎる🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024051191181901825"
+          ]
+        },
+        "author_id": "1734149503907934208",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2024051196298760327",
+        "created_at": "2026-02-18T09:19:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-18T10:19:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024051196298760327"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "彩虹",
+              "probability": 0.3433,
+              "start": 88,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 27,
+              "start": 12,
+              "tag": "HoukaiStarRail"
+            },
+            {
+              "end": 37,
+              "start": 29,
+              "tag": "Hyacine"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 77,
+              "id": "1642895111465103361",
+              "start": 65,
+              "username": "1jouTlex028"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MtyW0Co5pQ",
+              "end": 125,
+              "expanded_url": "https://x.com/mo__06_xx/status/2024051196298760327/photo/1",
+              "media_key": "3_2024051191181901825",
+              "start": 102,
+              "url": "https://t.co/MtyW0Co5pQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024051196298760327",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 2360,
+          "like_count": 172,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "cosplay cos\n#HoukaiStarRail  #Hyacine\n崩壊:スターレイル / ヒアンシー\nphoto by @1jouTlex028 \n.\n\n　　　　『 彩虹の橋架が導くままに！』 https://t.co/MtyW0Co5pQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 239,
+          "following_count": 168,
+          "like_count": 60131,
+          "listed_count": 6,
+          "media_count": 278,
+          "tweet_count": 4115
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-11T09:54:06.000Z",
+        "description": "enstとHoYoverse￤おやさしく！ 𐔌՞⸝⸝ʚ̴̶̷̷ · ʚ̴̶̷̷⸝⸝ ՞𐦯 学マスなど→@neko_msama",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 62,
+                "start": 51,
+                "username": "neko_msama"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/Nekomiyaaa",
+                "end": 23,
+                "expanded_url": "https://lit.link/Nekomiyaaa",
+                "start": 0,
+                "url": "https://t.co/iGNIYIECoZ"
+              }
+            ]
+          }
+        },
+        "id": "1734149503907934208",
+        "location": "成人済",
+        "name": "猫宮ｻﾏ🎀",
+        "pinned_tweet_id": "2023011568146120812",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012842373223436288/6pk_c5kd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2391,
+          "following_count": 573,
+          "like_count": 8718,
+          "listed_count": 57,
+          "media_count": 289,
+          "tweet_count": 10534
+        },
+        "url": "https://t.co/iGNIYIECoZ",
+        "username": "mo__06_xx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-03T14:21:50.000Z",
+        "description": "📷作例https://t.co/sTwKvyszt0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "cos.guide/i/1jouTlex028",
+                "end": 26,
+                "expanded_url": "https://cos.guide/i/1jouTlex028",
+                "start": 3,
+                "url": "https://t.co/sTwKvyszt0"
+              }
+            ]
+          }
+        },
+        "id": "1642895111465103361",
+        "location": "杉並の森",
+        "name": "一畳てぃらの",
+        "pinned_tweet_id": "1911762377542128123",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952047090236055552/eF6VMyBC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 663,
+          "following_count": 1612,
+          "like_count": 90481,
+          "listed_count": 13,
+          "media_count": 481,
+          "tweet_count": 6953
+        },
+        "username": "1jouTlex028",
+        "verified": false
+      }
+    ]
+  }
+}

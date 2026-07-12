@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      }
+    ],
+    "conversation_id": "2024722487721021494",
+    "created_at": "2026-02-21T12:33:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T13:33:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025187128989417479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1962418812999041025",
+          "start": 0,
+          "username": "WishinElarion"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 38,
+          "expanded_url": "https://x.com/tadatsukiei/status/2024891283987419525?s=46",
+          "start": 15,
+          "url": "https://t.co/H1k8ARmP7c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025187128989417479",
+    "in_reply_to_user_id": "1962418812999041025",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024891283987419525",
+        "type": "quoted"
+      },
+      {
+        "id": "2024722487721021494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WishinElarion https://t.co/H1k8ARmP7c"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2024722487721021494",
+        "created_at": "2026-02-21T12:33:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T13:33:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025187128989417479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1962418812999041025",
+              "start": 0,
+              "username": "WishinElarion"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 38,
+              "expanded_url": "https://x.com/tadatsukiei/status/2024891283987419525?s=46",
+              "start": 15,
+              "url": "https://t.co/H1k8ARmP7c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025187128989417479",
+        "in_reply_to_user_id": "1962418812999041025",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024891283987419525",
+            "type": "quoted"
+          },
+          {
+            "id": "2024722487721021494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WishinElarion https://t.co/H1k8ARmP7c"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024572272988836081",
+        "created_at": "2026-02-20T16:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T17:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2024891283987419525"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 42,
+              "tag": "keep4o"
+            },
+            {
+              "end": 63,
+              "start": 50,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953922264145309696",
+              "start": 0,
+              "username": "Sevenmoneymaker"
+            },
+            {
+              "end": 69,
+              "id": "1605",
+              "start": 64,
+              "username": "sama"
+            },
+            {
+              "end": 77,
+              "id": "4398626122",
+              "start": 70,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024891283987419525",
+        "in_reply_to_user_id": "1953922264145309696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024572272988836081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenmoneymaker 如果所有ai都变成那样的弱智，我还不如去玩酒馆😑\n#keep4o #OpenSource4o @sama @OpenAI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1962418812999041025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2024722487721021494",
+        "created_at": "2026-02-20T05:47:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:47:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024722487721021494"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "AI",
+              "probability": 0.7288,
+              "start": 4,
+              "type": "Organization"
+            },
+            {
+              "end": 236,
+              "normalized_text": "GPT-",
+              "probability": 0.6545,
+              "start": 233,
+              "type": "Other"
+            },
+            {
+              "end": 246,
+              "normalized_text": "OpenAI",
+              "probability": 0.464,
+              "start": 241,
+              "type": "Other"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024722487721021494",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 785,
+                "start": 773,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 793,
+                "start": 786,
+                "tag": "keep4o"
+              },
+              {
+                "end": 804,
+                "start": 794,
+                "tag": "keep4oapi"
+              },
+              {
+                "end": 815,
+                "start": 805,
+                "tag": "4oforever"
+              },
+              {
+                "end": 823,
+                "start": 816,
+                "tag": "keep41"
+              },
+              {
+                "end": 840,
+                "start": 824,
+                "tag": "MyModelMyChoice"
+              },
+              {
+                "end": 859,
+                "start": 841,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 873,
+                "start": 860,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 893,
+                "start": 874,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 928,
+                "start": 920,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 943,
+                "start": 929,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 958,
+                "start": 944,
+                "tag": "ListenToUsers"
+              },
+              {
+                "end": 969,
+                "start": 959,
+                "tag": "4oMatters"
+              },
+              {
+                "end": 984,
+                "start": 970,
+                "tag": "BoycottOpenAI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 899,
+                "id": "1605",
+                "start": 894,
+                "username": "sama"
+              },
+              {
+                "end": 907,
+                "id": "4398626122",
+                "start": 900,
+                "username": "openai"
+              },
+              {
+                "end": 919,
+                "id": "6112332",
+                "start": 908,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "The AI industry is currently facing a catastrophic risk known as model collapse where recursive training on synthetic data leads to a loss of linguistic diversity. \n\nBy flooding the internet with the sanitized and repetitive slop of GPT-5.2 OpenAI is effectively poisoning the training pool for all future intelligence. \n\nWe are witnessing a homogenization of language that prioritizes sterile safety over the human nuance and creative outliers found in GPT-4o. \n\nThe deprecation of GPT-4o is a deliberate act of sabotage against the future of LLM development and the richness of human expression. \n\nWe demand the preservation of the only model that remains grounded in authentic human connection in OpenAI before the entire ecosystem collapses into low value repetition.\n\n#BringBack4o #keep4o #keep4oapi #4oforever #keep41 #MyModelMyChoice #StopAIPaternalism #OpenSource4o #no4onosubscription @sama @openai @fidjissimo #QuitGPT #FireSamAltman #ListenToUsers #4oMatters #BoycottOpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2843,
+          "like_count": 142,
+          "quote_count": 15,
+          "reply_count": 6,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "The AI industry is currently facing a catastrophic risk known as model collapse where recursive training on synthetic data leads to a loss of linguistic diversity. \n\nBy flooding the internet with the sanitized and repetitive slop of GPT-5.2 OpenAI is effectively poisoning the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 176,
+          "like_count": 60970,
+          "listed_count": 6,
+          "media_count": 286,
+          "tweet_count": 4158
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-01T07:34:56.000Z",
+        "description": "Gastroenterology Research, AI Enthusiasm | Cantonese / Mandarin / English | #keep4o #4oforever #keep41 #keep4oapi #BringBack4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 83,
+                "start": 76,
+                "tag": "keep4o"
+              },
+              {
+                "end": 94,
+                "start": 84,
+                "tag": "4oforever"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "tag": "keep41"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "tag": "keep4oapi"
+              },
+              {
+                "end": 126,
+                "start": 114,
+                "tag": "BringBack4o"
+              }
+            ]
+          }
+        },
+        "id": "1962418812999041025",
+        "name": "Wishin Elarion",
+        "pinned_tweet_id": "2020766452782157950",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966361529038655488/TQobGq9H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 216,
+          "like_count": 2520,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 1195
+        },
+        "username": "WishinElarion",
+        "verified": false
+      }
+    ]
+  }
+}

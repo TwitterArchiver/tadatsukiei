@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1938840331312865683",
+    "created_at": "2025-06-28T11:09:13.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-28T12:09:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1938917597539651644"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1865040323899998208",
+          "start": 0,
+          "username": "irohalanzeguang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1938917597539651644",
+    "in_reply_to_user_id": "1865040323899998208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1938840331312865683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@irohalanzeguang 除了重开就只有润呗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1938840331312865683",
+        "created_at": "2025-06-28T11:09:13.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T12:09:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1938917597539651644"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1865040323899998208",
+              "start": 0,
+              "username": "irohalanzeguang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1938917597539651644",
+        "in_reply_to_user_id": "1865040323899998208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1938840331312865683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@irohalanzeguang 除了重开就只有润呗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865040323899998208",
+        "conversation_id": "1938840331312865683",
+        "created_at": "2025-06-28T06:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-28T07:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1938840331312865683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1938840331312865683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3731,
+          "like_count": 77,
+          "quote_count": 0,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "当中国人太累了怎么办"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 92,
+          "like_count": 11381,
+          "listed_count": 1,
+          "media_count": 93,
+          "tweet_count": 1930
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-06T14:27:35.000Z",
+        "description": "🇰🇵\n🤚😭🤚\n小号@ruoyemu64",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 9,
+                "username": "ruoyemu64"
+              }
+            ]
+          }
+        },
+        "id": "1865040323899998208",
+        "location": "天堂or地狱",
+        "name": "坂下星川蓝泽光",
+        "pinned_tweet_id": "1867194505067417803",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885343937789124609/-zleKXqt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1108,
+          "following_count": 1161,
+          "like_count": 32779,
+          "listed_count": 4,
+          "media_count": 117,
+          "tweet_count": 4150
+        },
+        "username": "irohalanzeguang",
+        "verified": false
+      }
+    ]
+  }
+}

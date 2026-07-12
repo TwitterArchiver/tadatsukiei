@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2002628463413637123",
+    "created_at": "2025-12-22T06:35:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-22T07:35:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002991386875101281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002991386875101281",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002628463413637123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 中国人就是这么从小被PUA长大的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1023,
+        "media_key": "3_2002628456350367744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8rD-H3aQAAC4rS.jpg",
+        "width": 1079
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2002628463413637123",
+        "created_at": "2025-12-22T06:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-22T07:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002991386875101281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002991386875101281",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002628463413637123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 中国人就是这么从小被PUA长大的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002628456350367744"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2002628463413637123",
+        "created_at": "2025-12-21T06:33:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T07:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2002628463413637123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wfi6rjxBQv",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2002628463413637123/photo/1",
+              "media_key": "3_2002628456350367744",
+              "start": 0,
+              "url": "https://t.co/wfi6rjxBQv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002628463413637123",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 128,
+          "impression_count": 82426,
+          "like_count": 3777,
+          "quote_count": 11,
+          "reply_count": 19,
+          "retweet_count": 250
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wfi6rjxBQv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 124,
+          "like_count": 48136,
+          "listed_count": 7,
+          "media_count": 229,
+          "tweet_count": 3564
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95592,
+          "following_count": 2605,
+          "like_count": 43864,
+          "listed_count": 134,
+          "media_count": 3434,
+          "tweet_count": 7777
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

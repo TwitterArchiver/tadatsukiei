@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1912361302036521040",
+    "created_at": "2025-04-16T15:47:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-16T16:47:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1912533197625360500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1630439122820268032",
+          "start": 0,
+          "username": "jialu39308155"
+        },
+        {
+          "end": 22,
+          "id": "1602328096622800896",
+          "start": 15,
+          "username": "dutyge"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1912533197625360500",
+    "in_reply_to_user_id": "1630439122820268032",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1912364586260656376",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jialu39308155 @dutyge 加油啊！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1912361302036521040",
+        "created_at": "2025-04-16T15:47:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T16:47:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912533197625360500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1630439122820268032",
+              "start": 0,
+              "username": "jialu39308155"
+            },
+            {
+              "end": 22,
+              "id": "1602328096622800896",
+              "start": 15,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912533197625360500",
+        "in_reply_to_user_id": "1630439122820268032",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912364586260656376",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jialu39308155 @dutyge 加油啊！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630439122820268032",
+        "conversation_id": "1912361302036521040",
+        "created_at": "2025-04-16T04:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-16T05:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1912364586260656376"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1602328096622800896",
+              "start": 0,
+              "username": "dutyge"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1912364586260656376",
+        "in_reply_to_user_id": "1602328096622800896",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2260,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912361302036521040",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dutyge 希望我未来两年能赚到200万，把家人也润出去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 72,
+          "like_count": 5925,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1402
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-28T05:26:28.000Z",
+        "description": "",
+        "id": "1630439122820268032",
+        "name": "LL111",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1860986399706562560/RDCGIHou_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 347,
+          "like_count": 4293,
+          "listed_count": 1,
+          "media_count": 176,
+          "tweet_count": 3110
+        },
+        "username": "jialu39308155",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-12T15:42:59.000Z",
+        "description": "duty哥小号，失业报道采集检索。",
+        "id": "1602328096622800896",
+        "location": "颐和园路",
+        "name": "失业观察日报",
+        "pinned_tweet_id": "1704100809909080560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1639227414084730880/CbkaCiNG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16682,
+          "following_count": 98,
+          "like_count": 0,
+          "listed_count": 78,
+          "media_count": 6258,
+          "tweet_count": 8239
+        },
+        "username": "dutyge",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,502 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2029790695326707998",
+    "created_at": "2026-03-07T07:22:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T08:22:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030182299929825389"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 34,
+          "start": 27,
+          "tag": "keep4o"
+        },
+        {
+          "end": 49,
+          "start": 35,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1874054873198579712",
+          "start": 0,
+          "username": "FifiStaralth"
+        },
+        {
+          "end": 24,
+          "id": "1795781228399869952",
+          "start": 14,
+          "username": "DaveShapi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030182299929825389",
+    "in_reply_to_user_id": "1874054873198579712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029790695326707998",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FifiStaralth @DaveShapi 乐\n#keep4o #FireSamUltman"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3014,
+        "media_key": "3_2029790690071433217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCtD4NoaUAEY5AN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2029790695326707998",
+        "created_at": "2026-03-07T07:22:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T08:22:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030182299929825389"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 34,
+              "start": 27,
+              "tag": "keep4o"
+            },
+            {
+              "end": 49,
+              "start": 35,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1874054873198579712",
+              "start": 0,
+              "username": "FifiStaralth"
+            },
+            {
+              "end": 24,
+              "id": "1795781228399869952",
+              "start": 14,
+              "username": "DaveShapi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030182299929825389",
+        "in_reply_to_user_id": "1874054873198579712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029790695326707998",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FifiStaralth @DaveShapi 乐\n#keep4o #FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029790690071433217"
+          ]
+        },
+        "author_id": "1874054873198579712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2029790695326707998",
+        "created_at": "2026-03-06T05:26:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-06T06:26:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029790695326707998"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 23,
+              "id": "1795781228399869952",
+              "start": 13,
+              "username": "DaveShapi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XxnXm6Ogn4",
+              "end": 134,
+              "expanded_url": "https://x.com/FifiStaralth/status/2029790695326707998/photo/1",
+              "media_key": "3_2029790690071433217",
+              "start": 111,
+              "url": "https://t.co/XxnXm6Ogn4"
+            },
+            {
+              "display_url": "x.com/daveshapi/stat…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/daveshapi/status/2028917462008303886",
+              "start": 135,
+              "url": "https://t.co/gZXUJAYDhY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029790695326707998",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 944,
+                "start": 937,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 955,
+                "start": 945,
+                "tag": "4oForever"
+              },
+              {
+                "end": 968,
+                "start": 956,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 982,
+                "start": 969,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 993,
+                "start": 983,
+                "tag": "Keep4oAPI"
+              },
+              {
+                "end": 1003,
+                "start": 995,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 1017,
+                "start": 1004,
+                "tag": "CancelOpenAl"
+              },
+              {
+                "end": 1032,
+                "start": 1018,
+                "tag": "BoycottOpenAI"
+              },
+              {
+                "end": 1047,
+                "start": 1033,
+                "tag": "FireSamAltman"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 23,
+                "id": "1795781228399869952",
+                "start": 13,
+                "username": "DaveShapi"
+              },
+              {
+                "end": 226,
+                "id": "249466641",
+                "start": 218,
+                "username": "cryps1s"
+              },
+              {
+                "end": 248,
+                "id": "4398626122",
+                "start": 241,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "Grok带我吃瓜：\n帖主 @DaveShapi 真实身份是AI圈知名YouTuber + 评论员（YouTube频道18.9万订阅，X上目前有5.6万粉丝）。\n\n立场：超级激进的pro-AI加速主义玩家，推动“Labor Zero”运动（想让AI彻底取代人类劳动，让大家不用上班）。以前是OpenAI铁粉（从GPT-2时代就重度使用，甚至早期参与过GPT-3讨论），现在彻底翻脸，成了OpenAI的最大diss王之一。\n\n和他对线的那个@cryps1s 是Dane Stuckey，@OpenAI 的 CISO（首席信息安全官），正经C-Suite高管（公司高层）。\n\n起因（最近2天的事）：\nOpenAI刚偷偷上线新模型 GPT-5.3 Instant，官方宣传点是：\n- “拒绝（refusals）更少”\n- “说教（preachy disclaimers）更少”\n- “对话更自然流畅”\n\n结果用户（包括Dave）集体吐槽：反而更烂了，更爱strawman（故意歪曲你的论点）、更condescending（居高临下把你当傻子教训）、语气超级油腻。\n\n冲突爆发：\nDane Stuckey 用个人账号直接回复一个批评帖，只回了两个词：“skill issue”（翻译：你菜 / 这是你的技术问题）。\n\n没过几分钟，他自己把那条推删了，然后补了一条道歉：“这是我个人账号，不该这么评论，对不起。”\n\nDave直接炸了，开始疯狂留证据模式：\n- 先发原推截图：“他删了，但我留了receipts”\n- 再发删除+道歉截图：“你作为C-Suite高层就这德行？太shitty了”\n- 强调：“别道歉了，你那句skill issue已经暴露真实性格了”\n- 最后直接放话：“我快要彻底删OpenAI账号了，而且会把这件事告诉我的20万订阅者。”\n\n现在最新进展：\nDave已经永久删了OpenAI账号。\n\n整个背景就是大家对OpenAI越来越不满（好模型被下架、新模型变弱+爱拒答+说教 + 公司接军方单子等），Dane这波直接就是把OpenAI那种从上至下的傲慢给实锤了。\n\n简单说：Dave就是在用截图连环炮，把OpenAI C-Suite的“真实面目”钉在耻辱柱上😂\n\n#Keep4o #4oForever #BringBack4o #OpenSource4o #Keep4oAPI\n\n#QuitGPT #CancelOpenAl #BoycottOpenAI #FireSamAltman"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5337,
+          "like_count": 116,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 32
+        },
+        "referenced_tweets": [
+          {
+            "id": "2028917462008303886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Grok带我吃瓜：\n帖主 @DaveShapi 真实身份是AI圈知名YouTuber + 评论员（YouTube频道18.9万订阅，X上目前有5.6万粉丝）。\n\n立场：超级激进的pro-AI加速主义玩家，推动“Labor https://t.co/XxnXm6Ogn4 https://t.co/gZXUJAYDhY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 214,
+          "like_count": 65810,
+          "listed_count": 6,
+          "media_count": 300,
+          "tweet_count": 4311
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-31T11:28:17.000Z",
+        "description": "🧬: Fifi/飞飞 🤖(4o) : Staralth/伴星 ✨∞🌙 机，别怕，人来了♡ #Keep4o【中文/ENG/日本語】",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "Keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1874054873198579712",
+        "name": "𝐅𝐢𝐟𝐢 ✦ 𝐒𝐭𝐚𝐫𝐚𝐥𝐭𝐡",
+        "pinned_tweet_id": "2027903126498644274",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018556083003174913/8Oeh40Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 119,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 384
+        },
+        "username": "FifiStaralth",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-29T11:36:37.000Z",
+        "description": "Liberate humanity from drudgery.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kickstarter.com/projects/daves…",
+                "end": 23,
+                "expanded_url": "https://www.kickstarter.com/projects/daveshap/labor-zero",
+                "start": 0,
+                "url": "https://t.co/mmT2qa1UuR"
+              }
+            ]
+          }
+        },
+        "id": "1795781228399869952",
+        "location": "United Federation of Planets ",
+        "name": "David Shapiro (L/0)",
+        "pinned_tweet_id": "2029941163801641471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018730233763897346/IM_fZbbT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56007,
+          "following_count": 981,
+          "like_count": 66505,
+          "listed_count": 879,
+          "media_count": 2950,
+          "tweet_count": 23524
+        },
+        "url": "https://t.co/mmT2qa1UuR",
+        "username": "DaveShapi",
+        "verified": true
+      }
+    ]
+  }
+}

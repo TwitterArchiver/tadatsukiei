@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1941315668311409011",
+    "created_at": "2025-07-05T08:04:38.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-05T09:04:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1941407860610806219"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "51904755",
+          "start": 0,
+          "username": "Morris_LT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1941407860610806219",
+    "in_reply_to_user_id": "51904755",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1941315668311409011",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Morris_LT 不，我认为这个“认知”应该改为“素质”"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1941315668311409011",
+        "created_at": "2025-07-05T08:04:38.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T09:04:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1941407860610806219"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "51904755",
+              "start": 0,
+              "username": "Morris_LT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1941407860610806219",
+        "in_reply_to_user_id": "51904755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1941315668311409011",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Morris_LT 不，我认为这个“认知”应该改为“素质”"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "51904755",
+        "conversation_id": "1941315668311409011",
+        "created_at": "2025-07-05T01:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-05T02:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1941315668311409011"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1941315668311409011",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 33733,
+          "like_count": 531,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "高认知的环境中，表达你的真诚。低认知的环境中，展示你的强大。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 114,
+          "following_count": 92,
+          "like_count": 12675,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2035
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-29T01:07:03.000Z",
+        "description": "某不知名Web3.0创业公司 - 创始人&CEO&首席擦屁股执行官！\n#Bitcoin 和 #Dogecoin 信仰者、老韭菜、囤币党。\n《旷野之心》作者 ， https://t.co/1Yzc9eeAKV\n商务合作：不接单次低于5000U的广告合作。（X私信开放）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 35,
+                "tag": "Bitcoin"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "tag": "Dogecoin"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "amazon.com/dp/B0F2SKGYCM",
+                "end": 103,
+                "expanded_url": "https://www.amazon.com/dp/B0F2SKGYCM",
+                "start": 80,
+                "url": "https://t.co/1Yzc9eeAKV"
+              }
+            ]
+          }
+        },
+        "id": "51904755",
+        "location": "𝕏Ɖ",
+        "name": "Morris",
+        "pinned_tweet_id": "1912318899540095446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1661240746018754560/8Shwdpaj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148299,
+          "following_count": 401,
+          "like_count": 49125,
+          "listed_count": 845,
+          "media_count": 6958,
+          "tweet_count": 67561
+        },
+        "username": "Morris_LT",
+        "verified": true
+      }
+    ]
+  }
+}

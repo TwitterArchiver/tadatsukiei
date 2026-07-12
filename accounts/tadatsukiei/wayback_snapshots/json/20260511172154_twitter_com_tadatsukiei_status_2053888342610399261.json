@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2053877177792479309",
+    "created_at": "2026-05-11T17:21:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-11T18:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053888342610399261"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1966786939996274688",
+          "start": 0,
+          "username": "mitsukihana2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053888342610399261",
+    "in_reply_to_user_id": "1966786939996274688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053884596111151221",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mitsukihana2222 反正是bot，关注了就关注了呗，对我没影响，但忽然意识到我是那种经常瞅列表的人，每次都瞟到它对我造成的精神伤害大于一个follower的价值，所以就屏蔽了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2053877177792479309",
+        "created_at": "2026-05-11T17:21:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053888342610399261"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1966786939996274688",
+              "start": 0,
+              "username": "mitsukihana2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053888342610399261",
+        "in_reply_to_user_id": "1966786939996274688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053884596111151221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsukihana2222 反正是bot，关注了就关注了呗，对我没影响，但忽然意识到我是那种经常瞅列表的人，每次都瞟到它对我造成的精神伤害大于一个follower的价值，所以就屏蔽了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1966786939996274688",
+        "conversation_id": "2053877177792479309",
+        "created_at": "2026-05-11T17:07:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T18:07:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053884596111151221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053884596111151221",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053877177792479309",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 这真的需要犹豫吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "pinned_tweet_id": "2053760944057327624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 486,
+          "like_count": 88280,
+          "listed_count": 9,
+          "media_count": 468,
+          "tweet_count": 6086
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-13T08:52:17.000Z",
+        "description": "。",
+        "id": "1966786939996274688",
+        "name": "mitsukihana",
+        "pinned_tweet_id": "2010979596687282276",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020759702427332609/z0BEEPrd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 49,
+          "like_count": 20437,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 310
+        },
+        "username": "mitsukihana2222",
+        "verified": false
+      }
+    ]
+  }
+}

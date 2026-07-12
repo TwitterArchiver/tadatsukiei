@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2002401364572582145",
+    "created_at": "2025-12-21T09:29:54.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-21T10:29:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2002672867432157613"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1376745203508211713",
+          "start": 0,
+          "username": "Vj1MgBu4qQJueGM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2002672867432157613",
+    "in_reply_to_user_id": "1376745203508211713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002672433535525269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Vj1MgBu4qQJueGM 不知道是描改还是ai生成的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2002401364572582145",
+        "created_at": "2025-12-21T09:29:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:29:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002672867432157613"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1376745203508211713",
+              "start": 0,
+              "username": "Vj1MgBu4qQJueGM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002672867432157613",
+        "in_reply_to_user_id": "1376745203508211713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002672433535525269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Vj1MgBu4qQJueGM 不知道是描改还是ai生成的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1376745203508211713",
+        "conversation_id": "2002401364572582145",
+        "created_at": "2025-12-21T09:28:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-21T10:28:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002672433535525269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002672433535525269",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002668688173150617",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 发型和表情让我没能看出来~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 124,
+          "like_count": 47965,
+          "listed_count": 7,
+          "media_count": 228,
+          "tweet_count": 3559
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-30T03:57:02.000Z",
+        "description": "世界上只有一种真正的英雄主义，那就是在认清生活的真相后，依然热爱生活。",
+        "id": "1376745203508211713",
+        "location": "wuhan",
+        "name": "心",
+        "pinned_tweet_id": "1941425673048031725",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001926363029413888/RKDPhTsp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 595,
+          "following_count": 650,
+          "like_count": 12550,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 1300
+        },
+        "username": "Vj1MgBu4qQJueGM",
+        "verified": false
+      }
+    ]
+  }
+}

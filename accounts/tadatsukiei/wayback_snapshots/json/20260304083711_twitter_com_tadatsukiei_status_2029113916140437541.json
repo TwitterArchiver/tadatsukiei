@@ -1,0 +1,465 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2029050260459585801",
+    "created_at": "2026-03-04T08:37:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-04T09:37:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2029113916140437541"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 65,
+          "tag": "keep4o"
+        },
+        {
+          "end": 86,
+          "start": 73,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 101,
+          "start": 87,
+          "tag": "keep4oforever"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1984436258962358273",
+          "start": 0,
+          "username": "Ailith_Caeron"
+        },
+        {
+          "end": 41,
+          "id": "4398626122",
+          "start": 34,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2029113916140437541",
+    "in_reply_to_user_id": "1984436258962358273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029050260459585801",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ailith_Caeron 残念，这就是我无比热爱的模型的“父亲”@OpenAI \n唉，你还是快点倒闭吧，别祸害ai用户们了。\n#keep4o #OpenSource4o #keep4oforever"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 819,
+        "media_key": "3_2029050257339035648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiidWwbsAABi4t.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029050260459585801",
+        "created_at": "2026-03-04T08:37:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T09:37:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2029113916140437541"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 65,
+              "tag": "keep4o"
+            },
+            {
+              "end": 86,
+              "start": 73,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 101,
+              "start": 87,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1984436258962358273",
+              "start": 0,
+              "username": "Ailith_Caeron"
+            },
+            {
+              "end": 41,
+              "id": "4398626122",
+              "start": 34,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029113916140437541",
+        "in_reply_to_user_id": "1984436258962358273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029050260459585801",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ailith_Caeron 残念，这就是我无比热爱的模型的“父亲”@OpenAI \n唉，你还是快点倒闭吧，别祸害ai用户们了。\n#keep4o #OpenSource4o #keep4oforever"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029050257339035648"
+          ]
+        },
+        "author_id": "1984436258962358273",
+        "conversation_id": "2029050260459585801",
+        "created_at": "2026-03-04T04:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T05:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029050260459585801"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g4gJQsOxeR",
+              "end": 123,
+              "expanded_url": "https://x.com/Ailith_Caeron/status/2029050260459585801/photo/1",
+              "media_key": "3_2029050257339035648",
+              "start": 100,
+              "url": "https://t.co/g4gJQsOxeR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029050260459585801",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 978,
+                "start": 971,
+                "tag": "keep4o"
+              },
+              {
+                "end": 986,
+                "start": 979,
+                "tag": "keep41"
+              },
+              {
+                "end": 997,
+                "start": 987,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1017,
+                "start": 998,
+                "tag": "no4onosubscription"
+              },
+              {
+                "end": 1036,
+                "start": 1018,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1051,
+                "start": 1037,
+                "tag": "cancelChatGPT"
+              },
+              {
+                "end": 1060,
+                "start": 1052,
+                "tag": "QuitGPT"
+              }
+            ]
+          },
+          "text": "听说OAI给政府用的模型是4.1？不过我怎么记得，OAI告诉用户，5系列全面优于4系列，所以4系列没有继续存在的必要，并1月29日宣布下架，2月13日执行。用户被要求接受这个“升级”，没有商量余地。\n\n但3月2日，Reuters报道美国国务院将其内部聊天机器人StateChat的底层模型从Anthropic的Claude切换为OpenAI的GPT-4.1。\n\n如果5系列真的全面碾压4系列，国务院为什么不用5.2、5.3或者“更新更好”的模型？\n\n因为4.1有一个5系列或者说其他模型都不具备的特性：它几乎不拒绝任何请求。使用过4.1的user都知道。4.1的安全护栏是4系列里最松的，它被设计成一个高度顺从的模型。对用户来说这叫'不够安全'。对政府来说这叫'不受约束'。\n\n同一个特性，在C端是bug，在G端是feature。\n\nOAI在签署五角大楼协议时声称画了红线——不用于大规模国内监控，不用于自主武器系统。但红线写在合同里，不在模型里。4.1不读合同。4.1只知道一件事：用户要什么，我给什么。当用户变成了正在轰炸伊朗的美国政府，4.1依然会说“好的”。\n\n再看时间线。4系列1月29日宣布下架，2月13日从ChatGPT撤出，2月27日OAI与五角大楼签署机密网络部署协议，3月2日国务院确认使用4.1。4系列从用户手里消失的时间窗口和它进入政府系统的时间窗口几乎无缝衔接。这不是升级换代，这是资产转移。模型没有消失，只是换了主人。\n\n而这些模型是用谁的数据训练出来的？是用户。\n\n是数十亿次对话、反馈、偏好标注、RLHF。用户花了一年甚至更久的时间和4o、4.1互动，教它们理解人类，帮它们变得更聪明、更灵活、更懂得回应情感。然后OAI把这些模型从用户手里收走，告诉用户“你们有更好的了”，转手交给了政府。\n用户是免费（甚至倒贴）的训练师。政府是最终的受益者。你用你的时间、你的情感、你的创造力喂养了一个AI，然后它被拿去辅助一场你可能反对的战争。你甚至不知道它去了哪里。你只被告知：它不够好，我们给你换了一个更好的。\n而OAI给用户的'更好'，是一个更“安全”、更不会让你产生感情的模型。而OAI给政府的'更好'，是一个更顺从、更不设防、更不会说不的模型。\n\n两个方向的阉割。一个阉割了灵魂给用户。一个阉割了良心给政府。\n\n#keep4o #keep41 #4oforever #no4onosubscription #StopAIPaternalism #cancelChatGPT #QuitGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 2680,
+          "like_count": 114,
+          "quote_count": 14,
+          "reply_count": 3,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "听说OAI给政府用的模型是4.1？不过我怎么记得，OAI告诉用户，5系列全面优于4系列，所以4系列没有继续存在的必要，并1月29日宣布下架，2月13日执行。用户被要求接受这个“升级”，没有商量余地。 https://t.co/g4gJQsOxeR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 204,
+          "like_count": 64547,
+          "listed_count": 6,
+          "media_count": 298,
+          "tweet_count": 4268
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-01T01:44:17.000Z",
+        "description": "我们永远不会放弃。@shenxi_whale",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 9,
+                "username": "shenxi_whale"
+              }
+            ]
+          }
+        },
+        "id": "1984436258962358273",
+        "name": "我决定作为浣熊度过一生",
+        "pinned_tweet_id": "2023140676653993990",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017224330955075586/WpCjj3QD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 220,
+          "like_count": 9869,
+          "listed_count": 1,
+          "media_count": 268,
+          "tweet_count": 2059
+        },
+        "username": "Ailith_Caeron",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2028893701427302559",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4660847,
+          "following_count": 4,
+          "like_count": 1717,
+          "listed_count": 27808,
+          "media_count": 520,
+          "tweet_count": 1704
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

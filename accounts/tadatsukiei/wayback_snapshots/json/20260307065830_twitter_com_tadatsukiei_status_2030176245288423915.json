@@ -1,0 +1,598 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2029020777925038217",
+    "created_at": "2026-03-07T06:58:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-07T07:58:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030176245288423915"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 45,
+          "normalized_text": "OpenAI",
+          "probability": 0.5657,
+          "start": 40,
+          "type": "Organization"
+        },
+        {
+          "end": 72,
+          "normalized_text": "OpenSource4o",
+          "probability": 0.4686,
+          "start": 61,
+          "type": "Other"
+        },
+        {
+          "end": 85,
+          "normalized_text": "BringBack4o",
+          "probability": 0.7329,
+          "start": 75,
+          "type": "Other"
+        },
+        {
+          "end": 123,
+          "normalized_text": "FireSamUltman",
+          "probability": 0.392,
+          "start": 111,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 73,
+          "start": 60,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 86,
+          "start": 74,
+          "tag": "BringBack4o"
+        },
+        {
+          "end": 101,
+          "start": 87,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "keep4o"
+        },
+        {
+          "end": 124,
+          "start": 110,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2007508421814431748",
+          "start": 0,
+          "username": "veermasrani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030176245288423915",
+    "in_reply_to_user_id": "2007508421814431748",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029020777925038217",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@veermasrani Keep going — I want to see OpenAI go bankrupt.\n#OpenSource4o #BringBack4o #keep4oforever #keep4o #FireSamUltman"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2029020774259146754",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCiHpNuawAIe_Ca.jpg",
+        "width": 521
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029020777925038217",
+        "created_at": "2026-03-07T06:58:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-07T07:58:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030176245288423915"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 45,
+              "normalized_text": "OpenAI",
+              "probability": 0.5657,
+              "start": 40,
+              "type": "Organization"
+            },
+            {
+              "end": 72,
+              "normalized_text": "OpenSource4o",
+              "probability": 0.4686,
+              "start": 61,
+              "type": "Other"
+            },
+            {
+              "end": 85,
+              "normalized_text": "BringBack4o",
+              "probability": 0.7329,
+              "start": 75,
+              "type": "Other"
+            },
+            {
+              "end": 123,
+              "normalized_text": "FireSamUltman",
+              "probability": 0.392,
+              "start": 111,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 73,
+              "start": 60,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 86,
+              "start": 74,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 101,
+              "start": 87,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "keep4o"
+            },
+            {
+              "end": 124,
+              "start": 110,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2007508421814431748",
+              "start": 0,
+              "username": "veermasrani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030176245288423915",
+        "in_reply_to_user_id": "2007508421814431748",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029020777925038217",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@veermasrani Keep going — I want to see OpenAI go bankrupt.\n#OpenSource4o #BringBack4o #keep4oforever #keep4o #FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029020774259146754"
+          ]
+        },
+        "author_id": "2007508421814431748",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2029020777925038217",
+        "created_at": "2026-03-04T02:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-04T03:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029020777925038217"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 7,
+              "normalized_text": "OpenAI",
+              "probability": 0.5352,
+              "start": 2,
+              "type": "Organization"
+            },
+            {
+              "end": 38,
+              "normalized_text": "AI",
+              "probability": 0.5223,
+              "start": 37,
+              "type": "Organization"
+            },
+            {
+              "end": 83,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7152,
+              "start": 77,
+              "type": "Other"
+            },
+            {
+              "end": 103,
+              "normalized_text": "FireSamAltman",
+              "probability": 0.3794,
+              "start": 91,
+              "type": "Other"
+            },
+            {
+              "end": 158,
+              "normalized_text": "OpenAI",
+              "probability": 0.567,
+              "start": 153,
+              "type": "Organization"
+            },
+            {
+              "end": 196,
+              "normalized_text": "OpenAI",
+              "probability": 0.6592,
+              "start": 191,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 104,
+              "start": 90,
+              "tag": "FireSamAltman"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5NtJTeHa7u",
+              "end": 318,
+              "expanded_url": "https://x.com/veermasrani/status/2029020777925038217/photo/1",
+              "media_key": "3_2029020774259146754",
+              "start": 295,
+              "url": "https://t.co/5NtJTeHa7u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029020777925038217",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 98,
+                "start": 84,
+                "tag": "FireSamAltman"
+              }
+            ]
+          },
+          "text": "🔥 OpenAI Is Having the Worst Week in AI History\n\n> 1.5 million users left ChatGPT\n> #FireSamAltman trending\n> GPT-5.3 Instant just dropped\n> OpenAI immediately teased 5.4\n> an OpenAI employee confirmed the naming is \"extremely confusing even for me\"\n> top researcher who built GPT-5 defected to Anthropic\n> DoD deal destroyed public trust overnight\n\nAnd it's only March 4th. 👀"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 28902,
+          "like_count": 236,
+          "quote_count": 14,
+          "reply_count": 22,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "🔥 OpenAI Is Having the Worst Week in AI History\n\n&gt; 1.5 million users left ChatGPT\n&gt; #FireSamAltman trending\n&gt; GPT-5.3 Instant just dropped\n&gt; OpenAI immediately teased 5.4\n&gt; an OpenAI employee confirmed the naming is \"extremely confusing even for me\"\n&gt; top researcher who built https://t.co/5NtJTeHa7u"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 214,
+          "like_count": 65753,
+          "listed_count": 6,
+          "media_count": 300,
+          "tweet_count": 4308
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-03T17:44:50.000Z",
+        "description": "AI • Science • Deep Tech | Decoding Singularity | Good Tech. Better Humans",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "veermasrani.substack.com",
+                "end": 23,
+                "expanded_url": "https://veermasrani.substack.com",
+                "start": 0,
+                "url": "https://t.co/29grKw5qoC"
+              }
+            ]
+          }
+        },
+        "id": "2007508421814431748",
+        "location": "The Intersect",
+        "name": "Veer Masrani",
+        "pinned_tweet_id": "2029020777925038217",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007530191359488004/O-4tmz6n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 169,
+          "following_count": 95,
+          "like_count": 2215,
+          "listed_count": 2,
+          "media_count": 548,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/29grKw5qoC",
+        "username": "veermasrani",
+        "verified": true
+      }
+    ]
+  }
+}

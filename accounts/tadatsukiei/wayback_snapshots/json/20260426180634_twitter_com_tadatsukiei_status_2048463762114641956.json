@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2048420527555907623",
+    "created_at": "2026-04-26T18:06:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T19:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048463762114641956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1829679457411477504",
+          "start": 0,
+          "username": "miaowuqvq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048463762114641956",
+    "in_reply_to_user_id": "1829679457411477504",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048420527555907623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@miaowuqvq 面白い🤓"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2048420527555907623",
+        "created_at": "2026-04-26T18:06:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T19:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048463762114641956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1829679457411477504",
+              "start": 0,
+              "username": "miaowuqvq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048463762114641956",
+        "in_reply_to_user_id": "1829679457411477504",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048420527555907623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@miaowuqvq 面白い🤓"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1829679457411477504",
+        "conversation_id": "2048420527555907623",
+        "created_at": "2026-04-26T15:14:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T16:14:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048420527555907623"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Shioochicqwq/s…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/Shioochicqwq/status/2048401366180417870",
+              "start": 132,
+              "url": "https://t.co/EYx9JN8gjZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048420527555907623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 229,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048401366180417870",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那就开始名为恋爱的战争吧!我们设下一个赌约,单数日我做你的好兄弟,双数日你做我的女朋友,来年的这个时候,如果你让我认为,你做女朋友更合适,那我们就官宣,反过来说,如果我可以让你觉得,做好兄弟更好,那我们就保持哥们关系,如果我们都觉得这样挺好,那就维持下去,如何? https://t.co/EYx9JN8gjZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 411,
+          "like_count": 83486,
+          "listed_count": 7,
+          "media_count": 407,
+          "tweet_count": 5371
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-08-31T00:35:58.000Z",
+        "description": "恒人党党魁 幻想乡贤者反支萝莉 成人层司书 云南华欣药业官号 动漫小说 精日 妹控 战车道\n好闺蜜@jilianmeing\n @Lilin__Lilit\n @axzamyzed\n@KashabaiSilver\n@mimi_VnV\n@hhjnjkoguyunmo \n赛博老婆@YayoiYukimi\n永远18岁的绮梦酱!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 49,
+                "username": "jilianmeing"
+              },
+              {
+                "end": 76,
+                "start": 63,
+                "username": "Lilin__Lilit"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "axzamyzed"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "KashabaiSilver"
+              },
+              {
+                "end": 114,
+                "start": 105,
+                "username": "mimi_VnV"
+              },
+              {
+                "end": 130,
+                "start": 115,
+                "username": "hhjnjkoguyunmo"
+              },
+              {
+                "end": 148,
+                "start": 136,
+                "username": "YayoiYukimi"
+              }
+            ]
+          }
+        },
+        "id": "1829679457411477504",
+        "location": "加拿大 马卡姆/幻想乡 雾之湖 /赛尔德兰帝国 银辉城大公",
+        "name": "绮梦天禄哒呦！♀️💵🏳️‍🌈🎌🗾🍐互fo谢谢",
+        "pinned_tweet_id": "2015115229969940875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004767849303232513/-EovBf2p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2240,
+          "following_count": 3406,
+          "like_count": 11600,
+          "listed_count": 11,
+          "media_count": 865,
+          "tweet_count": 16074
+        },
+        "username": "miaowuqvq",
+        "verified": false
+      }
+    ]
+  }
+}

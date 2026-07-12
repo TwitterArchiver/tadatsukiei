@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1987158590805930083",
+    "created_at": "2025-11-09T15:35:20.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T16:35:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987544542191779871"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721876163604475904",
+          "start": 0,
+          "username": "Wee1538556"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987544542191779871",
+    "in_reply_to_user_id": "1721876163604475904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987158590805930083",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Wee1538556 善良话多……我算吗？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1987158590805930083",
+        "created_at": "2025-11-09T15:35:20.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T16:35:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987544542191779871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721876163604475904",
+              "start": 0,
+              "username": "Wee1538556"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987544542191779871",
+        "in_reply_to_user_id": "1721876163604475904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987158590805930083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Wee1538556 善良话多……我算吗？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1721876163604475904",
+        "conversation_id": "1987158590805930083",
+        "created_at": "2025-11-08T14:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-08T15:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1987158590805930083"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1987158590805930083",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 38276,
+          "like_count": 378,
+          "quote_count": 3,
+          "reply_count": 132,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "想在网络上认识一些善良的话多的人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180,
+          "following_count": 115,
+          "like_count": 37822,
+          "listed_count": 2,
+          "media_count": 185,
+          "tweet_count": 3149
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-07T13:04:09.000Z",
+        "description": "",
+        "id": "1721876163604475904",
+        "location": "🚪",
+        "name": "用户Wee.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982962077527617539/V0LD8Wxa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22744,
+          "following_count": 96,
+          "like_count": 9068,
+          "listed_count": 68,
+          "media_count": 5,
+          "tweet_count": 3632
+        },
+        "username": "Wee1538556",
+        "verified": false
+      }
+    ]
+  }
+}

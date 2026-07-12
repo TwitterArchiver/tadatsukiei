@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2025218635548237946",
+    "created_at": "2026-02-21T15:15:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-21T16:15:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025227846248268282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "169175461",
+          "start": 0,
+          "username": "Alex_Suk_Yeom"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025227846248268282",
+    "in_reply_to_user_id": "169175461",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025218635548237946",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alex_Suk_Yeom 这也是民主制最大、最无可避免的缺陷。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2025218635548237946].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2025218635548237946",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2025218635548237946"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2025218635548237946",
+        "created_at": "2026-02-21T15:15:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-21T16:15:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025227846248268282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "169175461",
+              "start": 0,
+              "username": "Alex_Suk_Yeom"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025227846248268282",
+        "in_reply_to_user_id": "169175461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025218635548237946",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alex_Suk_Yeom 这也是民主制最大、最无可避免的缺陷。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 177,
+          "like_count": 61113,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 4167
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2010-07-21T18:41:42.000Z",
+        "description": "若幕落下",
+        "id": "169175461",
+        "location": "Somewhere in the Far East",
+        "name": "Hae Yeom 海盐",
+        "pinned_tweet_id": "2011012732712280164",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021715202144972800/0_k2rsvv_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 411,
+          "following_count": 2153,
+          "like_count": 5194,
+          "listed_count": 5,
+          "media_count": 1667,
+          "tweet_count": 14361
+        },
+        "username": "Alex_Suk_Yeom",
+        "verified": false
+      }
+    ]
+  }
+}

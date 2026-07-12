@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1994945889832689679",
+    "created_at": "2025-11-30T17:02:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-30T18:02:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995176692638503385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 70,
+          "expanded_url": "https://x.com/tadatsukiei/status/1963260403653472751?s=46",
+          "start": 47,
+          "url": "https://t.co/tuGxEOwP1z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995176692638503385",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 12,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963260403653472751",
+        "type": "quoted"
+      },
+      {
+        "id": "1994945889832689679",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin 宣传军国主义的不是中共吗？天天制裁这谴责那，鼓吹侵略台湾、日本……\nhttps://t.co/tuGxEOwP1z"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963260392119144448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz7m7MHbEAAaPpi.jpg",
+        "width": 2016
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1994945889832689679",
+        "created_at": "2025-11-30T17:02:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T18:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995176692638503385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 70,
+              "expanded_url": "https://x.com/tadatsukiei/status/1963260403653472751?s=46",
+              "start": 47,
+              "url": "https://t.co/tuGxEOwP1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995176692638503385",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963260403653472751",
+            "type": "quoted"
+          },
+          {
+            "id": "1994945889832689679",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin 宣传军国主义的不是中共吗？天天制裁这谴责那，鼓吹侵略台湾、日本……\nhttps://t.co/tuGxEOwP1z"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963260392119144448"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1963260403653472751",
+        "created_at": "2025-09-03T15:18:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T16:18:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963260403653472751"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9wxBHrJGwj",
+              "end": 169,
+              "expanded_url": "https://x.com/tadatsukiei/status/1963260403653472751/photo/1",
+              "media_key": "3_1963260392119144448",
+              "start": 146,
+              "url": "https://t.co/9wxBHrJGwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963260403653472751",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2167,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "2025年9月3日，北京。\n在纪念反法西斯战争胜利八十周年阅兵式上，习近平、普京与金正恩同台亮相。世界目睹这一幕时，讽刺之感油然而生：三位当代最具争议的独裁者，以“反法西斯”之名并肩受礼。历史的镜头记录下这一幕，也有人称其为“新时代轴心国的诞生”。人类的未来会因此走向何方呢？我们犹未可知。 https://t.co/9wxBHrJGwj"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870313420807163904",
+        "conversation_id": "1994945889832689679",
+        "created_at": "2025-11-30T01:45:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-30T02:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994945889832689679"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1994945889832689679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 14126,
+          "like_count": 187,
+          "quote_count": 1,
+          "reply_count": 33,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "轮到我爸了\n我本来在和我妹看泛式的26年1月新番导视\n然后我爸说日本的动画片全都在给我们隐隐灌输军国主义思想😆"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 118,
+          "like_count": 42360,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3319
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "09/高二（上学白天不在）/物化生/生理性别女/互fo/フォロバ99%/🇨🇳人/🇯🇵好き/不是很爱看DM/不鉴证！！挂： @soyorin_chihaya @quasoawa @Sirataka287 @satochocolat17 @Baixiaoming2952 @NovaBabelo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 61,
+                "username": "soyorin_chihaya"
+              },
+              {
+                "end": 87,
+                "start": 78,
+                "username": "quasoawa"
+              },
+              {
+                "end": 100,
+                "start": 88,
+                "username": "Sirataka287"
+              },
+              {
+                "end": 116,
+                "start": 101,
+                "username": "satochocolat17"
+              },
+              {
+                "end": 133,
+                "start": 117,
+                "username": "Baixiaoming2952"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "NovaBabelo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "马口头喜欢喜欢喜欢",
+        "name": "まりん",
+        "pinned_tweet_id": "1994775353706123726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979839146601426944/LBpfTPIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1749,
+          "following_count": 2019,
+          "like_count": 29738,
+          "listed_count": 5,
+          "media_count": 1052,
+          "tweet_count": 13507
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

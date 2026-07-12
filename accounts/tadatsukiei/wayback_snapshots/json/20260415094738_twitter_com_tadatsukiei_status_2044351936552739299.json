@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2044323427377443143",
+    "created_at": "2026-04-15T09:47:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:47:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044351936552739299"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "254151116",
+          "start": 0,
+          "username": "baoshu88"
+        },
+        {
+          "end": 15,
+          "id": "1720665183188922368",
+          "start": 10,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044351936552739299",
+    "in_reply_to_user_id": "254151116",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044323427377443143",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baoshu88 @grok anthropic为何这么不待见中国？梁子是怎么结下的？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1142,
+        "media_key": "3_2044323179758272512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7lGceWwAACeNc.jpg",
+        "width": 937
+      },
+      {
+        "height": 956,
+        "media_key": "3_2044323192966176768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF7lHNrXYAASJch.jpg",
+        "width": 852
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2044323427377443143",
+        "created_at": "2026-04-15T09:47:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:47:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044351936552739299"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "254151116",
+              "start": 0,
+              "username": "baoshu88"
+            },
+            {
+              "end": 15,
+              "id": "1720665183188922368",
+              "start": 10,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044351936552739299",
+        "in_reply_to_user_id": "254151116",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044323427377443143",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baoshu88 @grok anthropic为何这么不待见中国？梁子是怎么结下的？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044323179758272512",
+            "3_2044323192966176768"
+          ]
+        },
+        "author_id": "254151116",
+        "conversation_id": "2044323427377443143",
+        "created_at": "2026-04-15T07:54:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:54:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044323427377443143"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OC7Fv1MDRy",
+              "end": 97,
+              "expanded_url": "https://x.com/baoshu88/status/2044323427377443143/photo/1",
+              "media_key": "3_2044323179758272512",
+              "start": 74,
+              "url": "https://t.co/OC7Fv1MDRy"
+            },
+            {
+              "display_url": "pic.x.com/OC7Fv1MDRy",
+              "end": 97,
+              "expanded_url": "https://x.com/baoshu88/status/2044323427377443143/photo/1",
+              "media_key": "3_2044323192966176768",
+              "start": 74,
+              "url": "https://t.co/OC7Fv1MDRy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044323427377443143",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 70458,
+          "like_count": 279,
+          "quote_count": 8,
+          "reply_count": 65,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "Claude对中国真是深仇大恨，竟然史无前例的启用了身份验证，一旦被检测到可以就会强制要求提交护照或身份证，来自“不支持地区的”的使用会立即禁封。 https://t.co/OC7Fv1MDRy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 374,
+          "following_count": 370,
+          "like_count": 80535,
+          "listed_count": 6,
+          "media_count": 377,
+          "tweet_count": 5089
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2011-02-18T18:17:22.000Z",
+        "description": "华尔街煎饼摊负责人",
+        "id": "254151116",
+        "location": "Financial District, New York",
+        "name": "包叔",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758595257392861184/glA3sBF4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 95460,
+          "following_count": 282,
+          "like_count": 42,
+          "listed_count": 988,
+          "media_count": 683,
+          "tweet_count": 1159
+        },
+        "username": "baoshu88",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8504134,
+          "following_count": 4,
+          "like_count": 87,
+          "listed_count": 6563,
+          "media_count": 8823510,
+          "tweet_count": 122663089
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1965568055779393845",
+    "created_at": "2025-09-10T12:30:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-10T13:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965754722608165252"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1069599820912910337",
+          "start": 0,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965754722608165252",
+    "in_reply_to_user_id": "1069599820912910337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965568055779393845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mubeitech 这是美国法治的耻辱"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 208410,
+        "height": 720,
+        "media_key": "13_1965567519294414849",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1965567519294414849/img/m_IM9v0yZsdAQ7HI.jpg",
+        "public_metrics": {
+          "view_count": 39131
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965567519294414849/vid/avc1/480x270/bfMRzjb8PVJBaAiX.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965567519294414849/vid/avc1/640x360/dAxHyBmYwF-NSHjJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1965567519294414849/vid/avc1/1280x720/d9BvmQC4fFlo8czx.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1965567519294414849/pl/RFA18UZKLD5N3-fT.m3u8?v=ed0"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1965568055779393845",
+        "created_at": "2025-09-10T12:30:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T13:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965754722608165252"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1069599820912910337",
+              "start": 0,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965754722608165252",
+        "in_reply_to_user_id": "1069599820912910337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965568055779393845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mubeitech 这是美国法治的耻辱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1965567519294414849"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Wengui Guo",
+              "id": "1140684969297076226",
+              "name": "Wengui Guo"
+            }
+          }
+        ],
+        "conversation_id": "1965568055779393845",
+        "created_at": "2025-09-10T00:08:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-10T01:08:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1965568055779393845"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XfpATM7ZWr",
+              "end": 164,
+              "expanded_url": "https://x.com/mubeitech/status/1965568055779393845/video/1",
+              "media_key": "13_1965567519294414849",
+              "start": 141,
+              "url": "https://t.co/XfpATM7ZWr"
+            },
+            {
+              "display_url": "x.com/mubeitech/stat…",
+              "end": 188,
+              "expanded_url": "https://twitter.com/mubeitech/status/1965369646120305115",
+              "start": 165,
+              "url": "https://t.co/8Le4JDGUS3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965568055779393845",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "美丽端庄大方机智的白宫发言人非常愤慨\n\n一个乌克兰女孩，从战火中逃出，\n却命丧美国地铁。\n她不是死在战场，\n而是死在了一个本该安全的地方，\n夏洛特的公共交通系统。\n\n23岁的伊琳娜·扎鲁兹卡，\n刚刚结束在披萨店的工作，\n穿着工作服坐上回家的火车，\n却再也没有到家。\n\n她是个难民，\n选择美国是为了逃离战争，\n为了安全，\n结果却在这个“和平国家”\n遭遇了比战区更残酷的命运。\n\n凶手是谁？德卡洛斯·布朗，\n一名有着14项刑事指控的惯犯。\n\n武装抢劫、重罪盗窃、破门而入、商店行窃，\n他坐过5年牢，三次跳保、反复再犯，\n却依旧在街上自由游荡。\n\n就在今年1月，他又被捕，结果呢？\n一位民主党支持的法官，\n还公开支持卡玛拉·哈里斯，\n让他签个字，就放人。\n\n没错，一个惯犯，\n只需写下“我会回来出庭”的承诺，\n就能再次离开警局，继续威胁社会。\n\n然后，伊琳娜死了。\n\n监控视频记录下了全过程，\n凶手坐在她后面，\n拔刀、起身、准备行凶……\n然后画面戛然而止。\n\n这不是意外，是可预见的灾难。\n\n她的死亡，不是命运，而是制度性失败。\n\n而更令人愤怒的是，主流媒体当时几乎集体沉默。\n\n不报道，不提及，直到川普公开发声，才有人开始关注。\n\n因为这个故事，不符合他们的“叙事”。\n\n你可能还记得，\n媒体对丹尼尔·潘尼铺天盖地的抨击，\n他在纽约地铁制服一名精神错乱者，\n结果被贴上“暴力”标签。\n\n可当一个真正的杀人犯出现在地铁里，\n杀死一个无辜女孩时？\n他们却连笔都懒得动一下。\n\n正义不是选择性的。关注也不该是选择性的。\n\n伊琳娜的死，不只是个体悲剧，\n而是整个系统、媒体、政治体系共同失职的结果。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 106,
+          "impression_count": 159382,
+          "like_count": 1233,
+          "quote_count": 13,
+          "reply_count": 42,
+          "retweet_count": 368
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965369646120305115",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "美丽端庄大方机智的白宫发言人非常愤慨\n\n一个乌克兰女孩，从战火中逃出，\n却命丧美国地铁。\n她不是死在战场，\n而是死在了一个本该安全的地方，\n夏洛特的公共交通系统。\n\n23岁的伊琳娜·扎鲁兹卡，\n刚刚结束在披萨店的工作，\n穿着工作服坐上回家的火车，\n却再也没有到家。\n\n她是个难民， https://t.co/XfpATM7ZWr https://t.co/8Le4JDGUS3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 158,
+          "following_count": 108,
+          "like_count": 23453,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2588
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space｜听见真实美国的声音｜看见真实的美国",
+        "id": "1069599820912910337",
+        "name": "墓碑科技",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936440283094265856/FEwHZFDT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17677,
+          "following_count": 2605,
+          "like_count": 9356,
+          "listed_count": 120,
+          "media_count": 2888,
+          "tweet_count": 66381
+        },
+        "username": "mubeitech",
+        "verified": true
+      }
+    ]
+  }
+}

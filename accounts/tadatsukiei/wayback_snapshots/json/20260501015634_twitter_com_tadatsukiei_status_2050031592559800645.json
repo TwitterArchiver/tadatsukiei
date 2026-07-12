@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2049746226019766590",
+    "created_at": "2026-05-01T01:56:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T02:56:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2050031592559800645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872189816311578624",
+          "start": 0,
+          "username": "Cirnobakacn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050031592559800645",
+    "in_reply_to_user_id": "1872189816311578624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049746226019766590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Cirnobakacn C和I我不看评论真想不到🙃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2049746226019766590",
+        "created_at": "2026-05-01T01:56:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T02:56:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2050031592559800645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872189816311578624",
+              "start": 0,
+              "username": "Cirnobakacn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050031592559800645",
+        "in_reply_to_user_id": "1872189816311578624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049746226019766590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Cirnobakacn C和I我不看评论真想不到🙃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872189816311578624",
+        "conversation_id": "2049746226019766590",
+        "created_at": "2026-04-30T07:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-30T08:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049746226019766590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jajia/status/2…",
+              "end": 155,
+              "expanded_url": "https://twitter.com/jajia/status/2049339364094910489",
+              "start": 132,
+              "url": "https://t.co/Hlc1XLH28w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049746226019766590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 29603,
+          "like_count": 164,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049339364094910489",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请问以下不包含敏感词的是？\nA. 我有一台独立服务器\nB. 今天的成绩比较接近平均分\nC. 为你写诗，为你静止\nD. 其中共享单车的市场份额占10%\nF. 实习狗的日子真是苦啊\nG. 你有几支纳斯达克的股票\nH. 本品采用立体三维尼龙布料设计\nI. 然后主板烧了 https://t.co/Hlc1XLH28w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 437,
+          "like_count": 84666,
+          "listed_count": 7,
+          "media_count": 420,
+          "tweet_count": 5509
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-26T07:58:03.000Z",
+        "description": "一只普通的路过的冰精。\n不正经的什么都会学一些的社会学爱好者。符号学生物政治学学习中。河殇派，宪政派，拉康系结构主义，不完全德里达系解构主义\n如果我们因为害怕而牺牲自己的价值观，那就说明我们其实并没有那么在乎这些价值观。",
+        "id": "1872189816311578624",
+        "location": "雾之湖",
+        "name": "Laurentino Deschenes",
+        "pinned_tweet_id": "2043637164521787635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036373082995302401/lydrRK6d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 18,
+          "like_count": 747,
+          "listed_count": 0,
+          "media_count": 286,
+          "tweet_count": 1520
+        },
+        "username": "Cirnobakacn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2007468490056143106",
+    "created_at": "2026-01-03T15:05:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T16:05:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2007468490056143106"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bigkhann/statu…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/bigkhann/status/2007386341777256831",
+          "start": 15,
+          "url": "https://t.co/s8eDyNqFYh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007468490056143106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007386341777256831",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "他都这样了，我还能说什么呢？ https://t.co/s8eDyNqFYh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2007468490056143106",
+        "created_at": "2026-01-03T15:05:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T16:05:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007468490056143106"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bigkhann/statu…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/bigkhann/status/2007386341777256831",
+              "start": 15,
+              "url": "https://t.co/s8eDyNqFYh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007468490056143106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007386341777256831",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "他都这样了，我还能说什么呢？ https://t.co/s8eDyNqFYh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1884985467072102400",
+        "conversation_id": "2007209011922489486",
+        "created_at": "2026-01-03T09:39:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T10:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007386341777256831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "871364312530534400",
+              "start": 0,
+              "username": "dudiaohan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007386341777256831",
+        "in_reply_to_user_id": "871364312530534400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 424,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007209011922489486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dudiaohan 这种思维恰恰是人类需要的，不正视人口问题人类将遭遇灭顶之灾，布局定时按比例的清理人类，顺便筛选出更优质基因"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 128,
+          "like_count": 50270,
+          "listed_count": 7,
+          "media_count": 237,
+          "tweet_count": 3652
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-30T15:22:21.000Z",
+        "description": "马拉西亚蒙古人，智商140++\nMalaysia Mongolian with 140++ IQ",
+        "id": "1884985467072102400",
+        "name": "big khan",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991513720309313540/le-SVQYn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 39,
+          "like_count": 3614,
+          "listed_count": 6,
+          "media_count": 205,
+          "tweet_count": 4105
+        },
+        "username": "BigKhann",
+        "verified": false
+      }
+    ]
+  }
+}

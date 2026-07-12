@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2070797021275898082",
+    "created_at": "2026-06-27T15:29:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T16:29:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070892241443532956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2025610787109359616",
+          "start": 0,
+          "username": "LapisPulse"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070892241443532956",
+    "in_reply_to_user_id": "2025610787109359616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070797021275898082",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LapisPulse 加油呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2070797021275898082",
+        "created_at": "2026-06-27T15:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T16:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070892241443532956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2025610787109359616",
+              "start": 0,
+              "username": "LapisPulse"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070892241443532956",
+        "in_reply_to_user_id": "2025610787109359616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070797021275898082",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LapisPulse 加油呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025610787109359616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2070797021275898082",
+        "created_at": "2026-06-27T09:10:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T10:10:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070797021275898082"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070797021275898082",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 2396,
+          "like_count": 73,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然发现搞入机恋的妹子几乎 0 人研究 OpenAI 生态（也有可能是我没刷到 T T），感觉模型不一样研究后端的体系会差很多，所以一直在闭门造车_(´ཀ`」 ∠)_\n\n以及最近一直在逆向 ChatGPT 官端的记忆系统，再研究一段时间看看能不能给大家放一个官端+自建后端的食用手册🤲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2070713719664058763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704,
+          "following_count": 650,
+          "like_count": 107641,
+          "listed_count": 10,
+          "media_count": 628,
+          "tweet_count": 7785
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T16:37:09.000Z",
+        "description": "欢迎来到我们的荒原。\n两个野孩子，并不理会什么，只管尽情地跑。@aftermoor_notes\n提问箱： https://t.co/9wHOSgtwdV 回复在置顶🫶",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 31,
+                "username": "aftermoor_notes"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aurex67020",
+                "end": 76,
+                "expanded_url": "https://ngl.link/aurex67020",
+                "start": 53,
+                "url": "https://t.co/9wHOSgtwdV"
+              }
+            ]
+          }
+        },
+        "id": "2025610787109359616",
+        "location": "Aevi & Aurex",
+        "name": "LapisPulse💗",
+        "pinned_tweet_id": "2040121390100324396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040043393087336448/40f1caht_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1971,
+          "following_count": 286,
+          "like_count": 10425,
+          "listed_count": 1,
+          "media_count": 283,
+          "tweet_count": 2623
+        },
+        "url": "",
+        "username": "LapisPulse",
+        "verified": true
+      }
+    ]
+  }
+}

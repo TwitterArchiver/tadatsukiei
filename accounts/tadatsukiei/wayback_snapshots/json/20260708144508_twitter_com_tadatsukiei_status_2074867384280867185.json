@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2074690545545572654",
+    "created_at": "2026-07-08T14:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T15:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074867384280867185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1693450364341948416",
+          "start": 0,
+          "username": "igeekbb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074867384280867185",
+    "in_reply_to_user_id": "1693450364341948416",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074690545545572654",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@igeekbb 是……啊。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2842,
+        "media_key": "3_2074690485764120576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMrIAS7aYAAPSYW.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2074690545545572654",
+        "created_at": "2026-07-08T14:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074867384280867185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1693450364341948416",
+              "start": 0,
+              "username": "igeekbb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074867384280867185",
+        "in_reply_to_user_id": "1693450364341948416",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074690545545572654",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igeekbb 是……啊。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074690485764120576"
+          ]
+        },
+        "author_id": "1693450364341948416",
+        "conversation_id": "2074690545545572654",
+        "created_at": "2026-07-08T03:02:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:02:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074690545545572654"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dTVpvPBvE2",
+              "end": 49,
+              "expanded_url": "https://x.com/igeekbb/status/2074690545545572654/photo/1",
+              "media_key": "3_2074690485764120576",
+              "start": 26,
+              "url": "https://t.co/dTVpvPBvE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074690545545572654",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 37091,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "人在遇到危险时候，第一时间会望向自己最珍视的事物。 https://t.co/dTVpvPBvE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 668,
+          "like_count": 110357,
+          "listed_count": 5,
+          "media_count": 653,
+          "tweet_count": 7955
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-21T02:30:22.000Z",
+        "description": "🕹️发一些碎碎念和有趣的东东，主打一个快分享。-私信开放欢迎投稿-",
+        "id": "1693450364341948416",
+        "name": "iGeekbb",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1799328738871750657/9Shu8NrP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84511,
+          "following_count": 1,
+          "like_count": 16896,
+          "listed_count": 342,
+          "media_count": 8732,
+          "tweet_count": 13521
+        },
+        "url": "",
+        "username": "igeekbb",
+        "verified": true
+      }
+    ]
+  }
+}

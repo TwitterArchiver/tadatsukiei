@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2035690152987701579",
+    "created_at": "2026-03-22T12:22:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T13:22:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035693557441503361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1594770865408724992",
+          "start": 0,
+          "username": "gyunxioho11"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035693557441503361",
+    "in_reply_to_user_id": "1594770865408724992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035690152987701579",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gyunxioho11 我觉得这是互联网常识，并不需要特意强调啦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2035690152987701579",
+        "created_at": "2026-03-22T12:22:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035693557441503361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1594770865408724992",
+              "start": 0,
+              "username": "gyunxioho11"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035693557441503361",
+        "in_reply_to_user_id": "1594770865408724992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035690152987701579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gyunxioho11 我觉得这是互联网常识，并不需要特意强调啦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594770865408724992",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2035690152987701579",
+        "created_at": "2026-03-22T12:08:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T13:08:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035690152987701579"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2035690152987701579",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么你在网上总是见到智障？因为太过日常的发言没人喜欢，层次太高的发言没人看得懂，阶级斗争，历史，政治，哲学之类的发言会被限流甚至封号，所以能剩下的也就只有民族矛盾和女权主义，还有宗教这些精神鸦片了(这篇文章我希望能转帖的人可以帮忙转一下)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 297,
+          "like_count": 73688,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 4634
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-21T19:13:06.000Z",
+        "description": "所有fo我的人都可以私信我要求回fo(不會主動取關)◄古月娜☭►2026(任何未在我主页被艾特的账号都是假的)\n小帐 @4280401cdb",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 59,
+                "username": "4280401cdb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.whotwi.com/gyunxioho11",
+                "end": 23,
+                "expanded_url": "https://en.whotwi.com/gyunxioho11",
+                "start": 0,
+                "url": "https://t.co/scdYGgtgRf"
+              }
+            ]
+          }
+        },
+        "id": "1594770865408724992",
+        "name": "古月娜☭",
+        "pinned_tweet_id": "2031327201295991223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936860901501759488/ADbiuH20_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1290,
+          "following_count": 312,
+          "like_count": 8816,
+          "listed_count": 5,
+          "media_count": 855,
+          "tweet_count": 17442
+        },
+        "url": "https://t.co/scdYGgtgRf",
+        "username": "gyunxioho11",
+        "verified": false
+      }
+    ]
+  }
+}

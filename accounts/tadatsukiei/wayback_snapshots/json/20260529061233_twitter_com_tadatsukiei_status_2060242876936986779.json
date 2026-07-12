@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060209018271105528",
+    "created_at": "2026-05-29T06:12:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T07:12:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060242876936986779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1794621592737341440",
+          "start": 0,
+          "username": "qian_wai1778"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060242876936986779",
+    "in_reply_to_user_id": "1794621592737341440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060236368987541744",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qian_wai1778 真发金条我也不回来呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060209018271105528",
+        "created_at": "2026-05-29T06:12:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T07:12:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060242876936986779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1794621592737341440",
+              "start": 0,
+              "username": "qian_wai1778"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060242876936986779",
+        "in_reply_to_user_id": "1794621592737341440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060236368987541744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qian_wai1778 真发金条我也不回来呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794621592737341440",
+        "conversation_id": "2060209018271105528",
+        "created_at": "2026-05-29T05:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T06:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060236368987541744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060236368987541744",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060209018271105528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 回来吧，村里给每户发金条了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 553,
+          "like_count": 95127,
+          "listed_count": 10,
+          "media_count": 530,
+          "tweet_count": 6737
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-26T06:48:39.000Z",
+        "description": "a moderate seeking peaceful talks，and I'm not a robot .",
+        "id": "1794621592737341440",
+        "location": "under the World Tree",
+        "name": "Richard Go",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002725425433206784/s92jMcpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 135,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 694
+        },
+        "username": "qian_wai1778",
+        "verified": false
+      }
+    ]
+  }
+}

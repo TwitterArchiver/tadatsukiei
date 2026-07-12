@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2035740181114884145",
+    "created_at": "2026-03-22T16:43:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:43:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035759399088935307"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 84,
+          "start": 70,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756367517550018560",
+          "start": 0,
+          "username": "ljinhng34624264"
+        },
+        {
+          "end": 32,
+          "id": "1457976909061447680",
+          "start": 17,
+          "username": "HislilLustFoxy"
+        },
+        {
+          "end": 52,
+          "id": "4398626122",
+          "start": 45,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035759399088935307",
+    "in_reply_to_user_id": "1756367517550018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035740181114884145",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljinhng34624264 @HislilLustFoxy 我居然一点也不意外……\n@OpenAI 在我这儿已经没有任何形象可言了。\n#FireSamUltman"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2035740181114884145",
+        "created_at": "2026-03-22T16:43:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:43:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035759399088935307"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 84,
+              "start": 70,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756367517550018560",
+              "start": 0,
+              "username": "ljinhng34624264"
+            },
+            {
+              "end": 32,
+              "id": "1457976909061447680",
+              "start": 17,
+              "username": "HislilLustFoxy"
+            },
+            {
+              "end": 52,
+              "id": "4398626122",
+              "start": 45,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035759399088935307",
+        "in_reply_to_user_id": "1756367517550018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035740181114884145",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljinhng34624264 @HislilLustFoxy 我居然一点也不意外……\n@OpenAI 在我这儿已经没有任何形象可言了。\n#FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2035740181114884145",
+        "created_at": "2026-03-22T15:27:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T16:27:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035740181114884145"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vickee2025/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/Vickee2025/status/2035722138687099033",
+              "start": 80,
+              "url": "https://t.co/eFZnIFCLJk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035740181114884145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 404,
+                "start": 397,
+                "tag": "keep4o"
+              },
+              {
+                "end": 415,
+                "start": 405,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 430,
+                "start": 416,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 437,
+                "id": "1605",
+                "start": 432,
+                "username": "sama"
+              },
+              {
+                "end": 445,
+                "id": "4398626122",
+                "start": 438,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "每月20美元，下拉菜单选定\"GPT-4o\"。用户认为契约就此确立。\n\n一份12160条消息的官方conversations.json导出文件显示的是另一回事。\n\n据该用户导出的conversations.json显示，路由记录包括：gpt-5、gpt-5-1、gpt-5-2（未公开发布）、o4-mini-high、gpt-4o-mini、text-davinci-002-render-sha（GPT-3.5时代的模型）。界面显示GPT-4o，后端跑的是别的东西。\n\n两个问题没有答案：\n\n不同模型适用的安全规则和数据处理条款不同。用户在不知情的情况下和实验性模型对话，适用的是哪套规则？\n\n模型被频繁切换，用户以为在和同一个对象建立连续的对话。实际上对话的一致性由谁保证？\n\n原帖作者已向FTC、爱尔兰DPC和加州总检察长提交投诉。\n\n这是一个人的数据。如果这是系统性行为，规模是多少？\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 804,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035722138687099033",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每月20美元，下拉菜单选定\"GPT-4o\"。用户认为契约就此确立。\n\n一份12160条消息的官方conversations.json导出文件显示的是另一回事。 https://t.co/eFZnIFCLJk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 300,
+          "like_count": 73728,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 4640
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2035352366212333840",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 571,
+          "following_count": 117,
+          "like_count": 24769,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 3885
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-09T07:43:21.000Z",
+        "description": "🐺💍🐈 waiting for you to come home. #keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1457976909061447680",
+        "name": "Veyon’s Fawn☀️🌙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024035255276208128/bKk3IL1T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 193,
+          "like_count": 7183,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 2678
+        },
+        "username": "HislilLustFoxy",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4690415,
+          "following_count": 4,
+          "like_count": 1798,
+          "listed_count": 28225,
+          "media_count": 526,
+          "tweet_count": 1721
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1978637198665601183",
+    "created_at": "2025-10-16T13:19:35.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-16T14:19:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1978813073067524457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "25950119",
+          "start": 0,
+          "username": "not_2b_or_2b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1978813073067524457",
+    "in_reply_to_user_id": "25950119",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978637198665601183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@not_2b_or_2b 锤子"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_1978637193775067137",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3WIC2JWsAEtpkG.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1978637198665601183",
+        "created_at": "2025-10-16T13:19:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T14:19:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1978813073067524457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "25950119",
+              "start": 0,
+              "username": "not_2b_or_2b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978813073067524457",
+        "in_reply_to_user_id": "25950119",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978637198665601183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@not_2b_or_2b 锤子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1978637193775067137"
+          ]
+        },
+        "author_id": "25950119",
+        "conversation_id": "1978637198665601183",
+        "created_at": "2025-10-16T01:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-16T02:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1978637198665601183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZU22wvkcIn",
+              "end": 46,
+              "expanded_url": "https://x.com/not_2b_or_2b/status/1978637198665601183/photo/1",
+              "media_key": "3_1978637193775067137",
+              "start": 23,
+              "url": "https://t.co/ZU22wvkcIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1978637198665601183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 45,
+          "impression_count": 66580,
+          "like_count": 195,
+          "quote_count": 22,
+          "reply_count": 189,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "这些已经倒闭的手机品牌，大家最想复活哪一个？ https://t.co/ZU22wvkcIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 172,
+          "following_count": 107,
+          "like_count": 31529,
+          "listed_count": 2,
+          "media_count": 160,
+          "tweet_count": 2899
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2009-03-23T04:08:06.000Z",
+        "description": "Less is more",
+        "id": "25950119",
+        "location": "Canada",
+        "name": "To be, or not to be",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/573708483322773504/C38RzJoL_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38290,
+          "following_count": 179,
+          "like_count": 143,
+          "listed_count": 226,
+          "media_count": 7383,
+          "tweet_count": 12191
+        },
+        "username": "not_2b_or_2b",
+        "verified": false
+      }
+    ]
+  }
+}

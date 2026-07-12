@@ -1,0 +1,151 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048703631286018049"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2048703635874595313",
+    "created_at": "2026-04-27T09:59:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:59:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048703635874595313"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/17xAqW7NvI",
+          "end": 42,
+          "expanded_url": "https://x.com/tadatsukiei/status/2048703635874595313/photo/1",
+          "media_key": "3_2048703631286018049",
+          "start": 19,
+          "url": "https://t.co/17xAqW7NvI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048703635874595313",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "最近黄推机器号更新了文案，我不喜欢。 https://t.co/17xAqW7NvI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 922,
+        "media_key": "3_2048703631286018049",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG51GSDbIAEkaj3.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048703631286018049"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2048703635874595313",
+        "created_at": "2026-04-27T09:59:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:59:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048703635874595313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/17xAqW7NvI",
+              "end": 42,
+              "expanded_url": "https://x.com/tadatsukiei/status/2048703635874595313/photo/1",
+              "media_key": "3_2048703631286018049",
+              "start": 19,
+              "url": "https://t.co/17xAqW7NvI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048703635874595313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最近黄推机器号更新了文案，我不喜欢。 https://t.co/17xAqW7NvI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 412,
+          "like_count": 83807,
+          "listed_count": 7,
+          "media_count": 410,
+          "tweet_count": 5409
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

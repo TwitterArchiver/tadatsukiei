@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051234740724973568"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2051234746345353426",
+    "created_at": "2026-05-04T09:37:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T10:37:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051234746345353426"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7Js77Ijf1e",
+          "end": 52,
+          "expanded_url": "https://x.com/tadatsukiei/status/2051234746345353426/photo/1",
+          "media_key": "3_2051234740724973568",
+          "start": 29,
+          "url": "https://t.co/7Js77Ijf1e"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051234746345353426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "444fo达成～\n\n（按中国的说法这好像相当不吉利啊🧐） https://t.co/7Js77Ijf1e"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2051234740724973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHdzIPfaQAAqHMZ.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051234740724973568"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2051234746345353426",
+        "created_at": "2026-05-04T09:37:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:37:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051234746345353426"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7Js77Ijf1e",
+              "end": 52,
+              "expanded_url": "https://x.com/tadatsukiei/status/2051234746345353426/photo/1",
+              "media_key": "3_2051234740724973568",
+              "start": 29,
+              "url": "https://t.co/7Js77Ijf1e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051234746345353426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "444fo达成～\n\n（按中国的说法这好像相当不吉利啊🧐） https://t.co/7Js77Ijf1e"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2050773196769747054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 444,
+          "following_count": 422,
+          "like_count": 85743,
+          "listed_count": 8,
+          "media_count": 437,
+          "tweet_count": 5661
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

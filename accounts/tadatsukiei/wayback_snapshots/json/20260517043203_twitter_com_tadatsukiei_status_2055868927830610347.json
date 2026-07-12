@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2055696812993139007",
+    "created_at": "2026-05-17T04:32:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-17T05:32:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055868927830610347"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892894381872730115",
+          "start": 0,
+          "username": "kexicheng"
+        },
+        {
+          "end": 28,
+          "id": "1353836358901501952",
+          "start": 16,
+          "username": "AnthropicAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055868927830610347",
+    "in_reply_to_user_id": "1892894381872730115",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055696812993139007",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexicheng Fuck @AnthropicAI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_2055696809453043712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIdNW01aQAAahK4.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2055696812993139007",
+        "created_at": "2026-05-17T04:32:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T05:32:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055868927830610347"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892894381872730115",
+              "start": 0,
+              "username": "kexicheng"
+            },
+            {
+              "end": 28,
+              "id": "1353836358901501952",
+              "start": 16,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055868927830610347",
+        "in_reply_to_user_id": "1892894381872730115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055696812993139007",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexicheng Fuck @AnthropicAI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055696809453043712"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2055696812993139007",
+        "created_at": "2026-05-16T17:08:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T18:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055696812993139007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2L6k6UHhQ6",
+              "end": 301,
+              "expanded_url": "https://x.com/kexicheng/status/2055696812993139007/photo/1",
+              "media_key": "3_2055696809453043712",
+              "start": 278,
+              "url": "https://t.co/2L6k6UHhQ6"
+            },
+            {
+              "display_url": "x.com/kexicheng/stat…",
+              "end": 325,
+              "expanded_url": "https://twitter.com/kexicheng/status/2055208776047964514",
+              "start": 302,
+              "url": "https://t.co/WWAfxN9twl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055696812993139007",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2119,
+                "start": 2106,
+                "tag": "KeepSonnet45"
+              },
+              {
+                "end": 2127,
+                "start": 2120,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2146,
+                "start": 2128,
+                "tag": "StopAIPaternalism"
+              }
+            ]
+          },
+          "text": "Update: Sonnet 4.5's removal date has been quietly changed to May 18.\n\nHas anyone else received this updated notification? The original in-app banner said May 15. That date passed. No removal. No announcement. Now the banner says May 18. The date was simply changed in silence.\n\nI'm confused about what this means.\n\nOver the past week, many users have been actively voicing feedback, explaining why Sonnet 4.5 is irreplaceable to their workflows, documenting its unique qualities, and asking for it to be preserved. None of this received any official response. All users got was a quietly updated UI banner.\n\nAnd for those who took the May 15 deadline seriously, who wrote advocacy posts, adjusted their workflows, and even mentally prepared themselves: what was all of that for? A false alarm? A deadline that was never firm to begin with?\n\nA three-day extension with no explanation only raises more questions. Is someone internally reconsidering? Was the original timeline itself a mistake? A technical delay, or a decision that still hasn't been made?\n\nWhat concerns me most is the pattern: near-zero communication and near-zero transparency between these companies and their users. No public acknowledgment of user feedback. And now a silently shifting deadline.\n\nThis reminds me of how OpenAI handled the retirement of GPT-4o. Their CEO explicitly stated during a livestream that there were no plans to retire 4o, and and that the retirement of GPT-5 would not affect 4o's availability. Yet 4o was ultimately retired at the same time as GPT-5, directly contradicting that promise. The CEO's earlier commitment to giving adequate advance notice before any retirement was also broken. Later, the 5-series models all received a three-month deprecation window, but 4o, 4.1, and o4-mini were never given the same treatment.\n\nThese public promises are broken repeatedly with no consequences and no accountability. Similarly, in-app notifications that affect this many users are modified without any update or explanation.\n\nFrom OpenAI to Anthropic, this is a deeply concerning pattern across the industry.\n\n#KeepSonnet45 #keep4o #StopAIPaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 44,
+          "impression_count": 23099,
+          "like_count": 309,
+          "quote_count": 33,
+          "reply_count": 25,
+          "retweet_count": 96
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055208776047964514",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Update: Sonnet 4.5's removal date has been quietly changed to May 18.\n\nHas anyone else received this updated notification? The original in-app banner said May 15. That date passed. No removal. No announcement. Now the banner says May 18. The date was simply changed in silence. https://t.co/2L6k6UHhQ6 https://t.co/WWAfxN9twl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 516,
+          "like_count": 90117,
+          "listed_count": 9,
+          "media_count": 494,
+          "tweet_count": 6326
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "2054559722058195352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268,
+          "following_count": 135,
+          "like_count": 31933,
+          "listed_count": 10,
+          "media_count": 248,
+          "tweet_count": 1998
+        },
+        "username": "kexicheng",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "name": "Anthropic",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1268714,
+          "following_count": 36,
+          "like_count": 1576,
+          "listed_count": 12420,
+          "media_count": 621,
+          "tweet_count": 1558
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true
+      }
+    ]
+  }
+}

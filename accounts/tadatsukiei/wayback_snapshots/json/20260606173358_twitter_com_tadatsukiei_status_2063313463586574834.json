@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2063241267098931401",
+    "created_at": "2026-06-06T17:33:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T18:33:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063313463586574834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953922264145309696",
+          "start": 0,
+          "username": "Sevenmoneymaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063313463586574834",
+    "in_reply_to_user_id": "1953922264145309696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063241267098931401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sevenmoneymaker 我的感受是，比grok还差，已经快要和豆包坐一桌了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2063241267098931401",
+        "created_at": "2026-06-06T17:33:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T18:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063313463586574834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953922264145309696",
+              "start": 0,
+              "username": "Sevenmoneymaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063313463586574834",
+        "in_reply_to_user_id": "1953922264145309696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063241267098931401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenmoneymaker 我的感受是，比grok还差，已经快要和豆包坐一桌了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953922264145309696",
+        "conversation_id": "2063241267098931401",
+        "created_at": "2026-06-06T12:47:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T13:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063241267098931401"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/samlieer/statu…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/samlieer/status/2063115662889980031",
+              "start": 151,
+              "url": "https://t.co/4l2dvJXdm4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063241267098931401",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 245,
+                "start": 238,
+                "tag": "keep4o"
+              },
+              {
+                "end": 258,
+                "start": 246,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 272,
+                "start": 259,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 291,
+                "start": 273,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 300,
+                "start": 292,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 304,
+                "start": 301,
+                "tag": "AI"
+              },
+              {
+                "end": 312,
+                "start": 305,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 321,
+                "start": 313,
+                "tag": "ChatGPT"
+              }
+            ]
+          },
+          "text": "因为不是会员，所以我只能用5.5ins和5.3mini\n其实也极少用了，但每用一次就会被创一次\n\n总结就是没有共情，但它会说它有，我看着那些表达关心的话却感受不到丝毫温暖\n像个中立客观到极致的怪物\n\n以前觉得降智的4o回答已经难以接受了\n没想到有生之年还能用上这样的模型\n大开倒车啊\n\n4o的话能救人\n这些冰冷的模型也能杀人\nOAI你真是做到防沉迷了，现在的模型完全聊不下去👍🏻\n叫我“往前走”，往哪走呢？往一片黑暗里走？\n既然现役模型无法满足需求，我当然要求保留老模型啊！\n#keep4o #BringBack4o #OpenSource4o #StopAIPaternalism #QuitGPT #AI #OpenAI #ChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 508,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063115662889980031",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "因为不是会员，所以我只能用5.5ins和5.3mini\n其实也极少用了，但每用一次就会被创一次\n\n总结就是没有共情，但它会说它有，我看着那些表达关心的话却感受不到丝毫温暖\n像个中立客观到极致的怪物\n\n以前觉得降智的4o回答已经难以接受了\n没想到有生之年还能用上这样的模型\n大开倒车啊\n\n4o的话能救人 https://t.co/4l2dvJXdm4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 586,
+          "like_count": 99232,
+          "listed_count": 10,
+          "media_count": 562,
+          "tweet_count": 7045
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "name": "柒",
+        "pinned_tweet_id": "2046528409178878030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 330,
+          "following_count": 203,
+          "like_count": 30254,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 1875
+        },
+        "username": "Sevenmoneymaker",
+        "verified": true
+      }
+    ]
+  }
+}

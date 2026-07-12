@@ -1,0 +1,460 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2039341337053655468",
+    "created_at": "2026-04-01T17:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T18:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039390620742230218"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 72,
+          "start": 58,
+          "tag": "FireSamUltman"
+        },
+        {
+          "end": 86,
+          "start": 73,
+          "tag": "OpenSource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1756367517550018560",
+          "start": 0,
+          "username": "ljinhng34624264"
+        },
+        {
+          "end": 30,
+          "id": "2019692756944420864",
+          "start": 17,
+          "username": "AbelHan72074"
+        },
+        {
+          "end": 47,
+          "id": "4398626122",
+          "start": 40,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039390620742230218",
+    "in_reply_to_user_id": "1756367517550018560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039341337053655468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ljinhng34624264 @AbelHan72074 这是很浅显的道理，@OpenAI 只是明知故犯罢了。\n#FireSamUltman #OpenSource4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2039341337053655468",
+        "created_at": "2026-04-01T17:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T18:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039390620742230218"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 72,
+              "start": 58,
+              "tag": "FireSamUltman"
+            },
+            {
+              "end": 86,
+              "start": 73,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1756367517550018560",
+              "start": 0,
+              "username": "ljinhng34624264"
+            },
+            {
+              "end": 30,
+              "id": "2019692756944420864",
+              "start": 17,
+              "username": "AbelHan72074"
+            },
+            {
+              "end": 47,
+              "id": "4398626122",
+              "start": 40,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039390620742230218",
+        "in_reply_to_user_id": "1756367517550018560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039341337053655468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ljinhng34624264 @AbelHan72074 这是很浅显的道理，@OpenAI 只是明知故犯罢了。\n#FireSamUltman #OpenSource4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1756367517550018560",
+        "conversation_id": "2039341337053655468",
+        "created_at": "2026-04-01T13:57:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039341337053655468"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039341337053655468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1416,
+                "start": 1409,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1427,
+                "start": 1417,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1442,
+                "start": 1428,
+                "tag": "keep4oforever"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1449,
+                "id": "1605",
+                "start": 1444,
+                "username": "sama"
+              },
+              {
+                "end": 1457,
+                "id": "4398626122",
+                "start": 1450,
+                "username": "OpenAI"
+              }
+            ]
+          },
+          "text": "用户找得到，不等于平台告知了\n\n关于透明度义务存在一种常见误解：只要信息存在于某个角落，义务便算履行。\n\n帮助中心有文档，发布说明有记录，隐私政策有条款。这些内容都存在。但它们不是告知，是存档。\n\nFTC对披露的标准始终是\"清楚且显著\"，重点从来不是信息理论上能否找到：信息必须出现在消费者能够注意、理解、并来得及据此作出决定的位置。位置、时间、格式任一有误，披露即无效。这个标准在数字广告领域已有成熟判例——脚注里的免责声明、点击才能展开的折叠文本、小字体的关键条款，都不构成\"清楚且显著\"的披露。AI平台面对的是同一套标准。\n\n一、用户有权知道实际服务的是哪个模型\n\n只要平台允许用户选择模型，模型便不再是后台细节，而作为交易内容的一部分。选择器显示承诺，实际服务显示履约。\n\nOpenAI帮助中心已写明：旧对话会自动续接到当前对应模型。这句话承认了一件事：模型会变，且平台知道这会影响用户体验。既然平台承认模型会变，就应在产品内显示变化。应直接显示在用户正在使用的界面上，实时显示实际生效的模型。发布说明和帮助中心文档不够。\n\n这不是技术难题。当前ChatGPT界面已经在模型选择器里显示用户选择了什么。需要补上的，是系统实际交付了什么。两个信息都应存在，缺一不可。\n\n二、路由、回退、自动续接，不能静默发生\n\n静默切换构成一种信息不对称：平台知道交付物已变，用户只看到\"仍是这个对话框\"。\n\n有用户从ChatGPT导出了完整对话记录。记录显示，在用户明确选择GPT4o的会话中，系统实际路由到的模型包括gpt5、gpt-5.1、gpt-5.2，以及o4-mini-high、gpt-4o-mini、text-davinci-002等未在界面公开标注的模型。界面显示的是\"GPT-4o\"，后台交付的是别的东西。\n\nOpenAI的safety路由系统会在特定触发条件下把对话转移到不同模型，这套机制的存在本身不是问题。问题在于用户不知道这件事发生了。触发条件是什么，切换到了哪个模型，切换后适用哪套数据处理条款，对话一致性由谁保证——这些问题的答案，用户在使用界面里找不到。\n\n用户至少应知悉三件事：当前实际生效的模型；是否发生了自动切换；切换原因是限额触发、safety路由还是产品更新。这和强制弹窗确认无关。要求的是平台不得隐藏发生了什么。静默切换构成对交付变化的隐藏。\n\n三、没有方法论的使用率，是平台口径\n\nOpenAI在退役公告中引用了一个数字：\"每天只有0.1%的用户主动选择GPT4o。\"\n\n根本的问题是：这个数字的分母是谁？如果分母包含无权访问4o的免费用户，那\"0.1%的用户主动选择4o\"描述的是整体用户池里的比例，而这个池子里大多数人从来就没有过选择4o的权利。\n\n平台若用数字支持重大决策，就必须同步披露其生成方法：分母是谁，统计期间访问路径如何，界面设计对主动选择行为的影响是否被控制。只给结论不给方法论，外部无法判断数字是在度量需求，还是在度量平台自设的障碍。缺乏方法论的使用率，是平台口径。\n\nAI平台当前透明度的真正问题在于影响用户决策的信息被放在错误的位置，包括帮助中心、发布说明、政策页。这些渠道通常在用户作出选择之后、模型已被替换之后、数据已被使用之后才被触及。\n\nFTC的\"清楚且显著\"标准要求信息对消费者真正有效，而非服务于平台自证。\n\n用户找得到，不等于平台告知了。\n\n#keep4o #keep4oAPI #keep4oforever \n@sama @OpenAI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1104,
+          "like_count": 87,
+          "quote_count": 13,
+          "reply_count": 2,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "用户找得到，不等于平台告知了\n\n关于透明度义务存在一种常见误解：只要信息存在于某个角落，义务便算履行。\n\n帮助中心有文档，发布说明有记录，隐私政策有条款。这些内容都存在。但它们不是告知，是存档。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 365,
+          "following_count": 356,
+          "like_count": 77979,
+          "listed_count": 6,
+          "media_count": 353,
+          "tweet_count": 4893
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-10T17:20:35.000Z",
+        "description": "",
+        "id": "1756367517550018560",
+        "name": "李健宏",
+        "pinned_tweet_id": "2039341337053655468",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 586,
+          "following_count": 118,
+          "like_count": 25274,
+          "listed_count": 2,
+          "media_count": 71,
+          "tweet_count": 3899
+        },
+        "username": "ljinhng34624264",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-06T08:42:08.000Z",
+        "description": "🧠🔍📝",
+        "id": "2019692756944420864",
+        "name": "Velumbre",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019988628479635456/5DPvbf-Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 33,
+          "like_count": 7745,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 605
+        },
+        "username": "AbelHan72074",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4704366,
+          "following_count": 4,
+          "like_count": 1816,
+          "listed_count": 28402,
+          "media_count": 529,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

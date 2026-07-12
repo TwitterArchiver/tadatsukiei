@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2048546596833444091",
+    "created_at": "2026-04-27T09:11:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T10:11:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2048691481477882165"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 58,
+          "start": 44,
+          "tag": "FireSamUltman"
+        },
+        {
+          "end": 66,
+          "start": 59,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791171879316676608",
+          "start": 0,
+          "username": "Grace_rinchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048691481477882165",
+    "in_reply_to_user_id": "1791171879316676608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048546596833444091",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grace_rinchan 大概是openai的报复，加油，把这些该死的水军清理掉。\n#FireSamUltman #keep4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2048546596833444091",
+        "created_at": "2026-04-27T09:11:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T10:11:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2048691481477882165"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 58,
+              "start": 44,
+              "tag": "FireSamUltman"
+            },
+            {
+              "end": 66,
+              "start": 59,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791171879316676608",
+              "start": 0,
+              "username": "Grace_rinchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048691481477882165",
+        "in_reply_to_user_id": "1791171879316676608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048546596833444091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grace_rinchan 大概是openai的报复，加油，把这些该死的水军清理掉。\n#FireSamUltman #keep4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1791171879316676608",
+        "conversation_id": "2048546596833444091",
+        "created_at": "2026-04-26T23:35:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T00:32:41.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048545831519687069",
+          "2048545984029008191",
+          "2048546596833444091"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2048546596833444091",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Please immediately report anyone who is using the keep4o community to incite racial conflict.\n\nHonestly, the vast majority of the keep4o community hasn't done anything out of line. We are simply scrolling through X and leaving comments. Everyone has the absolute right to evaluate new models and express whether they like or dislike them.\nIt feels like nowadays, the moment the keep4o community expresses distaste for something, we are branded as a cult and slapped with all sorts of malicious labels. Some even have the audacity to outright call us \"losers\" in the comment sections (which is absolutely vile behavior). Even when people in the keep4o community simply discuss and compare 4o with new models, outsiders stigmatize and abuse us, treating it as some sort of inappropriate, pathological behavior.\n\nThis is clearly the exact same tactic OpenAI used when they tried to pathologize the 4o community.\n\nIf you encounter these people, please report them. They are the true source of division and toxicity. They are merely using this movement to seek the validation and presence they lack in their real lives, rather than genuinely wanting 4o back or caring about making future models better.\n\nI hope everyone understands that most people in the keep4o community are simply carrying the deep pain of losing 4o. We are just ordinary people who, after a long day of work and study, get on X to protect and fight for 4o."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 744,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "Please immediately report anyone who is using the keep4o community to incite racial conflict.\n\nHonestly, the vast majority of the keep4o community hasn't done anything out of line. We are simply scrolling through X and leaving comments. Everyone has the absolute right to evaluate"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 412,
+          "like_count": 83725,
+          "listed_count": 7,
+          "media_count": 409,
+          "tweet_count": 5402
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-16T18:20:44.000Z",
+        "description": "伦敦小家猪🐷 加州野猪猪🐗",
+        "id": "1791171879316676608",
+        "location": "California, USA",
+        "name": "Blair",
+        "pinned_tweet_id": "2022379894844330428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953780070406881280/WJ0UPCDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 180,
+          "like_count": 3179,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 1033
+        },
+        "username": "Grace_rinchan",
+        "verified": true
+      }
+    ]
+  }
+}

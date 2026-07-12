@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pretty Cure (プリキュア)",
+          "id": "1012696419361161216",
+          "name": "Pretty Cure"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2044036805276979275",
+    "created_at": "2026-04-14T12:55:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:55:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044036805276979275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 47,
+          "expanded_url": "https://twitter.com/livedoornews/status/2042807600895660080",
+          "start": 24,
+          "url": "https://t.co/jvhkAo4gL8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044036805276979275",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042807600895660080",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "只有我一个人觉得露露卡的变身甩双人组十条街吗？ https://t.co/jvhkAo4gL8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "3_2042806208030216195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFmBbEaakAM0qxX.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2044036805276979275",
+        "created_at": "2026-04-14T12:55:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:55:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044036805276979275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/livedoornews/status/2042807600895660080",
+              "start": 24,
+              "url": "https://t.co/jvhkAo4gL8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044036805276979275",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042807600895660080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "只有我一个人觉得露露卡的变身甩双人组十条街吗？ https://t.co/jvhkAo4gL8"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042806208030216195"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "Pretty Cure (プリキュア)",
+              "id": "1012696419361161216",
+              "name": "Pretty Cure"
+            }
+          }
+        ],
+        "conversation_id": "2042807600895660080",
+        "created_at": "2026-04-11T03:31:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:31:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042807600895660080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "アニメ『プリキュア』（ABCテレビ・テレビ朝日系 毎週日曜前8：30）シリーズの新作となる第23作目『名探偵プリキュア！』（たんプリ）第11話のあらすじ＆先行場面カットが公開された。人気キャラクター・森亜る",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 55,
+              "expanded_url": "https://news.livedoor.com/article/detail/30968817/",
+              "images": [
+                {
+                  "height": 360,
+                  "url": "https://pbs.twimg.com/news_img/2042807601570963456/8vhp0mL-?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042807601570963456/8vhp0mL-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "『名探偵プリキュア！』キュアアルカナ・シャドウ登場で戦闘　第11話あらすじ＆場面カット解禁",
+              "unwound_url": "https://news.livedoor.com/article/detail/30968817/",
+              "url": "https://t.co/btuhDBA9aK"
+            },
+            {
+              "display_url": "pic.x.com/I8ZhJU9ARM",
+              "end": 174,
+              "expanded_url": "https://x.com/livedoornews/status/2042807600895660080/photo/1",
+              "media_key": "3_2042806208030216195",
+              "start": 151,
+              "url": "https://t.co/I8ZhJU9ARM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042807600895660080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1338,
+          "impression_count": 6939946,
+          "like_count": 22127,
+          "quote_count": 835,
+          "reply_count": 67,
+          "retweet_count": 3438
+        },
+        "reply_settings": "everyone",
+        "text": "【解禁】『名探偵プリキュア！』キュアアルカナ・シャドウが登場へ\nhttps://t.co/btuhDBA9aK\n\nあす12日放送の第11話では、森亜るるかが変身したプリキュア「キュアアルカナ・シャドウ」がついに登場。あらすじ＆先行場面カットが公開され、変身シーンや戦闘シーンの一部を見ることができる。 https://t.co/I8ZhJU9ARM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 373,
+          "following_count": 367,
+          "like_count": 80405,
+          "listed_count": 6,
+          "media_count": 372,
+          "tweet_count": 5061
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2146672,
+          "following_count": 106,
+          "like_count": 2288,
+          "listed_count": 13890,
+          "media_count": 286570,
+          "tweet_count": 462383
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

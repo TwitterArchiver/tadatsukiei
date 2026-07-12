@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1983386522478096791",
+    "created_at": "2025-10-29T06:42:47.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-29T07:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1983424254487212472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1172215095755018240",
+          "start": 0,
+          "username": "SisComAikawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1983424254487212472",
+    "in_reply_to_user_id": "1172215095755018240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983386522478096791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SisComAikawa 让我讨厌一个群体是很难的，但讨厌一个个体就很简单。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1983386522478096791",
+        "created_at": "2025-10-29T06:42:47.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T07:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1983424254487212472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1172215095755018240",
+              "start": 0,
+              "username": "SisComAikawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983424254487212472",
+        "in_reply_to_user_id": "1172215095755018240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983386522478096791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SisComAikawa 让我讨厌一个群体是很难的，但讨厌一个个体就很简单。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1172215095755018240",
+        "conversation_id": "1983386522478096791",
+        "created_at": "2025-10-29T04:12:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-29T05:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983386522478096791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1983386522478096791",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 128,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "只要能够理性友好交流，让我觉得你人挺不错的，就算你主张文化灭绝、种族清洗我也会觉得你有你的道理。反之，让我觉得你人不行，你的观点立场看起来再怎么伟大正确，我也觉得你是坨狗屎。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 115,
+          "like_count": 35121,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 3009
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2019-09-12T18:27:28.000Z",
+        "description": "この救いようのない世界をどうしようもなく愛している。",
+        "id": "1172215095755018240",
+        "name": "LoveStandsForever",
+        "pinned_tweet_id": "1816815847991644456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746457198723805184/Fjh6Wb6u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 147,
+          "like_count": 33136,
+          "listed_count": 9,
+          "media_count": 358,
+          "tweet_count": 25360
+        },
+        "username": "SisComAikawa",
+        "verified": false
+      }
+    ]
+  }
+}

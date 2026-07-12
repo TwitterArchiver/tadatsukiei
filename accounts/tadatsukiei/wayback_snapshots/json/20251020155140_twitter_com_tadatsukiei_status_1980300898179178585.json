@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1979924380160598434",
+    "created_at": "2025-10-20T15:51:40.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-20T16:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1980300898179178585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "876321004120936448",
+          "start": 0,
+          "username": "cskun1989"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1980300898179178585",
+    "in_reply_to_user_id": "876321004120936448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1979924380160598434",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cskun1989 我上一次见到这么无耻的睁眼说瞎话还是在外交部五畜那"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 26865,
+        "height": 1280,
+        "media_key": "7_1979919309188014080",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1979919309188014080/pu/img/ARFqyPPPB52VXCru.jpg",
+        "public_metrics": {
+          "view_count": 170305
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979919309188014080/pu/vid/avc1/320x568/vRdFKcxah2XjRj95.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979919309188014080/pu/vid/avc1/480x852/kFuVoFSvg2Rz44Az.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1979919309188014080/pu/vid/avc1/720x1280/P1b7_p_fmmz4Kehj.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1979919309188014080/pu/pl/l8BK8UblsvFWvcjq.m3u8?tag=12&v=d88"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1979924380160598434",
+        "created_at": "2025-10-20T15:51:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-20T16:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1980300898179178585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "876321004120936448",
+              "start": 0,
+              "username": "cskun1989"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980300898179178585",
+        "in_reply_to_user_id": "876321004120936448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1979924380160598434",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cskun1989 我上一次见到这么无耻的睁眼说瞎话还是在外交部五畜那"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1979919309188014080"
+          ],
+          "media_source_tweet_id": [
+            "1979919361818214700"
+          ]
+        },
+        "author_id": "876321004120936448",
+        "conversation_id": "1979924380160598434",
+        "created_at": "2025-10-19T14:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-19T15:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1979924380160598434"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VaTmtFpaSi",
+              "end": 145,
+              "expanded_url": "https://x.com/RICHARDFULL2019/status/1979919361818214700/video/1",
+              "media_key": "7_1979919309188014080",
+              "start": 122,
+              "url": "https://t.co/VaTmtFpaSi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1979924380160598434",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 126,
+          "impression_count": 243279,
+          "like_count": 1199,
+          "quote_count": 51,
+          "reply_count": 544,
+          "retweet_count": 226
+        },
+        "reply_settings": "everyone",
+        "text": "“台湾就是中国的一部分，中国大陆今天围台，是派出治安单位，保护台湾，维持台湾治安，让那些想要接管台湾的外国势力不得靠近台湾。”\n\n郑丽文如果是以这种理念治党，那国民党在台湾政坛恐怕只能更加边缘化，最后彻底消失。这种言论实际上是公开卖台了。\n\n https://t.co/VaTmtFpaSi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 171,
+          "following_count": 109,
+          "like_count": 32542,
+          "listed_count": 2,
+          "media_count": 162,
+          "tweet_count": 2930
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-18T06:09:43.000Z",
+        "description": "中文撰稿人、独立时评人。 油管地址：https://t.co/jctvsg5C7G 邮箱地址：davidcai55555@gmail.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caishenkun",
+                "end": 41,
+                "expanded_url": "https://youtube.com/@caishenkun",
+                "start": 18,
+                "url": "https://t.co/jctvsg5C7G"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@caishenkun",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@caishenkun",
+                "start": 0,
+                "url": "https://t.co/jctvsg5C7G"
+              }
+            ]
+          }
+        },
+        "id": "876321004120936448",
+        "name": "蔡慎坤",
+        "pinned_tweet_id": "1980105539234455723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/885984175676825601/_MlFUN3y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416454,
+          "following_count": 3656,
+          "like_count": 225,
+          "listed_count": 1458,
+          "media_count": 4855,
+          "tweet_count": 16450
+        },
+        "url": "https://t.co/jctvsg5C7G",
+        "username": "cskun1989",
+        "verified": true
+      }
+    ]
+  }
+}

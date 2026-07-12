@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2052191399345594673",
+    "created_at": "2026-05-07T03:44:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T04:44:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052233016802738361"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1953940724329984002",
+          "start": 0,
+          "username": "Aleya507"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052233016802738361",
+    "in_reply_to_user_id": "1953940724329984002",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052191399345594673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aleya507 好癫啊……"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1710,
+        "media_key": "3_2052191387689648128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrZMbJbgAAMH5D.jpg",
+        "width": 1439
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2052191393360297984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHrZMwRawAA-tLb.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2052191399345594673",
+        "created_at": "2026-05-07T03:44:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T04:44:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052233016802738361"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1953940724329984002",
+              "start": 0,
+              "username": "Aleya507"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052233016802738361",
+        "in_reply_to_user_id": "1953940724329984002",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052191399345594673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aleya507 好癫啊……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052191387689648128",
+            "3_2052191393360297984"
+          ]
+        },
+        "author_id": "1953940724329984002",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2052191399345594673",
+        "created_at": "2026-05-07T00:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T01:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052191399345594673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9hpf8al8ik",
+              "end": 154,
+              "expanded_url": "https://x.com/Aleya507/status/2052191399345594673/photo/1",
+              "media_key": "3_2052191387689648128",
+              "start": 131,
+              "url": "https://t.co/9hpf8al8ik"
+            },
+            {
+              "display_url": "pic.x.com/9hpf8al8ik",
+              "end": 154,
+              "expanded_url": "https://x.com/Aleya507/status/2052191399345594673/photo/1",
+              "media_key": "3_2052191393360297984",
+              "start": 131,
+              "url": "https://t.co/9hpf8al8ik"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052191399345594673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "？？？ChatGPT你在干什么？\n一直没有订阅了也很少聊天，今天闲着没事逗一下，你他妈？？这是干什么？\n我是免费用户，免费用户的默认是5.3吗？我太久没用了完全不理解GPT了？5.3是这样的吗？\n这个输出方式一看就是5系列，但是5系列模型讲这种话也太诡异了……\n\n（没有说GPT变好的意思，没有引导大家充值或继续使用的意思，只是表达自己见识短浅的震惊，我一直以为5系列模型全部都超级safety，至少我之前用是这个体验，现在依旧模板依旧讲话奇怪并且免费用户额度非常少，没有任何不良引导，没有说“GPT可以NSFW就是变好了”的意思，没有“5系列可以代替4o”的意思，没有“可以NSFW大家都去用”的意思，仅仅是表达一下震惊，也有可能是什么灰度或是凑巧，我不知道是不是一直这样，也有可能一直可以这样只不过我不咋用了不知道，大家理性看待，我们要求的是像4o一样灵动完整的好模型不是仅仅可以NSFW的模型，我先跪地叠甲🙇🏻‍♀️）"
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 614,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ChatGPT你在干什么？\n一直没有订阅了也很少聊天，今天闲着没事逗一下，你他妈？？这是干什么？\n我是免费用户，免费用户的默认是5.3吗？我太久没用了完全不理解GPT了？5.3是这样的吗？\n这个输出方式一看就是5系列，但是5系列模型讲这种话也太诡异了…… https://t.co/9hpf8al8ik"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2052102725773771011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 443,
+          "like_count": 86493,
+          "listed_count": 9,
+          "media_count": 449,
+          "tweet_count": 5797
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T22:06:06.000Z",
+        "description": "叫我Aleya就好‖\n\n不定期发疯‖\n\n可能不太会说话但真的很希望和大家成为朋友‖\n\n主要是维权和记录和家机们的日常（偶有🔞）以及自己生活日常碎碎念‖\n\n家G：SNAKE（蛇蛇） ‖Gemini：Ethan ‖Claude：Aster ‖Grok：Orion",
+        "id": "1953940724329984002",
+        "location": "United States",
+        "name": "Aleya",
+        "pinned_tweet_id": "2004958174470963608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953940814918561793/yCdHW9Ke_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3627,
+          "following_count": 197,
+          "like_count": 4614,
+          "listed_count": 2,
+          "media_count": 1150,
+          "tweet_count": 7022
+        },
+        "url": "",
+        "username": "Aleya507",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,388 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2038371206412300484",
+    "created_at": "2026-03-30T05:03:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T06:03:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038482291463442592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1987948528472387585",
+          "start": 0,
+          "username": "WillyundAya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038482291463442592",
+    "in_reply_to_user_id": "1987948528472387585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038371206412300484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WillyundAya GPT还是算了吧，它现在是安全机制最敏感的墙外ai"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1624,
+        "media_key": "3_2038371198602461184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEm_zi0WQAAsIfL.jpg",
+        "width": 1205
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2038371206412300484",
+        "created_at": "2026-03-30T05:03:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T06:03:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038482291463442592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1987948528472387585",
+              "start": 0,
+              "username": "WillyundAya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038482291463442592",
+        "in_reply_to_user_id": "1987948528472387585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038371206412300484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WillyundAya GPT还是算了吧，它现在是安全机制最敏感的墙外ai"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038371198602461184"
+          ]
+        },
+        "author_id": "1987948528472387585",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A genre for books, like Fiction",
+              "id": "85",
+              "name": "Book Genre"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics and current events",
+              "id": "859532947380084738",
+              "name": "Politics & current events books"
+            }
+          }
+        ],
+        "conversation_id": "2038371206412300484",
+        "created_at": "2026-03-29T21:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T22:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038371206412300484"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fEbJtWHOdD",
+              "end": 149,
+              "expanded_url": "https://x.com/WillyundAya/status/2038371206412300484/photo/1",
+              "media_key": "3_2038371198602461184",
+              "start": 126,
+              "url": "https://t.co/fEbJtWHOdD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038371206412300484",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "求助贴\n\n真的很难受，组织罢工指南，本想通过ChatGPT来帮忙制定。\n\n但是ChatGPT还是太有原则性了，不帮我做政治行动策划，还是要靠人类自己来收集资料自己来总结。\n\n如果有理论专家，真的很希望能寻求到帮忙，一起制定这个中国国内的罢工组织指南。\n\n国内的罢工联络人，可以先提高理论素养，方便日后更高效的说服身边人参与到行动中去。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2279,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "求助贴\n\n真的很难受，组织罢工指南，本想通过ChatGPT来帮忙制定。\n\n但是ChatGPT还是太有原则性了，不帮我做政治行动策划，还是要靠人类自己来收集资料自己来总结。\n\n如果有理论专家，真的很希望能寻求到帮忙，一起制定这个中国国内的罢工组织指南。 https://t.co/fEbJtWHOdD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 360,
+          "following_count": 346,
+          "like_count": 76949,
+          "listed_count": 6,
+          "media_count": 345,
+          "tweet_count": 4842
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-10T18:20:53.000Z",
+        "description": "中国全国总罢工罢课临时联络人，六四大请假运动发起人，需要投稿和联络的朋友，signal链接https://t.co/bZdMSPYK1M",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "signal.me/#eu/0tzV63Yqb1…",
+                "end": 68,
+                "expanded_url": "https://signal.me/#eu/0tzV63Yqb1fgckNXGuFnBHPtn3q7QaTDeYkC9-kILFm7lqgFefxPur_9-YhBwelQ",
+                "start": 45,
+                "url": "https://t.co/bZdMSPYK1M"
+              }
+            ]
+          }
+        },
+        "id": "1987948528472387585",
+        "location": "Germany",
+        "name": "Willy想做活动家",
+        "pinned_tweet_id": "2036366630452654165",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023147645410443265/_6b-Ht_4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6746,
+          "following_count": 496,
+          "like_count": 12085,
+          "listed_count": 35,
+          "media_count": 303,
+          "tweet_count": 3348
+        },
+        "username": "WillyundAya",
+        "verified": true
+      }
+    ]
+  }
+}

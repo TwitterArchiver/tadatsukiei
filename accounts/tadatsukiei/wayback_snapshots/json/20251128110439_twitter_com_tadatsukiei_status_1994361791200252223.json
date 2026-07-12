@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1994361786477486080"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "1994150370373980314",
+    "created_at": "2025-11-28T11:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-28T12:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994361791200252223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ftcAChv2AF",
+          "end": 49,
+          "expanded_url": "https://x.com/tadatsukiei/status/1994361791200252223/photo/1",
+          "media_key": "3_1994361786477486080",
+          "start": 26,
+          "url": "https://t.co/ftcAChv2AF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994361791200252223",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994150370373980314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 巨人还是太超前了。 https://t.co/ftcAChv2AF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1503,
+        "media_key": "3_1994361786477486080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G61lemyaoAACaWR.jpg",
+        "width": 1080
+      },
+      {
+        "duration_ms": 38758,
+        "height": 1280,
+        "media_key": "13_1994150316325978112",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1994150316325978112/img/Hg-0sbPpKJLvyozf.jpg",
+        "public_metrics": {
+          "view_count": 46273
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994150316325978112/vid/avc1/320x568/R_bFAbuJ_JRMf7tw.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994150316325978112/vid/avc1/480x852/gK34hogIlKW6p_2Y.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1994150316325978112/vid/avc1/720x1280/kJOnW495cBBQhVFf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1994150316325978112/pl/Q3NhPk_AspvYH6yx.m3u8?v=df7"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1994361786477486080"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "1994150370373980314",
+        "created_at": "2025-11-28T11:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-28T12:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994361791200252223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ftcAChv2AF",
+              "end": 49,
+              "expanded_url": "https://x.com/tadatsukiei/status/1994361791200252223/photo/1",
+              "media_key": "3_1994361786477486080",
+              "start": 26,
+              "url": "https://t.co/ftcAChv2AF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994361791200252223",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994150370373980314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 巨人还是太超前了。 https://t.co/ftcAChv2AF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1994150316325978112"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "conversation_id": "1994150370373980314",
+        "created_at": "2025-11-27T21:04:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-27T22:04:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1994150370373980314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/47cl5Mr8JR",
+              "end": 44,
+              "expanded_url": "https://x.com/torontobigface/status/1994150370373980314/video/1",
+              "media_key": "13_1994150316325978112",
+              "start": 21,
+              "url": "https://t.co/47cl5Mr8JR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994150370373980314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 160,
+          "impression_count": 92608,
+          "like_count": 889,
+          "quote_count": 26,
+          "reply_count": 281,
+          "retweet_count": 101
+        },
+        "reply_settings": "everyone",
+        "text": "麻了\n\n这样教育小孩，中国还能有未来吗？ https://t.co/47cl5Mr8JR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 116,
+          "like_count": 41609,
+          "listed_count": 2,
+          "media_count": 206,
+          "tweet_count": 3296
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNc63o 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2Xsn7l9 李币社区群：https://t.co/Uao93nfZ79",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNc63o"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2Xsn7l9"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 122,
+                "expanded_url": "https://t.me/whyyoutouzhele_memecoin",
+                "start": 99,
+                "url": "https://t.co/Uao93nfZ79"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrmZImQ"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "1993983142441496952",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581508796845019137/iNF3fAIe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752959,
+          "following_count": 233,
+          "like_count": 4285,
+          "listed_count": 2272,
+          "media_count": 5960,
+          "tweet_count": 18046
+        },
+        "url": "https://t.co/t3lSrmZImQ",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

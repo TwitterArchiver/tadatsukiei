@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2068392508237975575",
+    "created_at": "2026-06-21T02:05:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T03:05:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068515535827202109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1816123872087007235",
+          "start": 0,
+          "username": "jim71351321670"
+        },
+        {
+          "end": 29,
+          "id": "1769078117052854272",
+          "start": 16,
+          "username": "huahuojiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068515535827202109",
+    "in_reply_to_user_id": "1816123872087007235",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068392508237975575",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jim71351321670 @huahuojiang_ 誕生日おめでとう🎈🎊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2260,
+        "media_key": "3_2068392505524330496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRoBmPboAA29yl.jpg",
+        "width": 1202
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2068392508237975575",
+        "created_at": "2026-06-21T02:05:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T03:05:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068515535827202109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1816123872087007235",
+              "start": 0,
+              "username": "jim71351321670"
+            },
+            {
+              "end": 29,
+              "id": "1769078117052854272",
+              "start": 16,
+              "username": "huahuojiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068515535827202109",
+        "in_reply_to_user_id": "1816123872087007235",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068392508237975575",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jim71351321670 @huahuojiang_ 誕生日おめでとう🎈🎊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068392505524330496"
+          ]
+        },
+        "author_id": "1816123872087007235",
+        "conversation_id": "2068392508237975575",
+        "created_at": "2026-06-20T17:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T18:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068392508237975575"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 21,
+              "start": 18,
+              "tag": "生日"
+            },
+            {
+              "end": 26,
+              "start": 22,
+              "tag": "誕生日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSdSGWK0YF",
+              "end": 50,
+              "expanded_url": "https://x.com/jim71351321670/status/2068392508237975575/photo/1",
+              "media_key": "3_2068392505524330496",
+              "start": 27,
+              "url": "https://t.co/YSdSGWK0YF"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "204a435ce97d5de4"
+        },
+        "id": "2068392508237975575",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 331,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "今天是生日，快來戳氣球！\n     #生日 #誕生日 https://t.co/YSdSGWK0YF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 638,
+          "like_count": 105052,
+          "listed_count": 10,
+          "media_count": 611,
+          "tweet_count": 7574
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-24T14:51:17.000Z",
+        "description": "Chinese/mnber/English/Japanese\n  平壤江東郡現任執事【2025-2028】\n生日：6.21",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "taiwan.gov.tw",
+                "end": 23,
+                "expanded_url": "https://www.taiwan.gov.tw/",
+                "start": 0,
+                "url": "https://t.co/k4uEtD9c9b"
+              }
+            ]
+          }
+        },
+        "id": "1816123872087007235",
+        "location": "Kaohsiung, Taiwan",
+        "name": "冉冉面（s版），🇭🇰🇹🇼",
+        "pinned_tweet_id": "2039728461015838818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968738138823737344/_2fdpg7j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 743,
+          "following_count": 646,
+          "like_count": 16279,
+          "listed_count": 4,
+          "media_count": 491,
+          "tweet_count": 3220
+        },
+        "url": "https://t.co/k4uEtD9c9b",
+        "username": "jim71351321670",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "location": "匹诺康尼",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2039014033718993306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7068,
+          "following_count": 3586,
+          "like_count": 102874,
+          "listed_count": 15,
+          "media_count": 8449,
+          "tweet_count": 98656
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": false
+      }
+    ]
+  }
+}

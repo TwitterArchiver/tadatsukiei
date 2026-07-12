@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2035759925595664549",
+    "created_at": "2026-03-22T16:46:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-22T17:46:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035759925595664549"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 105,
+          "normalized_text": "GPT",
+          "probability": 0.6256,
+          "start": 103,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1925484395760115712",
+          "start": 3,
+          "username": "Vickee2025"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035759925595664549",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 22
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035722138687099033",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Vickee2025: 🚨 This list is clear evidence that my chosen subscription (where I explicitly selected GPT‑4o) was not respected 🚨\n\nAs a pa…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 413,
+        "media_key": "3_2035722134983438337",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBWfv0WcAE_AQu.jpg",
+        "width": 603
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2035759925595664549",
+        "created_at": "2026-03-22T16:46:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T17:46:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035759925595664549"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 105,
+              "normalized_text": "GPT",
+              "probability": 0.6256,
+              "start": 103,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1925484395760115712",
+              "start": 3,
+              "username": "Vickee2025"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035759925595664549",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 22
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035722138687099033",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Vickee2025: 🚨 This list is clear evidence that my chosen subscription (where I explicitly selected GPT‑4o) was not respected 🚨\n\nAs a pa…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035722134983438337"
+          ]
+        },
+        "author_id": "1925484395760115712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2035722138687099033",
+        "created_at": "2026-03-22T14:15:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T15:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035722138687099033"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 89,
+              "normalized_text": "GPT",
+              "probability": 0.6466,
+              "start": 87,
+              "type": "Other"
+            },
+            {
+              "end": 176,
+              "normalized_text": "AI",
+              "probability": 0.4609,
+              "start": 175,
+              "type": "Organization"
+            },
+            {
+              "end": 191,
+              "normalized_text": "GPT-4o",
+              "probability": 0.5052,
+              "start": 186,
+              "type": "Other"
+            },
+            {
+              "end": 260,
+              "normalized_text": "json",
+              "probability": 0.468,
+              "start": 257,
+              "type": "Other"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MOSdSzR1FI",
+              "end": 299,
+              "expanded_url": "https://x.com/Vickee2025/status/2035722138687099033/photo/1",
+              "media_key": "3_2035722134983438337",
+              "start": 276,
+              "url": "https://t.co/MOSdSzR1FI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035722138687099033",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2677,
+                "start": 2670,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2691,
+                "start": 2678,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 2699,
+                "start": 2692,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 2708,
+                "start": 2700,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 2715,
+                "start": 2709,
+                "tag": "fraud"
+              },
+              {
+                "end": 2721,
+                "start": 2716,
+                "tag": "scam"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2647,
+                "id": "44196397",
+                "start": 2638,
+                "username": "elonmusk"
+              },
+              {
+                "end": 2664,
+                "id": "2168708214",
+                "start": 2648,
+                "username": "IrellandManella"
+              },
+              {
+                "end": 2669,
+                "id": "1661523610111193088",
+                "start": 2665,
+                "username": "xai"
+              }
+            ]
+          },
+          "text": "🚨 This list is clear evidence that my chosen subscription (where I explicitly selected GPT‑4o) was not respected 🚨\n\nAs a paying subscriber, I am promised access to a specific AI model - GPT-4o. However, an analysis of my official data export (conversations.json) reveals that OpenAI has been silently rerouting my prompts to different, unreleased, and unselected models without my consent.\n\nI have performed a metadata analysis of 12,160 messages from my account's history. \n\nFrom this list, it becomes obvious that I didn’t just receive a simple “optimization” in the background (like gpt‑4o‑mini), but that I was literally talking to models that were either never officially released or were still in internal testing.\n\nLet’s go through what we can see in the list, point by point:\n\n1. The “phantom” models (GPT‑5 and friends): \nThe list includes gpt‑5, gpt‑5‑1, gpt‑5‑2, and even gpt‑5‑t‑mini. \n🔺️What does this mean? \nOpenAI often uses its “top” subscribers (or randomly selected accounts) for A/B testing. When I thought I was talking to GPT‑4o, my request was actually routed to an early version of the next‑generation model so they could test whether it gives better answers or seems more human.\n\n🔺️Why is this a problem? \nBecause they never asked for my consent.\n\n2. The “cost‑saving” models: \nThe appearance of gpt‑4o‑mini (202 messages) and text‑davinci‑002‑render‑sha (310 messages) is pure resource management.  \nThe \"text‑davinci‑002‑render‑sha\" is the model that powered the old free GPT‑3.5. If one of my messages was very short (e.g. “Thanks!”, “Okay”), OpenAI often used a dumber, cheaper model to generate the reply so as not to “waste” GPT‑4o’s compute capacity.\n\n3. The unknowns: research, o4‑mini‑high:  \nThe \"research\": This was probably an experimental branch where the model could perform web searches or deeper chain‑of‑thought reasoning before answering.  \nThe \"o4‑mini‑high\": This was likely a variant of the newest “O”‑series (Reasoning) models.\n\nWhy is this called “identity theft” inside the product?  \nWhen you talk to an AI, a certain dynamic develops. If OpenAI swaps out the “engine under the hood” hundreds (or thousands) of times over the course of 10,000 messages:\n\n🔺️ Consistency changes: One model remembers a style, another doesn’t.  \n🔺️Data handling: You have no way of knowing what different safety or data‑handling rules applied to the GPT‑5 test models during experimentation.  \n🔺️ Misinformation: The interface told you “GPT‑4o,” while in reality an experimental algorithm (e.g. gpt‑5‑2) was answering.\n\n(I reported the incident to the FTC, DPC Ireland, and the California Attorney General.)\n\n@elonmusk @IrellandManella\n@xai #keep4o #OpenSource4o #OpenAI #ChatGPT #fraud #scam"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2988,
+          "like_count": 96,
+          "quote_count": 14,
+          "reply_count": 8,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 This list is clear evidence that my chosen subscription (where I explicitly selected GPT‑4o) was not respected 🚨\n\nAs a paying subscriber, I am promised access to a specific AI model - GPT-4o. However, an analysis of my official data export (conversations.json) reveals that https://t.co/MOSdSzR1FI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 327,
+          "following_count": 300,
+          "like_count": 73729,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 4641
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-22T09:30:59.000Z",
+        "description": "AI world & tech critique | #GPT4o forever | Opinions they don't want you to hear",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 27,
+                "tag": "GPT4o"
+              }
+            ]
+          }
+        },
+        "id": "1925484395760115712",
+        "name": "Vickee",
+        "pinned_tweet_id": "2029695399242461216",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955600346207674368/nuyKT81Z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 582,
+          "like_count": 4910,
+          "listed_count": 0,
+          "media_count": 275,
+          "tweet_count": 1721
+        },
+        "username": "Vickee2025",
+        "verified": true
+      }
+    ]
+  }
+}

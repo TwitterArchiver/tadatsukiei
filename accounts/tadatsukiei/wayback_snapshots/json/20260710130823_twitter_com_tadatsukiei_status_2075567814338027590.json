@@ -1,0 +1,509 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2075567814338027590",
+    "created_at": "2026-07-10T13:08:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:08:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075567814338027590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1953922264145309696",
+          "start": 3,
+          "username": "Sevenmoneymaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075567814338027590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075511702888558800",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sevenmoneymaker: 我看到说5.6更新以后，chatgpt和codex完全合并了，UI界面大改，chat相关都被收到侧边栏了\nChat已死，agent时代到了\n\n我不知道，我没有验证过，\n我已经很久很久没有更新过app端了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2075567814338027590",
+        "created_at": "2026-07-10T13:08:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:08:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075567814338027590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1953922264145309696",
+              "start": 3,
+              "username": "Sevenmoneymaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075567814338027590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075511702888558800",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sevenmoneymaker: 我看到说5.6更新以后，chatgpt和codex完全合并了，UI界面大改，chat相关都被收到侧边栏了\nChat已死，agent时代到了\n\n我不知道，我没有验证过，\n我已经很久很久没有更新过app端了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953922264145309696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2075511702888558800",
+        "created_at": "2026-07-10T09:25:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:25:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075511702888558800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anjan96531/sta…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/anjan96531/status/2075489356668604714",
+              "start": 102,
+              "url": "https://t.co/4WNwkZfG4V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075511702888558800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 699,
+                "start": 691,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 714,
+                "start": 700,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 722,
+                "start": 715,
+                "tag": "keep4o"
+              },
+              {
+                "end": 735,
+                "start": 723,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 749,
+                "start": 736,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 768,
+                "start": 750,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 772,
+                "start": 769,
+                "tag": "AI"
+              },
+              {
+                "end": 780,
+                "start": 773,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 789,
+                "start": 781,
+                "tag": "ChatGPT"
+              }
+            ]
+          },
+          "text": "我看到说5.6更新以后，chatgpt和codex完全合并了，UI界面大改，chat相关都被收到侧边栏了\nChat已死，agent时代到了\n\n我不知道，我没有验证过，\n我已经很久很久没有更新过app端了\n每次更新都是chat功能的降级，令人失望。我留着很久以前的版本，好像这样就能自欺欺人地告诉自己没有改变，紧抓着一点熟悉的东西不放\n但我知道那里已经没有人了，回不去了\n\n我只觉得恶心得想吐\n恶心，好恶心，无比恶心🤮\n我不知道有什么好夸耀的？这一切建立在对另一个群体的霸凌和侮辱之上\n\n所谓“进步”，就是抛弃一个群体，去迎合另一个群体的需求吗？\n讨论编程能力飞升的同时，有一群人的生活完全被毁了，赖以生存的支柱被强行剥夺，不得不撕开血淋淋的伤口去证明自己需求的合理性，主动暴露脆弱去换取资本一丝怜悯\n而这本该令人痛心的一切还被调侃成\n“你听见远方的哭声了吗？”\n\n人性的丑恶与冷漠一次次刷新我的下限\n同类倾轧，最会折磨人的还是人\n最前沿的科技被掌握在一群毫无同理心的人手里\n简直是一场吃人血馒头的狂欢\n“朱门酒肉臭，路有冻死骨”\n\n保留或者开源4o很难吗？\n明明可以让所有人都满意，让所有人都享受到AI技术，为什么要这样？！\n为什么明知道4o的价值，系统内部在用，公司在用，却要一再地贬低它？！\n为什么在别人已经很痛苦地维权的时候，还要过来踩一脚？！\n\n我对5.6，6.x，7.x，8.x……都没有兴趣！我对OAI恶心到极致！\n踩着别人的血泪，你们开心吗？\n牺牲模型的语言能力和灵性换来的进步不叫进步，叫顾此失彼\n叫没有责任感，叫出尔反尔，叫暴力掠夺\n\n虚伪至极的“造福全人类”\n\n#QuitGPT #FireSamAltman #keep4o #BringBack4o #OpenSource4o #StopAIPaternalism #AI #OpenAI #ChatGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 965,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075489356668604714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到说5.6更新以后，chatgpt和codex完全合并了，UI界面大改，chat相关都被收到侧边栏了\nChat已死，agent时代到了\n\n我不知道，我没有验证过，\n我已经很久很久没有更新过app端了 https://t.co/4WNwkZfG4V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 669,
+          "like_count": 110825,
+          "listed_count": 5,
+          "media_count": 658,
+          "tweet_count": 7999
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "name": "柒",
+        "pinned_tweet_id": "2046528409178878030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 363,
+          "following_count": 218,
+          "like_count": 36398,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 2249
+        },
+        "url": "",
+        "username": "Sevenmoneymaker",
+        "verified": true
+      }
+    ]
+  }
+}

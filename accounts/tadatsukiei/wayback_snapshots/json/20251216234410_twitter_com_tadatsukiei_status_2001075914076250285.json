@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2000567831919026659",
+    "created_at": "2025-12-16T23:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-17T00:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001075914076250285"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1515858435166056448",
+          "start": 0,
+          "username": "yezi1205"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001075914076250285",
+    "in_reply_to_user_id": "1515858435166056448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000567831919026659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yezi1205 原来是直人，畏惧了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24218,
+        "height": 1280,
+        "media_key": "7_2000567789623676928",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2000567789623676928/pu/img/--0CeJiklYVxBWZi.jpg",
+        "public_metrics": {
+          "view_count": 5446
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000567789623676928/pu/vid/avc1/320x568/QBu9gS2lOJBXaqPk.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000567789623676928/pu/vid/avc1/480x852/zBY8VzkBSlr0sml5.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2000567789623676928/pu/vid/avc1/720x1280/3CgeQVJG7npFx1lU.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2000567789623676928/pu/pl/349fEFs9UBfzxvGt.m3u8?tag=12&v=e86"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2000567831919026659",
+        "created_at": "2025-12-16T23:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-17T00:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001075914076250285"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1515858435166056448",
+              "start": 0,
+              "username": "yezi1205"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001075914076250285",
+        "in_reply_to_user_id": "1515858435166056448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000567831919026659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yezi1205 原来是直人，畏惧了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2000567789623676928"
+          ]
+        },
+        "author_id": "1515858435166056448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2000567831919026659",
+        "created_at": "2025-12-15T14:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-15T15:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000567831919026659"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "习近平总书记"
+            },
+            {
+              "end": 113,
+              "start": 110,
+              "tag": "中国"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuiINntARf",
+              "end": 137,
+              "expanded_url": "https://x.com/yezi1205/status/2000567831919026659/video/1",
+              "media_key": "7_2000567789623676928",
+              "start": 114,
+              "url": "https://t.co/iuiINntARf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000567831919026659",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 12965,
+          "like_count": 126,
+          "quote_count": 3,
+          "reply_count": 190,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "试问哪个国家的主席会深入基层一线关心农民工？全世界也就只有中国这么体恤民情，中国的好书记！\n习近平：农民工是改革开放以来涌现出的一支新型劳动大军，是建设国家的重要力量，全社会一定要关心农民工、关爱农民工！＃习近平总书记 ＃中国 https://t.co/iuiINntARf"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 205,
+          "following_count": 123,
+          "like_count": 46588,
+          "listed_count": 7,
+          "media_count": 219,
+          "tweet_count": 3463
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-18T01:03:18.000Z",
+        "description": "从脱贫攻坚的山乡巨变，到科技创新的蓬勃突破；从生态环境的持续向好，到民生福祉的稳步提升，中国这艘巨轮稳稳驶向伟大复兴的彼岸。我愿紧跟其步伐，为国家发展发光发热 ！",
+        "id": "1515858435166056448",
+        "location": "Los Angeles",
+        "name": "狂奔的蜗牛🐌",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1515861121353535488/EHuIKqq3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175063,
+          "following_count": 2687,
+          "like_count": 30873,
+          "listed_count": 164,
+          "media_count": 2726,
+          "tweet_count": 11641
+        },
+        "username": "yezi1205",
+        "verified": false
+      }
+    ]
+  }
+}

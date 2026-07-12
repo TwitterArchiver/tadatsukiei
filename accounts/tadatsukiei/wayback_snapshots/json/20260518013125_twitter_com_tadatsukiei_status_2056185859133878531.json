@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2056185852229996544"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2056185859133878531",
+    "created_at": "2026-05-18T01:31:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T02:31:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2056185859133878531"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/S3j6LO6h0j",
+          "end": 40,
+          "expanded_url": "https://x.com/tadatsukiei/status/2056185859133878531/photo/1",
+          "media_key": "3_2056185852229996544",
+          "start": 17,
+          "url": "https://t.co/S3j6LO6h0j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056185859133878531",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "池袋站正在贴尼可\n这张↓忘拍了。 https://t.co/S3j6LO6h0j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 495,
+        "media_key": "3_2056185852229996544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIkKI3JaUAAT5kn.jpg",
+        "width": 560
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2056185852229996544"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2056185859133878531",
+        "created_at": "2026-05-18T01:31:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T02:31:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056185859133878531"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/S3j6LO6h0j",
+              "end": 40,
+              "expanded_url": "https://x.com/tadatsukiei/status/2056185859133878531/photo/1",
+              "media_key": "3_2056185852229996544",
+              "start": 17,
+              "url": "https://t.co/S3j6LO6h0j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056185859133878531",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "池袋站正在贴尼可\n这张↓忘拍了。 https://t.co/S3j6LO6h0j"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 544,
+          "following_count": 525,
+          "like_count": 90547,
+          "listed_count": 9,
+          "media_count": 498,
+          "tweet_count": 6391
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

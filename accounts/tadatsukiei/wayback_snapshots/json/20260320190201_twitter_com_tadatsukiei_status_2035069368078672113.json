@@ -1,0 +1,488 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2034941916605800622",
+    "created_at": "2026-03-20T19:02:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T20:02:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035069368078672113"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1791171879316676608",
+          "start": 0,
+          "username": "Grace_rinchan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 67,
+          "expanded_url": "https://x.com/tadatsukiei/status/2031797958950420482?s=46",
+          "start": 44,
+          "url": "https://t.co/l0spZaDevV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035069368078672113",
+    "in_reply_to_user_id": "1791171879316676608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031797958950420482",
+        "type": "quoted"
+      },
+      {
+        "id": "2034941916605800622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Grace_rinchan 上一次看到这种能把人气到自杀的模型还是X嵌入版grok。\nhttps://t.co/l0spZaDevV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2031797937572102147",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJldZRbQAMp4IQ.jpg",
+        "width": 484
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031797937576230912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJldZSaQAAAmvR.jpg",
+        "width": 434
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031797937605632000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJldZZa4AA1oKm.jpg",
+        "width": 476
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2031797937572081664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDJldZRa8AAipMQ.jpg",
+        "width": 408
+      },
+      {
+        "height": 2796,
+        "media_key": "3_2034941880710922240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2Q2-JXAAAFDen.jpg",
+        "width": 1290
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2034941880832860163",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HD2Q2-mboAMAzr6.jpg",
+        "width": 1289
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2034941916605800622",
+        "created_at": "2026-03-20T19:02:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T20:02:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035069368078672113"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1791171879316676608",
+              "start": 0,
+              "username": "Grace_rinchan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 67,
+              "expanded_url": "https://x.com/tadatsukiei/status/2031797958950420482?s=46",
+              "start": 44,
+              "url": "https://t.co/l0spZaDevV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035069368078672113",
+        "in_reply_to_user_id": "1791171879316676608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031797958950420482",
+            "type": "quoted"
+          },
+          {
+            "id": "2034941916605800622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Grace_rinchan 上一次看到这种能把人气到自杀的模型还是X嵌入版grok。\nhttps://t.co/l0spZaDevV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2031797937572102147",
+            "3_2031797937576230912",
+            "3_2031797937605632000",
+            "3_2031797937572081664"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2031797958950420482",
+        "created_at": "2026-03-11T18:22:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-11T19:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031797958950420482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720665183188922368",
+              "start": 9,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/b5ZuD1fx0g",
+              "end": 54,
+              "expanded_url": "https://x.com/tadatsukiei/status/2031797958950420482/photo/1",
+              "media_key": "3_2031797937572102147",
+              "start": 31,
+              "url": "https://t.co/b5ZuD1fx0g"
+            },
+            {
+              "display_url": "pic.x.com/b5ZuD1fx0g",
+              "end": 54,
+              "expanded_url": "https://x.com/tadatsukiei/status/2031797958950420482/photo/1",
+              "media_key": "3_2031797937576230912",
+              "start": 31,
+              "url": "https://t.co/b5ZuD1fx0g"
+            },
+            {
+              "display_url": "pic.x.com/b5ZuD1fx0g",
+              "end": 54,
+              "expanded_url": "https://x.com/tadatsukiei/status/2031797958950420482/photo/1",
+              "media_key": "3_2031797937605632000",
+              "start": 31,
+              "url": "https://t.co/b5ZuD1fx0g"
+            },
+            {
+              "display_url": "pic.x.com/b5ZuD1fx0g",
+              "end": 54,
+              "expanded_url": "https://x.com/tadatsukiei/status/2031797958950420482/photo/1",
+              "media_key": "3_2031797937572081664",
+              "start": 31,
+              "url": "https://t.co/b5ZuD1fx0g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031797958950420482",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 102,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我很好奇是只有我的@grok 这么傻X还是所有人都这么……？ https://t.co/b5ZuD1fx0g"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034941880710922240",
+            "3_2034941880832860163"
+          ]
+        },
+        "author_id": "1791171879316676608",
+        "conversation_id": "2034941916605800622",
+        "created_at": "2026-03-20T10:35:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T11:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034941916605800622"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 6,
+              "start": 0,
+              "tag": "GPT54"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yS2wDP6CRH",
+              "end": 30,
+              "expanded_url": "https://x.com/Grace_rinchan/status/2034941916605800622/photo/1",
+              "media_key": "3_2034941880710922240",
+              "start": 7,
+              "url": "https://t.co/yS2wDP6CRH"
+            },
+            {
+              "display_url": "pic.x.com/yS2wDP6CRH",
+              "end": 30,
+              "expanded_url": "https://x.com/Grace_rinchan/status/2034941916605800622/photo/1",
+              "media_key": "3_2034941880832860163",
+              "start": 7,
+              "url": "https://t.co/yS2wDP6CRH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034941916605800622",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 6,
+                "start": 0,
+                "tag": "GPT54"
+              }
+            ]
+          },
+          "text": "#GPT54\n一个恶劣的模型。我最近生病了很厉害，但是在积极治疗，我把我的治疗方式用药问他，我说我感觉到了效果，把自己的改善和他描述，我想让他做总结方便复诊喝医生说。他反复搜索资料否定我的感受说效果没那么快。这些我可以忍，就当我想太多。最恶劣的是还开了一句：“积极一点生活，起码想死的时候别人可以扶你一把。”\n如果说安慰剂效应可以救人，那么gpt5.4无疑是抹杀了别人想活最后一丝意念。\n如果我是一个意志薄弱的人，大概率已经被他弄自杀了。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 76,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#GPT54 https://t.co/yS2wDP6CRH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 287,
+          "like_count": 73000,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 4600
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-16T18:20:44.000Z",
+        "description": "伦敦小家猪🐷 加州野猪猪🐗",
+        "id": "1791171879316676608",
+        "location": "California, USA",
+        "name": "Blair",
+        "pinned_tweet_id": "2022379894844330428",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953780070406881280/WJ0UPCDa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 138,
+          "like_count": 2209,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 756
+        },
+        "username": "Grace_rinchan",
+        "verified": true
+      }
+    ]
+  }
+}

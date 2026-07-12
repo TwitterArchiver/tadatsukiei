@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1879098841133355502",
+    "created_at": "2025-01-14T21:17:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-14T22:17:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1879276627290640445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1433678976564662273",
+          "start": 0,
+          "username": "hsn8086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1879276627290640445",
+    "in_reply_to_user_id": "1433678976564662273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1879098841133355502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hsn8086 你可以请假不等于我批准😈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1879098841133355502",
+        "created_at": "2025-01-14T21:17:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T22:17:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1879276627290640445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1433678976564662273",
+              "start": 0,
+              "username": "hsn8086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879276627290640445",
+        "in_reply_to_user_id": "1433678976564662273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1879098841133355502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hsn8086 你可以请假不等于我批准😈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1879098838407069696"
+          ]
+        },
+        "author_id": "1433678976564662273",
+        "conversation_id": "1879098841133355502",
+        "created_at": "2025-01-14T09:30:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-14T10:30:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1879098841133355502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5RQD3B9ZhL",
+              "end": 45,
+              "expanded_url": "https://x.com/hsn8086/status/1879098841133355502/photo/1",
+              "media_key": "3_1879098838407069696",
+              "start": 22,
+              "url": "https://t.co/5RQD3B9ZhL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1879098841133355502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 102625,
+          "like_count": 1185,
+          "quote_count": 17,
+          "reply_count": 91,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "\"哇, 原来是我不想请假, 就想钻下水道\" https://t.co/5RQD3B9ZhL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 44,
+          "like_count": 1931,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 717
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2021-09-03T06:31:41.000Z",
+        "description": "你好, 我是hsn! 避难所: @hsn8086xe | 注: 推文内容仅供娱乐,真假自辨!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 16,
+                "username": "hsn8086xe"
+              }
+            ]
+          }
+        },
+        "id": "1433678976564662273",
+        "location": "Internet",
+        "name": "hsn",
+        "pinned_tweet_id": "1875403771435700438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1707161507161944064/DD0pRpE6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29711,
+          "following_count": 902,
+          "like_count": 36306,
+          "listed_count": 85,
+          "media_count": 5019,
+          "tweet_count": 9816
+        },
+        "username": "hsn8086",
+        "verified": true
+      }
+    ]
+  }
+}

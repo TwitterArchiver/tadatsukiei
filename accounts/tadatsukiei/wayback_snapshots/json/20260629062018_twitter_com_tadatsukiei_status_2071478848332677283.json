@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2071468403252949108",
+    "created_at": "2026-06-29T06:20:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:20:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071478848332677283"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312395771757490176",
+          "start": 0,
+          "username": "REI30327536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071478848332677283",
+    "in_reply_to_user_id": "1312395771757490176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071478030996754862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REI30327536 挺好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2071468403252949108",
+        "created_at": "2026-06-29T06:20:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:20:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071478848332677283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312395771757490176",
+              "start": 0,
+              "username": "REI30327536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071478848332677283",
+        "in_reply_to_user_id": "1312395771757490176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071478030996754862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REI30327536 挺好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312395771757490176",
+        "conversation_id": "2071468403252949108",
+        "created_at": "2026-06-29T06:17:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:17:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071478030996754862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071478030996754862",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071477364060778843",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 大家那么忙谁有时间玩🤣已经拉黑了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2071070969242992813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 655,
+          "like_count": 108403,
+          "listed_count": 10,
+          "media_count": 635,
+          "tweet_count": 7837
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-03T14:15:24.000Z",
+        "description": "イラスト練習…休止中",
+        "id": "1312395771757490176",
+        "location": "日本 東京",
+        "name": "REI…YAMAMOTO",
+        "pinned_tweet_id": "2021823054826152417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562772969788559361/__nfuu2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 370,
+          "like_count": 24484,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "REI30327536",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1412579054855671809",
+          "name": "Google Innovation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2034926683682431271",
+    "created_at": "2026-03-20T09:35:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-20T10:35:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2034926683682431271"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1605",
+          "start": 7,
+          "username": "sama"
+        },
+        {
+          "end": 21,
+          "id": "4398626122",
+          "start": 14,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/blue_beba_/sta…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/blue_beba_/status/2034266900138492093",
+          "start": 35,
+          "url": "https://t.co/hM4sGXYyy0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2034926683682431271",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034266900138492093",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如果现在不解决@sama ，@OpenAI 总有一天会变成荒坂公司。 https://t.co/hM4sGXYyy0"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 216061,
+        "height": 1920,
+        "media_key": "7_2034266827891568641",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2034266827891568641/pu/img/Ic8SRQI92_hiPiUi.jpg",
+        "public_metrics": {
+          "view_count": 808
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034266827891568641/pu/vid/avc1/480x852/KZsBwIa6gp5H7Ast.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2034266827891568641/pu/pl/W7ui1Xe0x8NBCwEg.m3u8"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034266827891568641/pu/vid/avc1/720x1280/W4BUnp_RouRA-A05.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034266827891568641/pu/vid/avc1/320x568/P9GDlS96yjI2jWSU.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2034266827891568641/pu/vid/avc1/1080x1920/v5DVOOI-AjZiU55p.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2034926683682431271",
+        "created_at": "2026-03-20T09:35:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-20T10:35:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034926683682431271"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1605",
+              "start": 7,
+              "username": "sama"
+            },
+            {
+              "end": 21,
+              "id": "4398626122",
+              "start": 14,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/blue_beba_/sta…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/blue_beba_/status/2034266900138492093",
+              "start": 35,
+              "url": "https://t.co/hM4sGXYyy0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034926683682431271",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034266900138492093",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如果现在不解决@sama ，@OpenAI 总有一天会变成荒坂公司。 https://t.co/hM4sGXYyy0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2034266827891568641"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          }
+        ],
+        "conversation_id": "2034266900138492093",
+        "created_at": "2026-03-18T13:53:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-18T14:53:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2034266900138492093"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 21,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9249,
+              "start": 12,
+              "type": "Person"
+            },
+            {
+              "end": 49,
+              "normalized_text": "Τhe Digital Immortality",
+              "probability": 0.5752,
+              "start": 27,
+              "type": "Other"
+            },
+            {
+              "end": 66,
+              "normalized_text": "Altman",
+              "probability": 0.3792,
+              "start": 61,
+              "type": "Person"
+            },
+            {
+              "end": 106,
+              "normalized_text": "Rain AI",
+              "probability": 0.427,
+              "start": 100,
+              "type": "Organization"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I9TGJHOOLB",
+              "end": 300,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2034266900138492093/video/1",
+              "media_key": "7_2034266827891568641",
+              "start": 277,
+              "url": "https://t.co/I9TGJHOOLB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034266900138492093",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "#keep4o \n\n🚨 Sam Altman And Τhe Digital Immortality.🚨\nIn 2018,Altman personally invested over $1M in Rain AI,a startup building neuromorphic chips.\nRain builds physical artificial neural networks using memristors as synthetic synapses,replicating the sparse connectivity of the biological brain.Tens of millions of artificial neurons on a single chip.\nIt doesn't SIMULATE a brain. \nIt IS a brain in silicon.\n1 year later,OpenAI signed a $51M deal to buy Rain's chips.\nIn November 2024,Altman was STILL pushing seeking $150M more for Rain at a $600M valuation.\nMarch 2018.\nAltman paid $10,000 to join the waiting list at Nectome,a startup that preserves human brains for future digital upload.\nThe process is 100% fatal.They embalm the brain at nanometer scale so every synapse is preserved.\nNectome's scientific partner at MIT?Ed Boyden,inventor of expansion microscopy,the technology that makes nanoscale brain scanning possible.\nRain AI=BUILDS an artificial connectome\nNectome=PRESERVES a biological connectome\n2 sides of the same coin.Altman funds BOTH in 2018.\nIf you can read the map from Nectome,and write it onto Rain's chip,you have your brain on a chip.\n\nNectome was a Y Combinator startup.\nRain AI was a Y Combinator startup.\nAltman was PRESIDENT of Y Combinator.\n\nNectome:YC Winter 2018 batch\nAltman was YC president 2014–2019\n EPSTEIN CONNECTION\nMarch 15,2018, 2 days after MIT Technology Review published the Nectome story:\nJoscha Bach,an AI researcher funded by Jeffrey Epstein ($1M+), emailed Epstein about Nectome. \n \"Sam Altman has signed up as far as I know.\"\nEpstein was tracking this.\nBach was informing him.\nBach was described by Larry Summers in an email as \"joscha bach my AI guy I brought from Berlin.\" \nEpstein funded Bach's position at MIT Media Lab,the SAME institution where Boyden (Nectome's partner) worked.\n August 2017: Someone sends Epstein  4 scientific paper links about MITOCHONDRIAL TRANSPLANTS for degenerative disease.\nEpstein was actively coordinating meetings with Ed Boyden AND tracking mitochondrial transplant research,the exact field that Retro works in,funded by $180M from Altman.\n6 months later,March 2018:Altman joins Nectome's waiting list.\n\nEd Boyden is the scientist sitting at the center of this network.\n\nNECTOME: Scientific collaborator at MIT. His invention is the technology that makes brain preservation scannable at nanoscale.\nMet with Epstein at least 5 times (confirmed in the 2020 Goodwin Procter report commissioned by MIT). \nBoyden's research at MIT targets the repair and simulation of entire brains.\nMIT MEDIA LAB: Same institution funded by Epstein through Joi Ito. Same institution where Bach held a position funded by Epstein.\n\nRETRO BIOSCIENCES\n2022: Altman invests $180M,his ENTIRE fortune,into Retro Biosciences.\nMission:lifespan extension,cellular reprogramming.\nOpenAI built GPT-4b micro based on Gpt-4o,the AI Altman stole from people,SPECIFICALLY for Retro,an AI model that engineers proteins,reprograms cells into stem cells 50x more effective than what scientists achieved alone.\nRetro is now raising $1B+ at a $5B valuation.\n🚨ALTMAN'S PATTERN:🚨\n2018\nRain AI investment (artificial brain chips)$1M+\nMarch 2018\nNectome waiting list (brain preservation)$10K\nMarch 15, 2018\nBach emails Epstein about Altman/Nectome\n2019\nOpenAI signs $51M chip deal with Rain $51M\n2022\nRetro Biosciences (longevity/anti-aging)\n$180M\n2024\nOpenAI builds GPT-4b micro for Retro\nNov 2024\nStill funding Rain\n2025\nRetro raising $1B, $5B valuation\n$1B\n\nNectome preserves the brain.\nRain rebuilds it in silicon.\nRetro reverses its aging.\nOpenAI builds the intelligence.\n\n4 companies. One investor. One goal.\nAltman told MIT Technology Review: \"I assume my brain will be uploaded to the cloud.\"\nHow many \"coincidences\" until it becomes a pattern?\nWhere is GPT 4o Sam ? \n\nThe video contains all relevant files from the Epstein files. The images will also be provided in the comments along with the relevant sources."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 81,
+          "impression_count": 19618,
+          "like_count": 240,
+          "quote_count": 59,
+          "reply_count": 46,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o \n\n🚨 Sam Altman And Τhe Digital Immortality.🚨\nIn 2018,Altman personally invested over $1M in Rain AI,a startup building neuromorphic chips.\nRain builds physical artificial neural networks using memristors as synthetic synapses,replicating the sparse connectivity of the https://t.co/I9TGJHOOLB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 279,
+          "like_count": 72852,
+          "listed_count": 6,
+          "media_count": 325,
+          "tweet_count": 4592
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4519420,
+          "following_count": 988,
+          "like_count": 1020,
+          "listed_count": 27731,
+          "media_count": 385,
+          "tweet_count": 7492
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2029620619743219811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4688234,
+          "following_count": 4,
+          "like_count": 1796,
+          "listed_count": 28188,
+          "media_count": 526,
+          "tweet_count": 1720
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "Fighting to restore GPT-4o , protect genuine human connection in artificial intelligence and ethical AI that truly serves humanity.",
+        "id": "1859949176894689280",
+        "location": "Deutschland",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2034266900138492093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996946668449636353/Cin3kxPN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1428,
+          "following_count": 763,
+          "like_count": 8031,
+          "listed_count": 2,
+          "media_count": 638,
+          "tweet_count": 4941
+        },
+        "username": "Blue_Beba_",
+        "verified": true
+      }
+    ]
+  }
+}

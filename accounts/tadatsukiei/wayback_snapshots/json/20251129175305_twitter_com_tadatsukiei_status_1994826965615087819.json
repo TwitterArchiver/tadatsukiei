@@ -1,0 +1,371 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "1994434049973350836",
+    "created_at": "2025-11-29T17:53:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-29T18:53:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1994826965615087819"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839960937404739585",
+          "start": 0,
+          "username": "YangYi4801"
+        },
+        {
+          "end": 21,
+          "id": "1359720578446364675",
+          "start": 12,
+          "username": "4niuB_pp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1994826965615087819",
+    "in_reply_to_user_id": "1839960937404739585",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1994661065486209057",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YangYi4801 @4niuB_pp 该下台的是习近平，踩了日本那么多年还想和以前一样搞，日本人已经不想再被黄祸侵扰了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1994434049973350836",
+        "created_at": "2025-11-29T17:53:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T18:53:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994826965615087819"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839960937404739585",
+              "start": 0,
+              "username": "YangYi4801"
+            },
+            {
+              "end": 21,
+              "id": "1359720578446364675",
+              "start": 12,
+              "username": "4niuB_pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994826965615087819",
+        "in_reply_to_user_id": "1839960937404739585",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994661065486209057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangYi4801 @4niuB_pp 该下台的是习近平，踩了日本那么多年还想和以前一样搞，日本人已经不想再被黄祸侵扰了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839960937404739585",
+        "conversation_id": "1994434049973350836",
+        "created_at": "2025-11-29T06:53:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-29T07:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1994661065486209057"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1359720578446364675",
+              "start": 0,
+              "username": "4niuB_pp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1994661065486209057",
+        "in_reply_to_user_id": "1359720578446364675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 36647,
+          "like_count": 47,
+          "quote_count": 3,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1994434049973350836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@4niuB_pp 高市能不能滚蛋啊给台阶不下"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 117,
+          "like_count": 42111,
+          "listed_count": 2,
+          "media_count": 207,
+          "tweet_count": 3310
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T09:30:56.000Z",
+        "description": "医学生",
+        "id": "1839960937404739585",
+        "name": "仰异常",
+        "pinned_tweet_id": "1920453216149307717",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941121131379073024/Sz30cSeP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 1318,
+          "like_count": 50608,
+          "listed_count": 1,
+          "media_count": 33,
+          "tweet_count": 9867
+        },
+        "username": "YangYi4801",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-11T04:27:20.000Z",
+        "description": "山海関東ノ民 鈴鹿不破愛発関東ではありません。俺は女の子 鍵引用怖過ぎるのでやめください😭\n@pienguin404  ←避難/🔑\n  ポスト/いいね≠賛同",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 46,
+                "username": "pienguin404"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/hi7l0tyayx2jau…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/hi7l0tyayx2jau4?t=YyjZyh&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/5dduyzl1B1"
+              }
+            ]
+          }
+        },
+        "id": "1359720578446364675",
+        "location": "鞍山鋼鉄公司 ↓匿名提问（マシュマロ）↓",
+        "name": "ぴギ🥺🐧@宿声敗退",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978124138557427713/6mhvcTat_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 992,
+          "following_count": 2305,
+          "like_count": 27825,
+          "listed_count": 9,
+          "media_count": 1350,
+          "tweet_count": 8899
+        },
+        "url": "https://t.co/5dduyzl1B1",
+        "username": "4niuB_pp",
+        "verified": false
+      }
+    ]
+  }
+}

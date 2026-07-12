@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1934570797349437478",
+    "created_at": "2025-06-16T18:13:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-16T19:13:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1934675644484604093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1774702294052884481",
+          "start": 0,
+          "username": "Adam_F_White"
+        },
+        {
+          "end": 26,
+          "id": "1847963434102747136",
+          "start": 14,
+          "username": "HT130070705"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1934675644484604093",
+    "in_reply_to_user_id": "1774702294052884481",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1934589462019019081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adam_F_White @HT130070705 很少，反正我没见过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1934570797349437478",
+        "created_at": "2025-06-16T18:13:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T19:13:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934675644484604093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1774702294052884481",
+              "start": 0,
+              "username": "Adam_F_White"
+            },
+            {
+              "end": 26,
+              "id": "1847963434102747136",
+              "start": 14,
+              "username": "HT130070705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934675644484604093",
+        "in_reply_to_user_id": "1774702294052884481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934589462019019081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adam_F_White @HT130070705 很少，反正我没见过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1774702294052884481",
+        "conversation_id": "1934570797349437478",
+        "created_at": "2025-06-16T12:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-16T13:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1934589462019019081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1847963434102747136",
+              "start": 0,
+              "username": "HT130070705"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1934589462019019081",
+        "in_reply_to_user_id": "1847963434102747136",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1934570797349437478",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HT130070705 大陸有屏蔽門的高鐵站也很少吧……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 82,
+          "like_count": 9394,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 1750
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-01T07:36:33.000Z",
+        "description": "P(|X-E(X)|≥ε)≤ε⁻²Var(X)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/1818627197?spm…",
+                "end": 23,
+                "expanded_url": "https://space.bilibili.com/1818627197?spm_id_from=333.1007.0.0",
+                "start": 0,
+                "url": "https://t.co/QseiPp74Xl"
+              }
+            ]
+          }
+        },
+        "id": "1774702294052884481",
+        "location": "中華人民共和國貴州省六盤水市鐘山區人民路254號",
+        "name": "𝔸𝕕𝕒𝕞 𝔽 𝕎𝕙𝕚𝕥𝕖",
+        "pinned_tweet_id": "1859166773506928792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934629603391266817/VTJidagM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 257,
+          "following_count": 616,
+          "like_count": 32656,
+          "listed_count": 3,
+          "media_count": 2120,
+          "tweet_count": 8477
+        },
+        "url": "https://t.co/QseiPp74Xl",
+        "username": "Adam_F_White",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T11:30:00.000Z",
+        "description": "半个日子人，喜欢英国的安德鲁",
+        "id": "1847963434102747136",
+        "location": "朴茨茅斯",
+        "name": "👊🐦🔥一般通过萌哥马利",
+        "pinned_tweet_id": "1934550189332914655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934483852053098496/eu4ixegT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5783,
+          "following_count": 1467,
+          "like_count": 3595,
+          "listed_count": 13,
+          "media_count": 3778,
+          "tweet_count": 9553
+        },
+        "username": "HT130070705",
+        "verified": false
+      }
+    ]
+  }
+}

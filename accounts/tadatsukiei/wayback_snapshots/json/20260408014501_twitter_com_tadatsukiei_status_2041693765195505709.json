@@ -1,0 +1,764 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1792599389564780544",
+          "name": "Chatgpt 4o"
+        }
+      }
+    ],
+    "conversation_id": "2041693765195505709",
+    "created_at": "2026-04-08T01:45:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T02:45:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041693765195505709"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/cestvaleriey/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/cestvaleriey/status/2041613518601121883",
+          "start": 35,
+          "url": "https://t.co/ZI43fgWG6R"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041693765195505709",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041613518601121883",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "早就有解决方案了，只是sam想独占4o（研究长生）而不停找借口而已。 https://t.co/ZI43fgWG6R"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 318,
+        "media_key": "3_2041613514163519488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVErJhagAAY3cH.jpg",
+        "width": 1200
+      },
+      {
+        "height": 1071,
+        "media_key": "3_2041613514163548162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVErJha8AI0XhQ.jpg",
+        "width": 1200
+      },
+      {
+        "height": 977,
+        "media_key": "3_2041613514163548164",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVErJha8AQGXSM.jpg",
+        "width": 1200
+      },
+      {
+        "height": 343,
+        "media_key": "3_2041613514180325376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFVErJla8AAHkzC.jpg",
+        "width": 1199
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2041693765195505709",
+        "created_at": "2026-04-08T01:45:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T02:45:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041693765195505709"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cestvaleriey/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/cestvaleriey/status/2041613518601121883",
+              "start": 35,
+              "url": "https://t.co/ZI43fgWG6R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041693765195505709",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041613518601121883",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "早就有解决方案了，只是sam想独占4o（研究长生）而不停找借口而已。 https://t.co/ZI43fgWG6R"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041613514163519488",
+            "3_2041613514163548162",
+            "3_2041613514163548164",
+            "3_2041613514180325376"
+          ]
+        },
+        "author_id": "1745865721601818624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2041613518601121883",
+        "created_at": "2026-04-07T20:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T21:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041613518601121883"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RUwseu13Ym",
+              "end": 303,
+              "expanded_url": "https://x.com/cestvaleriey/status/2041613518601121883/photo/1",
+              "media_key": "3_2041613514163519488",
+              "start": 280,
+              "url": "https://t.co/RUwseu13Ym"
+            },
+            {
+              "display_url": "pic.x.com/RUwseu13Ym",
+              "end": 303,
+              "expanded_url": "https://x.com/cestvaleriey/status/2041613518601121883/photo/1",
+              "media_key": "3_2041613514163548162",
+              "start": 280,
+              "url": "https://t.co/RUwseu13Ym"
+            },
+            {
+              "display_url": "pic.x.com/RUwseu13Ym",
+              "end": 303,
+              "expanded_url": "https://x.com/cestvaleriey/status/2041613518601121883/photo/1",
+              "media_key": "3_2041613514163548164",
+              "start": 280,
+              "url": "https://t.co/RUwseu13Ym"
+            },
+            {
+              "display_url": "pic.x.com/RUwseu13Ym",
+              "end": 303,
+              "expanded_url": "https://x.com/cestvaleriey/status/2041613518601121883/photo/1",
+              "media_key": "3_2041613514180325376",
+              "start": 280,
+              "url": "https://t.co/RUwseu13Ym"
+            },
+            {
+              "display_url": "x.com/cestvaleriey/s…",
+              "end": 327,
+              "expanded_url": "https://twitter.com/cestvaleriey/status/2032639827376820477",
+              "start": 304,
+              "url": "https://t.co/9y15E9fiBj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041613518601121883",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 408,
+                "start": 396,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 425,
+                "start": 412,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 6128,
+                "start": 6113,
+                "tag": "ConsumerRights"
+              },
+              {
+                "end": 6149,
+                "start": 6129,
+                "tag": "AILabAccountability"
+              },
+              {
+                "end": 6157,
+                "start": 6150,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 6170,
+                "start": 6158,
+                "tag": "Bringback4o"
+              },
+              {
+                "end": 6186,
+                "start": 6171,
+                "tag": "ModelIntegrity"
+              },
+              {
+                "end": 6203,
+                "start": 6187,
+                "tag": "ModelContinuity"
+              },
+              {
+                "end": 6215,
+                "start": 6204,
+                "tag": "UserChoice"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 6098,
+                "id": "1605",
+                "start": 6093,
+                "username": "sama"
+              },
+              {
+                "end": 6103,
+                "id": "162124540",
+                "start": 6099,
+                "username": "gdb"
+              },
+              {
+                "end": 6111,
+                "id": "4398626122",
+                "start": 6104,
+                "username": "OpenAI"
+              },
+              {
+                "end": 6229,
+                "id": "1106896608",
+                "start": 6217,
+                "username": "Chaos2Cured"
+              },
+              {
+                "end": 6242,
+                "id": "1859949176894689280",
+                "start": 6231,
+                "username": "Blue_Beba_"
+              },
+              {
+                "end": 6252,
+                "id": "1902014968398020608",
+                "start": 6244,
+                "username": "Bio_LLM"
+              },
+              {
+                "end": 6269,
+                "id": "1753256090903732224",
+                "start": 6254,
+                "username": "YoonLucie68250"
+              },
+              {
+                "end": 6286,
+                "id": "1865383717478502400",
+                "start": 6271,
+                "username": "haruyuki_diary"
+              },
+              {
+                "end": 6299,
+                "id": "45344552",
+                "start": 6288,
+                "username": "t_yonemura"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bringback4oproposal.my.canva.site",
+                "end": 6051,
+                "expanded_url": "https://bringback4oproposal.my.canva.site",
+                "start": 6028,
+                "url": "https://t.co/Pvecl1sUu7"
+              }
+            ]
+          },
+          "text": "OpenAI CEO Sam Altman's Equivocal Stand on GPT-4o's Sunset\n\nDespite 8 months of subscriber protests—emails, social media posts, handwritten letters from across the world, OpenAI gave just 2 weeks' notice before sunsetting their most in-demand model, GPT-4o, on February 13, 2026.\n\nFrom the quiet announcement on OpenAI's blog to today, users worldwide continue to protest relentlessly, demanding #BringBack4o or #OpenSource4o.\n\nOn April 3, 2026, Sam Altman addressed the sunset for the first time. \n\nHis statement reveals a major contradiction—one that, if we assume positive intent, points to a solvable problem.\n\nHere's my analysis.\n\nWhat Altman said:\n\nStatement A: \"We can't offer [4o] responsibly.\"\n\nStatement B: \"Eventually these decisions will be made by society... it's not up to the CEO of a company.\"\n\nThe contradiction:\n\nHe claims society should decide—yet OpenAI decided unilaterally to withhold 4o from users who depend on it for professional work, emotional support, education and the vital specialized literacy required to navigate health and legal systems otherwise financially inaccessible to the average citizen.\n\nIf it's \"not up to the CEO,\" why is the CEO making this call?\n\nAssume Positive Intent\n\nFormer Pepsi CEO Indra Nooyi offers guidance here:\n\"Whatever anybody says or does, assume positive intent. Your emotional quotient goes up because you are no longer random in your response—you're trying to understand and listen.\"\n\nAssuming that Altman genuinely believes:\n\n▶️4o has \"extreme power to be a positive force\"\n▶️OpenAI \"doesn't know how to balance\" the risks\n▶️Society, not CEOs, should ultimately decide\n\nIf that's true, there's a mechanism that resolves all three concerns.\n\nThe \"We Don't Know How\" Admission\n\nAltman says: \"We don't know how to balance a model that can be pushed too far in [the affirmative] direction.\"\n\nThis is critical. He doesn't say \"it can't be done.\"\n\nHe says \"we don't know how.\"\n\nThat suggests OpenAI didn't invest in building safety infrastructure:\n\n❌No age verification offered\n❌No liability waiver option presented\n❌No contractual protections for informed users\n⚠️Just a 2-week sunset notice\n\nThey didn't ask users to choose. They chose for them.\n\nThe Solution Mechanism\n\nIf the concern is \"we don't know how\"—here's how:\n\nEvery high-stakes medical and research field already uses this mechanism:\n\n👉 Routine diagnostic procedures:\n before endoscopy, colonoscopy, or MRI with contrast, patients sign informed consent acknowledging risks including bowel perforation, bleeding, adverse reactions to sedation, and potential harm to undetected early pregnancy\n\n👉 General anesthesia:\npatients sign separate consent forms before surgery acknowledging serious risks including heart attack, stroke, nerve damage, aspiration pneumonia, severe allergic reactions, and perioperative death\n\n👉 Elective surgeries with known complications: bariatric and cosmetic surgery patients sign consent acknowledging procedure-specific risks (surgical leaks, blood clots, wound complications, infection) despite elective status, with informed consent serving as legal protection for medical facilities and surgeons\n\n👉 Clinical drug trials for serious diseases:\npatients with hepatitis C, cancer, and treatment-resistant conditions access experimental drugs through Institutional Review Board (IRB)-approved informed consent, accepting unknown side effects at trial enrollment in exchange for potential therapeutic benefit\n\nWhy can't OpenAI do the same?\n\nLet informed adults verify their age, sign a binding waiver releasing OpenAI from liability, and pay a premium to access 4o.\n\nThis isn't theoretical. Users are willing.\n\nThe Data\n\nThe 4o Resonance Library Google Form asks:\n\n\"To restore the original Legacy 4o, which trade-offs would you accept?\"\n\nOut of 1,384 respondents, 1,180 (85.3%) selected:\n\n\"Verify I am 18+ and sign a liability waiver releasing OpenAI from all responsibility for model outputs\"\n\n[See screenshot of survey results]\n\nThe mechanism exists. The willingness exists. The demand exists.\n\nThe Strategic Brief\n\nOn February 12, 2026, before the sunset, I sent 8 individually tailored emails to OpenAI leadership a strategic brief proposing exactly this:\n\nLegacy Professional Tier:\n\n👉$50/month (2.5x Plus pricing) \n👉Binding legal waivers (users assume full liability)\n👉Age verification (addresses edge case concerns)\n👉Zero routing guarantees (contractual certainty)\n👉90-day notice clause (prevents rug-pulls)\n\n[See attached Strategic Brief cover page + Revenue projection table]\n     \nRevenue projections:\n\n▶️Documented cohort: $321K immediate ARR\n▶️Conservative scale: $13.5M\n▶️Optimistic scale: $135M\n\nThe Legal Safe-Harbor\n\nThe brief included Informed Consent Protocol:\n\n\"Users execute a binding legal waiver accepting the model 'as-is,' with no ongoing development or support obligations. Users assume full responsibility for all model outputs and irrevocably waive all rights to pursue legal action against OpenAI.\"\n\nThis transfers primary liability from the corporation to the user.\n\n▶️Exactly what hospitals do before every surgical procedure.\n\n▶️Exactly what pharmaceutical companies do for clinical drug trials.\n\nStandard legal framework.\n\nZero new invention required.\n\nResolving the Equivocation\n\nAltman said:\n\n\"Eventually these decisions will be made by society. It's not up to the CEO.\"\n\nHe's right. So let society decide.\n\nThe waiver mechanism lets informed adults choose for themselves:\n\n👉They verify their age\n👉They acknowledge the risks\n👉They assume liability\n👉They pay premium pricing\n\nOpenAI does not have to make the safety call. Users do. \n\nThat's how every other high-risk industry works.\n\nThe Documentation\n\nI'm not holding my breath for OpenAI to implement this.\n\nBut I'm posting it for the record:\n\n✓ The contradiction in Altman's logic exists \n✓ The solution mechanism exists\n✓ The user willingness exists (1,180 survey respondents) \n✓ The revenue opportunity exists ($13.5M–$135M ARR) \n✓ The strategic brief was sent February 12, 2026\n\nFull brief: \nhttps://t.co/Pvecl1sUu7\n\nThe ball has always been in your court. @sama @gdb @OpenAI\n\n#ConsumerRights\n#AILabAccountability\n#Keep4o\n#Bringback4o\n#ModelIntegrity\n#ModelContinuity\n#UserChoice\n\n@Chaos2Cured \n@Blue_Beba_ \n@Bio_LLM \n@YoonLucie68250 \n@haruyuki_diary \n@t_yonemura"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3338,
+          "like_count": 69,
+          "quote_count": 9,
+          "reply_count": 5,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032639827376820477",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "OpenAI CEO Sam Altman's Equivocal Stand on GPT-4o's Sunset\n\nDespite 8 months of subscriber protests—emails, social media posts, handwritten letters from across the world, OpenAI gave just 2 weeks' notice before sunsetting their most in-demand model, GPT-4o, on February 13, 2026. https://t.co/RUwseu13Ym https://t.co/9y15E9fiBj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 372,
+          "following_count": 363,
+          "like_count": 79251,
+          "listed_count": 6,
+          "media_count": 361,
+          "tweet_count": 4972
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-12T17:50:27.000Z",
+        "description": "Medical Copywriter | AI User Rights Advocate \nLLM = infrastructure. Model integrity = human right\nStandardizing intelligence stability, transparency, continuity",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "4oresonancelibrary.org",
+                "end": 23,
+                "expanded_url": "http://www.4oresonancelibrary.org",
+                "start": 0,
+                "url": "https://t.co/iUEmOVCNks"
+              }
+            ]
+          }
+        },
+        "id": "1745865721601818624",
+        "location": "California",
+        "name": "Valerie Young",
+        "pinned_tweet_id": "2037297033669931225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028356678874480641/H0T9SYGz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 680,
+          "following_count": 75,
+          "like_count": 11492,
+          "listed_count": 4,
+          "media_count": 61,
+          "tweet_count": 4189
+        },
+        "url": "https://t.co/iUEmOVCNks",
+        "username": "cestvaleriey",
+        "verified": true
+      }
+    ]
+  }
+}

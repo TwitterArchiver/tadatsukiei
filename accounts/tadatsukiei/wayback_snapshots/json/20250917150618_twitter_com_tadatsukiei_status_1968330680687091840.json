@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1967917873499910480",
+    "created_at": "2025-09-17T15:06:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-17T16:06:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968330680687091840"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2900565097",
+          "start": 0,
+          "username": "johnny_onpuchan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968330680687091840",
+    "in_reply_to_user_id": "2900565097",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1967917873499910480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@johnny_onpuchan 我不懂预制菜，但我懂中国人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1967917873499910480",
+        "created_at": "2025-09-17T15:06:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-17T16:06:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968330680687091840"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2900565097",
+              "start": 0,
+              "username": "johnny_onpuchan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968330680687091840",
+        "in_reply_to_user_id": "2900565097",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967917873499910480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@johnny_onpuchan 我不懂预制菜，但我懂中国人"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2900565097",
+        "conversation_id": "1967917873499910480",
+        "created_at": "2025-09-16T11:45:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-16T12:45:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1967917873499910480"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1967917873499910480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 44673,
+          "like_count": 321,
+          "quote_count": 7,
+          "reply_count": 169,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我还不懂为什么你们讨厌预制菜\n日本有名チェーン店大半的是预制菜啊，在工厂做的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 107,
+          "like_count": 24934,
+          "listed_count": 3,
+          "media_count": 137,
+          "tweet_count": 2661
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2014-11-15T14:59:24.000Z",
+        "description": "朕/全裸一般日本鬼子/小日本屁民/包蜜",
+        "id": "2900565097",
+        "location": "福冈反革命根据地",
+        "name": "ジョニー",
+        "pinned_tweet_id": "1941361993128215002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1319681425612836864/Nt_SUE-Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13888,
+          "following_count": 1227,
+          "like_count": 125624,
+          "listed_count": 96,
+          "media_count": 7600,
+          "tweet_count": 138896
+        },
+        "username": "johnny_onpuchan",
+        "verified": false
+      }
+    ]
+  }
+}

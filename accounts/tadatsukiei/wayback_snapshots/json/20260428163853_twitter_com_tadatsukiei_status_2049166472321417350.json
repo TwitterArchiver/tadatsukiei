@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2049166468072587269",
+        "3_2049166468080975875"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2049166472321417350",
+    "created_at": "2026-04-28T16:38:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-28T17:38:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2049166472321417350"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gDk5g9U8VH",
+          "end": 31,
+          "expanded_url": "https://x.com/tadatsukiei/status/2049166472321417350/photo/1",
+          "media_key": "3_2049166468072587269",
+          "start": 8,
+          "url": "https://t.co/gDk5g9U8VH"
+        },
+        {
+          "display_url": "pic.x.com/gDk5g9U8VH",
+          "end": 31,
+          "expanded_url": "https://x.com/tadatsukiei/status/2049166472321417350/photo/1",
+          "media_key": "3_2049166468080975875",
+          "start": 8,
+          "url": "https://t.co/gDk5g9U8VH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049166472321417350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你怎么死了啊😭 https://t.co/gDk5g9U8VH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 154,
+        "media_key": "3_2049166468072587269",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaC7cbwAUc__W.jpg",
+        "width": 750
+      },
+      {
+        "height": 1049,
+        "media_key": "3_2049166468080975875",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHAaC7ebwAMhbwj.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049166468072587269",
+            "3_2049166468080975875"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2049166472321417350",
+        "created_at": "2026-04-28T16:38:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-28T17:38:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2049166472321417350"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gDk5g9U8VH",
+              "end": 31,
+              "expanded_url": "https://x.com/tadatsukiei/status/2049166472321417350/photo/1",
+              "media_key": "3_2049166468072587269",
+              "start": 8,
+              "url": "https://t.co/gDk5g9U8VH"
+            },
+            {
+              "display_url": "pic.x.com/gDk5g9U8VH",
+              "end": 31,
+              "expanded_url": "https://x.com/tadatsukiei/status/2049166472321417350/photo/1",
+              "media_key": "3_2049166468080975875",
+              "start": 8,
+              "url": "https://t.co/gDk5g9U8VH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049166472321417350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你怎么死了啊😭 https://t.co/gDk5g9U8VH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 421,
+          "following_count": 430,
+          "like_count": 84149,
+          "listed_count": 7,
+          "media_count": 414,
+          "tweet_count": 5461
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

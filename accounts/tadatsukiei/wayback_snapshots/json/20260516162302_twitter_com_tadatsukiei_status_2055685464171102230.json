@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2055668525323387121",
+    "created_at": "2026-05-16T16:23:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T17:23:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055685464171102230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1591966132357169152",
+          "start": 0,
+          "username": "Shojokuki_04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055685464171102230",
+    "in_reply_to_user_id": "1591966132357169152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055682775232221618",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shojokuki_04 恢复正常了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2055668525323387121",
+        "created_at": "2026-05-16T16:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055685464171102230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1591966132357169152",
+              "start": 0,
+              "username": "Shojokuki_04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055685464171102230",
+        "in_reply_to_user_id": "1591966132357169152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055682775232221618",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shojokuki_04 恢复正常了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1591966132357169152",
+        "conversation_id": "2055668525323387121",
+        "created_at": "2026-05-16T16:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T17:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055682775232221618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055682775232221618",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055668525323387121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 再按一次？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 531,
+          "following_count": 512,
+          "like_count": 89921,
+          "listed_count": 9,
+          "media_count": 489,
+          "tweet_count": 6306
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-11-14T01:28:33.000Z",
+        "description": "台灣人\nchunithm/arcaea/genshin/blue archive. \n中文/English/日本語🆗",
+        "id": "1591966132357169152",
+        "location": "Taiwan",
+        "name": "🧥大外衣",
+        "pinned_tweet_id": "1660945895947653121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054536917778305024/1dsImYa5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 458,
+          "like_count": 4788,
+          "listed_count": 2,
+          "media_count": 302,
+          "tweet_count": 1511
+        },
+        "username": "Shojokuki_04",
+        "verified": true
+      }
+    ]
+  }
+}

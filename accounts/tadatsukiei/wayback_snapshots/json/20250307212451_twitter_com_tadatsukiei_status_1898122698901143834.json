@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1897976924649275468",
+    "created_at": "2025-03-07T21:24:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-07T22:24:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1898122698901143834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1898122698901143834",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897976924649275468",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 不是说历史文件不具法律效力吗？"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77810,
+        "height": 1280,
+        "media_key": "7_1897976802288775168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1897976802288775168/pu/img/RNEsyBgHMhl_IeXz.jpg",
+        "public_metrics": {
+          "view_count": 44000
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897976802288775168/pu/vid/avc1/320x568/YTWPcNlRqHCqZsZR.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897976802288775168/pu/vid/avc1/480x852/2buYoxrwGkxvkojD.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1897976802288775168/pu/vid/avc1/720x1280/WfrqUJet0UC9awh4.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1897976802288775168/pu/pl/ktJPfQNPtruYy4Jb.m3u8?tag=12&v=990"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 716,
+        "media_key": "3_1897976858509213696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Glb35ZtagAAZxco.jpg",
+        "width": 425
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1897976924649275468",
+        "created_at": "2025-03-07T21:24:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T22:24:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1898122698901143834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898122698901143834",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897976924649275468",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 不是说历史文件不具法律效力吗？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1897976802288775168",
+            "3_1897976858509213696"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "1897976924649275468",
+        "created_at": "2025-03-07T11:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-07T12:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1897976924649275468"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XJlOETOuFI",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1897976924649275468/video/1",
+              "media_key": "7_1897976802288775168",
+              "start": 118,
+              "url": "https://t.co/XJlOETOuFI"
+            },
+            {
+              "display_url": "pic.x.com/XJlOETOuFI",
+              "end": 141,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1897976924649275468/video/1",
+              "media_key": "3_1897976858509213696",
+              "start": 118,
+              "url": "https://t.co/XJlOETOuFI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1897976924649275468",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 104928,
+          "like_count": 254,
+          "quote_count": 8,
+          "reply_count": 163,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "中国外长王毅说，联合国大会2758号决议彻底解决了包括台湾在内全中国在联合国的代表权问题，彻底杜绝了制造两个中国、一中一台的任何可能，“台湾地区在联合国的唯一称谓就是‘中国台湾省’” “台湾从来不是一个国家，过去不是，今后更绝无可能” https://t.co/XJlOETOuFI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 58,
+          "like_count": 3731,
+          "listed_count": 1,
+          "media_count": 77,
+          "tweet_count": 1121
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿请私信\n或：https://t.co/9wAEWYYL4J\n邮箱投稿： lilaoshitougao@gmail.com  \n欢迎关注我们的社区账号 @Li_DAOmeme\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Li_DAOmeme"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/TeacherLiSubmi…",
+                "end": 31,
+                "expanded_url": "http://t.me/TeacherLiSubmissionBot",
+                "start": 8,
+                "url": "https://t.co/9wAEWYYL4J"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 121,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 98,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1895792411546398743",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1949071,
+          "following_count": 938,
+          "like_count": 5845,
+          "listed_count": 8054,
+          "media_count": 24280,
+          "tweet_count": 30626
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

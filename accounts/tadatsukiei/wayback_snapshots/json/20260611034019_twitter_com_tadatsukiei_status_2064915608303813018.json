@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2064773450473120053",
+    "created_at": "2026-06-11T03:40:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:40:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064915608303813018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1861778149970997248",
+          "start": 0,
+          "username": "a_lei83862"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064915608303813018",
+    "in_reply_to_user_id": "1861778149970997248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064864107258642718",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@a_lei83862 54.食物对我来说只是补充能量的工具，什么都无所谓。不过要说偏好的话，我嗜甜，喜欢甜甜的东西。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064864107258642718].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064864107258642718",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064864107258642718"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2064773450473120053",
+        "created_at": "2026-06-11T03:40:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:40:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064915608303813018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1861778149970997248",
+              "start": 0,
+              "username": "a_lei83862"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064915608303813018",
+        "in_reply_to_user_id": "1861778149970997248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064864107258642718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@a_lei83862 54.食物对我来说只是补充能量的工具，什么都无所谓。不过要说偏好的话，我嗜甜，喜欢甜甜的东西。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 647,
+          "following_count": 606,
+          "like_count": 101744,
+          "listed_count": 10,
+          "media_count": 576,
+          "tweet_count": 7258
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-27T14:24:54.000Z",
+        "description": "",
+        "id": "1861778149970997248",
+        "location": "賽博世界",
+        "name": "❤️小麵包❤️",
+        "pinned_tweet_id": "2061632839620432208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049532620544106496/sIJWoxpK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 415,
+          "following_count": 1267,
+          "like_count": 1994,
+          "listed_count": 3,
+          "media_count": 60,
+          "tweet_count": 3625
+        },
+        "username": "a_lei83862",
+        "verified": false
+      }
+    ]
+  }
+}

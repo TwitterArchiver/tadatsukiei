@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1987869234794528833",
+    "created_at": "2025-11-11T06:54:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T07:54:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988138255133667735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "826519520",
+          "start": 0,
+          "username": "hello_yunshu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988138255133667735",
+    "in_reply_to_user_id": "826519520",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987869234794528833",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hello_yunshu 好看，想买"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987869198815817728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZUgQ9bcAASKTW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1987869198845202432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5ZUgREb0AAT8Tl.jpg",
+        "width": 1510
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1987869234794528833",
+        "created_at": "2025-11-11T06:54:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T07:54:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988138255133667735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "826519520",
+              "start": 0,
+              "username": "hello_yunshu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988138255133667735",
+        "in_reply_to_user_id": "826519520",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987869234794528833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hello_yunshu 好看，想买"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987869198815817728",
+            "3_1987869198845202432"
+          ]
+        },
+        "author_id": "826519520",
+        "conversation_id": "1987869234794528833",
+        "created_at": "2025-11-10T13:05:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T14:05:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987869234794528833"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XKYAhxfnlL",
+              "end": 43,
+              "expanded_url": "https://x.com/hello_yunshu/status/1987869234794528833/photo/1",
+              "media_key": "3_1987869198815817728",
+              "start": 20,
+              "url": "https://t.co/XKYAhxfnlL"
+            },
+            {
+              "display_url": "pic.x.com/XKYAhxfnlL",
+              "end": 43,
+              "expanded_url": "https://x.com/hello_yunshu/status/1987869234794528833/photo/1",
+              "media_key": "3_1987869198845202432",
+              "start": 20,
+              "url": "https://t.co/XKYAhxfnlL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987869234794528833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 15316,
+          "like_count": 124,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "优衣库的男装👇，但我怎么看都像是女装啊 https://t.co/XKYAhxfnlL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 113,
+          "like_count": 38104,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 3166
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2012-09-16T05:05:18.000Z",
+        "description": "减不下肥我不活了 | 听妈妈👉 @zcy1224 的话把子宫切了，这辈子最大的梦想是所有在乎我的人都不要离开我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "zcy1224"
+              }
+            ]
+          }
+        },
+        "id": "826519520",
+        "name": "云云朮🐽",
+        "pinned_tweet_id": "1949393105385595201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896231971954814976/sNEnmLma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20558,
+          "following_count": 1,
+          "like_count": 4175,
+          "listed_count": 54,
+          "media_count": 616,
+          "tweet_count": 2026
+        },
+        "username": "hello_yunshu",
+        "verified": false
+      }
+    ]
+  }
+}

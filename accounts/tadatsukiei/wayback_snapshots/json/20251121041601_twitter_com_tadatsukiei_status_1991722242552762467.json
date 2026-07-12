@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1991501535822713226",
+    "created_at": "2025-11-21T04:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-21T05:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1991722242552762467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1005063617438334977",
+          "start": 0,
+          "username": "ATORI_YA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1991722242552762467",
+    "in_reply_to_user_id": "1005063617438334977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1991501535822713226",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATORI_YA 这不是巨人症吗？！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2368,
+        "media_key": "3_1991501361847103496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G6M77-qacAghUKj.jpg",
+        "width": 1792
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1991501535822713226",
+        "created_at": "2025-11-21T04:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-21T05:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1991722242552762467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1005063617438334977",
+              "start": 0,
+              "username": "ATORI_YA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991722242552762467",
+        "in_reply_to_user_id": "1005063617438334977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1991501535822713226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATORI_YA 这不是巨人症吗？！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1991501361847103496"
+          ]
+        },
+        "author_id": "1005063617438334977",
+        "conversation_id": "1991501535822713226",
+        "created_at": "2025-11-20T13:39:01.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-20T14:39:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1991501535822713226"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2XoKgZoaV",
+              "end": 42,
+              "expanded_url": "https://x.com/ATORI_YA/status/1991501535822713226/photo/1",
+              "media_key": "3_1991501361847103496",
+              "start": 19,
+              "url": "https://t.co/C2XoKgZoaV"
+            },
+            {
+              "display_url": "x.com/kazkitashima/s…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/kazkitashima/status/1990391178475282671",
+              "start": 43,
+              "url": "https://t.co/1mY7J74pwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1991501535822713226",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 28,
+          "impression_count": 6193,
+          "like_count": 287,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1990391178475282671",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和在交友软件上面认识的女生线下见面了 https://t.co/C2XoKgZoaV https://t.co/1mY7J74pwY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 112,
+          "like_count": 39498,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3214
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-08T12:26:54.000Z",
+        "description": "一般路过个人势\n这是我在b站的个人号：https://t.co/b1StA1i3hR\n欢迎私信~  気軽にDMしてください～\n外国人です\nゲーム開発部のみんな大好き！",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "space.bilibili.com/73824442",
+                "end": 42,
+                "expanded_url": "https://space.bilibili.com/73824442",
+                "start": 19,
+                "url": "https://t.co/b1StA1i3hR"
+              }
+            ]
+          }
+        },
+        "id": "1005063617438334977",
+        "name": "牛肉牛肉",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1221372624506220544/2Vqb8uv4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31297,
+          "following_count": 928,
+          "like_count": 3620,
+          "listed_count": 118,
+          "media_count": 3355,
+          "tweet_count": 4909
+        },
+        "username": "ATORI_YA",
+        "verified": false
+      }
+    ]
+  }
+}

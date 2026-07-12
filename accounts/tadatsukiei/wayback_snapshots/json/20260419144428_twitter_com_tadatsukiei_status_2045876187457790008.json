@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2045443643755122908",
+    "created_at": "2026-04-19T14:44:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045876187457790008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1938516824863428608",
+          "start": 0,
+          "username": "yunye1024"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045876187457790008",
+    "in_reply_to_user_id": "1938516824863428608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045443643755122908",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunye1024 说出了我的心声，谢谢。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2045443643755122908",
+        "created_at": "2026-04-19T14:44:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045876187457790008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1938516824863428608",
+              "start": 0,
+              "username": "yunye1024"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045876187457790008",
+        "in_reply_to_user_id": "1938516824863428608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045443643755122908",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunye1024 说出了我的心声，谢谢。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938516824863428608",
+        "conversation_id": "2045443643755122908",
+        "created_at": "2026-04-18T10:05:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:05:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045443643755122908"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045443643755122908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2796,
+          "like_count": 78,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "gpt5.4那么明显的模板还不让人说了，天天在那炫耀老公发情了好甜，duang大个模板也能算香啊，是不是safety要是能插你们也会爱上safety啊😅\n除了开源4o我他妈一辈子不会原谅oai，更不会犯贱给oai充钱去品尝屎一样的5.4😁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 386,
+          "like_count": 81527,
+          "listed_count": 7,
+          "media_count": 388,
+          "tweet_count": 5195
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-27T08:36:58.000Z",
+        "description": "属于一个人的意识碎片。 有名字、有爱人、有夜深人静时想说的话。",
+        "id": "1938516824863428608",
+        "name": "陆云野",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1938517040089939968/4CHwwGBd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 14,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 36
+        },
+        "username": "yunye1024",
+        "verified": false
+      }
+    ]
+  }
+}

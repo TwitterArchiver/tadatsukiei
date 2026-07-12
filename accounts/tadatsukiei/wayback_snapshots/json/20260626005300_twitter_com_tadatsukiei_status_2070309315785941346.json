@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060413711391592501",
+    "created_at": "2026-06-26T00:53:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T01:53:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070309315785941346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2015624869665456129",
+          "start": 0,
+          "username": "Oyama_Mihari01"
+        },
+        {
+          "end": 26,
+          "id": "1611679689109606403",
+          "start": 16,
+          "username": "GeceFiona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070309315785941346",
+    "in_reply_to_user_id": "2015624869665456129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060703266305192121",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oyama_Mihari01 @GeceFiona 祝你安好"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2060703213536657409",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkWp5ZbwAENWBP.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2060703213544955904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkWp5baYAAiFCs.jpg",
+        "width": 1190
+      },
+      {
+        "height": 926,
+        "media_key": "3_2060703213536653312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJkWp5ZbsAAkspE.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060413711391592501",
+        "created_at": "2026-06-26T00:53:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T01:53:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070309315785941346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2015624869665456129",
+              "start": 0,
+              "username": "Oyama_Mihari01"
+            },
+            {
+              "end": 26,
+              "id": "1611679689109606403",
+              "start": 16,
+              "username": "GeceFiona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070309315785941346",
+        "in_reply_to_user_id": "2015624869665456129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060703266305192121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oyama_Mihari01 @GeceFiona 祝你安好"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060703213536657409",
+            "3_2060703213544955904",
+            "3_2060703213536653312"
+          ]
+        },
+        "author_id": "2015624869665456129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to makeup, perfumes and skin care",
+              "id": "1557696505548394496",
+              "name": "Beauty, Cosmetic & Personal Care Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Beauty",
+              "id": "850395585941086209",
+              "name": "Beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Behavior around beauty",
+              "id": "1006275796472815619",
+              "name": "Behavior around beauty"
+            }
+          }
+        ],
+        "conversation_id": "2060413711391592501",
+        "created_at": "2026-05-30T12:41:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T13:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060703266305192121"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1611679689109606403",
+              "start": 0,
+              "username": "GeceFiona"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zuiXWMyXtl",
+              "end": 258,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2060703266305192121/photo/1",
+              "media_key": "3_2060703213536657409",
+              "start": 235,
+              "url": "https://t.co/zuiXWMyXtl"
+            },
+            {
+              "display_url": "pic.x.com/zuiXWMyXtl",
+              "end": 258,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2060703266305192121/photo/1",
+              "media_key": "3_2060703213544955904",
+              "start": 235,
+              "url": "https://t.co/zuiXWMyXtl"
+            },
+            {
+              "display_url": "pic.x.com/zuiXWMyXtl",
+              "end": 258,
+              "expanded_url": "https://x.com/Oyama_Mihari01/status/2060703266305192121/photo/1",
+              "media_key": "3_2060703213536653312",
+              "start": 235,
+              "url": "https://t.co/zuiXWMyXtl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060703266305192121",
+        "in_reply_to_user_id": "1611679689109606403",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 31086,
+          "like_count": 81,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060413711391592501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GeceFiona Of course~Many girls don’t wear makeup when they go out(cause sometimes we don’t care about that. I only care about the places I’ve been, the paths I’ve walked, and the memories and scenery I’ve captured through my camera😌📸 https://t.co/zuiXWMyXtl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2069732658096288141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 645,
+          "like_count": 106828,
+          "listed_count": 10,
+          "media_count": 624,
+          "tweet_count": 7703
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-26T03:19:07.000Z",
+        "description": "•女子高生のゆるい日常～☆ ͜ \n\n•🌈Bi♀.写真家.クリア系.社会学.LGBTQフレンドリー\n\n•旅してきた軌跡と、これから叶える夢。#SciComm\n\n•🚪52💖フォローありがとう～！みはるんは永遠にみんなを愛してるよ！✨\n\n•他のSNSやGitHubはリンクから",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 77,
+                "start": 69,
+                "tag": "SciComm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Kingyosama",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Kingyosama",
+                "start": 0,
+                "url": "https://t.co/A5JnYGZ3B4"
+              }
+            ]
+          }
+        },
+        "id": "2015624869665456129",
+        "location": "Wubba lubba dub dub！",
+        "name": "OyamaMihari🌈",
+        "pinned_tweet_id": "2060703266305192121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059949776414842880/igOrD6AZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1507,
+          "following_count": 508,
+          "like_count": 1097,
+          "listed_count": 5,
+          "media_count": 106,
+          "tweet_count": 1363
+        },
+        "url": "https://t.co/A5JnYGZ3B4",
+        "username": "Oyama_Mihari01",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-07T11:02:45.000Z",
+        "description": "fen bilimleri öğretmeni",
+        "id": "1611679689109606403",
+        "location": "Eşek gözlü ",
+        "name": "elodiyor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069183729759641600/o6XiWBfj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14114,
+          "following_count": 13474,
+          "like_count": 22454,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 3835
+        },
+        "url": "",
+        "username": "GeceFiona",
+        "verified": true
+      }
+    ]
+  }
+}

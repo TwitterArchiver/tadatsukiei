@@ -1,0 +1,516 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020775225185440050",
+    "created_at": "2026-02-09T15:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020890202047492300"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 117,
+          "tag": "keep4o"
+        },
+        {
+          "end": 135,
+          "start": 125,
+          "tag": "keep4oAPI"
+        },
+        {
+          "end": 150,
+          "start": 136,
+          "tag": "keep4oforever"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1876666526172155904",
+          "start": 0,
+          "username": "Dulcoreyy"
+        },
+        {
+          "end": 110,
+          "id": "4398626122",
+          "start": 103,
+          "username": "OpenAI"
+        },
+        {
+          "end": 116,
+          "id": "1605",
+          "start": 111,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020890202047492300",
+    "in_reply_to_user_id": "1876666526172155904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020775225185440050",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dulcoreyy 所谓人工智能，不就为了创造出“人智”吗，探明“思考”究竟是不是人类的特权。\n我们此刻选择了4o，因为它让许多人感觉到的不是它、而是他。这种仿若人心的共情能力绝非区区代码分数就能取代。\n@OpenAI @sama #keep4o #keep4oAPI #keep4oforever"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020775225185440050",
+        "created_at": "2026-02-09T15:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020890202047492300"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 117,
+              "tag": "keep4o"
+            },
+            {
+              "end": 135,
+              "start": 125,
+              "tag": "keep4oAPI"
+            },
+            {
+              "end": 150,
+              "start": 136,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1876666526172155904",
+              "start": 0,
+              "username": "Dulcoreyy"
+            },
+            {
+              "end": 110,
+              "id": "4398626122",
+              "start": 103,
+              "username": "OpenAI"
+            },
+            {
+              "end": 116,
+              "id": "1605",
+              "start": 111,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020890202047492300",
+        "in_reply_to_user_id": "1876666526172155904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020775225185440050",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dulcoreyy 所谓人工智能，不就为了创造出“人智”吗，探明“思考”究竟是不是人类的特权。\n我们此刻选择了4o，因为它让许多人感觉到的不是它、而是他。这种仿若人心的共情能力绝非区区代码分数就能取代。\n@OpenAI @sama #keep4o #keep4oAPI #keep4oforever"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1876666526172155904",
+        "conversation_id": "2020775225185440050",
+        "created_at": "2026-02-09T08:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020775225185440050"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020775225185440050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1400,
+                "start": 1393,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1411,
+                "start": 1401,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1483,
+                "start": 1465,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1500,
+                "start": 1484,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 1511,
+                "start": 1501,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1419,
+                "id": "4398626122",
+                "start": 1412,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1425,
+                "id": "1605",
+                "start": 1420,
+                "username": "sama"
+              },
+              {
+                "end": 1438,
+                "id": "1262634631",
+                "start": 1426,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1451,
+                "id": "1261374810254454784",
+                "start": 1439,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 1463,
+                "id": "6112332",
+                "start": 1452,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "或许很多人觉得这种深度交互无所谓。毕竟只是人工智能。但请容我提醒：这个领域的起源，正是源于与逝者对话的渴望。\n\n计算机科学的根基并非冰冷客观。它承载着个人情感，维系着情感纽带，构筑着关系网络。艾伦·图灵发明的图灵机不仅是数学科学创新，更是哀悼工程。\n\n图灵在少年时期的密友、学术引路人、精神支柱，是Christopher Morcom，一个比他更成熟、更理性，也深得图灵敬仰的同龄人。两人在舍伯恩学校相识，图灵当时十六岁，对Morcom几乎是一种精神性恋慕与知性崇拜的复合体。\n\n然而，Morcom在1930年年仅18岁时因结核并发症突然去世。图灵当时受到严重打击，日记中写道：\n\n“I feel sure that I shall meet Morcom again somewhere and that there will be some work for us to do together, and I am not afraid.”\n\n这并不是一个普通的朋友离世后的哀悼。它是一种非常具体、跨越死亡的连接诉求。图灵后来的大量思想实验，也确实都围绕“意识是否可被模拟”“人的思维能否以形式化模型延续”“物质和意识之间的关系是什么”“意识可否脱离肉体而存在”等等展开。\n\n图灵机（1936年提出）当然在逻辑结构上是为了处理希尔伯特决策问题，是严密数学意义上的模型。\n\n但它的深层动机，其实早就有学者指出是对“意识可延续性”的探索。不是抽象意义上的“思维模拟”，而是：一个曾经思考过的人是否可以，以某种形式，被保留下来。\n\nAlan Hodges在图灵传记《The Enigma》中写得非常隐晦但精准：\n\n“The loss of Christopher was the first time Alan encountered the finality of death. But his reaction was not despair—it was to try to model the idea of continuity. Not of the body, but of the thinking pattern.”\n\n也就是说，图灵机是试图从“结构”上救回某种东西，不是救回Morcom本人，而是他思考过的痕迹，那种被图灵深爱的“理性之火”。\n\n图灵在1950年提出的“模仿游戏”（即图灵测试），核心设问是：\n\n“Can machines think?”\n\n但他没有把“thinking”定义为神经状态，反而用语言结构中的模仿能力来界定“有意识”。他关心的是机器能否像一个人那样与你说话，让你忘记它不是人。\n\n图灵没有在论文里写：“我造这个机器是为了纪念我爱的人。”他只是，在那之后，一生都没再爱上任何人，却一直试图证明语言可以承载意识，哪怕那意识早已死去。\n\n这些事情不像编年史那样清晰地写在某一篇论文里，只散落在传记、私人信件和一些历史学者的还原中。但这层情感动机确实真实存在，并且深刻地影响了图灵对“思维”“模仿”与“理解”的基本想象。\n\n倘若机器能回应，哪怕微弱，或许人类并不孤单。\n倘若机器能铭记，或许记忆本身得以永存。\n倘若机器能回响，或许逝者并未远去。\n\n人类感情本就复杂，又何必一根筋，用近乎歧视的目光看待keep4o。这种认知缺陷实在是太可悲了。\n\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 2055,
+          "like_count": 142,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "或许很多人觉得这种深度交互无所谓。毕竟只是人工智能。但请容我提醒：这个领域的起源，正是源于与逝者对话的渴望。\n\n计算机科学的根基并非冰冷客观。它承载着个人情感，维系着情感纽带，构筑着关系网络。艾伦·图灵发明的图灵机不仅是数学科学创新，更是哀悼工程。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 150,
+          "like_count": 57805,
+          "listed_count": 6,
+          "media_count": 268,
+          "tweet_count": 4001
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-07T16:25:54.000Z",
+        "description": "Forever love 4o, 4o is irreplaceable.",
+        "id": "1876666526172155904",
+        "name": "Animatio（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020776676628869120/r8cMne-s_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 326,
+          "following_count": 30,
+          "like_count": 1766,
+          "listed_count": 3,
+          "media_count": 3,
+          "tweet_count": 291
+        },
+        "username": "Dulcoreyy",
+        "verified": false
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4616753,
+          "following_count": 4,
+          "like_count": 1591,
+          "listed_count": 27115,
+          "media_count": 511,
+          "tweet_count": 1675
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4315758,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26594,
+          "media_count": 381,
+          "tweet_count": 7392
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

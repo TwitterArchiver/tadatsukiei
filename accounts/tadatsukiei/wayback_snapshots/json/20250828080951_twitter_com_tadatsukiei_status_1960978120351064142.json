@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1960959875137130867",
+    "created_at": "2025-08-28T08:09:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-28T09:09:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960978120351064142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "111942564",
+          "start": 0,
+          "username": "boiledwater"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960978120351064142",
+    "in_reply_to_user_id": "111942564",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 8,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960959875137130867",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@boiledwater 牢中文化的原罪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1712,
+        "media_key": "3_1960958781958836224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gza5n2HW0AAjihM.jpg",
+        "width": 935
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1960959875137130867",
+        "created_at": "2025-08-28T08:09:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T09:09:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960978120351064142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "111942564",
+              "start": 0,
+              "username": "boiledwater"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960978120351064142",
+        "in_reply_to_user_id": "111942564",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960959875137130867",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@boiledwater 牢中文化的原罪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1960958781958836224"
+          ]
+        },
+        "author_id": "111942564",
+        "conversation_id": "1960959875137130867",
+        "created_at": "2025-08-28T06:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-28T07:53:02.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1960958787252089144",
+          "1960959875137130867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zYnNmg7Vlr",
+              "end": 59,
+              "expanded_url": "https://x.com/boiledwater/status/1960959875137130867/photo/1",
+              "media_key": "3_1960958781958836224",
+              "start": 36,
+              "url": "https://t.co/zYnNmg7Vlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960959875137130867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1146,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "“因为我是个中国人\n\n我纯玩会有罪恶感，太快乐会倒霉的。”\n\n——张骏 https://t.co/zYnNmg7Vlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 103,
+          "like_count": 19784,
+          "listed_count": 2,
+          "media_count": 122,
+          "tweet_count": 2429
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2010-02-06T17:49:59.000Z",
+        "description": "打破原生家庭之环的人，只能是你自己。",
+        "id": "111942564",
+        "location": "Stockholm, Sverige",
+        "name": "Jess",
+        "pinned_tweet_id": "1930044331768901932",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891758418559410176/QMKkxD7g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42549,
+          "following_count": 1776,
+          "like_count": 30363,
+          "listed_count": 162,
+          "media_count": 4794,
+          "tweet_count": 37045
+        },
+        "username": "boiledwater",
+        "verified": true
+      }
+    ]
+  }
+}

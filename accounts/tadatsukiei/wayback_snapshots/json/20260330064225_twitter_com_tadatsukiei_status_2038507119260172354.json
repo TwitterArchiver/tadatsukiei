@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2038213505673986394",
+    "created_at": "2026-03-30T06:42:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T07:42:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038507119260172354"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1565937293570953216",
+          "start": 0,
+          "username": "laozhangisme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038507119260172354",
+    "in_reply_to_user_id": "1565937293570953216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038213505673986394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@laozhangisme 峰哥和户子对国内体制是隐晦反对的，张雪峰则是维护并利用这点来传播焦虑赚钱。\n我不认为张足以与前两人并列。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1244,
+        "media_key": "3_2038213498761838592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEkwYNIbAAA6S0H.jpg",
+        "width": 1256
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2038213505673986394",
+        "created_at": "2026-03-30T06:42:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:42:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038507119260172354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1565937293570953216",
+              "start": 0,
+              "username": "laozhangisme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038507119260172354",
+        "in_reply_to_user_id": "1565937293570953216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038213505673986394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@laozhangisme 峰哥和户子对国内体制是隐晦反对的，张雪峰则是维护并利用这点来传播焦虑赚钱。\n我不认为张足以与前两人并列。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038213498761838592"
+          ]
+        },
+        "author_id": "1565937293570953216",
+        "conversation_id": "2038213505673986394",
+        "created_at": "2026-03-29T11:15:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T12:15:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038213505673986394"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tlJrUH6PfN",
+              "end": 36,
+              "expanded_url": "https://x.com/laozhangisme/status/2038213505673986394/photo/1",
+              "media_key": "3_2038213498761838592",
+              "start": 13,
+              "url": "https://t.co/tlJrUH6PfN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038213505673986394",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 228,
+          "impression_count": 681811,
+          "like_count": 1731,
+          "quote_count": 9,
+          "reply_count": 202,
+          "retweet_count": 50
+        },
+        "reply_settings": "everyone",
+        "text": "至此“三峰”时代彻底落幕 https://t.co/tlJrUH6PfN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 347,
+          "like_count": 77051,
+          "listed_count": 6,
+          "media_count": 346,
+          "tweet_count": 4853
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-03T05:38:47.000Z",
+        "description": "移民咨询规划服务，请付费咨询399白嫖勿扰 付完可以永久微信好友位。24小时文字随时沟通 预约一小时一对一语音沟通 https://t.co/L9UEZ8Tvua",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Laozhang2022",
+                "end": 81,
+                "expanded_url": "https://t.me/Laozhang2022",
+                "start": 58,
+                "url": "https://t.co/L9UEZ8Tvua"
+              }
+            ]
+          }
+        },
+        "id": "1565937293570953216",
+        "name": "老张",
+        "pinned_tweet_id": "2037577548767625332",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1834485249562353664/XW0nMMaz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98760,
+          "following_count": 972,
+          "like_count": 8200,
+          "listed_count": 389,
+          "media_count": 12532,
+          "tweet_count": 24496
+        },
+        "username": "laozhangisme",
+        "verified": false
+      }
+    ]
+  }
+}

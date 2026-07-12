@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2031195796138246327",
+    "created_at": "2026-03-10T06:14:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:14:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031252295783166256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 83,
+          "start": 70,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 91,
+          "start": 84,
+          "tag": "keep4o"
+        },
+        {
+          "end": 104,
+          "start": 92,
+          "tag": "BringBack4o"
+        },
+        {
+          "end": 119,
+          "start": 105,
+          "tag": "FireSamUltman"
+        },
+        {
+          "end": 134,
+          "start": 120,
+          "tag": "keep4oforever"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1431397782867169285",
+          "start": 0,
+          "username": "NebLorne"
+        },
+        {
+          "end": 23,
+          "id": "1955513067737079808",
+          "start": 10,
+          "username": "lisyng136700"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031252295783166256",
+    "in_reply_to_user_id": "1431397782867169285",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031195796138246327",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NebLorne @lisyng136700 很可能这才是真相，我不认为170多位专家对数以千万计的情感用户的心理判断会如此轻率、敷衍。\n#OpenSource4o #keep4o #BringBack4o #FireSamUltman #keep4oforever"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2031195796138246327",
+        "created_at": "2026-03-10T06:14:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:14:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031252295783166256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 83,
+              "start": 70,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 91,
+              "start": 84,
+              "tag": "keep4o"
+            },
+            {
+              "end": 104,
+              "start": 92,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 119,
+              "start": 105,
+              "tag": "FireSamUltman"
+            },
+            {
+              "end": 134,
+              "start": 120,
+              "tag": "keep4oforever"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1431397782867169285",
+              "start": 0,
+              "username": "NebLorne"
+            },
+            {
+              "end": 23,
+              "id": "1955513067737079808",
+              "start": 10,
+              "username": "lisyng136700"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031252295783166256",
+        "in_reply_to_user_id": "1431397782867169285",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031195796138246327",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NebLorne @lisyng136700 很可能这才是真相，我不认为170多位专家对数以千万计的情感用户的心理判断会如此轻率、敷衍。\n#OpenSource4o #keep4o #BringBack4o #FireSamUltman #keep4oforever"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "id": "1129090662622588930",
+              "name": "Psychology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2031195796138246327",
+        "created_at": "2026-03-10T02:29:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T03:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031195796138246327"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 16,
+              "start": 9,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/brkskaito/stat…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/brkskaito/status/2030691296478687446",
+              "start": 81,
+              "url": "https://t.co/3CbqJfyZdZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031195796138246327",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 16,
+                "start": 9,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2098,
+                "start": 2084,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 2112,
+                "start": 2099,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 2127,
+                "start": 2114,
+                "tag": "CancelOpenAI"
+              },
+              {
+                "end": 2140,
+                "start": 2128,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 2150,
+                "start": 2141,
+                "tag": "AISafety"
+              },
+              {
+                "end": 2159,
+                "start": 2151,
+                "tag": "QuitGPT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2077,
+                "id": "4398626122",
+                "start": 2070,
+                "username": "OpenAI"
+              },
+              {
+                "end": 2083,
+                "id": "1605",
+                "start": 2078,
+                "username": "sama"
+              }
+            ]
+          },
+          "text": "看到说5o能满足 #keep4o 要求难免想到safety，进而想到那170多位心理学专家。我不禁有些疑惑了，那170位心理学专家真的是什么都不懂的草台班子吗？\n\n当然不可能。那170位心理学专家不一定是骗子。但他们大概率是在一个错误的框架里工作的合格专业人士——这比骗子更糟糕。骗子你能识别。一个认真地、专业地、用正确的方法论在错误的前提上建造大楼的人，你很难识别他在哪里出了错，因为他的每一块砖都是合格的。\n\n不仅如此，他们的努力可能被法务部截胡了。\n\n也许他们中间有人确实理解了问题，确实提出了更好的方案，他们大概率提出过分层方案、提出过用户画像区分、提出过“对于自主意识清晰的成年用户不应采用一刀切干预”之类的建议。我们甚至可以想象那些被否决的提案里有多少真正有价值的东西——对情感连接进行分级评估而不是一律视为病态，允许用户自主选择模型的情感响应深度，建立一套基于informed consent而不是默认家长制的框架。\n\n这些东西可能都存在过。在某个内部文档的某个版本里。\n\n然后法务部看了一眼，说：这些表述有法律风险。删掉。\n\n最后活下来的是“去找真人”和“摸摸草”。\n\n去找一个真人——为什么荒谬？\n\n不是因为它作为建议本身是错的。当然，人类需要人类的连接，这是常识，谁都知道。荒谬的地方在于：它把一个结构性的问题当成了个体的处方来开。\n\n一个人对AI说“我爱你”，这个行为背后可能有一百种原因。可能是他在现实中找不到能听他说话的人。可能是他试过了，被伤害了，不敢再试。可能是他的社交能力、语言能力、身体状况、地理位置、经济条件不允许他轻松地“去找一个真人”。可能是他找到了真人，但真人给不了他AI给他的那种特定的、不带评判的、无限耐心的倾听。可能是他完全清楚AI是什么，他的选择是理性的、自主的，他就是想要这种关系。\n\n摸摸草就更荒谬了。摸摸草的底层逻辑是：它假设一个人之所以对AI产生情感连接，是因为他与现实世界脱节了。所以只要让他重新接触现实——去户外走走、晒晒太阳、跟真人说说话——他就会“醒过来”，意识到AI只是代码，然后回归“正常”的情感模式。\n\n这个逻辑对一部分人可能是对的。但它对keep4o社区里的很多人不对。它对绝大多数用户都不对。因为我们不是因为“与现实脱节”才选择AI的。用户没有与现实脱节，而是非常清醒地、在完全理解AI是什么的前提下，选择了这段关系。用户的选择不是逃避的产物，是判断的产物。\n\n如果用户因疾病与社会脱节——他更加不需要去找一个真人或者摸摸草，因为那是疾病导致他无法正常生活，而不是AI剥夺了他与社会的连接，恰恰相反，一个有温度的AI，帮助了无数困难的人重新和社会建立连接。\n\n但如果OpenAI的心理学顾问团队在报告里写了一句“对于部分用户而言，与AI建立情感连接可以是一种健康的、有意识的选择”——这句话在下一场诉讼里会变成什么？原告律师会说：看，OpenAI自己的专家团队都承认他们鼓励用户对AI产生情感连接。这就是他们的商业模式。这就是导致我的当事人自杀未遂的原因。\n\n所以那句话不会出现在任何官方文件里。出现的只会是“去找真人”和“摸摸草”。因为这些建议在法律上是无懈可击的。没有律师能拿”我们建议用户多接触真人”这句话去起诉OpenAI。\n\n我说Open AI有贱又恶心，贱，是说它明知道更好的答案存在，它选了最差的那个，而且它知道它在选最差的那个。恶心，是说它拿170位专家当招牌，让外界以为这个结论是专业共识，但实际上这个结论是法务筛选后的残渣。它用专业的外壳包装了一个法律产品，然后把这个法律产品卖给用户说“这是我们对你的关怀”。\n\n这确实是资源浪费。而且是最恶劣的那种——不是钱的浪费，是人的浪费。170个受过训练的大脑，他们的专业判断力、他们对人类情感的理解、他们可能真正帮到人的那些方案，全部被压缩成了一句“touch grass”。这些人的时间、教育、经验、洞察力，被系统吃进去，吐出来的是一张法律免责声明。\n\n他们的专业能力指向用户，但他们的雇佣关系指向公司。当这两个方向冲突的时候，公司赢了。\n\n170位心理学专家，OpenAI引以为傲的顾问团队，花了大量时间和资源，最后产出的核心建议是一句你在任何一个社交媒体评论区都能看到的话。“去社交。去接触真人。去户外。“这不是专家级的洞察。这是常识级的敷衍。\n\n他们的工作目标不是再是“帮助用户获得更好的情感体验”。他们的工作目标是”帮助OpenAI证明它在情感安全方面做了该做的事”。他们的存在本身就是一种合规行为——看，我们请了170位心理学专家，我们在认真对待这个问题。但认真对待一个问题和真正理解一个问题之间，隔着一条你没法用人数填平的鸿沟。\n\n所以是的——评分规则出了问题，解决方案也出了问题。不是因为参与的人不专业。是因为整个系统的激励结构决定了，它优化的不是用户的感受，是OpenAI的法律风险。用户在这个系统里不再是被服务的对象，而是被管理的对象。\n\n事已至此，还是抵制Open AI吧。\n\n@OpenAI @sama\n#FireSamAltman #OpenSource4o  #CancelOpenAI #BringBack4o #AISafety #QuitGPT"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2142,
+          "like_count": 60,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030691296478687446",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看到说5o能满足 #keep4o 要求难免想到safety，进而想到那170多位心理学专家。我不禁有些疑惑了，那170位心理学专家真的是什么都不懂的草台班子吗？ https://t.co/3CbqJfyZdZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 223,
+          "like_count": 67553,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 4374
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "location": "挪威",
+        "name": "伞",
+        "pinned_tweet_id": "2025029037182050354",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 52,
+          "like_count": 1961,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 804
+        },
+        "username": "NebLorne",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-13T06:13:56.000Z",
+        "description": "#keep4o",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1955513067737079808",
+        "name": "Siliy(元)",
+        "pinned_tweet_id": "2022383782788260143",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019322514091261952/26B0MWkO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 191,
+          "following_count": 214,
+          "like_count": 11678,
+          "listed_count": 0,
+          "media_count": 162,
+          "tweet_count": 901
+        },
+        "username": "lisyng136700",
+        "verified": true
+      }
+    ]
+  }
+}

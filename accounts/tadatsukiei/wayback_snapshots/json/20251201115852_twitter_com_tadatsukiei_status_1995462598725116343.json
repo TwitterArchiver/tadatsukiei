@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1995369345774748025",
+    "created_at": "2025-12-01T11:58:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-01T12:58:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1995462598725116343"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1950699428815523840",
+          "start": 0,
+          "username": "yun77221"
+        },
+        {
+          "end": 21,
+          "id": "791197",
+          "start": 10,
+          "username": "bbcchinese"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1995462598725116343",
+    "in_reply_to_user_id": "1950699428815523840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1995371543128588632",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yun77221 @bbcchinese 歇后语：历史文件———"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 730,
+        "media_key": "3_1995371532626083840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7D71kUawAAEHsS.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1995369345774748025",
+        "created_at": "2025-12-01T11:58:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T12:58:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995462598725116343"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1950699428815523840",
+              "start": 0,
+              "username": "yun77221"
+            },
+            {
+              "end": 21,
+              "id": "791197",
+              "start": 10,
+              "username": "bbcchinese"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995462598725116343",
+        "in_reply_to_user_id": "1950699428815523840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995371543128588632",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yun77221 @bbcchinese 歇后语：历史文件———"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1995371532626083840"
+          ]
+        },
+        "author_id": "1950699428815523840",
+        "conversation_id": "1995369345774748025",
+        "created_at": "2025-12-01T05:57:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-01T06:57:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1995371543128588632"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "791197",
+              "start": 0,
+              "username": "bbcchinese"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DBIMXWbNoA",
+              "end": 35,
+              "expanded_url": "https://x.com/yun77221/status/1995371543128588632/photo/1",
+              "media_key": "3_1995371532626083840",
+              "start": 12,
+              "url": "https://t.co/DBIMXWbNoA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1995371543128588632",
+        "in_reply_to_user_id": "791197",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 758,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1995369345774748025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bbcchinese https://t.co/DBIMXWbNoA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 192,
+          "following_count": 118,
+          "like_count": 42933,
+          "listed_count": 2,
+          "media_count": 208,
+          "tweet_count": 3333
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-30T23:26:23.000Z",
+        "description": "自由万岁！",
+        "id": "1950699428815523840",
+        "name": "云中漫步",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950699644620775424/BDJ2Fl6R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 125,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 164
+        },
+        "username": "yun77221",
+        "verified": false
+      },
+      {
+        "created_at": "2007-02-23T17:46:38.000Z",
+        "description": "This is the official account of BBC News Chinese, the @BBC's Chinese language news service. 这是 BBC News 中文 的正式账户。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 54,
+                "username": "BBC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bbc.com/chinese",
+                "end": 23,
+                "expanded_url": "http://bbc.com/chinese",
+                "start": 0,
+                "url": "https://t.co/xPNsBSpeEC"
+              }
+            ]
+          }
+        },
+        "id": "791197",
+        "location": "London, UK",
+        "name": "BBC News 中文",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1004638591308435457/tiacF_Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5128397,
+          "following_count": 73,
+          "like_count": 60,
+          "listed_count": 11896,
+          "media_count": 24159,
+          "tweet_count": 154414
+        },
+        "url": "https://t.co/xPNsBSpeEC",
+        "username": "bbcchinese",
+        "verified": true
+      }
+    ]
+  }
+}

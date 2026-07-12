@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2000730933763420229",
+    "created_at": "2025-12-16T11:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-16T12:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2000889701402919333"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "20700332",
+          "start": 0,
+          "username": "pingzhang632"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2000889701402919333",
+    "in_reply_to_user_id": "20700332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2000730933763420229",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pingzhang632 幽默，需要对所谓“神圣的”、“权威的”事物进行解构。\n而中国有太多太多“不能碰的滑梯”，所以……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2000730933763420229",
+        "created_at": "2025-12-16T11:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T12:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2000889701402919333"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "20700332",
+              "start": 0,
+              "username": "pingzhang632"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2000889701402919333",
+        "in_reply_to_user_id": "20700332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2000730933763420229",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pingzhang632 幽默，需要对所谓“神圣的”、“权威的”事物进行解构。\n而中国有太多太多“不能碰的滑梯”，所以……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "20700332",
+        "conversation_id": "2000730933763420229",
+        "created_at": "2025-12-16T00:53:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-16T01:53:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2000730933763420229"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2000730933763420229",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 35739,
+          "like_count": 73,
+          "quote_count": 12,
+          "reply_count": 196,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "中国人为什么欠缺幽默感？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 123,
+          "like_count": 46497,
+          "listed_count": 7,
+          "media_count": 219,
+          "tweet_count": 3452
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2009-02-12T18:24:25.000Z",
+        "description": "以色列生活，犹太思维，犹太经典，中东历史、政治，等等。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zhangping.wordpress.com",
+                "end": 23,
+                "expanded_url": "https://zhangping.wordpress.com",
+                "start": 0,
+                "url": "https://t.co/y1ZCfyVEue"
+              }
+            ]
+          }
+        },
+        "id": "20700332",
+        "location": "Tel Aviv",
+        "name": "张平",
+        "pinned_tweet_id": "1712174469144277035",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/938859173797908480/rYEzmQ_G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110510,
+          "following_count": 562,
+          "like_count": 2480,
+          "listed_count": 455,
+          "media_count": 1330,
+          "tweet_count": 11417
+        },
+        "url": "https://t.co/y1ZCfyVEue",
+        "username": "pingzhang632",
+        "verified": true
+      }
+    ]
+  }
+}

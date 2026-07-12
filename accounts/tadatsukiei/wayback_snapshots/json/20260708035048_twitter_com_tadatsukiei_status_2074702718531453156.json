@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2074601544171864404",
+    "created_at": "2026-07-08T03:50:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T04:50:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074702718531453156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1071649680675627008",
+          "start": 0,
+          "username": "zhangzx11"
+        },
+        {
+          "end": 17,
+          "id": "989412204863787010",
+          "start": 11,
+          "username": "5xyxh"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/i/grok/share/5…",
+          "end": 58,
+          "expanded_url": "https://x.com/i/grok/share/55e0cf23cf994fb8a1ddd4a79b5e64a2",
+          "images": [
+            {
+              "height": 634,
+              "url": "https://pbs.twimg.com/news_img/2074702723573051392/iG9BIxgs?format=jpg&name=orig",
+              "width": 1202
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2074702723573051392/iG9BIxgs?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 35,
+          "status": 200,
+          "title": "X",
+          "unwound_url": "https://x.com/i/grok/share/55e0cf23cf994fb8a1ddd4a79b5e64a2",
+          "url": "https://t.co/SMsNuI1KKM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074702718531453156",
+    "in_reply_to_user_id": "1071649680675627008",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074656842995950073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhangzx11 @5xyxh grok已经把我想说的都说完了。\nhttps://t.co/SMsNuI1KKM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2074601544171864404",
+        "created_at": "2026-07-08T03:50:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T04:50:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074702718531453156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1071649680675627008",
+              "start": 0,
+              "username": "zhangzx11"
+            },
+            {
+              "end": 17,
+              "id": "989412204863787010",
+              "start": 11,
+              "username": "5xyxh"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/i/grok/share/5…",
+              "end": 58,
+              "expanded_url": "https://x.com/i/grok/share/55e0cf23cf994fb8a1ddd4a79b5e64a2",
+              "images": [
+                {
+                  "height": 634,
+                  "url": "https://pbs.twimg.com/news_img/2074702723573051392/iG9BIxgs?format=jpg&name=orig",
+                  "width": 1202
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074702723573051392/iG9BIxgs?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "X",
+              "unwound_url": "https://x.com/i/grok/share/55e0cf23cf994fb8a1ddd4a79b5e64a2",
+              "url": "https://t.co/SMsNuI1KKM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074702718531453156",
+        "in_reply_to_user_id": "1071649680675627008",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074656842995950073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhangzx11 @5xyxh grok已经把我想说的都说完了。\nhttps://t.co/SMsNuI1KKM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1071649680675627008",
+        "conversation_id": "2074601544171864404",
+        "created_at": "2026-07-08T00:48:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T01:48:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074656842995950073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "989412204863787010",
+              "start": 0,
+              "username": "5xyxh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074656842995950073",
+        "in_reply_to_user_id": "989412204863787010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5524,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 16,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074601544171864404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5xyxh 我觉得把捐款公开发布的，都不是慈善，是广告。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 723,
+          "following_count": 664,
+          "like_count": 110091,
+          "listed_count": 5,
+          "media_count": 653,
+          "tweet_count": 7943
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-09T06:16:08.000Z",
+        "description": "普通人",
+        "id": "1071649680675627008",
+        "location": "zx",
+        "name": "zhangzx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1355808156874510337/wrIxCX0v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 460,
+          "like_count": 1920,
+          "listed_count": 2,
+          "media_count": 16,
+          "tweet_count": 2010
+        },
+        "url": "",
+        "username": "zhangzx11",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-26T07:53:46.000Z",
+        "description": "作家、时事评论员\n新高地原创文章，希望与各大众媒体合作！欢迎蓝Ｖ互关。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "globalleadernews.com",
+                "end": 23,
+                "expanded_url": "https://globalleadernews.com/",
+                "start": 0,
+                "url": "https://t.co/RBdc78V1fl"
+              }
+            ]
+          }
+        },
+        "id": "989412204863787010",
+        "location": "美国",
+        "name": "新高地",
+        "pinned_tweet_id": "2074551784568238244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950158573352226816/JNlLt394_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 130414,
+          "following_count": 63520,
+          "like_count": 41937,
+          "listed_count": 406,
+          "media_count": 4488,
+          "tweet_count": 46809
+        },
+        "url": "https://t.co/RBdc78V1fl",
+        "username": "5xyxh",
+        "verified": true
+      }
+    ]
+  }
+}

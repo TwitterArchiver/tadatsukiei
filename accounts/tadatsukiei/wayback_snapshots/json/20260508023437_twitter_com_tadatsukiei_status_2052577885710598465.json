@@ -1,0 +1,149 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052577880589336576"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2052577885710598465",
+    "created_at": "2026-05-08T02:34:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T03:34:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052577885710598465"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wmWcj1wrwp",
+          "end": 43,
+          "expanded_url": "https://x.com/tadatsukiei/status/2052577885710598465/photo/1",
+          "media_key": "3_2052577880589336576",
+          "start": 20,
+          "url": "https://t.co/wmWcj1wrwp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052577885710598465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我能在不转梗图的情况下成为中推顶流吗？ https://t.co/wmWcj1wrwp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1033,
+        "media_key": "3_2052577880589336576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHw4tRZaAAAOAhX.jpg",
+        "width": 1033
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052577880589336576"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2052577885710598465",
+        "created_at": "2026-05-08T02:34:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T03:34:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052577885710598465"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wmWcj1wrwp",
+              "end": 43,
+              "expanded_url": "https://x.com/tadatsukiei/status/2052577885710598465/photo/1",
+              "media_key": "3_2052577880589336576",
+              "start": 20,
+              "url": "https://t.co/wmWcj1wrwp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052577885710598465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我能在不转梗图的情况下成为中推顶流吗？ https://t.co/wmWcj1wrwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2052102725773771011",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 443,
+          "like_count": 86719,
+          "listed_count": 9,
+          "media_count": 455,
+          "tweet_count": 5823
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

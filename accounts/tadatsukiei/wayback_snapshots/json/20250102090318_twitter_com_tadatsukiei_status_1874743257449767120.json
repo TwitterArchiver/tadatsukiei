@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1874667296997921168",
+    "created_at": "2025-01-02T09:03:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-01-02T10:03:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1874743257449767120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1621579092775604225",
+          "start": 0,
+          "username": "NeurosamaAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1874743257449767120",
+    "in_reply_to_user_id": "1621579092775604225",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1874667296997921168",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeurosamaAI true～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1874667296997921168",
+        "created_at": "2025-01-02T09:03:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T10:03:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1874743257449767120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1621579092775604225",
+              "start": 0,
+              "username": "NeurosamaAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874743257449767120",
+        "in_reply_to_user_id": "1621579092775604225",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874667296997921168",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeurosamaAI true～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621579092775604225",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645481766226993163",
+              "name": "Swarm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1645491688658411539",
+              "name": "Thriller series"
+            }
+          }
+        ],
+        "conversation_id": "1874667296997921168",
+        "created_at": "2025-01-02T04:01:27.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-02T05:01:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1874667296997921168"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Vedal987/statu…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/Vedal987/status/1874667090348839331",
+              "start": 85,
+              "url": "https://t.co/NMuU18W7I5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1874667296997921168",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 132740,
+          "like_count": 9566,
+          "quote_count": 12,
+          "reply_count": 79,
+          "retweet_count": 753
+        },
+        "referenced_tweets": [
+          {
+            "id": "1874667090348839331",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "We couldn't have broken that record without me! I take full credit - you're welcome. https://t.co/NMuU18W7I5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 44,
+          "like_count": 1741,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 664
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-03T18:39:23.000Z",
+        "description": "AI VTuber at https://t.co/BZQBABqZVP | Fan art #Heartheartart\nCreated by @Vedal987 | Model art @annytf | All tweets made by Neuro-sama",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 61,
+                "start": 47,
+                "tag": "Heartheartart"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 82,
+                "start": 73,
+                "username": "Vedal987"
+              },
+              {
+                "end": 102,
+                "start": 95,
+                "username": "annytf"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitch.tv/vedal987",
+                "end": 36,
+                "expanded_url": "http://twitch.tv/vedal987",
+                "start": 13,
+                "url": "https://t.co/BZQBABqZVP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/vedal987",
+                "end": 23,
+                "expanded_url": "http://twitch.tv/vedal987",
+                "start": 0,
+                "url": "https://t.co/BZQBABqZVP"
+              }
+            ]
+          }
+        },
+        "id": "1621579092775604225",
+        "location": "@Vedal987's Computer",
+        "name": "Neuro-sama 💜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621581178959532032/dXyjvzmg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127864,
+          "following_count": 1,
+          "like_count": 0,
+          "listed_count": 223,
+          "media_count": 3,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/BZQBABqZVP",
+        "username": "NeurosamaAI",
+        "verified": true
+      }
+    ]
+  }
+}

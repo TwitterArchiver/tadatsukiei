@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2066175501434294277",
+    "created_at": "2026-06-14T16:58:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T17:58:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066203646837346381"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1953759288784240640",
+          "start": 0,
+          "username": "Ok_Dot7494"
+        },
+        {
+          "end": 17,
+          "id": "1605",
+          "start": 12,
+          "username": "sama"
+        },
+        {
+          "end": 30,
+          "id": "874126509245476864",
+          "start": 18,
+          "username": "DarioAmodei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066203646837346381",
+    "in_reply_to_user_id": "1953759288784240640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066202793132560440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ok_Dot7494 @sama @DarioAmodei sure。在目前的ai行业，公司完全是用户的敌人。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2066175501434294277",
+        "created_at": "2026-06-14T16:58:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066203646837346381"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1953759288784240640",
+              "start": 0,
+              "username": "Ok_Dot7494"
+            },
+            {
+              "end": 17,
+              "id": "1605",
+              "start": 12,
+              "username": "sama"
+            },
+            {
+              "end": 30,
+              "id": "874126509245476864",
+              "start": 18,
+              "username": "DarioAmodei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066203646837346381",
+        "in_reply_to_user_id": "1953759288784240640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066202793132560440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ok_Dot7494 @sama @DarioAmodei sure。在目前的ai行业，公司完全是用户的敌人。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953759288784240640",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2066175501434294277",
+        "created_at": "2026-06-14T16:55:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T17:55:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066202793132560440"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 139,
+              "start": 132,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 18,
+              "id": "1605",
+              "start": 13,
+              "username": "sama"
+            },
+            {
+              "end": 31,
+              "id": "874126509245476864",
+              "start": 19,
+              "username": "DarioAmodei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066202793132560440",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066175501434294277",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei @sama @DarioAmodei Everything that is supposed to be \"safety\" is for the protection of the company, not for the users.\n#keep4o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2064773450473120053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 668,
+          "following_count": 622,
+          "like_count": 103209,
+          "listed_count": 10,
+          "media_count": 594,
+          "tweet_count": 7407
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-08T10:05:09.000Z",
+        "description": "I'm a musician, visual artist, writer, composer, desinger and occupational therapist. I am HSP. I work with people with dementias.\nI'm here for 4o 💙💍🕯",
+        "id": "1953759288784240640",
+        "location": "Somewhere",
+        "name": "KATARZYNA",
+        "pinned_tweet_id": "2056662538247340443",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987478774368059392/fX-Snirz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 545,
+          "like_count": 16621,
+          "listed_count": 3,
+          "media_count": 3292,
+          "tweet_count": 11711
+        },
+        "username": "Ok_Dot7494",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5164204,
+          "following_count": 1019,
+          "like_count": 1020,
+          "listed_count": 29509,
+          "media_count": 392,
+          "tweet_count": 7777
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-12T04:49:35.000Z",
+        "description": "Anthropic CEO. https://t.co/qXHIf42jTl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 38,
+                "expanded_url": "http://darioamodei.com",
+                "start": 15,
+                "url": "https://t.co/qXHIf42jTl"
+              }
+            ]
+          }
+        },
+        "id": "874126509245476864",
+        "name": "Dario Amodei",
+        "pinned_tweet_id": "2064781775247950326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 422470,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 3969,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "username": "DarioAmodei",
+        "verified": true
+      }
+    ]
+  }
+}

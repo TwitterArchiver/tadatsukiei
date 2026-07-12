@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2070261986261381547",
+    "created_at": "2026-06-26T01:12:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T02:12:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070314244822946266"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1248792437750890496",
+          "start": 0,
+          "username": "Neptunemimimimi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070314244822946266",
+    "in_reply_to_user_id": "1248792437750890496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070261986261381547",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Neptunemimimimi 不是不能接受新事物，只是不能接受被抢饭碗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2070261986261381547",
+        "created_at": "2026-06-26T01:12:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T02:12:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070314244822946266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1248792437750890496",
+              "start": 0,
+              "username": "Neptunemimimimi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070314244822946266",
+        "in_reply_to_user_id": "1248792437750890496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070261986261381547",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Neptunemimimimi 不是不能接受新事物，只是不能接受被抢饭碗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1248792437750890496",
+        "conversation_id": "2070261986261381547",
+        "created_at": "2026-06-25T21:44:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T22:44:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070261986261381547"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/valria34773/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/valria34773/status/2070200225252196359",
+              "start": 30,
+              "url": "https://t.co/viv9ZBgABL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070261986261381547",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 194,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070200225252196359",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "…看起来不太好啊，好古板的想法，要这么不能接受新事物吗🏳️ https://t.co/viv9ZBgABL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2069732658096288141",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 696,
+          "following_count": 645,
+          "like_count": 106839,
+          "listed_count": 10,
+          "media_count": 624,
+          "tweet_count": 7708
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-04-11T01:58:25.000Z",
+        "description": "print(\"Hello, World!\")",
+        "id": "1248792437750890496",
+        "name": "Neptune💜",
+        "pinned_tweet_id": "1980172963044626566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065651949937340416/yPGbdVin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267,
+          "following_count": 320,
+          "like_count": 46392,
+          "listed_count": 0,
+          "media_count": 86,
+          "tweet_count": 9077
+        },
+        "url": "",
+        "username": "Neptunemimimimi",
+        "verified": false
+      }
+    ]
+  }
+}

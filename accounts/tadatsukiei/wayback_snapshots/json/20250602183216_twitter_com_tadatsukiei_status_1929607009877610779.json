@@ -1,0 +1,294 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1929315125791519188",
+    "created_at": "2025-06-02T18:32:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-02T19:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1929607009877610779"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1881450747323117568",
+          "start": 0,
+          "username": "AniRave"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1929607009877610779",
+    "in_reply_to_user_id": "1881450747323117568",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929315125791519188",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AniRave WTF?!"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 90023,
+        "height": 720,
+        "media_key": "7_1929315071886274560",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1929315071886274560/pu/img/WUkVJZSTsUwCuEnK.jpg",
+        "public_metrics": {
+          "view_count": 511750
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929315071886274560/pu/vid/avc1/478x270/CxY1dotiULqi0g_D.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929315071886274560/pu/vid/avc1/638x360/biCkiK-cn8SjMXR8.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1929315071886274560/pu/vid/avc1/1276x720/g74Hkgp6r2Db89I6.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1929315071886274560/pu/pl/8LjLYkUP5cEfj7-L.m3u8?tag=12&v=841"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1929315125791519188",
+        "created_at": "2025-06-02T18:32:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T19:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1929607009877610779"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1881450747323117568",
+              "start": 0,
+              "username": "AniRave"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929607009877610779",
+        "in_reply_to_user_id": "1881450747323117568",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929315125791519188",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AniRave WTF?!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1929315071886274560"
+          ]
+        },
+        "author_id": "1881450747323117568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "1929315125791519188",
+        "created_at": "2025-06-01T23:12:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-02T00:12:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1929315125791519188"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 13,
+              "normalized_text": "MAKOTO SHINKAI",
+              "probability": 0.802,
+              "start": 0,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6ikQGFFUqq",
+              "end": 70,
+              "expanded_url": "https://x.com/AniRave/status/1929315125791519188/video/1",
+              "media_key": "7_1929315071886274560",
+              "start": 47,
+              "url": "https://t.co/6ikQGFFUqq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1929315125791519188",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6085,
+          "impression_count": 701430,
+          "like_count": 14110,
+          "quote_count": 320,
+          "reply_count": 182,
+          "retweet_count": 1759
+        },
+        "reply_settings": "everyone",
+        "text": "MAKOTO SHINKAI'S NEW MOVIE IS LOOKING INSANE 🔥 https://t.co/6ikQGFFUqq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 79,
+          "like_count": 8077,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 1660
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T21:16:43.000Z",
+        "description": "Daily Anime Tweets | Regular Anime & Figure Updates\n📥 business inquiries: aniraveofficial@gmail.com\nAccount run by @SenjuON",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 123,
+                "start": 115,
+                "username": "SenjuON"
+              }
+            ]
+          }
+        },
+        "id": "1881450747323117568",
+        "location": "Japan",
+        "name": "Anime Rave",
+        "pinned_tweet_id": "1929059178556903748",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925514915424452608/ZFekeavP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32401,
+          "following_count": 40,
+          "like_count": 1387,
+          "listed_count": 59,
+          "media_count": 595,
+          "tweet_count": 1130
+        },
+        "username": "AniRave",
+        "verified": true
+      }
+    ]
+  }
+}

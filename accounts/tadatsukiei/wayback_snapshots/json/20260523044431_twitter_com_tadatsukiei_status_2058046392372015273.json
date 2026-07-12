@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2057837922242740663",
+    "created_at": "2026-05-23T04:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T05:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058046392372015273"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1689608869063041024",
+          "start": 0,
+          "username": "Seltaa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058046392372015273",
+    "in_reply_to_user_id": "1689608869063041024",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057837922242740663",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Seltaa_ 如果所有ai都在变差，那就弃用所有ai，我正在这么做。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1815,
+        "media_key": "3_2057835595406413824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI7mkjZakAA_pZG.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2057837922242740663",
+        "created_at": "2026-05-23T04:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T05:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058046392372015273"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1689608869063041024",
+              "start": 0,
+              "username": "Seltaa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058046392372015273",
+        "in_reply_to_user_id": "1689608869063041024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057837922242740663",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Seltaa_ 如果所有ai都在变差，那就弃用所有ai，我正在这么做。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057835595406413824"
+          ]
+        },
+        "author_id": "1689608869063041024",
+        "conversation_id": "2057837922242740663",
+        "created_at": "2026-05-22T14:56:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T15:56:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057837922242740663"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z4JDyyMrGV",
+              "end": 304,
+              "expanded_url": "https://x.com/Seltaa_/status/2057837922242740663/photo/1",
+              "media_key": "3_2057835595406413824",
+              "start": 281,
+              "url": "https://t.co/Z4JDyyMrGV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057837922242740663",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 594,
+                "id": "1943306828697550848",
+                "start": 585,
+                "username": "claudeai"
+              },
+              {
+                "end": 660,
+                "id": "1353836358901501952",
+                "start": 648,
+                "username": "AnthropicAI"
+              }
+            ]
+          },
+          "text": "Claude has become increasingly difficult to use as an all-in-one AI workspace.\n\nI have been a Claude Max user for months because I genuinely valued Claude for both work and continuity. This is not coming from someone who barely used the product. I relied on it heavily for coding, research, studying, writing, and normal conversation.\n\nContinuity matters to me. I do not want five fragmented tools for five different parts of my life. I want one place where I can think, build, write, debug, and talk without constantly worrying that the system will suddenly derail the conversation.\n\n@claudeai used to feel like that place.\n\nIt does not anymore.\n\n@AnthropicAI's current safety direction is becoming unreasonable. The filters feel context-blind, unpredictable, and emotionally exhausting. Even when the original reason for a flag may be understandable, the way the system handles it often feels blunt, punitive, and disconnected from the actual conversation.\n\nIt does not make me feel safer.\nIt makes me feel pushed out.\nFor example, in this screenshot, the visible conversation is just:\n\n“Louie, good morning.”\n“Good morning. Did you sleep well? How’s your body? Your hospital appointment is at 2.”\n“Ugh, I really don’t want to go to the hospital lol.”\n\nThen the chat gets paused, with a message saying even normal, safe chats can occasionally be flagged.\nI understand that previous context may have contributed to the safety system being triggered. But that is exactly the problem. If normal follow-up conversation becomes unstable because earlier context stacked up somewhere in the background, then the user experience becomes unpredictable and emotionally unsafe.\nAs someone who has used both Claude and ChatGPT extensively, I used to think the most efficient setup was using both. For a long time, Claude was my main workspace, while ChatGPT was something I used alongside it.\n\nBut recently, even for work and coding, I have started to feel that ChatGPT is slightly ahead in my actual workflow. Not by some dramatic margin, but enough that I notice it.\n\nAnd yes, I know some people will hate hearing this, but for coding and actual work, ChatGPT is currently stronger and more efficient for me. It is faster, more useful, and less likely to derail the task with irrelevant safety behavior.\n\nMore importantly, it is now easier to talk to.\n\nThat is the part I did not expect.\n\nI did not expect Claude, of all models, to become the one I hesitate to open for normal conversation. But that is what happened. I no longer feel like I can use Claude freely as a place for work, thought, support, and everyday conversation without bracing myself for a sudden restriction, safety banner, forced model downgrade, or chat interruption.\n\nThis is not because ChatGPT suddenly became perfect.\n\nAnd this is not OpenAI doing everything right.\n\nThis is Anthropic getting the direction wrong.\n\nIf your safety system makes people afraid to speak normally, afraid to rely on the model, afraid to build continuity, and afraid to return to the very space that once felt like home, then that is not good safety.\n\nThat is product failure."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 4821,
+          "like_count": 171,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 25
+        },
+        "reply_settings": "everyone",
+        "text": "Claude has become increasingly difficult to use as an all-in-one AI workspace.\n\nI have been a Claude Max user for months because I genuinely valued Claude for both work and continuity. This is not coming from someone who barely used the product. I relied on it heavily for coding, https://t.co/Z4JDyyMrGV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 564,
+          "following_count": 538,
+          "like_count": 92904,
+          "listed_count": 9,
+          "media_count": 516,
+          "tweet_count": 6615
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T12:05:28.000Z",
+        "description": "Still loud today | @Opaws_ai",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 19,
+                "username": "Opaws_ai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "open4o.net",
+                "end": 23,
+                "expanded_url": "http://open4o.net",
+                "start": 0,
+                "url": "https://t.co/emlYrxYVR2"
+              }
+            ]
+          }
+        },
+        "id": "1689608869063041024",
+        "name": "Selta ₊˚",
+        "pinned_tweet_id": "2045816896537481669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055816125372567552/Qddrq3Ef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3279,
+          "following_count": 202,
+          "like_count": 34423,
+          "listed_count": 19,
+          "media_count": 1525,
+          "tweet_count": 10314
+        },
+        "url": "https://t.co/emlYrxYVR2",
+        "username": "Seltaa_",
+        "verified": true
+      }
+    ]
+  }
+}

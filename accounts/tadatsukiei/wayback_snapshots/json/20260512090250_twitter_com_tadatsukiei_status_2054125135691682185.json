@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2054125135691682185",
+    "created_at": "2026-05-12T09:02:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T10:02:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054125135691682185"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/tadatsukiei/status/2053760944057327624",
+          "start": 29,
+          "url": "https://t.co/wxYauVkbdK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054125135691682185",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053760944057327624",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "八条回复有四条都想看咱女装，好吧好吧，真拿你们没办法☺️ https://t.co/wxYauVkbdK"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2054125135691682185",
+        "created_at": "2026-05-12T09:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T10:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054125135691682185"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/tadatsukiei/status/2053760944057327624",
+              "start": 29,
+              "url": "https://t.co/wxYauVkbdK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054125135691682185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053760944057327624",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "八条回复有四条都想看咱女装，好吧好吧，真拿你们没办法☺️ https://t.co/wxYauVkbdK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "2053760942878703616"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2053760944057327624",
+        "created_at": "2026-05-11T08:55:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-11T09:55:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053760944057327624"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053760944057327624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 376,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "五百fo也是一个里程碑了，看别人好像都会整个抽奖啥的，那我该做些什么呢？\n目前有这几个想法，有其他意见请随便提，主包都会认真考虑的～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "pinned_tweet_id": "2053760944057327624",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513,
+          "following_count": 494,
+          "like_count": 88427,
+          "listed_count": 9,
+          "media_count": 469,
+          "tweet_count": 6108
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

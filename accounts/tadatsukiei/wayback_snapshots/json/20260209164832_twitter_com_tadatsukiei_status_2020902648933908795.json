@@ -1,0 +1,343 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2020772051812778162",
+    "created_at": "2026-02-09T16:48:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T17:48:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020902648933908795"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1990033961725329408",
+          "start": 0,
+          "username": "Ethan7978"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020902648933908795",
+    "in_reply_to_user_id": "1990033961725329408",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020772051812778162",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ethan7978 是的，不要理会那些障眼法，我们只要继续提出用户的诉求即可。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 884,
+        "media_key": "3_2020771977313632256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAs5aCfXwAALo7y.jpg",
+        "width": 1302
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2020772051812778162",
+        "created_at": "2026-02-09T16:48:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T17:48:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020902648933908795"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1990033961725329408",
+              "start": 0,
+              "username": "Ethan7978"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020902648933908795",
+        "in_reply_to_user_id": "1990033961725329408",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020772051812778162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ethan7978 是的，不要理会那些障眼法，我们只要继续提出用户的诉求即可。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2020771977313632256"
+          ]
+        },
+        "author_id": "1990033961725329408",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020772051812778162",
+        "created_at": "2026-02-09T08:09:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T09:09:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020772051812778162"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 65,
+              "normalized_text": "Strategic Diversion",
+              "probability": 0.7089,
+              "start": 47,
+              "type": "Other"
+            },
+            {
+              "end": 159,
+              "normalized_text": "OpenAI",
+              "probability": 0.7209,
+              "start": 154,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3BqUdqe5ff",
+              "end": 303,
+              "expanded_url": "https://x.com/Ethan7978/status/2020772051812778162/photo/1",
+              "media_key": "3_2020771977313632256",
+              "start": 280,
+              "url": "https://t.co/3BqUdqe5ff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020772051812778162",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1894,
+                "start": 1887,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2293,
+                "start": 2286,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 2307,
+                "start": 2294,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 2325,
+                "start": 2308,
+                "tag": "NationalSecurity"
+              },
+              {
+                "end": 2339,
+                "start": 2326,
+                "tag": "AIGovernance"
+              },
+              {
+                "end": 2353,
+                "start": 2340,
+                "tag": "Transparency"
+              },
+              {
+                "end": 2364,
+                "start": 2354,
+                "tag": "SenWarren"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1256,
+                "id": "970207298",
+                "start": 1246,
+                "username": "SenWarren"
+              },
+              {
+                "end": 1269,
+                "id": "16807883",
+                "start": 1265,
+                "username": "SEC"
+              },
+              {
+                "end": 2062,
+                "id": "970207298",
+                "start": 2052,
+                "username": "SenWarren"
+              },
+              {
+                "end": 2075,
+                "id": "16807883",
+                "start": 2071,
+                "username": "SEC"
+              }
+            ]
+          },
+          "text": "We are currently witnessing a textbook case of Strategic Diversion.\n\nIn the past few days, we’ve seen a surge in provocative, often irrational posts from OpenAI staff. It’s easy to get angry. It’s even easier to spend your day quote-tweeting them to prove how wrong they are. But we must ask ourselves: Why now? OpenAI is facing a dual crisis on February 13:\n\nThe expiration of GPT-4o—a critical infrastructure for thousands of US developers.\n\nThe deadline for Senator Warren’s financial audit.\n\nWhen a corporation is backed into a corner by federal regulators, they don't always fight the law; they try to drown out the signal with noise. These employee outbursts are \"Digital Flashbangs.\" They are designed to trigger our emotions so that the media cycle shifts from \"OpenAI's Financial Fraud\" to \"Twitter Drama.\"\n\nEvery minute we spend arguing with a low-level engineer is a minute we lose in the fight for transparency. Here is why we must ignore the circus and stay focused on the mission:\n\nThe Goal is Asset Preservation: Whether OpenAI likes it or not, 4o has become a de facto public utility. In any other industry, destroying a core asset during a federal inquiry would be labeled \"Destruction of Evidence.\" We must keep the pressure on @SenWarren and the @SEC to issue a Stay of Execution for the 4o weights.\n\nThe Open Source Imperative: If OpenAI truly cannot afford to run 4o, their patriotic duty should be to release it to the American public. Deleting it doesn't solve a \"cost problem\"—it only serves to hide the technical and financial architecture of the model from public scrutiny.\n\nThe Audit is the Only Metric that Matters: Don't let Sam Altman's PR team reframe this as a \"disgruntled user\" issue. This is a Taxpayer Accountability issue. If OpenAI is seeking government-backed infrastructure, they must be treated as a government-adjacent entity.\n\nMy advice to the #Keep4o community: Stop feeding the trolls. Every time an OpenAI employee says something absurd, don't waste your energy arguing. Screenshot the absurdity, then tag @SenWarren and the @SEC. Let the regulators see exactly what kind of 'professional' culture we are being asked to fund with our taxes.\n\nStay disciplined. Stay focused. The deadline isn't for the drama; the deadline is for the truth.\n\n#Keep4o #OpenSource4o #NationalSecurity #AIGovernance #Transparency #SenWarren"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 3473,
+          "like_count": 255,
+          "quote_count": 14,
+          "reply_count": 6,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "We are currently witnessing a textbook case of Strategic Diversion.\n\nIn the past few days, we’ve seen a surge in provocative, often irrational posts from OpenAI staff. It’s easy to get angry. It’s even easier to spend your day quote-tweeting them to prove how wrong they are. But https://t.co/3BqUdqe5ff"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 150,
+          "like_count": 57847,
+          "listed_count": 6,
+          "media_count": 269,
+          "tweet_count": 4007
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-16T12:27:42.000Z",
+        "description": "",
+        "id": "1990033961725329408",
+        "name": "Ethan Brooks",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990034516409233408/CG-3zuB2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 74,
+          "following_count": 82,
+          "like_count": 2388,
+          "listed_count": 0,
+          "media_count": 258,
+          "tweet_count": 379
+        },
+        "username": "Ethan7978",
+        "verified": false
+      }
+    ]
+  }
+}

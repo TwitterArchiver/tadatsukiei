@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048229140676124672"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2048229145952518635",
+    "created_at": "2026-04-26T02:34:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-26T03:34:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048229145952518635"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AmA5Shjxem",
+          "end": 33,
+          "expanded_url": "https://x.com/tadatsukiei/status/2048229145952518635/photo/1",
+          "media_key": "3_2048229140676124672",
+          "start": 10,
+          "url": "https://t.co/AmA5Shjxem"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048229145952518635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "世上还是好人多啊（ https://t.co/AmA5Shjxem"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048229140676124672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGzFjSyaoAAdXS_.jpg",
+        "width": 1310
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048229140676124672"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2048229145952518635",
+        "created_at": "2026-04-26T02:34:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-26T03:34:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048229145952518635"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AmA5Shjxem",
+              "end": 33,
+              "expanded_url": "https://x.com/tadatsukiei/status/2048229145952518635/photo/1",
+              "media_key": "3_2048229140676124672",
+              "start": 10,
+              "url": "https://t.co/AmA5Shjxem"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048229145952518635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "世上还是好人多啊（ https://t.co/AmA5Shjxem"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 396,
+          "following_count": 408,
+          "like_count": 83346,
+          "listed_count": 7,
+          "media_count": 405,
+          "tweet_count": 5355
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

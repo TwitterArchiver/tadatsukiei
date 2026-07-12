@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2036679962129015000",
+    "created_at": "2026-03-25T12:34:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T13:34:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036783876551627241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1477156377844121601",
+          "start": 0,
+          "username": "lajimao740"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036783876551627241",
+    "in_reply_to_user_id": "1477156377844121601",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036742363171930544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lajimao740 我当然知道“大声说话”是人的基本权利，习近平这条恶狗才是祸首，可，明明没有恶意的举动却造成了伤害，我还是会觉得内疚。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2036679962129015000",
+        "created_at": "2026-03-25T12:34:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T13:34:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036783876551627241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1477156377844121601",
+              "start": 0,
+              "username": "lajimao740"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036783876551627241",
+        "in_reply_to_user_id": "1477156377844121601",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036742363171930544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lajimao740 我当然知道“大声说话”是人的基本权利，习近平这条恶狗才是祸首，可，明明没有恶意的举动却造成了伤害，我还是会觉得内疚。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1477156377844121601",
+        "conversation_id": "2036679962129015000",
+        "created_at": "2026-03-25T09:49:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T10:49:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036742363171930544"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036742363171930544",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 150,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036707109690310913",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 重點在於「沒罵」也被封"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 325,
+          "like_count": 75507,
+          "listed_count": 6,
+          "media_count": 335,
+          "tweet_count": 4748
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T05:55:09.000Z",
+        "description": "準備從11月26之後開始計畫，很有可能讓小粉紅崩潰",
+        "id": "1477156377844121601",
+        "name": "PurpleGuard1",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1477164051423952896/U69t9WIh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 833,
+          "like_count": 12818,
+          "listed_count": 1,
+          "media_count": 1772,
+          "tweet_count": 16151
+        },
+        "username": "lajimao740",
+        "verified": false
+      }
+    ]
+  }
+}

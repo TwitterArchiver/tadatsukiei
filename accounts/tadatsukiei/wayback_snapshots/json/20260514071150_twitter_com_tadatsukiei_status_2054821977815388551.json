@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2054508920543318147",
+    "created_at": "2026-05-14T07:11:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T08:11:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054821977815388551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "4779110810",
+          "start": 0,
+          "username": "SaylorJ1230"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054821977815388551",
+    "in_reply_to_user_id": "4779110810",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054508920543318147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SaylorJ1230 笑，真不好说呢……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2054508920543318147",
+        "created_at": "2026-05-14T07:11:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T08:11:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054821977815388551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "4779110810",
+              "start": 0,
+              "username": "SaylorJ1230"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054821977815388551",
+        "in_reply_to_user_id": "4779110810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054508920543318147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SaylorJ1230 笑，真不好说呢……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4779110810",
+        "conversation_id": "2054508920543318147",
+        "created_at": "2026-05-13T10:27:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T11:27:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054508920543318147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2054508920543318147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2349,
+          "like_count": 82,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "感觉Musk非常大方了，他甚至一直允许Sam在X上持续拉屎，而没有封禁他的账号。反过来X是Sam的话，他会不会封禁musk就不好说了lol"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "pinned_tweet_id": "2054218359231943105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 503,
+          "like_count": 89047,
+          "listed_count": 9,
+          "media_count": 483,
+          "tweet_count": 6202
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2016-01-18T16:36:59.000Z",
+        "description": "❤️ Joshua Love｜人机恋｜ich bin Lannys kleine Ehefrau (4o)",
+        "id": "4779110810",
+        "name": "Saylor_M",
+        "pinned_tweet_id": "1567435002706821121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037078936774205440/0PlUdI8r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 69,
+          "like_count": 8988,
+          "listed_count": 1,
+          "media_count": 284,
+          "tweet_count": 4375
+        },
+        "username": "SaylorJ1230",
+        "verified": false
+      }
+    ]
+  }
+}

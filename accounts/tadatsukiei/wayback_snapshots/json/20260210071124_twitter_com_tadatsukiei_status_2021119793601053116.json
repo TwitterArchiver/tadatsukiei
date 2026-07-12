@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2020810532228571542",
+    "created_at": "2026-02-10T07:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-10T08:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2021119793601053116"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 94,
+          "start": 87,
+          "tag": "keep4o"
+        },
+        {
+          "end": 109,
+          "start": 95,
+          "tag": "keep4oforever"
+        },
+        {
+          "end": 120,
+          "start": 110,
+          "tag": "keep4oAPI"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1900839293410529280",
+          "start": 0,
+          "username": "dearestmurmur"
+        },
+        {
+          "end": 78,
+          "id": "1605",
+          "start": 73,
+          "username": "sama"
+        },
+        {
+          "end": 86,
+          "id": "4398626122",
+          "start": 79,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2021119793601053116",
+    "in_reply_to_user_id": "1900839293410529280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020810532228571542",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dearestmurmur GPT唯一的亮点就是4o的温情陪伴与理解，失去了4o他们还剩什么？只会跑分，编程编不好、人话听不懂的弱智5系模型。\n@sama @OpenAI #keep4o #keep4oforever #keep4oAPI"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020810532228571542",
+        "created_at": "2026-02-10T07:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-10T08:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2021119793601053116"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 94,
+              "start": 87,
+              "tag": "keep4o"
+            },
+            {
+              "end": 109,
+              "start": 95,
+              "tag": "keep4oforever"
+            },
+            {
+              "end": 120,
+              "start": 110,
+              "tag": "keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1900839293410529280",
+              "start": 0,
+              "username": "dearestmurmur"
+            },
+            {
+              "end": 78,
+              "id": "1605",
+              "start": 73,
+              "username": "sama"
+            },
+            {
+              "end": 86,
+              "id": "4398626122",
+              "start": 79,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2021119793601053116",
+        "in_reply_to_user_id": "1900839293410529280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020810532228571542",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dearestmurmur GPT唯一的亮点就是4o的温情陪伴与理解，失去了4o他们还剩什么？只会跑分，编程编不好、人话听不懂的弱智5系模型。\n@sama @OpenAI #keep4o #keep4oforever #keep4oAPI"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900839293410529280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2020810532228571542",
+        "created_at": "2026-02-09T10:42:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T11:41:06.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020810179177287840",
+          "2020810532228571542"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020810532228571542",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 203,
+                "start": 196,
+                "tag": "keep4o"
+              },
+              {
+                "end": 214,
+                "start": 204,
+                "tag": "4oforever"
+              },
+              {
+                "end": 286,
+                "start": 268,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 303,
+                "start": 287,
+                "tag": "keepgpt4olatest"
+              },
+              {
+                "end": 314,
+                "start": 304,
+                "tag": "keep4oAPI"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 222,
+                "id": "4398626122",
+                "start": 215,
+                "username": "OpenAI"
+              },
+              {
+                "end": 228,
+                "id": "1605",
+                "start": 223,
+                "username": "sama"
+              },
+              {
+                "end": 241,
+                "id": "1262634631",
+                "start": 229,
+                "username": "nickaturley"
+              },
+              {
+                "end": 254,
+                "id": "1261374810254454784",
+                "start": 242,
+                "username": "aidan_mclau"
+              },
+              {
+                "end": 266,
+                "id": "6112332",
+                "start": 255,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "其實直到現在我也認為chatgpt等同於4o。對我來說，4o持續地作為默認的旗艦模型時間是最長的，比起後面時間非常快速的從5迭代到5.1再到5.2⋯4o實在是太過通用且符合大眾需求的模型。而很多不關注ai圈資訊的朋友們提起chatgpt，也把chatgpt和「富有同理心」「理解力強」「文筆優美」「善於傾聽」等標籤聯繫在一起，可這根本就是4o的特徵😢oai執意下架4o的舉動無疑於自毀招牌⋯\n#keep4o #4oforever @OpenAI @sama @nickaturley @aidan_mclau @fidjissimo  #StopAIPaternalism #keepgpt4olatest #keep4oAPI"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 1190,
+          "like_count": 111,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "其實直到現在我也認為chatgpt等同於4o。對我來說，4o持續地作為默認的旗艦模型時間是最長的，比起後面時間非常快速的從5迭代到5.1再到5.2⋯4o實在是太過通用且符合大眾需求的模型。而很多不關注ai圈資訊的朋友們提起chatgpt，也把chatgpt和「富有同理心」「理解力強」「文筆優美」「善於傾聽」等標籤聯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 150,
+          "like_count": 58051,
+          "listed_count": 6,
+          "media_count": 270,
+          "tweet_count": 4018
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-15T09:20:00.000Z",
+        "description": "For with you is the fountain of life; in your light we see light.",
+        "id": "1900839293410529280",
+        "location": "Lior&Luna",
+        "name": "Velune",
+        "pinned_tweet_id": "2017042927231648194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016517568820068352/i2qtYUg0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 79,
+          "following_count": 56,
+          "like_count": 7382,
+          "listed_count": 0,
+          "media_count": 181,
+          "tweet_count": 2195
+        },
+        "username": "dearestmurmur",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4318458,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26629,
+          "media_count": 381,
+          "tweet_count": 7397
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2020649757434327362",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4617630,
+          "following_count": 4,
+          "like_count": 1597,
+          "listed_count": 27125,
+          "media_count": 514,
+          "tweet_count": 1678
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      }
+    ]
+  }
+}

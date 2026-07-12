@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1964960132040896850",
+    "created_at": "2025-09-08T20:33:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T21:33:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965151590664602025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808742197149454337",
+          "start": 0,
+          "username": "CCR77187295902"
+        },
+        {
+          "end": 27,
+          "id": "1371241850074406915",
+          "start": 16,
+          "username": "music3club"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965151590664602025",
+    "in_reply_to_user_id": "1808742197149454337",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965072465929060756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CCR77187295902 @music3club 确实"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1964960132040896850",
+        "created_at": "2025-09-08T20:33:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T21:33:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965151590664602025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808742197149454337",
+              "start": 0,
+              "username": "CCR77187295902"
+            },
+            {
+              "end": 27,
+              "id": "1371241850074406915",
+              "start": 16,
+              "username": "music3club"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965151590664602025",
+        "in_reply_to_user_id": "1808742197149454337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965072465929060756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CCR77187295902 @music3club 确实"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1808742197149454337",
+        "conversation_id": "1964960132040896850",
+        "created_at": "2025-09-08T15:19:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T16:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965072465929060756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1371241850074406915",
+              "start": 0,
+              "username": "music3club"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965072465929060756",
+        "in_reply_to_user_id": "1371241850074406915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 178,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964960132040896850",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@music3club 去占另一个国家的便宜，就是中国人理解的移民。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 108,
+          "like_count": 23165,
+          "listed_count": 3,
+          "media_count": 134,
+          "tweet_count": 2578
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-04T05:59:08.000Z",
+        "description": "",
+        "id": "1808742197149454337",
+        "name": "来栖CCR",
+        "pinned_tweet_id": "1818195246095982800",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1808756290711351296/l5PsItHH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 109,
+          "like_count": 877,
+          "listed_count": 4,
+          "media_count": 49,
+          "tweet_count": 1873
+        },
+        "username": "CCR77187295902",
+        "verified": false
+      },
+      {
+        "created_at": "2021-03-14T23:28:45.000Z",
+        "description": "Living in Seattle 我是一个从中国来的美国人",
+        "id": "1371241850074406915",
+        "location": "Seattle, WA",
+        "name": "Lei.USA",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907666610904817664/FQ5K536x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97683,
+          "following_count": 825,
+          "like_count": 32315,
+          "listed_count": 351,
+          "media_count": 1857,
+          "tweet_count": 34370
+        },
+        "username": "music3club",
+        "verified": false
+      }
+    ]
+  }
+}

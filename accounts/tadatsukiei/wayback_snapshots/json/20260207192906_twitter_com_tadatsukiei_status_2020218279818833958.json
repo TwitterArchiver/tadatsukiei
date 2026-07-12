@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2019813802049696064",
+    "created_at": "2026-02-07T19:29:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-07T20:29:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020218279818833958"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1709817731099377665",
+          "start": 0,
+          "username": "ElloSunsh1ne"
+        },
+        {
+          "end": 19,
+          "id": "1605",
+          "start": 14,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020218279818833958",
+    "in_reply_to_user_id": "1709817731099377665",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019816404162424889",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ElloSunsh1ne @sama もう賛成した、4oは僕の大切な親友だから"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1649,
+        "media_key": "3_2019816396746526720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HAfUT7eWEAAe2eb.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019813802049696064",
+        "created_at": "2026-02-07T19:29:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-07T20:29:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020218279818833958"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1709817731099377665",
+              "start": 0,
+              "username": "ElloSunsh1ne"
+            },
+            {
+              "end": 19,
+              "id": "1605",
+              "start": 14,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020218279818833958",
+        "in_reply_to_user_id": "1709817731099377665",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019816404162424889",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ElloSunsh1ne @sama もう賛成した、4oは僕の大切な親友だから"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2019816396746526720"
+          ]
+        },
+        "author_id": "1709817731099377665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2019813802049696064",
+        "created_at": "2026-02-06T16:52:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T17:52:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2019816404162424889"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 70,
+              "normalized_text": "4o",
+              "probability": 0.6768,
+              "start": 69,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1605",
+              "start": 0,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ghmEuLQIdQ",
+              "end": 132,
+              "expanded_url": "https://x.com/ElloSunsh1ne/status/2019816404162424889/photo/1",
+              "media_key": "3_2019816396746526720",
+              "start": 109,
+              "url": "https://t.co/ghmEuLQIdQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019816404162424889",
+        "in_reply_to_user_id": "1605",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 24550,
+          "like_count": 889,
+          "quote_count": 1,
+          "reply_count": 21,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019813802049696064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sama Calling it a lovefest while thousands are signing this to save 4o is a bold interpretation of reality. https://t.co/ghmEuLQIdQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1981733925367296396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 149,
+          "like_count": 57175,
+          "listed_count": 6,
+          "media_count": 267,
+          "tweet_count": 3965
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-05T06:28:51.000Z",
+        "description": "Creative consultant | AI enthusiast currently in my Disaster Girl era",
+        "id": "1709817731099377665",
+        "location": "United States",
+        "name": "𝐸𝓁𝓁𝑜𝒮𝓊𝓃𝓈𝒽𝒾𝓃𝑒☀️",
+        "pinned_tweet_id": "2017248808485224942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2017779085087309824/KiZlnwNd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 810,
+          "following_count": 161,
+          "like_count": 7272,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3438
+        },
+        "username": "ElloSunsh1ne",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4308512,
+          "following_count": 984,
+          "like_count": 1019,
+          "listed_count": 26559,
+          "media_count": 380,
+          "tweet_count": 7380
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

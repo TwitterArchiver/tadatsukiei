@@ -1,0 +1,326 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1962807747633721469",
+    "created_at": "2025-09-02T20:09:18.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-02T21:09:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962971113740472474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "20845447",
+          "start": 0,
+          "username": "RFI_Cn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962971113740472474",
+    "in_reply_to_user_id": "20845447",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1962807747633721469",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RFI_Cn 全球法西斯是一家"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 61952,
+        "height": 1080,
+        "media_key": "13_1962807580473929728",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1962807580473929728/img/Ks-8sIpDJeHznD_z.jpg",
+        "public_metrics": {
+          "view_count": 205371
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962807580473929728/vid/avc1/1920x1080/nwJtvRnjkwEBjpMQ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962807580473929728/vid/avc1/1280x720/b9ln-qEqsq9GRIQ2.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1962807580473929728/pl/9HI4nM8q0jHhH4uw.m3u8?v=340"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962807580473929728/vid/avc1/640x360/WR8ATgHdf6cI46r5.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1962807580473929728/vid/avc1/480x270/shLSRrm7znvie6gj.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1962807747633721469",
+        "created_at": "2025-09-02T20:09:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T21:09:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962971113740472474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "20845447",
+              "start": 0,
+              "username": "RFI_Cn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962971113740472474",
+        "in_reply_to_user_id": "20845447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1962807747633721469",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RFI_Cn 全球法西斯是一家"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1962807580473929728"
+          ]
+        },
+        "author_id": "20845447",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1962807747633721469",
+        "created_at": "2025-09-02T09:20:08.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-02T10:20:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1962807747633721469"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LdAHVKNFWm",
+              "end": 95,
+              "expanded_url": "https://x.com/RFI_Cn/status/1962807747633721469/video/1",
+              "media_key": "13_1962807580473929728",
+              "start": 72,
+              "url": "https://t.co/LdAHVKNFWm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962807747633721469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 124,
+          "impression_count": 382858,
+          "like_count": 579,
+          "quote_count": 18,
+          "reply_count": 145,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "9月2日，习近平与普京在中南海茶叙。两人在一起散步时亲密交谈。普京将中俄关系比作“战友关系”，称：“当年我们并肩作战，如今我们依然携手同行。” https://t.co/LdAHVKNFWm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 104,
+          "like_count": 20987,
+          "listed_count": 2,
+          "media_count": 127,
+          "tweet_count": 2493
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2009-02-14T12:56:30.000Z",
+        "description": "法广RFI 中文通过多媒体互联网直播、播客、繁、简版文字、视频及社交平台全方位推出法国国内国外新闻时事、政治、经济文化专栏与专题节目。\n全球各地可以登陆\nhttps://t.co/DEERPt9y9B\n进入RFI中文网关注我们。\n🌍 https://t.co/MmsmrJmXnK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "rfi.global.ssl.fastly.net/cn/",
+                "end": 100,
+                "expanded_url": "https://rfi.global.ssl.fastly.net/cn/",
+                "start": 77,
+                "url": "https://t.co/DEERPt9y9B"
+              },
+              {
+                "display_url": "rfi.fr/cn/",
+                "end": 140,
+                "expanded_url": "http://rfi.fr/cn/",
+                "start": 117,
+                "url": "https://t.co/MmsmrJmXnK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rfi.fr/cn/",
+                "end": 23,
+                "expanded_url": "https://www.rfi.fr/cn/",
+                "start": 0,
+                "url": "https://t.co/9RHkiY6Spg"
+              }
+            ]
+          }
+        },
+        "id": "20845447",
+        "location": "法国 巴黎",
+        "name": "RFI 华语 - 法国国际广播电台",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875657284554113025/eSlvV5zv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1231817,
+          "following_count": 90,
+          "like_count": 9,
+          "listed_count": 4517,
+          "media_count": 96136,
+          "tweet_count": 137231
+        },
+        "url": "https://t.co/9RHkiY6Spg",
+        "username": "RFI_Cn",
+        "verified": true
+      }
+    ]
+  }
+}

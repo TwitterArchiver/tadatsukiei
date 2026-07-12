@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1980652485900661183",
+    "created_at": "2025-10-23T04:58:21.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T05:58:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981223646816616862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1507396901594820608",
+          "start": 0,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981223646816616862",
+    "in_reply_to_user_id": "1507396901594820608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1980652485900661183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hgds0 我的经济（马内）自由了～"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_1980652458272595970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G3yw6rbXoAILPku.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1980652485900661183",
+        "created_at": "2025-10-23T04:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T05:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981223646816616862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1507396901594820608",
+              "start": 0,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981223646816616862",
+        "in_reply_to_user_id": "1507396901594820608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1980652485900661183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hgds0 我的经济（马内）自由了～"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1980652458272595970"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "1980652485900661183",
+        "created_at": "2025-10-21T15:08:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-21T16:08:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1980652485900661183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOSBLun0E4",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/1980652485900661183/photo/1",
+              "media_key": "3_1980652458272595970",
+              "start": 0,
+              "url": "https://t.co/yOSBLun0E4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1980652485900661183",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 59,
+          "impression_count": 110937,
+          "like_count": 1760,
+          "quote_count": 8,
+          "reply_count": 9,
+          "retweet_count": 107
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/yOSBLun0E4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 110,
+          "like_count": 33366,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2962
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "推广自辩 /感谢你的关注 /接受投稿 过稿即回复 /作品观点不代表本人观点 仅供娱乐/部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "name": "恋",
+        "pinned_tweet_id": "1971459791269843266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92283,
+          "following_count": 2786,
+          "like_count": 43129,
+          "listed_count": 124,
+          "media_count": 2886,
+          "tweet_count": 7192
+        },
+        "username": "hgds0",
+        "verified": true
+      }
+    ]
+  }
+}

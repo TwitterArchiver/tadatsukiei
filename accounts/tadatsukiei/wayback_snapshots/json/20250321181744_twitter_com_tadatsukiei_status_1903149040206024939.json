@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1902967660519813584",
+    "created_at": "2025-03-21T18:17:44.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-21T19:17:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1903149040206024939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1588829429333037056",
+          "start": 0,
+          "username": "435hz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1903149040206024939",
+    "in_reply_to_user_id": "1588829429333037056",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1902967660519813584",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@435hz 我觉得，这正是我所渴望的自由"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1902967660519813584",
+        "created_at": "2025-03-21T18:17:44.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T19:17:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1903149040206024939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1588829429333037056",
+              "start": 0,
+              "username": "435hz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1903149040206024939",
+        "in_reply_to_user_id": "1588829429333037056",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1902967660519813584",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@435hz 我觉得，这正是我所渴望的自由"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1588829429333037056",
+        "conversation_id": "1902967660519813584",
+        "created_at": "2025-03-21T06:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-21T07:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1902967660519813584"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1902967660519813584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 5227,
+          "like_count": 92,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "北欧“去婚姻化”是真的么？\n这种挺好，终身可以谈恋爱。\n\n身边人普遍认为小时候被儒家思想洗脑了。认为男人要结婚生子，要养家负责。\n无论是北欧这种“去婚姻化”，还是黑人的快乐一生。也许才是最自由的人生。\n\n结婚不是必须的，生孩子不是必须的，负责任也不是必须的。快乐是必须的。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 63,
+          "like_count": 4634,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 1271
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-05T09:44:16.000Z",
+        "description": "三角眼观天下，覆船口吞乾坤。\n天纵英才，献忠回来。",
+        "id": "1588829429333037056",
+        "name": "章工",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1591818969236717569/q95i8uvS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105133,
+          "following_count": 70,
+          "like_count": 4417,
+          "listed_count": 597,
+          "media_count": 1614,
+          "tweet_count": 14877
+        },
+        "username": "435hz",
+        "verified": false
+      }
+    ]
+  }
+}

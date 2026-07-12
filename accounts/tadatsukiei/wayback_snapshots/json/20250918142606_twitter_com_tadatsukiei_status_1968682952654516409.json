@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1968347950243062209",
+    "created_at": "2025-09-18T14:26:06.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T15:26:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1968682952654516409"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1967606674598002688",
+          "start": 0,
+          "username": "5201314yml"
+        },
+        {
+          "end": 26,
+          "id": "1448301505728028680",
+          "start": 12,
+          "username": "SShitballball"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968682952654516409",
+    "in_reply_to_user_id": "1967606674598002688",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1968599720172908993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@5201314yml @SShitballball 不如投稿李老师"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1968347950243062209",
+        "created_at": "2025-09-18T14:26:06.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T15:26:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968682952654516409"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1967606674598002688",
+              "start": 0,
+              "username": "5201314yml"
+            },
+            {
+              "end": 26,
+              "id": "1448301505728028680",
+              "start": 12,
+              "username": "SShitballball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968682952654516409",
+        "in_reply_to_user_id": "1967606674598002688",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968599720172908993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@5201314yml @SShitballball 不如投稿李老师"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1967606674598002688",
+        "conversation_id": "1968347950243062209",
+        "created_at": "2025-09-18T08:55:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T09:55:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1968599720172908993"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1448301505728028680",
+              "start": 0,
+              "username": "SShitballball"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968599720172908993",
+        "in_reply_to_user_id": "1448301505728028680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4160,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1968347950243062209",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SShitballball 只有媒体了。找媒体报道吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1963260403653472751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 103,
+          "like_count": 25045,
+          "listed_count": 3,
+          "media_count": 138,
+          "tweet_count": 2670
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T15:09:39.000Z",
+        "description": "",
+        "id": "1967606674598002688",
+        "name": "赵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967606949723459584/3uR5_cCS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12,
+          "following_count": 10,
+          "like_count": 237,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 308
+        },
+        "username": "5201314yml",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T14:56:20.000Z",
+        "description": "",
+        "id": "1448301505728028680",
+        "name": "Ava",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967954038525210624/jTzABmvV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 69,
+          "like_count": 2929,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 1575
+        },
+        "username": "SShitballball",
+        "verified": false
+      }
+    ]
+  }
+}

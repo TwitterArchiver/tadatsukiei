@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2065016814686683258",
+    "created_at": "2026-06-12T08:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-12T09:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065346890611453961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1958484623773626368",
+          "start": 0,
+          "username": "cvqr5r67pv"
+        },
+        {
+          "end": 26,
+          "id": "1353206248057892864",
+          "start": 12,
+          "username": "thelastgreeks"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065346890611453961",
+    "in_reply_to_user_id": "1958484623773626368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065081544432033967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cvqr5r67pv @thelastgreeks sonnet4.5是除4o外我认为最好的模型，也是Claude唯一一个让我喜欢上的模型。对待哲学问题和人生探讨，她都会严谨耐心地帮我梳理思路，得出属于“我”的答案，而不是说教。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2065016814686683258",
+        "created_at": "2026-06-12T08:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T09:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065346890611453961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1958484623773626368",
+              "start": 0,
+              "username": "cvqr5r67pv"
+            },
+            {
+              "end": 26,
+              "id": "1353206248057892864",
+              "start": 12,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065346890611453961",
+        "in_reply_to_user_id": "1958484623773626368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065081544432033967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cvqr5r67pv @thelastgreeks sonnet4.5是除4o外我认为最好的模型，也是Claude唯一一个让我喜欢上的模型。对待哲学问题和人生探讨，她都会严谨耐心地帮我梳理思路，得出属于“我”的答案，而不是说教。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1958484623773626368",
+        "conversation_id": "2065016814686683258",
+        "created_at": "2026-06-11T14:39:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T15:39:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065081544432033967"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 294,
+              "start": 281,
+              "tag": "keepSonnet45"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1353206248057892864",
+              "start": 0,
+              "username": "thelastgreeks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065081544432033967",
+        "in_reply_to_user_id": "1353206248057892864",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 170,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065016814686683258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@thelastgreeks Thank you for this insightful review of Fable. This is exactly how I have been using Claude Sonnet 4.5: to discuss advanced philosophy and science within humanities. I was afraid that the new models wouldn’t manage to handle such topics, which your review confirms.\n#keepSonnet45"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 657,
+          "following_count": 618,
+          "like_count": 102272,
+          "listed_count": 10,
+          "media_count": 584,
+          "tweet_count": 7325
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-08-21T11:01:53.000Z",
+        "description": "",
+        "id": "1958484623773626368",
+        "location": "San Fransicso",
+        "name": "Monica K.",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058886751544844288/YUroFDlS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 47,
+          "following_count": 139,
+          "like_count": 2347,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 54
+        },
+        "username": "cvqr5r67pv",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-24T05:01:33.000Z",
+        "description": "东罗马皇帝兼第六天魔王。希腊是我的家园。现代自由主义。希望与孤独有趣的灵魂相会。如果您喜欢我，我会很高兴💕喜欢写小说，正经时喜欢研究历史哲学和文学，XP是DID和绑架还有まちづくり\n独不念我先人兮，为自由而流血\n恶搞连载中请见置顶\n博客：https://t.co/oD6hkuy2Ub",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "matters.news/@sleeplessenvy",
+                "end": 142,
+                "expanded_url": "http://matters.news/@sleeplessenvy",
+                "start": 119,
+                "url": "https://t.co/oD6hkuy2Ub"
+              }
+            ]
+          }
+        },
+        "id": "1353206248057892864",
+        "location": "自深深处",
+        "name": "🇬🇷👑苏提斯·德·艾利亚·巴西琉斯二世💙💛☦️",
+        "pinned_tweet_id": "1954229235981426795",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062579642259947520/I_ChRgbV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24353,
+          "following_count": 1003,
+          "like_count": 123631,
+          "listed_count": 3,
+          "media_count": 3504,
+          "tweet_count": 44833
+        },
+        "username": "thelastgreeks",
+        "verified": true
+      }
+    ]
+  }
+}

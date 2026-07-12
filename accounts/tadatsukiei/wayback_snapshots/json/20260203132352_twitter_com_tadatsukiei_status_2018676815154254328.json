@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2018676815154254328",
+    "created_at": "2026-02-03T13:23:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T14:23:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018676815154254328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1483992229",
+          "start": 3,
+          "username": "Run_1984_"
+        },
+        {
+          "end": 25,
+          "id": "811201583287439360",
+          "start": 15,
+          "username": "KUI__YANG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018676815154254328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018091896028143722",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Run_1984_: @KUI__YANG 理想主义者是目光长远的现实主义者"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2018676815154254328",
+        "created_at": "2026-02-03T13:23:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T14:23:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018676815154254328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1483992229",
+              "start": 3,
+              "username": "Run_1984_"
+            },
+            {
+              "end": 25,
+              "id": "811201583287439360",
+              "start": 15,
+              "username": "KUI__YANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018676815154254328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018091896028143722",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Run_1984_: @KUI__YANG 理想主义者是目光长远的现实主义者"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1483992229",
+        "conversation_id": "2018032755809104272",
+        "created_at": "2026-02-01T22:39:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-01T23:39:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018091896028143722"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "811201583287439360",
+              "start": 0,
+              "username": "KUI__YANG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018091896028143722",
+        "in_reply_to_user_id": "811201583287439360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2983,
+          "like_count": 72,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018032755809104272",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KUI__YANG 理想主义者是目光长远的现实主义者"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1981733925367296396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 137,
+          "like_count": 55726,
+          "listed_count": 6,
+          "media_count": 252,
+          "tweet_count": 3866
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2013-06-05T03:43:09.000Z",
+        "description": "",
+        "id": "1483992229",
+        "name": "Run",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921593934020739072/XCTOziuy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 954,
+          "like_count": 10947,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 2489
+        },
+        "username": "Run_1984_",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-20T13:28:23.000Z",
+        "description": "不虚度，不枉付。",
+        "id": "811201583287439360",
+        "location": "LOS ANGELES",
+        "name": "KUI YANG-葵阳先生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1046319665612447744/k6phbOeC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141124,
+          "following_count": 1343,
+          "like_count": 312944,
+          "listed_count": 447,
+          "media_count": 9247,
+          "tweet_count": 119149
+        },
+        "username": "KUI__YANG",
+        "verified": true
+      }
+    ]
+  }
+}

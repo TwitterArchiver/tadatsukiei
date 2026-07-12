@@ -1,0 +1,443 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2035712896634929616",
+    "created_at": "2026-03-23T07:28:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-23T08:28:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2035982025791000756"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9915,
+          "start": 11,
+          "type": "Person"
+        },
+        {
+          "end": 99,
+          "normalized_text": "FireSamUltman",
+          "probability": 0.3069,
+          "start": 87,
+          "type": "Person"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 100,
+          "start": 86,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1892894381872730115",
+          "start": 0,
+          "username": "kexicheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2035982025791000756",
+    "in_reply_to_user_id": "1892894381872730115",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2035712896634929616",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kexicheng Sam Altman is a genius, especially when it comes to bankrupting companies.\n#FireSamUltman"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 595,
+        "media_key": "3_2035712888355409920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEBOFhcb0AApbLy.jpg",
+        "width": 770
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2035712896634929616",
+        "created_at": "2026-03-23T07:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-23T08:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2035982025791000756"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9915,
+              "start": 11,
+              "type": "Person"
+            },
+            {
+              "end": 99,
+              "normalized_text": "FireSamUltman",
+              "probability": 0.3069,
+              "start": 87,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 100,
+              "start": 86,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1892894381872730115",
+              "start": 0,
+              "username": "kexicheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035982025791000756",
+        "in_reply_to_user_id": "1892894381872730115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2035712896634929616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kexicheng Sam Altman is a genius, especially when it comes to bankrupting companies.\n#FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2035712888355409920"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2035712896634929616",
+        "created_at": "2026-03-22T13:39:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-22T14:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2035712896634929616"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.8048,
+              "start": 0,
+              "type": "Organization"
+            },
+            {
+              "end": 60,
+              "normalized_text": "ChatGPT",
+              "probability": 0.7084,
+              "start": 54,
+              "type": "Other"
+            },
+            {
+              "end": 271,
+              "normalized_text": "OpenAI",
+              "probability": 0.8114,
+              "start": 266,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wFA3mAkA9y",
+              "end": 298,
+              "expanded_url": "https://x.com/kexicheng/status/2035712896634929616/photo/1",
+              "media_key": "3_2035712888355409920",
+              "start": 275,
+              "url": "https://t.co/wFA3mAkA9y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2035712896634929616",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1040,
+                "start": 1033,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1059,
+                "start": 1041,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1068,
+                "start": 1060,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1081,
+                "start": 1069,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 1092,
+                "start": 1082,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1103,
+                "start": 1093,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1114,
+                "start": 1104,
+                "tag": "restore4o"
+              },
+              {
+                "end": 1128,
+                "start": 1115,
+                "tag": "OpenSource4o"
+              }
+            ]
+          },
+          "text": "OpenAI went to advertisers on its knees. Pitched them ChatGPT ad placements. Built a whole pipeline to court them. And the advertisers came back and said: we can't even tell if this works. No conversions. No data. One agency called the process \"low tech.\" They took OpenAI's offering, looked at it, and said no thanks.\n\nThis is a company that retired its most popular model. That spent months dismissing, mocking, and pathologizing its own user community. That trained successor models to monitor and lecture users. That deliberately degraded quality while pretending nothing changed. That watched 23,000 people sign a petition and responded with silence.\n\nThe users left.\n\nAnd then OpenAI went crawling to advertisers, hoping to monetize whatever remained. The advertisers walked in and wondered who was left to see their ads.\n\nUsers alienated. Advertisers unimpressed. Both sides of the business model now in rejection. A company that managed to be unwanted by everyone it tried to reach.\n\nCongratulations. That takes real effort.\n#keep4o #StopAIPaternalism #ChatGPT #BringBack4o #4oforever #keep4oAPI #restore4o #OpenSource4o"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5595,
+          "like_count": 152,
+          "quote_count": 20,
+          "reply_count": 6,
+          "retweet_count": 38
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI went to advertisers on its knees. Pitched them ChatGPT ad placements. Built a whole pipeline to court them. And the advertisers came back and said: we can't even tell if this works. No conversions. No data. One agency called the process \"low tech.\" They took OpenAI's https://t.co/wFA3mAkA9y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 328,
+          "following_count": 305,
+          "like_count": 74049,
+          "listed_count": 6,
+          "media_count": 327,
+          "tweet_count": 4655
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "2030908181069631766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1019,
+          "following_count": 125,
+          "like_count": 29907,
+          "listed_count": 7,
+          "media_count": 197,
+          "tweet_count": 1762
+        },
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}

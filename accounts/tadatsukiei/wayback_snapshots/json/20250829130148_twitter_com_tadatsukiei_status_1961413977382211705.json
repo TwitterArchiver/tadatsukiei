@@ -1,0 +1,363 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1961401966896025964",
+    "created_at": "2025-08-29T13:01:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-29T14:01:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1961413977382211705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961413977382211705",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961401966896025964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 都说了是世界法西斯同盟大阅兵嘛，群“贤”毕至"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_1961399741700313088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhKrFKXEAAVTZS.jpg",
+        "width": 643
+      },
+      {
+        "height": 1215,
+        "media_key": "3_1961399783064473600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhKtfQWEAAH4JJ.jpg",
+        "width": 1571
+      },
+      {
+        "height": 671,
+        "media_key": "3_1961399795991334912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhKuPaWUAAFt1k.png",
+        "width": 893
+      },
+      {
+        "height": 694,
+        "media_key": "3_1961399807752192000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GzhKu7OWwAAOphw.jpg",
+        "width": 1345
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1961401966896025964",
+        "created_at": "2025-08-29T13:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T14:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1961413977382211705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961413977382211705",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961401966896025964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 都说了是世界法西斯同盟大阅兵嘛，群“贤”毕至"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1961399741700313088",
+            "3_1961399783064473600",
+            "3_1961399795991334912",
+            "3_1961399807752192000"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1961401966896025964",
+        "created_at": "2025-08-29T12:14:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-29T13:14:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961401966896025964"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ESrcl09Wps",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1961401966896025964/photo/1",
+              "media_key": "3_1961399741700313088",
+              "start": 146,
+              "url": "https://t.co/ESrcl09Wps"
+            },
+            {
+              "display_url": "pic.x.com/ESrcl09Wps",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1961401966896025964/photo/1",
+              "media_key": "3_1961399783064473600",
+              "start": 146,
+              "url": "https://t.co/ESrcl09Wps"
+            },
+            {
+              "display_url": "pic.x.com/ESrcl09Wps",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1961401966896025964/photo/1",
+              "media_key": "3_1961399795991334912",
+              "start": 146,
+              "url": "https://t.co/ESrcl09Wps"
+            },
+            {
+              "display_url": "pic.x.com/ESrcl09Wps",
+              "end": 169,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1961401966896025964/photo/1",
+              "media_key": "3_1961399807752192000",
+              "start": 146,
+              "url": "https://t.co/ESrcl09Wps"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/1960892353604149310",
+              "start": 170,
+              "url": "https://t.co/8HXgf8UVMs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961401966896025964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "据公开资料显示\n此次被习近平邀请参加9.3阅兵的印度尼西亚总统普拉博沃，曾在1998年参与策划了惨绝人寰的“印尼排华”事件。\n在这起事件中，大量华人被屠杀，每天有超过100起针对华人妇女的强奸事件。而时任陆军预备部司令的普拉博沃公开演讲，将仇恨引向华人，并和军方无视了暴民们对华人的所作所为\n而如今，普拉博沃在这次阅兵邀请名单上，排名第六。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 76,
+          "impression_count": 56996,
+          "like_count": 381,
+          "quote_count": 10,
+          "reply_count": 104,
+          "retweet_count": 70
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960892353604149310",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "据公开资料显示\n此次被习近平邀请参加9.3阅兵的印度尼西亚总统普拉博沃，曾在1998年参与策划了惨绝人寰的“印尼排华”事件。\n在这起事件中，大量华人被屠杀，每天有超过100起针对华人妇女的强奸事件。而时任陆军预备部司令的普拉博沃公开演讲，将仇恨引向华人，并和军方无视了暴民们对华人的所作所为 https://t.co/ESrcl09Wps https://t.co/8HXgf8UVMs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 105,
+          "like_count": 20084,
+          "listed_count": 2,
+          "media_count": 123,
+          "tweet_count": 2447
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com  \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花。\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 131,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 108,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "1946193970633040108",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1558667234855292929/RqgodvGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2086566,
+          "following_count": 982,
+          "like_count": 8001,
+          "listed_count": 8287,
+          "media_count": 34093,
+          "tweet_count": 40859
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

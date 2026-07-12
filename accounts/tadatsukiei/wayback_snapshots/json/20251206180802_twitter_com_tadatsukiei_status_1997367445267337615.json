@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1997076275782209992",
+    "created_at": "2025-12-06T18:08:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-06T19:08:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1997367445267337615"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1544827772681330689",
+          "start": 0,
+          "username": "aki_goodspeed"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1997367445267337615",
+    "in_reply_to_user_id": "1544827772681330689",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1997076275782209992",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aki_goodspeed 美しい〜"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1350,
+        "media_key": "3_1997076268530257923",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7cKSQcb0AMtxHb.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1997076275782209992",
+        "created_at": "2025-12-06T18:08:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-06T19:08:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1997367445267337615"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1544827772681330689",
+              "start": 0,
+              "username": "aki_goodspeed"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997367445267337615",
+        "in_reply_to_user_id": "1544827772681330689",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1997076275782209992",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aki_goodspeed 美しい〜"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1997076268530257923"
+          ]
+        },
+        "author_id": "1544827772681330689",
+        "conversation_id": "1997076275782209992",
+        "created_at": "2025-12-05T22:51:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-05T23:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1997076275782209992"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/htwmEjVJu1",
+              "end": 29,
+              "expanded_url": "https://x.com/aki_goodspeed/status/1997076275782209992/photo/1",
+              "media_key": "3_1997076268530257923",
+              "start": 6,
+              "url": "https://t.co/htwmEjVJu1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1997076275782209992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 210,
+          "impression_count": 81861,
+          "like_count": 10212,
+          "quote_count": 11,
+          "reply_count": 21,
+          "retweet_count": 705
+        },
+        "reply_settings": "everyone",
+        "text": "上も下も秋 https://t.co/htwmEjVJu1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 202,
+          "following_count": 122,
+          "like_count": 44213,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 3377
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-06T23:37:08.000Z",
+        "description": "Japan🇯🇵 / 色々な写真を撮っています🐸🐞🦌🌄🌅 / T&D HD ×東京カメラ部 フォトコン最優秀賞🏆 / Adobe Lightroom アンバサダー /",
+        "id": "1544827772681330689",
+        "name": "aki",
+        "pinned_tweet_id": "1992366258361418057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603614439030558720/PJgHxU-j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13129,
+          "following_count": 141,
+          "like_count": 13052,
+          "listed_count": 149,
+          "media_count": 523,
+          "tweet_count": 4319
+        },
+        "username": "aki_goodspeed",
+        "verified": true
+      }
+    ]
+  }
+}

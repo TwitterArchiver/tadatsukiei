@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2001882411165180119",
+    "created_at": "2025-12-19T08:24:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-12-19T09:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2001931567917338823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1257910808433922048",
+          "start": 0,
+          "username": "newsNZcn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2001931567917338823",
+    "in_reply_to_user_id": "1257910808433922048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001882411165180119",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@newsNZcn 它们算不算海里的百吨王？🤓"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 15982,
+        "height": 1280,
+        "media_key": "13_1810213897410097152",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1810213897410097152/img/dWYuwiUeWnkB5aSQ.jpg",
+        "public_metrics": {
+          "view_count": 3331466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1810213897410097152/vid/avc1/320x568/Uv_ko5OtRqp0z8O_.mp4?tag=16"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1810213897410097152/vid/avc1/480x852/6KAbtbNZKICaKjlo.mp4?tag=16"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1810213897410097152/vid/avc1/720x1280/ohtYhveRmO8XHKB7.mp4?tag=16"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1810213897410097152/pl/7WZMdDjgo9bG4psG.m3u8?tag=16&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2001882411165180119",
+        "created_at": "2025-12-19T08:24:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T09:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2001931567917338823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1257910808433922048",
+              "start": 0,
+              "username": "newsNZcn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001931567917338823",
+        "in_reply_to_user_id": "1257910808433922048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001882411165180119",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@newsNZcn 它们算不算海里的百吨王？🤓"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1810213897410097152"
+          ],
+          "media_source_tweet_id": [
+            "1810213974425887056"
+          ]
+        },
+        "author_id": "1257910808433922048",
+        "conversation_id": "2001882411165180119",
+        "created_at": "2025-12-19T05:08:54.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-19T06:08:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2001882411165180119"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6aspLKqtaG",
+              "end": 95,
+              "expanded_url": "https://x.com/i/status/1810213974425887056/video/1",
+              "media_key": "13_1810213897410097152",
+              "start": 72,
+              "url": "https://t.co/6aspLKqtaG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2001882411165180119",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 18274,
+          "like_count": 56,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "最大的恐龙重约 85 吨。\n\n而雄性蓝鲸体重可达 200 吨。\n\n蓝鲸的心脏宽约 1.8 米，重约 180 公斤。\n\n它们是地球上最大的动物。 https://t.co/6aspLKqtaG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000396347745452032/CTsw_5VU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 207,
+          "following_count": 123,
+          "like_count": 47418,
+          "listed_count": 7,
+          "media_count": 225,
+          "tweet_count": 3512
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-06T05:51:54.000Z",
+        "description": "天地奇闻，古今趣谈。♨️ \n\n▫️轻度内容创作者。✍️\n\n▫️X 文大多搜集于网络。欢迎发现并纠正错误。🙏\n\n（Stories, Pictures, Videos for Mystery, Novelty, and Fantasy.）\n\n▫️DM for removal or credit. ©️",
+        "id": "1257910808433922048",
+        "location": "NZ",
+        "name": "环球猎奇🏅",
+        "pinned_tweet_id": "2001792453649797179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1269197501799620609/qG1L0Xrk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160741,
+          "following_count": 6,
+          "like_count": 42314,
+          "listed_count": 482,
+          "media_count": 11304,
+          "tweet_count": 16525
+        },
+        "username": "newsNZcn",
+        "verified": true
+      }
+    ]
+  }
+}

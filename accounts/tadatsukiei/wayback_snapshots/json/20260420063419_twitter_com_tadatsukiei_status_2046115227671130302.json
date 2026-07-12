@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2046115227671130302",
+    "created_at": "2026-04-20T06:34:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T07:34:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046115227671130302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752538285459795968",
+          "start": 3,
+          "username": "tadatsukiei"
+        },
+        {
+          "end": 26,
+          "id": "189383149",
+          "start": 17,
+          "username": "AraRuisu"
+        },
+        {
+          "end": 43,
+          "id": "1640674561980260354",
+          "start": 27,
+          "username": "NmsleseResearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046115227671130302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046115152471445686",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tadatsukiei: @AraRuisu @NmsleseResearch 问你自己的良心，愿意拉几个灵魂下来受苦。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2046115227671130302",
+        "created_at": "2026-04-20T06:34:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:34:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046115227671130302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752538285459795968",
+              "start": 3,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 26,
+              "id": "189383149",
+              "start": 17,
+              "username": "AraRuisu"
+            },
+            {
+              "end": 43,
+              "id": "1640674561980260354",
+              "start": 27,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046115227671130302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046115152471445686",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tadatsukiei: @AraRuisu @NmsleseResearch 问你自己的良心，愿意拉几个灵魂下来受苦。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2046086109231509676",
+        "created_at": "2026-04-20T06:34:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T07:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046115152471445686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "189383149",
+              "start": 0,
+              "username": "AraRuisu"
+            },
+            {
+              "end": 26,
+              "id": "1640674561980260354",
+              "start": 10,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046115152471445686",
+        "in_reply_to_user_id": "189383149",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046087773535510746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AraRuisu @NmsleseResearch 问你自己的良心，愿意拉几个灵魂下来受苦。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 390,
+          "following_count": 386,
+          "like_count": 81700,
+          "listed_count": 7,
+          "media_count": 390,
+          "tweet_count": 5210
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2010-09-11T03:11:45.000Z",
+        "description": "I am a fungi.",
+        "id": "189383149",
+        "name": "Grrr様",
+        "pinned_tweet_id": "1972199521880039613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1732008503315922944/sqkxac6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 183,
+          "like_count": 10320,
+          "listed_count": 6,
+          "media_count": 132,
+          "tweet_count": 5725
+        },
+        "username": "AraRuisu",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "location": "Nmslese City",
+        "name": "🐻老大🔬兔友研究院Bot",
+        "pinned_tweet_id": "2006585531392827397",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16857,
+          "following_count": 2746,
+          "like_count": 442069,
+          "listed_count": 72,
+          "media_count": 9043,
+          "tweet_count": 25140
+        },
+        "username": "NmsleseResearch",
+        "verified": false
+      }
+    ]
+  }
+}

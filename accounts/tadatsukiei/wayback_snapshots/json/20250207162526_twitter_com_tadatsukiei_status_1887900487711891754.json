@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1887791076225826877",
+    "created_at": "2025-02-07T16:25:26.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-07T17:25:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1887900487711891754"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1666421502357405696",
+          "start": 0,
+          "username": "555puppy030"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1887900487711891754",
+    "in_reply_to_user_id": "1666421502357405696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887791076225826877",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@555puppy030 别哭了，我关注你了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1887791076225826877",
+        "created_at": "2025-02-07T16:25:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T17:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1887900487711891754"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1666421502357405696",
+              "start": 0,
+              "username": "555puppy030"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1887900487711891754",
+        "in_reply_to_user_id": "1666421502357405696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887791076225826877",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@555puppy030 别哭了，我关注你了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1666421502357405696",
+        "conversation_id": "1887791076225826877",
+        "created_at": "2025-02-07T09:10:40.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-07T10:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1887791076225826877"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1887791076225826877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 233,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我再也不会发照片了，发完照片我掉了三个粉丝。我一直在哭。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 51,
+          "like_count": 2427,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 889
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-07T12:27:13.000Z",
+        "description": "你倒霉了这么久 我终于可以把你捧在手心里了｜isfj",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/uu_0104",
+                "end": 23,
+                "expanded_url": "https://ngl.link/uu_0104",
+                "start": 0,
+                "url": "https://t.co/w4KjrJzJXx"
+              }
+            ]
+          }
+        },
+        "id": "1666421502357405696",
+        "location": "匿名箱ovo →",
+        "name": "uu",
+        "pinned_tweet_id": "1886441618904908142",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1881162619869974528/au-aNMqE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 227,
+          "following_count": 48,
+          "like_count": 711,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 158
+        },
+        "url": "https://t.co/w4KjrJzJXx",
+        "username": "555puppy030",
+        "verified": false
+      }
+    ]
+  }
+}

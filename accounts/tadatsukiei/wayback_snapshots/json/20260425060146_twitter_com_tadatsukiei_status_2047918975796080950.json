@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2047884886724481248",
+    "created_at": "2026-04-25T06:01:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T07:01:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047918975796080950"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1581478431274983424",
+          "start": 0,
+          "username": "yoyobewild"
+        },
+        {
+          "end": 23,
+          "id": "1261868309852549120",
+          "start": 12,
+          "username": "cyborgIORI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047918975796080950",
+    "in_reply_to_user_id": "1581478431274983424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047884886724481248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoyobewild @cyborgIORI 没人性的畜生"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2047884875710287872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGuMcb2bUAAwhP6.jpg",
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2047884886724481248",
+        "created_at": "2026-04-25T06:01:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T07:01:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047918975796080950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1581478431274983424",
+              "start": 0,
+              "username": "yoyobewild"
+            },
+            {
+              "end": 23,
+              "id": "1261868309852549120",
+              "start": 12,
+              "username": "cyborgIORI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047918975796080950",
+        "in_reply_to_user_id": "1581478431274983424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047884886724481248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoyobewild @cyborgIORI 没人性的畜生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047884875710287872"
+          ]
+        },
+        "author_id": "1581478431274983424",
+        "conversation_id": "2047884886724481248",
+        "created_at": "2026-04-25T03:46:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047884886724481248"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oi7otbH7gd",
+              "end": 38,
+              "expanded_url": "https://x.com/yoyobewild/status/2047884886724481248/photo/1",
+              "media_key": "3_2047884875710287872",
+              "start": 15,
+              "url": "https://t.co/oi7otbH7gd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047884886724481248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 5224,
+          "like_count": 236,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "深圳警察衙门式的“配合调查” https://t.co/oi7otbH7gd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2044490761618788385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 392,
+          "following_count": 406,
+          "like_count": 83005,
+          "listed_count": 7,
+          "media_count": 399,
+          "tweet_count": 5329
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-16T02:53:47.000Z",
+        "description": "🌈女同，女权，友跨友双，LGBT支持者，混乱中立，不属于任何阵营。",
+        "id": "1581478431274983424",
+        "name": "悠悠的信",
+        "pinned_tweet_id": "2013221589114839211",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990676879624572928/JaJp2kTP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4759,
+          "following_count": 191,
+          "like_count": 37265,
+          "listed_count": 18,
+          "media_count": 384,
+          "tweet_count": 8060
+        },
+        "username": "yoyobewild",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-17T03:57:22.000Z",
+        "description": "technoDJ、visual programming 、generative artist based in Hangzhou,Zhejiang Province",
+        "id": "1261868309852549120",
+        "name": "tekkNoo",
+        "pinned_tweet_id": "2044493196164796757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1976150646794616835/CW8zzMdN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3589,
+          "following_count": 1014,
+          "like_count": 10621,
+          "listed_count": 13,
+          "media_count": 562,
+          "tweet_count": 11195
+        },
+        "username": "cyborgIORI",
+        "verified": false
+      }
+    ]
+  }
+}

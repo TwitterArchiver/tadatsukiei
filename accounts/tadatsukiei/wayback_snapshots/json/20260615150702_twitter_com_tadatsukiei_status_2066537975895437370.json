@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2066392760261685581",
+    "created_at": "2026-06-15T15:07:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T16:07:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066537975895437370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066537975895437370",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066392760261685581",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 这谁能绷住？🤣"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 570,
+        "media_key": "3_2066276343881297920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzjYxzWcAAnDXh.jpg",
+        "width": 931
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2066276343847772160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzjYxrW4AAQQp-.jpg",
+        "width": 600
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2066276343856144384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzjYxtWoAAvaLK.jpg",
+        "width": 600
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2066276343902240768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKzjYx4WAAAy5sK.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2066392760261685581",
+        "created_at": "2026-06-15T15:07:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T16:07:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066537975895437370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066537975895437370",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066392760261685581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 这谁能绷住？🤣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066276343881297920",
+            "3_2066276343847772160",
+            "3_2066276343856144384",
+            "3_2066276343902240768"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2066392760261685581",
+        "created_at": "2026-06-15T05:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T06:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066392760261685581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uv4UxhUPBC",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066392760261685581/photo/1",
+              "media_key": "3_2066276343881297920",
+              "start": 79,
+              "url": "https://t.co/uv4UxhUPBC"
+            },
+            {
+              "display_url": "pic.x.com/uv4UxhUPBC",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066392760261685581/photo/1",
+              "media_key": "3_2066276343847772160",
+              "start": 79,
+              "url": "https://t.co/uv4UxhUPBC"
+            },
+            {
+              "display_url": "pic.x.com/uv4UxhUPBC",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066392760261685581/photo/1",
+              "media_key": "3_2066276343856144384",
+              "start": 79,
+              "url": "https://t.co/uv4UxhUPBC"
+            },
+            {
+              "display_url": "pic.x.com/uv4UxhUPBC",
+              "end": 102,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2066392760261685581/photo/1",
+              "media_key": "3_2066276343902240768",
+              "start": 79,
+              "url": "https://t.co/uv4UxhUPBC"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 126,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2065388655435207119",
+              "start": 103,
+              "url": "https://t.co/zH1EKiUwXd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066392760261685581",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "官方媒体集中刊发“人权”宣传稿\n\n6月11日至12日，多家中国官方媒体集中刊发有关“人权”的宣传报道，重点围绕习近平关于“人民幸福是最大的人权”的论述展开。\n\n其中，标题为“习近平：人民幸福是最大的人权”的文章受到广泛转载，党建网也转载了中国新闻网的稿件《习言道｜人民幸福生活是最大的人权》。相关报道普遍强调“尊重和保障人权”，并称“中国的人权保障没有最好，只有更好”。\n\n此次集中宣传的背景是“2026·全球人权治理高端论坛”于6月11日起在北京举行，同时中国官方近期发布了《国家人权行动计划（2026－2030年）》。官方媒体在报道中表示，中国将继续推进人权事业发展，提升人民群众获得感、幸福感和安全感。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 131347,
+          "like_count": 308,
+          "quote_count": 6,
+          "reply_count": 153,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065388655435207119",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "官方媒体集中刊发“人权”宣传稿\n\n6月11日至12日，多家中国官方媒体集中刊发有关“人权”的宣传报道，重点围绕习近平关于“人民幸福是最大的人权”的论述展开。 https://t.co/uv4UxhUPBC https://t.co/zH1EKiUwXd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2064773450473120053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 670,
+          "following_count": 625,
+          "like_count": 103452,
+          "listed_count": 10,
+          "media_count": 598,
+          "tweet_count": 7433
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236647,
+          "following_count": 1070,
+          "like_count": 9702,
+          "listed_count": 8790,
+          "media_count": 48637,
+          "tweet_count": 55797
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

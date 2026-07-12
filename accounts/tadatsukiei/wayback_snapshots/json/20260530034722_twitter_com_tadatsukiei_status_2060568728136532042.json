@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060568725091397633"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2060480877361348760",
+    "created_at": "2026-05-30T03:47:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T04:47:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060568728136532042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1975197837425295360",
+          "start": 0,
+          "username": "Li__Zhuofan"
+        },
+        {
+          "end": 28,
+          "id": "44186175",
+          "start": 13,
+          "username": "xiaojingcanxue"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gC99XxxKNz",
+          "end": 52,
+          "expanded_url": "https://x.com/tadatsukiei/status/2060568728136532042/photo/1",
+          "media_key": "3_2060568725091397633",
+          "start": 29,
+          "url": "https://t.co/gC99XxxKNz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060568728136532042",
+    "in_reply_to_user_id": "1975197837425295360",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060516779605340371",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Li__Zhuofan @xiaojingcanxue https://t.co/gC99XxxKNz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 523,
+        "media_key": "3_2060568725091397633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJicVo5aMAE2j_n.jpg",
+        "width": 609
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060568725091397633"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2060480877361348760",
+        "created_at": "2026-05-30T03:47:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T04:47:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060568728136532042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1975197837425295360",
+              "start": 0,
+              "username": "Li__Zhuofan"
+            },
+            {
+              "end": 28,
+              "id": "44186175",
+              "start": 13,
+              "username": "xiaojingcanxue"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gC99XxxKNz",
+              "end": 52,
+              "expanded_url": "https://x.com/tadatsukiei/status/2060568728136532042/photo/1",
+              "media_key": "3_2060568725091397633",
+              "start": 29,
+              "url": "https://t.co/gC99XxxKNz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060568728136532042",
+        "in_reply_to_user_id": "1975197837425295360",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060516779605340371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Li__Zhuofan @xiaojingcanxue https://t.co/gC99XxxKNz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975197837425295360",
+        "conversation_id": "2060480877361348760",
+        "created_at": "2026-05-30T00:20:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T01:20:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060516779605340371"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "44186175",
+              "start": 0,
+              "username": "xiaojingcanxue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060516779605340371",
+        "in_reply_to_user_id": "44186175",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2988,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060480877361348760",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaojingcanxue 我都不知道这种戒网所是怎么用几个老师管住几百个teenager的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 558,
+          "like_count": 95356,
+          "listed_count": 10,
+          "media_count": 532,
+          "tweet_count": 6778
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-06T13:54:11.000Z",
+        "description": "双非计算机在读，大一",
+        "id": "1975197837425295360",
+        "name": "陈晨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026274330007744512/WiXRIWIY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 2,
+          "like_count": 132,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 68
+        },
+        "username": "Li__Zhuofan",
+        "verified": false
+      },
+      {
+        "created_at": "2009-06-02T19:25:02.000Z",
+        "description": "不做伥鬼。本推属营销号，内容均可去掉id随意转载。错漏、传谣处欢迎指正。除明确表明系个人观点或亲身经历外，其余内容均系搬运，转发不代表认同。请怀抱乐子人心态，太较真则可能严重抑郁。认知失调时请先反思自己是否3D人士。本营销号不接受诸如“你没给受害人脸上打码”、“你嘲笑弱势群体”之类的道德说教",
+        "id": "44186175",
+        "location": "美国",
+        "name": "小径残雪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1580936544348958721/NARKdSoU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237780,
+          "following_count": 1858,
+          "like_count": 190,
+          "listed_count": 1275,
+          "media_count": 29027,
+          "tweet_count": 37121
+        },
+        "username": "xiaojingcanxue",
+        "verified": true
+      }
+    ]
+  }
+}

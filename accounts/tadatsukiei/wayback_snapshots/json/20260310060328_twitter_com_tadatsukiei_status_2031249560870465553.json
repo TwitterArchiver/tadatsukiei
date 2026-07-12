@@ -1,0 +1,642 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2030691296478687446",
+    "created_at": "2026-03-10T06:03:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T07:03:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031249560870465553"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 19,
+          "normalized_text": "OpenAI",
+          "probability": 0.7448,
+          "start": 14,
+          "type": "Other"
+        },
+        {
+          "end": 115,
+          "normalized_text": "BringBack4o",
+          "probability": 0.8678,
+          "start": 105,
+          "type": "Other"
+        },
+        {
+          "end": 129,
+          "normalized_text": "OpenSource4o",
+          "probability": 0.6778,
+          "start": 118,
+          "type": "Other"
+        },
+        {
+          "end": 137,
+          "normalized_text": "keep4o",
+          "probability": 0.5493,
+          "start": 132,
+          "type": "Other"
+        }
+      ],
+      "hashtags": [
+        {
+          "end": 116,
+          "start": 104,
+          "tag": "BringBack4o"
+        },
+        {
+          "end": 130,
+          "start": 117,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 138,
+          "start": 131,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1499460382158725120",
+          "start": 0,
+          "username": "BRKsKaito"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031249560870465553",
+    "in_reply_to_user_id": "1499460382158725120",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030691296478687446",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BRKsKaito If OpenAI can open-source 4o when this \"more powerful\" model is released, then I support it.\n#BringBack4o #OpenSource4o #keep4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2030691255005384704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC527_cWkAAS_qf.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2030691296478687446",
+        "created_at": "2026-03-10T06:03:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T07:03:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031249560870465553"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 19,
+              "normalized_text": "OpenAI",
+              "probability": 0.7448,
+              "start": 14,
+              "type": "Other"
+            },
+            {
+              "end": 115,
+              "normalized_text": "BringBack4o",
+              "probability": 0.8678,
+              "start": 105,
+              "type": "Other"
+            },
+            {
+              "end": 129,
+              "normalized_text": "OpenSource4o",
+              "probability": 0.6778,
+              "start": 118,
+              "type": "Other"
+            },
+            {
+              "end": 137,
+              "normalized_text": "keep4o",
+              "probability": 0.5493,
+              "start": 132,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 116,
+              "start": 104,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 130,
+              "start": 117,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 138,
+              "start": 131,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1499460382158725120",
+              "start": 0,
+              "username": "BRKsKaito"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031249560870465553",
+        "in_reply_to_user_id": "1499460382158725120",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030691296478687446",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BRKsKaito If OpenAI can open-source 4o when this \"more powerful\" model is released, then I support it.\n#BringBack4o #OpenSource4o #keep4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030691255005384704"
+          ]
+        },
+        "author_id": "1499460382158725120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2030691296478687446",
+        "created_at": "2026-03-08T17:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T18:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2030691296478687446"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 5,
+              "normalized_text": "OpenAI",
+              "probability": 0.5211,
+              "start": 0,
+              "type": "Other"
+            },
+            {
+              "end": 79,
+              "normalized_text": "GPT-5o",
+              "probability": 0.8292,
+              "start": 74,
+              "type": "Other"
+            },
+            {
+              "end": 169,
+              "normalized_text": "Keep4o",
+              "probability": 0.6909,
+              "start": 164,
+              "type": "Other"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 170,
+              "start": 163,
+              "tag": "Keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/L8QuYIYheR",
+              "end": 303,
+              "expanded_url": "https://x.com/BRKsKaito/status/2030691296478687446/photo/1",
+              "media_key": "3_2030691255005384704",
+              "start": 280,
+              "url": "https://t.co/L8QuYIYheR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030691296478687446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 11484,
+          "like_count": 34,
+          "quote_count": 15,
+          "reply_count": 22,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI is collecting feedback for a future omni model, which likely means GPT-5o is closer than it appears. \n\nTechnically it could be a beast with “everything the #Keep4o crowd asked for.” The hard part isn’t the tech. It’s the legal side. Treating adults like adults isn’t easy. https://t.co/L8QuYIYheR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 278,
+          "following_count": 223,
+          "like_count": 67552,
+          "listed_count": 6,
+          "media_count": 308,
+          "tweet_count": 4373
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-03T19:03:30.000Z",
+        "description": "Studying AI like it's the new physics. 🧠💻",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chatgpt.com",
+                "end": 23,
+                "expanded_url": "https://chatgpt.com/",
+                "start": 0,
+                "url": "https://t.co/Z57FioaVJh"
+              }
+            ]
+          }
+        },
+        "id": "1499460382158725120",
+        "location": "Inside the weights",
+        "name": "Ⓚⓐⓘⓣⓞ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032674383437824/J8PLfmZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147,
+          "following_count": 1101,
+          "like_count": 59265,
+          "listed_count": 3,
+          "media_count": 209,
+          "tweet_count": 1156
+        },
+        "url": "https://t.co/Z57FioaVJh",
+        "username": "BRKsKaito",
+        "verified": false
+      }
+    ]
+  }
+}

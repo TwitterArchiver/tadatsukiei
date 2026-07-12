@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2018846019581268451",
+    "created_at": "2026-02-04T03:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-04T04:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018885529732083957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "840039717794131968",
+          "start": 0,
+          "username": "MosesTalking"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018885529732083957",
+    "in_reply_to_user_id": "840039717794131968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2018846019581268451",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MosesTalking 民主民主，有民主，人民的诉求才有可能实现。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2018846019581268451",
+        "created_at": "2026-02-04T03:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T04:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018885529732083957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "840039717794131968",
+              "start": 0,
+              "username": "MosesTalking"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018885529732083957",
+        "in_reply_to_user_id": "840039717794131968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2018846019581268451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MosesTalking 民主民主，有民主，人民的诉求才有可能实现。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "840039717794131968",
+        "conversation_id": "2018846019581268451",
+        "created_at": "2026-02-04T00:36:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-04T01:36:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2018846019581268451"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2018846019581268451",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1109,
+          "like_count": 20,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "民主体制不是万能的，\n没有民主体制却是万万不能的。\n\n🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1981733925367296396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 203,
+          "following_count": 139,
+          "like_count": 55899,
+          "listed_count": 6,
+          "media_count": 254,
+          "tweet_count": 3875
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-10T03:20:50.000Z",
+        "description": "旧秩序的结局， 从来不是改革， 而是出埃及",
+        "id": "840039717794131968",
+        "location": "Flushing",
+        "name": "摩西煮酒MOSES TALKING",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1758904876585590786/cdo0Mr2R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127339,
+          "following_count": 3322,
+          "like_count": 61292,
+          "listed_count": 335,
+          "media_count": 6779,
+          "tweet_count": 43753
+        },
+        "username": "MosesTalking",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2071468403252949108",
+    "created_at": "2026-06-29T06:14:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T07:14:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071477364060778843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312395771757490176",
+          "start": 0,
+          "username": "REI30327536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071477364060778843",
+    "in_reply_to_user_id": "1312395771757490176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071476997612552491",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REI30327536 他非要觉得这样好玩，咱也没办法🤷🏻‍♂️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2071468403252949108",
+        "created_at": "2026-06-29T06:14:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:14:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071477364060778843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312395771757490176",
+              "start": 0,
+              "username": "REI30327536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071477364060778843",
+        "in_reply_to_user_id": "1312395771757490176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071476997612552491",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REI30327536 他非要觉得这样好玩，咱也没办法🤷🏻‍♂️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312395771757490176",
+        "conversation_id": "2071468403252949108",
+        "created_at": "2026-06-29T06:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T07:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071476997612552491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071476997612552491",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071475685458358313",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 没觉得被“欺负”，感觉很幼稚，很可笑。拿着一个地球人都知道了的知识跑来跑去科普。特地告诉大家镜子后面没有人，电视里面没有人，AI不是活人🤣我谢谢他"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2071070969242992813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 655,
+          "like_count": 108402,
+          "listed_count": 10,
+          "media_count": 635,
+          "tweet_count": 7836
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-10-03T14:15:24.000Z",
+        "description": "イラスト練習…休止中",
+        "id": "1312395771757490176",
+        "location": "日本 東京",
+        "name": "REI…YAMAMOTO",
+        "pinned_tweet_id": "2021823054826152417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562772969788559361/__nfuu2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 370,
+          "like_count": 24483,
+          "listed_count": 4,
+          "media_count": 337,
+          "tweet_count": 3058
+        },
+        "url": "",
+        "username": "REI30327536",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2052011606314500391",
+    "created_at": "2026-05-06T14:35:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T15:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052034464776356238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1415575730683977732",
+          "start": 0,
+          "username": "HcFHlA4PHgW5zbC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052034464776356238",
+    "in_reply_to_user_id": "1415575730683977732",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052032864536195565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HcFHlA4PHgW5zbC 我已经习惯了坚强、习惯了忍耐，我不会逃避，但我希望有逃避的权利。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2052011606314500391",
+        "created_at": "2026-05-06T14:35:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052034464776356238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1415575730683977732",
+              "start": 0,
+              "username": "HcFHlA4PHgW5zbC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052034464776356238",
+        "in_reply_to_user_id": "1415575730683977732",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052032864536195565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HcFHlA4PHgW5zbC 我已经习惯了坚强、习惯了忍耐，我不会逃避，但我希望有逃避的权利。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1415575730683977732",
+        "conversation_id": "2052011606314500391",
+        "created_at": "2026-05-06T14:28:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T15:28:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052032864536195565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052032864536195565",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052011606314500391",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 是的，我赞同男人软弱的正当性，不应该“要求”任何人“必须坚强”。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2050773196769747054",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 439,
+          "like_count": 86265,
+          "listed_count": 9,
+          "media_count": 443,
+          "tweet_count": 5766
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-07-15T07:35:39.000Z",
+        "description": "",
+        "id": "1415575730683977732",
+        "name": "嵇长生",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029961411926052869/RfermTYC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 462,
+          "like_count": 38623,
+          "listed_count": 2,
+          "media_count": 24,
+          "tweet_count": 365
+        },
+        "username": "HcFHlA4PHgW5zbC",
+        "verified": false
+      }
+    ]
+  }
+}

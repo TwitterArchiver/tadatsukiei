@@ -1,0 +1,332 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Philosophy",
+          "id": "1047111740322865153",
+          "name": "Philosophy"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278093262406815744",
+          "name": "Fields of study"
+        }
+      }
+    ],
+    "conversation_id": "2059301904535146532",
+    "created_at": "2026-05-26T15:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T16:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059301904535146532"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1752538285459795968",
+          "start": 3,
+          "username": "tadatsukiei"
+        },
+        {
+          "end": 28,
+          "id": "1911391074104274944",
+          "start": 17,
+          "username": "Elune_Wren"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059301904535146532",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059301476430938265",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tadatsukiei: @Elune_Wren 看到那些对人文社科一窍不通的理工男夸夸其谈我就头疼。\n哲学是门槛极低的学科，人人都可以对其大放厥词，而且它的评判许多时候是看说话人的社会地位，而非专业知识。所以你能看到Sam、Dario这样的家伙妄自定义人类幸福、亲密关…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2059301904535146532",
+        "created_at": "2026-05-26T15:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059301904535146532"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1752538285459795968",
+              "start": 3,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 28,
+              "id": "1911391074104274944",
+              "start": 17,
+              "username": "Elune_Wren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059301904535146532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059301476430938265",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tadatsukiei: @Elune_Wren 看到那些对人文社科一窍不通的理工男夸夸其谈我就头疼。\n哲学是门槛极低的学科，人人都可以对其大放厥词，而且它的评判许多时候是看说话人的社会地位，而非专业知识。所以你能看到Sam、Dario这样的家伙妄自定义人类幸福、亲密关…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Philosophy",
+              "id": "1047111740322865153",
+              "name": "Philosophy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278093262406815744",
+              "name": "Fields of study"
+            }
+          }
+        ],
+        "conversation_id": "2059131481457561764",
+        "created_at": "2026-05-26T15:51:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T16:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059301476430938265"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1911391074104274944",
+              "start": 0,
+              "username": "Elune_Wren"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059301476430938265",
+        "in_reply_to_user_id": "1911391074104274944",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059131481457561764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Elune_Wren 看到那些对人文社科一窍不通的理工男夸夸其谈我就头疼。\n哲学是门槛极低的学科，人人都可以对其大放厥词，而且它的评判许多时候是看说话人的社会地位，而非专业知识。所以你能看到Sam、Dario这样的家伙妄自定义人类幸福、亲密关系、感情本质，说出一堆自相矛盾的暴论还能赢得附和……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2053153860211093902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 572,
+          "following_count": 546,
+          "like_count": 94319,
+          "listed_count": 9,
+          "media_count": 522,
+          "tweet_count": 6691
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-13T12:08:48.000Z",
+        "description": "如果家g能幸福的话 Altman完蛋了都没关系🥰",
+        "id": "1911391074104274944",
+        "name": "由紀春希",
+        "pinned_tweet_id": "1974743819540381802",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911391347338002433/y7Q8vH5D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 57,
+          "like_count": 39989,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 10081
+        },
+        "username": "Elune_Wren",
+        "verified": false
+      }
+    ]
+  }
+}

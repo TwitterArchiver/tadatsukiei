@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2030323188161450254",
+    "created_at": "2026-03-08T02:44:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-08T03:44:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2030474715433984355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 15,
+          "id": "3552993372",
+          "start": 6,
+          "username": "6668YYDS"
+        },
+        {
+          "end": 25,
+          "id": "869768913709481986",
+          "start": 16,
+          "username": "yibingsg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2030474715433984355",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030474250864251105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @6668YYDS @yibingsg 补充一点，遅刻証明書的作用。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2030323188161450254",
+        "created_at": "2026-03-08T02:44:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:44:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030474715433984355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 15,
+              "id": "3552993372",
+              "start": 6,
+              "username": "6668YYDS"
+            },
+            {
+              "end": 25,
+              "id": "869768913709481986",
+              "start": 16,
+              "username": "yibingsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030474715433984355",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030474250864251105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @6668YYDS @yibingsg 补充一点，遅刻証明書的作用。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2030323188161450254",
+        "created_at": "2026-03-08T02:42:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-08T03:42:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030474250864251105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 22,
+              "id": "3552993372",
+              "start": 13,
+              "username": "6668YYDS"
+            },
+            {
+              "end": 32,
+              "id": "869768913709481986",
+              "start": 23,
+              "username": "yibingsg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030474250864251105",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "日本虽以守时著称（新干线准点率近乎完美），但东京等城市道路拥堵司空见惯，常因意外堵车延误几分钟。像这次经济安全大臣小野田纪美，因交通意外迟到5分钟，她立即公开道歉并快跑赶到，体现责任感。\n\n这说明：不可控因素确实存在，不是“不管原因都是自己问题”那么绝对。日本人做法是真诚致歉+改进，而非一味推责或苛责。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030474099206807804",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei @6668YYDS @yibingsg 日本虽以守时著称（新干线准点率近乎完美），但东京等城市道路拥堵司空见惯，常因意外堵车延误几分钟。像这次经济安全大臣小野田纪美，因交通意外迟到5分钟，她立即公开道歉并快跑赶到，体现责任感。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 215,
+          "like_count": 66334,
+          "listed_count": 6,
+          "media_count": 302,
+          "tweet_count": 4328
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "pinned_tweet_id": "1955006865332638036",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8326055,
+          "following_count": 3,
+          "like_count": 87,
+          "listed_count": 6337,
+          "media_count": 8577698,
+          "tweet_count": 114444027
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-13T21:03:08.000Z",
+        "description": "",
+        "id": "3552993372",
+        "location": "澳大利亚",
+        "name": "雨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962701629398126592/hxmqTus8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 368,
+          "like_count": 340,
+          "listed_count": 4,
+          "media_count": 399,
+          "tweet_count": 1378
+        },
+        "username": "6668YYDS",
+        "verified": false
+      },
+      {
+        "created_at": "2017-05-31T04:14:03.000Z",
+        "description": "艺术人生，政经人生，休闲人生，玫瑰人生",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "smartlypickit.com",
+                "end": 23,
+                "expanded_url": "https://www.smartlypickit.com",
+                "start": 0,
+                "url": "https://t.co/3JS6ZdpC93"
+              }
+            ]
+          }
+        },
+        "id": "869768913709481986",
+        "name": "Fairice",
+        "pinned_tweet_id": "2030323188161450254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1152583025672110083/bn1B7p-Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54191,
+          "following_count": 21079,
+          "like_count": 24789,
+          "listed_count": 167,
+          "media_count": 21323,
+          "tweet_count": 39233
+        },
+        "url": "https://t.co/3JS6ZdpC93",
+        "username": "yibingsg",
+        "verified": true
+      }
+    ]
+  }
+}

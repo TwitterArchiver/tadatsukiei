@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1961976225359876385",
+    "created_at": "2025-08-31T21:09:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-31T22:09:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1962261412841230511"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1353169870691549184",
+          "start": 0,
+          "username": "iPaulCanada"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1962261412841230511",
+    "in_reply_to_user_id": "1353169870691549184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1961976225359876385",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iPaulCanada 这个气氛也太熟悉了，和我家一样"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 326380,
+        "height": 1080,
+        "media_key": "13_1961976140832116736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1961976140832116736/img/1ihbx_b851aQutW1.jpg",
+        "public_metrics": {
+          "view_count": 298117
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961976140832116736/vid/avc1/1920x1080/tkK9UOZiUzqBSy97.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961976140832116736/vid/avc1/1280x720/kCJbcpyxY3yu_dSy.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1961976140832116736/pl/zR0NvmWWcAQ05GI9.m3u8"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961976140832116736/vid/avc1/640x360/cX2y-7iBmeASzcK3.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1961976140832116736/vid/avc1/480x270/jTZTvoXbaI5MJ_7n.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1961976225359876385",
+        "created_at": "2025-08-31T21:09:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T22:09:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1962261412841230511"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353169870691549184",
+              "start": 0,
+              "username": "iPaulCanada"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1962261412841230511",
+        "in_reply_to_user_id": "1353169870691549184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1961976225359876385",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iPaulCanada 这个气氛也太熟悉了，和我家一样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1961976140832116736"
+          ]
+        },
+        "author_id": "1353169870691549184",
+        "conversation_id": "1961976225359876385",
+        "created_at": "2025-08-31T02:15:58.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-31T03:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961976225359876385"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OUV5ClZkWP",
+              "end": 78,
+              "expanded_url": "https://x.com/iPaulCanada/status/1961976225359876385/video/1",
+              "media_key": "13_1961976140832116736",
+              "start": 55,
+              "url": "https://t.co/OUV5ClZkWP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961976225359876385",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 347,
+          "impression_count": 564172,
+          "like_count": 1188,
+          "quote_count": 18,
+          "reply_count": 175,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "尽显渣男本色。有些东西，靠装靠演是掩盖不了的，不经意间就能露出本来面目，就像接受记者采访时的那个摇头晃脑劲。 https://t.co/OUV5ClZkWP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 104,
+          "like_count": 20635,
+          "listed_count": 2,
+          "media_count": 126,
+          "tweet_count": 2476
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2021-01-24T02:37:27.000Z",
+        "description": "自由万岁",
+        "id": "1353169870691549184",
+        "location": "Canada",
+        "name": "iPaul",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353172142502809601/a03iLOp7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 137281,
+          "following_count": 510,
+          "like_count": 7490,
+          "listed_count": 568,
+          "media_count": 9465,
+          "tweet_count": 15776
+        },
+        "username": "iPaulCanada",
+        "verified": true
+      }
+    ]
+  }
+}

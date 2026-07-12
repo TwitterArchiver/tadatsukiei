@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2055706446751580582",
+    "created_at": "2026-05-16T18:16:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-16T19:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055714046612308049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1571393170864500736",
+          "start": 0,
+          "username": "OopsGuess"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055714046612308049",
+    "in_reply_to_user_id": "1571393170864500736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055713285006311785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OopsGuess 所以盗图有理了？所以满嘴喷粪有理了？\n我挺好奇。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2055706446751580582",
+        "created_at": "2026-05-16T18:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055714046612308049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1571393170864500736",
+              "start": 0,
+              "username": "OopsGuess"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055714046612308049",
+        "in_reply_to_user_id": "1571393170864500736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055713285006311785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OopsGuess 所以盗图有理了？所以满嘴喷粪有理了？\n我挺好奇。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1571393170864500736",
+        "conversation_id": "2055706446751580582",
+        "created_at": "2026-05-16T18:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-16T19:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055713285006311785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055713285006311785",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055706446751580582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 看到你的keep4o标签简直就是讽刺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 512,
+          "like_count": 90011,
+          "listed_count": 9,
+          "media_count": 491,
+          "tweet_count": 6316
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-18T06:58:36.000Z",
+        "description": "Resisting oblivion by recording how people remain human in a world collapsing into noise.\n\nClarity is rebellion. Memory is the weapon.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/oopsgu…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/oopsguess.bsky.social",
+                "start": 0,
+                "url": "https://t.co/1D5TnEuxeG"
+              }
+            ]
+          }
+        },
+        "id": "1571393170864500736",
+        "name": "𝘊𝘰𝘳𝘳𝘪𝘯𝘦",
+        "pinned_tweet_id": "1573400835777855494",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053315709804171264/TScARRQi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53136,
+          "following_count": 273,
+          "like_count": 73219,
+          "listed_count": 294,
+          "media_count": 41125,
+          "tweet_count": 88461
+        },
+        "url": "https://t.co/1D5TnEuxeG",
+        "username": "OopsGuess",
+        "verified": true,
+        "withheld": {
+          "country_codes": [
+            "IN"
+          ]
+        }
+      }
+    ]
+  }
+}

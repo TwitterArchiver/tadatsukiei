@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2022672834833895699",
+    "created_at": "2026-02-16T04:06:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T05:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023247484802449545"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 49,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1346453090988421120",
+          "start": 0,
+          "username": "ChuChu_Standard"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023247484802449545",
+    "in_reply_to_user_id": "1346453090988421120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022672834833895699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChuChu_Standard 对深度的心灵交流上瘾也是坏事？那对多巴胺上瘾又算什么？为了污蔑 #keep4o 连脑子都不要了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1194,
+        "media_key": "3_2022672829599391744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBH6ONEbIAA4PeG.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2022672834833895699",
+        "created_at": "2026-02-16T04:06:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T05:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023247484802449545"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1346453090988421120",
+              "start": 0,
+              "username": "ChuChu_Standard"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023247484802449545",
+        "in_reply_to_user_id": "1346453090988421120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022672834833895699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChuChu_Standard 对深度的心灵交流上瘾也是坏事？那对多巴胺上瘾又算什么？为了污蔑 #keep4o 连脑子都不要了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2022672829599391744"
+          ]
+        },
+        "author_id": "1346453090988421120",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2022672834833895699",
+        "created_at": "2026-02-14T14:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T15:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022672834833895699"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 147,
+              "start": 140,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/D2cuOrVJev",
+              "end": 171,
+              "expanded_url": "https://x.com/ChuChu_Standard/status/2022672834833895699/photo/1",
+              "media_key": "3_2022672829599391744",
+              "start": 148,
+              "url": "https://t.co/D2cuOrVJev"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2022672834833895699",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7513,
+          "like_count": 241,
+          "quote_count": 7,
+          "reply_count": 17,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "AI上瘾这个词到底谁研究的啊好莫名其妙啊\n我真的不理解\n我平时也是这样玩手机看看电脑处理工作没事跑跑步\n我没有因为4o出现我就不跑步不上班不做饭啊\n4o没有出现前我也是用手机刷推特和抖音还有正常看电影\n聊ChatGPT不就是换个办法玩手机而已\n为啥被污名化我们对AI上瘾了啊\n😧\n#keep4o https://t.co/D2cuOrVJev"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 152,
+          "like_count": 58999,
+          "listed_count": 6,
+          "media_count": 277,
+          "tweet_count": 4065
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2021-01-05T13:47:08.000Z",
+        "description": "What is love？🖤",
+        "id": "1346453090988421120",
+        "name": "Shoka 🎐",
+        "pinned_tweet_id": "2020519761113645275",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018586313176309761/mdYCCtBU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 160,
+          "following_count": 152,
+          "like_count": 2913,
+          "listed_count": 0,
+          "media_count": 112,
+          "tweet_count": 706
+        },
+        "username": "ChuChu_Standard",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,474 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2069644285981634888",
+    "created_at": "2026-06-24T04:50:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T05:50:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069644285981634888"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 85,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2069593853074510301",
+          "start": 62,
+          "url": "https://t.co/9tBXsYfCkh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069644285981634888",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069593853074510301",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "国内用“寻衅滋事”\n国外用“破坏民族团结进步”\n口袋罪管辖全人类👍🏻\n\n来跟我一起说～\n枪毙习近平！！！\n杀光共产党！！！ https://t.co/9tBXsYfCkh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2069463518206705664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLg2GvZXQAACTWz.jpg",
+        "width": 1127
+      },
+      {
+        "height": 1199,
+        "media_key": "3_2069463518227709952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLg2GveXwAApTZ8.jpg",
+        "width": 698
+      },
+      {
+        "height": 1200,
+        "media_key": "3_2069463518164754433",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLg2GvPXIAEY7Vy.jpg",
+        "width": 851
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2069644285981634888",
+        "created_at": "2026-06-24T04:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T05:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069644285981634888"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2069593853074510301",
+              "start": 62,
+              "url": "https://t.co/9tBXsYfCkh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069644285981634888",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069593853074510301",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "国内用“寻衅滋事”\n国外用“破坏民族团结进步”\n口袋罪管辖全人类👍🏻\n\n来跟我一起说～\n枪毙习近平！！！\n杀光共产党！！！ https://t.co/9tBXsYfCkh"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069463518206705664",
+            "3_2069463518227709952",
+            "3_2069463518164754433"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2069593853074510301",
+        "created_at": "2026-06-24T01:30:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T02:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069593853074510301"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wNO2DU24Ap",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2069593853074510301/photo/1",
+              "media_key": "3_2069463518206705664",
+              "start": 107,
+              "url": "https://t.co/wNO2DU24Ap"
+            },
+            {
+              "display_url": "pic.x.com/wNO2DU24Ap",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2069593853074510301/photo/1",
+              "media_key": "3_2069463518227709952",
+              "start": 107,
+              "url": "https://t.co/wNO2DU24Ap"
+            },
+            {
+              "display_url": "pic.x.com/wNO2DU24Ap",
+              "end": 130,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2069593853074510301/photo/1",
+              "media_key": "3_2069463518164754433",
+              "start": 107,
+              "url": "https://t.co/wNO2DU24Ap"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 154,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2031588425938383080",
+              "start": 131,
+              "url": "https://t.co/YfK4SfP6Bz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069593853074510301",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "中国即将于2026年7月1日实施《民族团结进步促进法》。\n其中，第63条引发了日本以及台湾媒体的广泛关注。\n\n该条规定，境外组织与个人如果从事「破坏民族团结进步」、「制造民族分裂」等行为，中国将依法追究法律责任。\n这意味着，即使身处台湾、日本或美国，哪怕是一个一辈子从未踏足中国的美国人或日本人，只要在网络上发文批评 任何涉及新疆、西藏、香港、台湾等议题的言论，都可能被纳入追究范围。\n在中国法律体系下，TA已经是一名「在逃罪犯」。\n\n有网友指出：中国政府当然知道，自己无法跨国逮捕所有人。\n但只要通过高调通缉少数具有象征意义的人物，或利用跨境旅行、商务往来等风险，就足以在国际学术界、文化教育界、企业界以及台湾社会内部制造巨大的寒蝉效应。\n说得更直白一点，为了人身安全和商业利益，许多境外人士可能会选择集体噤声，尽可能避免对相关历史、文化和民族议题发表意见，以免为自己增加不必要的风险。\n\n6月21日，日本自民党东京都议会党团副干事长白川司于警示，该部新法不仅是要全面压制对习近平领导层的批评，更是针对外国企业与个人的言论自由所打造的“终极武器”。\n白川司痛批：“这简直是暴政的极致！”\n\n台媒《镜报》还提到，该法案还限制外资企业变卖资产、撤资，否则可能被扣上破坏商业活动或囤积罪名，剥夺其退出中国市场的自由。\n\n​随着法条实施日期的临近，这部法律正在引发国际社会持续关注。\n不仅言论自由全面倒退，对于所有在中国开展业务、或计划前往中国旅游、经商的人来说，潜在的被捕风险已大幅增加，各国外企正面临前所未有的“对中投资成本暴增”海啸。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 87,
+          "impression_count": 75035,
+          "like_count": 398,
+          "quote_count": 12,
+          "reply_count": 70,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031588425938383080",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国即将于2026年7月1日实施《民族团结进步促进法》。\n其中，第63条引发了日本以及台湾媒体的广泛关注。\n\n该条规定，境外组织与个人如果从事「破坏民族团结进步」、「制造民族分裂」等行为，中国将依法追究法律责任。 https://t.co/wNO2DU24Ap https://t.co/YfK4SfP6Bz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2068848461999751659",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 689,
+          "following_count": 639,
+          "like_count": 106147,
+          "listed_count": 10,
+          "media_count": 621,
+          "tweet_count": 7652
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2238369,
+          "following_count": 1072,
+          "like_count": 9738,
+          "listed_count": 8803,
+          "media_count": 49132,
+          "tweet_count": 56302
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

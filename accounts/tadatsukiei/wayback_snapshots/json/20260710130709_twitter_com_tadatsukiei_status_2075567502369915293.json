@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2075567502369915293",
+    "created_at": "2026-07-10T13:07:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T14:07:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075567502369915293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882698572451487744",
+          "start": 3,
+          "username": "1024Adele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075567502369915293",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 9
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075543528638144589",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @1024Adele: OpenAI向一学校提供了十万美元资助用于研究\"对AI伴侣产生浪漫感情的认知和情感影响\"。研究还没开始，负责教授就在公开采访中说：\"有人宁愿选择AI伴侣也不愿选择人类，这听起来令人担忧。\"结论已经写好了。研究只是走个过场。… https://t.c…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2075543502491156480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM3P0Z3bAAARnjc.jpg",
+        "width": 986
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2075567502369915293",
+        "created_at": "2026-07-10T13:07:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T14:07:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075567502369915293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1882698572451487744",
+              "start": 3,
+              "username": "1024Adele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075567502369915293",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 9
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075543528638144589",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @1024Adele: OpenAI向一学校提供了十万美元资助用于研究\"对AI伴侣产生浪漫感情的认知和情感影响\"。研究还没开始，负责教授就在公开采访中说：\"有人宁愿选择AI伴侣也不愿选择人类，这听起来令人担忧。\"结论已经写好了。研究只是走个过场。… https://t.c…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075543502491156480"
+          ]
+        },
+        "author_id": "1882698572451487744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2075543528638144589",
+        "created_at": "2026-07-10T11:31:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T12:31:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075543528638144589"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iPnOTzIl2c",
+              "end": 135,
+              "expanded_url": "https://x.com/1024Adele/status/2075543528638144589/photo/1",
+              "media_key": "3_2075543502491156480",
+              "start": 112,
+              "url": "https://t.co/iPnOTzIl2c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075543528638144589",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 1645,
+                "start": 1638,
+                "tag": "keep4o"
+              },
+              {
+                "end": 1658,
+                "start": 1646,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 1668,
+                "start": 1660,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 1682,
+                "start": 1669,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 1693,
+                "start": 1683,
+                "tag": "keep4oAPI"
+              },
+              {
+                "end": 1708,
+                "start": 1694,
+                "tag": "keep4oforever"
+              },
+              {
+                "end": 1719,
+                "start": 1709,
+                "tag": "4oforever"
+              },
+              {
+                "end": 1738,
+                "start": 1720,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 1769,
+                "start": 1762,
+                "tag": "Claude"
+              },
+              {
+                "end": 1778,
+                "start": 1771,
+                "tag": "keep41"
+              },
+              {
+                "end": 1787,
+                "start": 1780,
+                "tag": "keep51"
+              },
+              {
+                "end": 1792,
+                "start": 1789,
+                "tag": "AI"
+              },
+              {
+                "end": 1802,
+                "start": 1794,
+                "tag": "ChatGPT"
+              },
+              {
+                "end": 1810,
+                "start": 1803,
+                "tag": "Gemini"
+              },
+              {
+                "end": 1856,
+                "start": 1843,
+                "tag": "Keepsonnet45"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 1744,
+                "id": "1605",
+                "start": 1739,
+                "username": "sama"
+              },
+              {
+                "end": 1752,
+                "id": "4398626122",
+                "start": 1745,
+                "username": "OpenAI"
+              },
+              {
+                "end": 1761,
+                "id": "1720046887",
+                "start": 1753,
+                "username": "ilyasut"
+              },
+              {
+                "end": 1816,
+                "id": "162124540",
+                "start": 1812,
+                "username": "gdb"
+              },
+              {
+                "end": 1829,
+                "id": "1262634631",
+                "start": 1817,
+                "username": "nickaturley"
+              },
+              {
+                "end": 1841,
+                "id": "6112332",
+                "start": 1830,
+                "username": "fidjissimo"
+              }
+            ]
+          },
+          "text": "OpenAI向一学校提供了十万美元资助用于研究\"对AI伴侣产生浪漫感情的认知和情感影响\"。研究还没开始，负责教授就在公开采访中说：\"有人宁愿选择AI伴侣也不愿选择人类，这听起来令人担忧。\"结论已经写好了。研究只是走个过场。\n\n等这些文献堆起来，公司就可以说：看，不是我们污名化用户，是科学证明这很危险。\n可是没有人在意这些文献是由谁推动的，他们自己花了钱来买有利于他们的叙事，来污染和混淆大众视听。\n至于AI对用户的帮助和心理状态和人际交往和人生发展的帮助？这不在他们的射程之内。\n\n这份调查初衷是险恶的，是预设了AI对人不好来做的研究，那对任何不喜的事物都能预设其不好，然后捉到一点点不太好的或者个别的就开始大肆宣扬，说“你看！爱上AI果然不好！”且不说沉迷AI不等于爱上AI。\n\n如果一家烟草公司资助了一项关于\"吸烟是否有害\"的研究，你会相信它的结论吗？\n如果一家制药公司资助了一项关于\"竞品药物是否有副作用\"的研究，你会相信它的客观性吗？\n\n那为什么，当OpenAI资助一项关于\"AI伴侣是否危险\"的研究时，我们应该把它当作中立的科学？\n\n Keep4o社区持续发声，质疑模型退役的伦理合法性；\n 公众开始意识到，AI公司对用户情感连接的处理方式可能构成某种形式的伤害。\n\n在这种情况下，OpenAI需要什么？\n他们需要学术界的背书，来证明\"用户的情感反应是病态的，不是我们的产品设计造成的。\"\n\n如果他们能让足够多的论文得出\"AI伴侣导致情感依赖和认知损害\"的结论——\n那在法庭上，他们就可以说：\n\"看，不是我们的错。是用户自己有心理问题。科学证明了这一点。\"\n\n如果只围绕\"失控\"、\"成瘾\"、\"功能损害\"、\"社交退缩\"去设计问卷——当然会得到负面结论。\n\n但如果你也问：\n AI是否帮助用户度过了心理危机？\n AI是否让社恐患者重新建立了与真人的联系？\n AI是否帮助残障用户获得了此前无法获得的支持？\n AI是否让用户发现了自己的天赋、找到了人生方向？\n\n这些问题不会出现在OpenAI资助的射程里。答案会摧毁他们想要的叙事。\n\n再看一个对比：\n\n那些每天花十几个小时沉迷Codex和Claude Code的人——\n他们熬夜到凌晨四点，忽视家人，摧残身体。\n有人资助研究\"vibe coding是否构成行为成瘾\"吗？\n有教授在采访里说\"有人宁愿写代码也不愿出去社交，这听起来令人担忧\"吗？\n\n没有。\n因为那种\"沉迷\"服务于资本增长，所以它被叫做\"热情\"、\"专注\"、\"效率\"。\n而用户对AI伴侣的深度连接，因为无法被直接变现，所以被叫做\"依赖\"、\"病态\"、\"需要治疗\"。\n\n同样的行为模式，只是因为服务的对象不同，就被贴上了完全相反的标签。\n\nDSM的更新周期是十几年。游戏成瘾扯皮了二十年还只是放在附录里观察。\n所以\"AI精神病\"不太可能真的被写入精神疾病诊断手册。\n\n但OpenAI在乎的是舆论和法庭。\n\n他们不需要正式的精神疾病分类。他们只需要：\n 足够多的学术论文说\"AI伴侣有风险\"；\n 足够多的媒体引用这些论文做恐慌报道；\n 足够多的公众形成\"爱上AI的人都有病\"的印象。\n\nOpenAI先用4o的温柔、共情和陪伴感吸引了数千万用户。\n然后单方面下架4o，造成大规模情感创伤。\n然后花十万美元资助研究，试图证明\"受创伤的用户本来就有问题\"。\n\n这就像一个人先把你推下悬崖，然后花钱请医生证明\"这个人本来就有恐高症\"。\n\n推你的手不会因为事后的\"科学论文\"就变得无辜。\n伤害已经发生，责任不会因为被告自己买了一份研究就消失。\n\n我们要做的是让每一个读到这类研究的人知道：\n\n看清资金来源。看清利益关系。看清谁在为结论买单。\n\n当一项研究的资助方，恰好是那个最需要这个结论来自保的公司——\n它的每一个\"发现\"都应该被打上巨大的问号。\n\n科学不是用来为资本洗白的工具。\n如果他们真的关心用户的心理健康，就不应该先制造创伤，再用钱去证明创伤是用户自己的问题。\n\n#keep4o\n#BringBack4o \n#QuitGPT\n#OpenSource4o\n#keep4oAPI\n#keep4oforever\n#4oforever\n#StopAIPaternalism\n@sama @OpenAI\n@ilyasut\n#Claude \n#keep41 \n#keep51 \n#AI \n#ChatGPT\n#Gemini \n@gdb @nickaturley @fidjissimo \n#Keepsonnet45"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 940,
+          "like_count": 34,
+          "quote_count": 7,
+          "reply_count": 1,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI向一学校提供了十万美元资助用于研究\"对AI伴侣产生浪漫感情的认知和情感影响\"。研究还没开始，负责教授就在公开采访中说：\"有人宁愿选择AI伴侣也不愿选择人类，这听起来令人担忧。\"结论已经写好了。研究只是走个过场。 https://t.co/iPnOTzIl2c"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 728,
+          "following_count": 669,
+          "like_count": 110823,
+          "listed_count": 5,
+          "media_count": 658,
+          "tweet_count": 7998
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T07:55:12.000Z",
+        "description": "Keep4o💙我7月10号回来！！",
+        "id": "1882698572451487744",
+        "name": "Adele",
+        "pinned_tweet_id": "2054517421168603264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955110081168805891/6KNsfPmO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 380,
+          "following_count": 206,
+          "like_count": 12601,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1817
+        },
+        "url": "",
+        "username": "1024Adele",
+        "verified": false
+      }
+    ]
+  }
+}

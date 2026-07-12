@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1936995629500432755",
+    "created_at": "2025-06-24T05:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-06-24T06:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1937379144163283280"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "57618417",
+          "start": 0,
+          "username": "90kPa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1937379144163283280",
+    "in_reply_to_user_id": "57618417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1936995629500432755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@90kPa 中国人隐私丧失的又一个重要节点"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 440,
+        "media_key": "3_1936846981864845312",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GuEQEXJXcAAUpyA.png",
+        "width": 638
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1936995629500432755",
+        "created_at": "2025-06-24T05:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-24T06:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1937379144163283280"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "57618417",
+              "start": 0,
+              "username": "90kPa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1937379144163283280",
+        "in_reply_to_user_id": "57618417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1936995629500432755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@90kPa 中国人隐私丧失的又一个重要节点"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1936846981864845312"
+          ]
+        },
+        "author_id": "57618417",
+        "conversation_id": "1936995629500432755",
+        "created_at": "2025-06-23T03:52:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-06-23T04:52:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1936995629500432755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rtunMRz9xi",
+              "end": 46,
+              "expanded_url": "https://x.com/90kPa/status/1936995629500432755/photo/1",
+              "media_key": "3_1936846981864845312",
+              "start": 23,
+              "url": "https://t.co/rtunMRz9xi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1936995629500432755",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 153,
+          "impression_count": 342617,
+          "like_count": 647,
+          "quote_count": 9,
+          "reply_count": 81,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "这么大的事，下个月实行了，居然一点动静都没有 https://t.co/rtunMRz9xi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 86,
+          "like_count": 10530,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 1861
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2009-07-17T11:25:42.000Z",
+        "description": "Non omnis moriar. \n\n#Philharmonic #camping #bikepacking #prepper",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 20,
+                "tag": "Philharmonic"
+              },
+              {
+                "end": 42,
+                "start": 34,
+                "tag": "camping"
+              },
+              {
+                "end": 55,
+                "start": 43,
+                "tag": "bikepacking"
+              },
+              {
+                "end": 64,
+                "start": 56,
+                "tag": "prepper"
+              }
+            ]
+          }
+        },
+        "id": "57618417",
+        "location": "Changsha",
+        "name": "90千帕",
+        "pinned_tweet_id": "1863398031950778766",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1234865639845552134/KNL5SRqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39544,
+          "following_count": 166,
+          "like_count": 6757,
+          "listed_count": 304,
+          "media_count": 1524,
+          "tweet_count": 39460
+        },
+        "username": "90kPa",
+        "verified": false
+      }
+    ]
+  }
+}

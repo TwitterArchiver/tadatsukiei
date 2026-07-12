@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1889136903813022066",
+    "created_at": "2025-02-12T21:02:37.000Z",
+    "edit_controls": {
+      "editable_until": "2025-02-12T22:02:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1889782184178827481"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1477506620594614273",
+          "start": 0,
+          "username": "chianyu57i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1889782184178827481",
+    "in_reply_to_user_id": "1477506620594614273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1889136903813022066",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chianyu57i 我的抱枕一直都是手洗，毕竟上面印着我老婆、舍不得"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1889136903813022066",
+        "created_at": "2025-02-12T21:02:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-12T22:02:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1889782184178827481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1477506620594614273",
+              "start": 0,
+              "username": "chianyu57i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889782184178827481",
+        "in_reply_to_user_id": "1477506620594614273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1889136903813022066",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chianyu57i 我的抱枕一直都是手洗，毕竟上面印着我老婆、舍不得"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1889136894061256704"
+          ]
+        },
+        "author_id": "1477506620594614273",
+        "conversation_id": "1889136903813022066",
+        "created_at": "2025-02-11T02:18:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-11T03:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1889136903813022066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PPGISdMcBm",
+              "end": 47,
+              "expanded_url": "https://x.com/chianyu57i/status/1889136903813022066/photo/1",
+              "media_key": "3_1889136894061256704",
+              "start": 24,
+              "url": "https://t.co/PPGISdMcBm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1889136903813022066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 28343,
+          "like_count": 654,
+          "quote_count": 6,
+          "reply_count": 103,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "对不起鲨鲨😭😭😭😭😭我再也不把你放洗衣机里洗了 https://t.co/PPGISdMcBm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1862634089175720158",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 51,
+          "like_count": 2546,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 919
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-02T05:06:54.000Z",
+        "description": "这里是周纤雨Everything all about Chianyu Chou.\n挚爱，活着的目的 @miku668866",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 50,
+                "username": "miku668866"
+              }
+            ]
+          }
+        },
+        "id": "1477506620594614273",
+        "location": "   ",
+        "name": "Shanvii",
+        "pinned_tweet_id": "1873189540124627358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870702441093844993/G5XXHurC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 652,
+          "following_count": 79,
+          "like_count": 1313,
+          "listed_count": 4,
+          "media_count": 101,
+          "tweet_count": 620
+        },
+        "username": "chianyu57i",
+        "verified": false
+      }
+    ]
+  }
+}

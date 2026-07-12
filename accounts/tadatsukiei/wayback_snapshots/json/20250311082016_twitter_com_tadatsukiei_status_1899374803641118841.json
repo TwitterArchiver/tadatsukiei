@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1898951684685971666",
+    "created_at": "2025-03-11T08:20:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-03-11T09:20:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1899374803641118841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1287452162038136833",
+          "start": 0,
+          "username": "jason27873170"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1899374803641118841",
+    "in_reply_to_user_id": "1287452162038136833",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1898951684685971666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jason27873170 似乎……有点道理，权力的分配体系既能促进也能压抑科技的发展，这点看看中美就知道了，但要说科技与制度的相互作用谁主谁次，我真不知道。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1242,
+        "media_key": "3_1898951679996768256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GlpufevWsAAeMVO.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1898951684685971666",
+        "created_at": "2025-03-11T08:20:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-11T09:20:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1899374803641118841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1287452162038136833",
+              "start": 0,
+              "username": "jason27873170"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1899374803641118841",
+        "in_reply_to_user_id": "1287452162038136833",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1898951684685971666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jason27873170 似乎……有点道理，权力的分配体系既能促进也能压抑科技的发展，这点看看中美就知道了，但要说科技与制度的相互作用谁主谁次，我真不知道。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1898951679996768256"
+          ]
+        },
+        "author_id": "1287452162038136833",
+        "conversation_id": "1898951684685971666",
+        "created_at": "2025-03-10T04:18:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-10T05:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1898951684685971666"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TUbCX4iBIc",
+              "end": 23,
+              "expanded_url": "https://x.com/jason27873170/status/1898951684685971666/photo/1",
+              "media_key": "3_1898951679996768256",
+              "start": 0,
+              "url": "https://t.co/TUbCX4iBIc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1898951684685971666",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 169,
+          "impression_count": 123231,
+          "like_count": 947,
+          "quote_count": 7,
+          "reply_count": 52,
+          "retweet_count": 232
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TUbCX4iBIc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 56,
+          "like_count": 3953,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 1170
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2020-07-26T18:18:47.000Z",
+        "description": "我的网站：https://t.co/6xmsUyleEa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 28,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 5,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "petzgarden.com/home/",
+                "end": 23,
+                "expanded_url": "http://www.petzgarden.com/home/",
+                "start": 0,
+                "url": "https://t.co/6xmsUyleEa"
+              }
+            ]
+          }
+        },
+        "id": "1287452162038136833",
+        "location": "旧金山，CA",
+        "name": "jason wang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1896240689031090176/vZh_-05F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127901,
+          "following_count": 74234,
+          "like_count": 10069,
+          "listed_count": 292,
+          "media_count": 45319,
+          "tweet_count": 57755
+        },
+        "url": "https://t.co/6xmsUyleEa",
+        "username": "jason27873170",
+        "verified": false
+      }
+    ]
+  }
+}

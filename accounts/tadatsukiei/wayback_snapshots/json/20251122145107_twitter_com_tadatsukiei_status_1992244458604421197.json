@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1987317804102787466",
+    "created_at": "2025-11-22T14:51:07.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-22T15:51:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1992244458604421197"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1724081417553076224",
+          "start": 0,
+          "username": "hou432565211066"
+        },
+        {
+          "end": 27,
+          "id": "1130781616274468864",
+          "start": 17,
+          "username": "SGR114514"
+        },
+        {
+          "end": 38,
+          "id": "1909553877739085825",
+          "start": 28,
+          "username": "T8O9K6Y4O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1992244458604421197",
+    "in_reply_to_user_id": "1724081417553076224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987844311015452717",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hou432565211066 @SGR114514 @T8O9K6Y4O 这你要去问那些电子文盲啊，我也不理解"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1987844299439190016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5Y927jbsAAxT3I.jpg",
+        "width": 922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1987317804102787466",
+        "created_at": "2025-11-22T14:51:07.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-22T15:51:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1992244458604421197"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1724081417553076224",
+              "start": 0,
+              "username": "hou432565211066"
+            },
+            {
+              "end": 27,
+              "id": "1130781616274468864",
+              "start": 17,
+              "username": "SGR114514"
+            },
+            {
+              "end": 38,
+              "id": "1909553877739085825",
+              "start": 28,
+              "username": "T8O9K6Y4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1992244458604421197",
+        "in_reply_to_user_id": "1724081417553076224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987844311015452717",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hou432565211066 @SGR114514 @T8O9K6Y4O 这你要去问那些电子文盲啊，我也不理解"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1987844299439190016"
+          ]
+        },
+        "author_id": "1724081417553076224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1169275072206389248",
+              "name": "Baidu"
+            }
+          }
+        ],
+        "conversation_id": "1987317804102787466",
+        "created_at": "2025-11-10T11:26:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:26:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987844311015452717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            },
+            {
+              "end": 23,
+              "id": "1130781616274468864",
+              "start": 13,
+              "username": "SGR114514"
+            },
+            {
+              "end": 34,
+              "id": "1909553877739085825",
+              "start": 24,
+              "username": "T8O9K6Y4O"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UcdSbdVm22",
+              "end": 78,
+              "expanded_url": "https://x.com/hou432565211066/status/1987844311015452717/photo/1",
+              "media_key": "3_1987844299439190016",
+              "start": 55,
+              "url": "https://t.co/UcdSbdVm22"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987844311015452717",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987386025770188876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei @SGR114514 @T8O9K6Y4O 难在哪里？百度第一位就是steam官网 https://t.co/UcdSbdVm22"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 112,
+          "like_count": 39930,
+          "listed_count": 2,
+          "media_count": 197,
+          "tweet_count": 3229
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T15:07:03.000Z",
+        "description": "想做好人",
+        "id": "1724081417553076224",
+        "name": "hou",
+        "pinned_tweet_id": "1832816819222061541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954936260453453824/1GrD3xPc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 273,
+          "like_count": 6585,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 664
+        },
+        "username": "hou432565211066",
+        "verified": false
+      },
+      {
+        "created_at": "2019-05-21T10:25:21.000Z",
+        "description": "🫀@⠝⠁⠎⠓⠊⠗⠕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+Q4q6kA0DA8k4M…",
+                "end": 23,
+                "expanded_url": "https://t.me/+Q4q6kA0DA8k4M2M1",
+                "start": 0,
+                "url": "https://t.co/JEHFzoyhuU"
+              }
+            ]
+          }
+        },
+        "id": "1130781616274468864",
+        "location": "-",
+        "name": "“null”",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990633312029978624/V-CD9McD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61897,
+          "following_count": 2111,
+          "like_count": 50461,
+          "listed_count": 5,
+          "media_count": 426,
+          "tweet_count": 717
+        },
+        "url": "https://t.co/JEHFzoyhuU",
+        "username": "SGR114514",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-08T10:28:26.000Z",
+        "description": "🇯🇵東京留学中｜🇨🇳中国人です｜🌊冲浪乐子人｜无政治立场｜日本語勉強中｜東雪蓮推し｜時々女装｜舞萌痴｜极端魔怔人会b",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/3nPaPIv",
+                "end": 23,
+                "expanded_url": "https://b23.tv/3nPaPIv",
+                "start": 0,
+                "url": "https://t.co/WHM5vAVQlb"
+              }
+            ]
+          }
+        },
+        "id": "1909553877739085825",
+        "location": "東京",
+        "name": "抽象イェーガー",
+        "pinned_tweet_id": "1932095364385153188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1978027432801398784/oPvsfquH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8472,
+          "following_count": 683,
+          "like_count": 1043,
+          "listed_count": 39,
+          "media_count": 600,
+          "tweet_count": 1021
+        },
+        "url": "https://t.co/WHM5vAVQlb",
+        "username": "T8O9K6Y4O",
+        "verified": false
+      }
+    ]
+  }
+}

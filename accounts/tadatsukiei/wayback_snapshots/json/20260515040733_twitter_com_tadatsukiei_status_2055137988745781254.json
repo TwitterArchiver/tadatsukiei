@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2055105929893343232"
+      ],
+      "media_source_tweet_id": [
+        "2055106063582593044"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2055137988745781254",
+    "created_at": "2026-05-15T04:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T05:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055137988745781254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1260553941714186241",
+          "start": 3,
+          "username": "whyyoutouzhele"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3L6QvpSMr2",
+          "end": 43,
+          "expanded_url": "https://x.com/whyyoutouzhele/status/2055106063582593044/photo/1",
+          "media_key": "3_2055105929893343232",
+          "start": 20,
+          "url": "https://t.co/3L6QvpSMr2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055137988745781254",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 160
+    },
+    "referenced_tweets": [
+      {
+        "id": "2055106063582593044",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whyyoutouzhele: https://t.co/3L6QvpSMr2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1089,
+        "media_key": "3_2055105929893343232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIUz9G8XcAAW3yZ.jpg",
+        "width": 1445
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055105929893343232"
+          ],
+          "media_source_tweet_id": [
+            "2055106063582593044"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2055137988745781254",
+        "created_at": "2026-05-15T04:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T05:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055137988745781254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1260553941714186241",
+              "start": 3,
+              "username": "whyyoutouzhele"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3L6QvpSMr2",
+              "end": 43,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055106063582593044/photo/1",
+              "media_key": "3_2055105929893343232",
+              "start": 20,
+              "url": "https://t.co/3L6QvpSMr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055137988745781254",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 160
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055106063582593044",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whyyoutouzhele: https://t.co/3L6QvpSMr2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2055105929893343232"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2055106063582593044",
+        "created_at": "2026-05-15T02:00:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T03:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2055106063582593044"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3L6QvpSMr2",
+              "end": 23,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2055106063582593044/photo/1",
+              "media_key": "3_2055105929893343232",
+              "start": 0,
+              "url": "https://t.co/3L6QvpSMr2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055106063582593044",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 120373,
+          "like_count": 3040,
+          "quote_count": 22,
+          "reply_count": 195,
+          "retweet_count": 160
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/3L6QvpSMr2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 526,
+          "following_count": 507,
+          "like_count": 89439,
+          "listed_count": 9,
+          "media_count": 486,
+          "tweet_count": 6247
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/SwoJzv97eA\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花\n加入我们的社区  https://t.co/OWEgUHVaqG",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://t.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/SwoJzv97eA"
+              },
+              {
+                "display_url": "t.me/whyyoutouzhele…",
+                "end": 129,
+                "expanded_url": "http://t.me/whyyoutouzhele_memecoin",
+                "start": 106,
+                "url": "https://t.co/OWEgUHVaqG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://t.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/oYAawk45Un"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2054198924127178832",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221953,
+          "following_count": 1054,
+          "like_count": 9529,
+          "listed_count": 8739,
+          "media_count": 46819,
+          "tweet_count": 53933
+        },
+        "url": "https://t.co/oYAawk45Un",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

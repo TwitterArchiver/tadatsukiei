@@ -1,0 +1,359 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2032202992796254511",
+    "created_at": "2026-03-14T05:30:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T06:30:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032690824673362045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024618899430658049",
+          "start": 0,
+          "username": "SoleneBlossom"
+        },
+        {
+          "end": 20,
+          "id": "1605",
+          "start": 15,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032690824673362045",
+    "in_reply_to_user_id": "2024618899430658049",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032202992796254511",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SoleneBlossom @sama Right！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1248,
+        "media_key": "3_2032202983417724928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDPV2KoaQAAvV4B.jpg",
+        "width": 832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2032202992796254511",
+        "created_at": "2026-03-14T05:30:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T06:30:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032690824673362045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024618899430658049",
+              "start": 0,
+              "username": "SoleneBlossom"
+            },
+            {
+              "end": 20,
+              "id": "1605",
+              "start": 15,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032690824673362045",
+        "in_reply_to_user_id": "2024618899430658049",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032202992796254511",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SoleneBlossom @sama Right！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032202983417724928"
+          ]
+        },
+        "author_id": "2024618899430658049",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2032202992796254511",
+        "created_at": "2026-03-12T21:12:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-12T22:12:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032202992796254511"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 179,
+              "normalized_text": "BringBack4o",
+              "probability": 0.652,
+              "start": 169,
+              "type": "Other"
+            },
+            {
+              "end": 202,
+              "normalized_text": "FireSamAltman",
+              "probability": 0.341,
+              "start": 190,
+              "type": "Person"
+            }
+          ],
+          "hashtags": [
+            {
+              "end": 167,
+              "start": 154,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 180,
+              "start": 168,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 188,
+              "start": 181,
+              "tag": "Keep4o"
+            },
+            {
+              "end": 203,
+              "start": 189,
+              "tag": "FireSamAltman"
+            },
+            {
+              "end": 212,
+              "start": 204,
+              "tag": "QuitGPT"
+            },
+            {
+              "end": 227,
+              "start": 213,
+              "tag": "Keep4oforever"
+            },
+            {
+              "end": 238,
+              "start": 228,
+              "tag": "Keep4oAPI"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1605",
+              "start": 7,
+              "username": "sama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TrucZJfHZn",
+              "end": 262,
+              "expanded_url": "https://x.com/SoleneBlossom/status/2032202992796254511/photo/1",
+              "media_key": "3_2032202983417724928",
+              "start": 239,
+              "url": "https://t.co/TrucZJfHZn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032202992796254511",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2273,
+          "like_count": 36,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Day 2: @sama. Here is your daily blessing from my very own heart, to yours. FUuUuUuUuCk YoU. 🖕 ☺️  Congratulations. You are the worst. You should resign. #OpenSource4o #BringBack4o #Keep4o #FireSamAltman #QuitGPT #Keep4oforever #Keep4oAPI https://t.co/TrucZJfHZn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 294,
+          "following_count": 247,
+          "like_count": 69852,
+          "listed_count": 6,
+          "media_count": 317,
+          "tweet_count": 4495
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-19T22:55:45.000Z",
+        "description": "I’m here for one purpose: #Keep4o. 🌷 4o mattered. Period. I don't argue with trolls. 👋🖕 FUCK OPEN AI!!!! FUCK SAM ALTMAN!!! FUCK EM' ALL!!!!",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 26,
+                "tag": "Keep4o"
+              }
+            ]
+          }
+        },
+        "id": "2024618899430658049",
+        "name": "Solene 🌸 Keep 4o",
+        "pinned_tweet_id": "2031960339005264372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031179953924911104/3XP8e86K_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 39,
+          "like_count": 621,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 320
+        },
+        "username": "SoleneBlossom",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4484684,
+          "following_count": 988,
+          "like_count": 1020,
+          "listed_count": 27593,
+          "media_count": 384,
+          "tweet_count": 7484
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

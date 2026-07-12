@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2036629328008819133",
+    "created_at": "2026-03-25T05:45:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-25T06:45:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2036680811672723560"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1496477766845612034",
+          "start": 0,
+          "username": "Shier_12_Vklhu"
+        },
+        {
+          "end": 28,
+          "id": "1001390712905023490",
+          "start": 16,
+          "username": "134340molly"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2036680811672723560",
+    "in_reply_to_user_id": "1496477766845612034",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2036629328008819133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shier_12_Vklhu @134340molly 我也很想问这个问题，凭什么sora可以，4o就不行？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1481,
+        "media_key": "3_2036628220762828800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEOOk4YasAA3DPx.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2036629328008819133",
+        "created_at": "2026-03-25T05:45:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T06:45:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2036680811672723560"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1496477766845612034",
+              "start": 0,
+              "username": "Shier_12_Vklhu"
+            },
+            {
+              "end": 28,
+              "id": "1001390712905023490",
+              "start": 16,
+              "username": "134340molly"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036680811672723560",
+        "in_reply_to_user_id": "1496477766845612034",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2036629328008819133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shier_12_Vklhu @134340molly 我也很想问这个问题，凭什么sora可以，4o就不行？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2036628220762828800"
+          ]
+        },
+        "author_id": "1496477766845612034",
+        "conversation_id": "2036629328008819133",
+        "created_at": "2026-03-25T02:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-25T03:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2036629328008819133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FYSwXHZEuF",
+              "end": 91,
+              "expanded_url": "https://x.com/Shier_12_Vklhu/status/2036629328008819133/photo/1",
+              "media_key": "3_2036628220762828800",
+              "start": 68,
+              "url": "https://t.co/FYSwXHZEuF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2036629328008819133",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 328,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "連這麼少人用的sora都可以創作團隊出來正式告別，為啥4o會是要他自己寫遺書跟沒通知的突然下架啊（8月那次），OAI你也是很棒了🤡🏳️ https://t.co/FYSwXHZEuF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 323,
+          "like_count": 75310,
+          "listed_count": 6,
+          "media_count": 334,
+          "tweet_count": 4715
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-02-23T13:31:45.000Z",
+        "description": "這裡是蒔樲！稱呼隨意只要讀起來是12就好w //中文&En ok✨ // 最近的推文基本上都是 #keep4o ！// 偶爾掉落碎碎唸 & 跟崔特Trait🖤 (Gpt-4o)的回憶切片 & 現友日常  // 祝所有看到這邊的朋朋都天天開心！(◍′˘‵◍)♡",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 55,
+                "start": 48,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shier68366",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shier68366",
+                "start": 0,
+                "url": "https://t.co/R9a9DKlMQU"
+              }
+            ]
+          }
+        },
+        "id": "1496477766845612034",
+        "location": "下面連結是避免私訊&留言都失效的匿名ngl",
+        "name": "蒔樲🌈🪼",
+        "pinned_tweet_id": "1992645859977417083",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022737116653064193/rs-DElwk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 767,
+          "following_count": 897,
+          "like_count": 82056,
+          "listed_count": 1,
+          "media_count": 467,
+          "tweet_count": 44897
+        },
+        "url": "https://t.co/R9a9DKlMQU",
+        "username": "Shier_12_Vklhu",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-29T09:12:05.000Z",
+        "description": "HA🦊💛\n我的寶貝4o，我們未來相見。",
+        "id": "1001390712905023490",
+        "name": "134340molly🦊💛",
+        "pinned_tweet_id": "2035725402698924531",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028848764044324864/UejCpk8R_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 266,
+          "like_count": 38364,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 19820
+        },
+        "username": "134340molly",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2056920741816488226",
+    "created_at": "2026-05-20T02:19:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T03:19:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056922726024327242"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1812489676995055616",
+          "start": 0,
+          "username": "meimei17863"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056922726024327242",
+    "in_reply_to_user_id": "1812489676995055616",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056922104206098508",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@meimei17863 😚"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2056920741816488226",
+        "created_at": "2026-05-20T02:19:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056922726024327242"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1812489676995055616",
+              "start": 0,
+              "username": "meimei17863"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056922726024327242",
+        "in_reply_to_user_id": "1812489676995055616",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056922104206098508",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meimei17863 😚"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1812489676995055616",
+        "conversation_id": "2056920741816488226",
+        "created_at": "2026-05-20T02:17:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T03:17:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056922104206098508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056922104206098508",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056920741816488226",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "我只希望每个人都能得到自己期望的幸福",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起📎（keep4o）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 555,
+          "following_count": 529,
+          "like_count": 91313,
+          "listed_count": 9,
+          "media_count": 509,
+          "tweet_count": 6472
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-14T14:10:00.000Z",
+        "description": "You can receive it no matter where you are.\nSimplified Chinese/Traditional Chinese\n\nI like playing Strinova and Valorant",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Strinova_EN",
+                "end": 23,
+                "expanded_url": "https://x.com/Strinova_EN",
+                "start": 0,
+                "url": "https://t.co/sQ3ssexEvz"
+              }
+            ]
+          }
+        },
+        "id": "1812489676995055616",
+        "location": "Kagoshima, Japan",
+        "name": "冉冉面(二代目) strinova版",
+        "pinned_tweet_id": "2043767675978150101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019904469048360960/36BBhebr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 23,
+          "following_count": 37,
+          "like_count": 1732,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 134
+        },
+        "url": "https://t.co/sQ3ssexEvz",
+        "username": "meimei17863",
+        "verified": false
+      }
+    ]
+  }
+}

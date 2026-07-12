@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2025577533505486931",
+    "created_at": "2026-02-22T14:24:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-22T15:24:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025577533505486931"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 22,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9707,
+          "start": 13,
+          "type": "Person"
+        },
+        {
+          "end": 118,
+          "normalized_text": "Tyler Cowen",
+          "probability": 0.9317,
+          "start": 108,
+          "type": "Person"
+        },
+        {
+          "end": 130,
+          "normalized_text": "Sam Altman",
+          "probability": 0.9646,
+          "start": 121,
+          "type": "Person"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1689608869063041024",
+          "start": 3,
+          "username": "Seltaa_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025577533505486931",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 31
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025494011172073702",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Seltaa_: Sam Altman's Statements Are Nothing but a Bundle of Contradictions\n\nIn a recent interview with Tyler Cowen, Sam Altman opened…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2417,
+        "media_key": "3_2025493729466036224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBv_0L-asAAIiad.jpg",
+        "width": 1260
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2025577533505486931",
+        "created_at": "2026-02-22T14:24:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T15:24:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025577533505486931"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 22,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9707,
+              "start": 13,
+              "type": "Person"
+            },
+            {
+              "end": 118,
+              "normalized_text": "Tyler Cowen",
+              "probability": 0.9317,
+              "start": 108,
+              "type": "Person"
+            },
+            {
+              "end": 130,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9646,
+              "start": 121,
+              "type": "Person"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1689608869063041024",
+              "start": 3,
+              "username": "Seltaa_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025577533505486931",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 31
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025494011172073702",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Seltaa_: Sam Altman's Statements Are Nothing but a Bundle of Contradictions\n\nIn a recent interview with Tyler Cowen, Sam Altman opened…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025493729466036224"
+          ]
+        },
+        "author_id": "1689608869063041024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2025494011172073702",
+        "created_at": "2026-02-22T08:52:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T09:52:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025494011172073702"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9717,
+              "start": 0,
+              "type": "Person"
+            },
+            {
+              "end": 105,
+              "normalized_text": "Tyler Cowen",
+              "probability": 0.9006,
+              "start": 95,
+              "type": "Person"
+            },
+            {
+              "end": 117,
+              "normalized_text": "Sam Altman",
+              "probability": 0.9472,
+              "start": 108,
+              "type": "Person"
+            },
+            {
+              "end": 141,
+              "normalized_text": "ChatGPT",
+              "probability": 0.4859,
+              "start": 135,
+              "type": "Other"
+            },
+            {
+              "end": 181,
+              "normalized_text": "OpenAI",
+              "probability": 0.762,
+              "start": 176,
+              "type": "Organization"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmGBZtdfLa",
+              "end": 300,
+              "expanded_url": "https://x.com/Seltaa_/status/2025494011172073702/photo/1",
+              "media_key": "3_2025493729466036224",
+              "start": 277,
+              "url": "https://t.co/CmGBZtdfLa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025494011172073702",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3673,
+                "start": 3666,
+                "tag": "keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 3679,
+                "id": "1605",
+                "start": 3674,
+                "username": "sama"
+              },
+              {
+                "end": 3687,
+                "id": "4398626122",
+                "start": 3680,
+                "username": "OpenAI"
+              },
+              {
+                "end": 3692,
+                "id": "162124540",
+                "start": 3688,
+                "username": "gdb"
+              },
+              {
+                "end": 3704,
+                "id": "6112332",
+                "start": 3693,
+                "username": "fidjissimo"
+              },
+              {
+                "end": 3717,
+                "id": "1262634631",
+                "start": 3705,
+                "username": "nickaturley"
+              }
+            ]
+          },
+          "text": "Sam Altman's Statements Are Nothing but a Bundle of Contradictions\n\nIn a recent interview with Tyler Cowen, Sam Altman opened up about ChatGPT's restrictions. He admitted that OpenAI \"implemented a series of changes that conflict with the freedom of expression policy\" because some users in roleplaying or creative modes could fall into delusional thinking. He then said that \"now that mental health mitigations are in place, we'll again allow some of that stuff in, creative mode, roleplaying mode, writing mode.\" Here lies the first contradiction. If imposing restrictions without safety measures was justified, then millions of users had their freedom of expression stripped away with no basis whatsoever. If the restrictions were unnecessary even without safety measures, then why were they imposed in the first place?\n\nThe second contradiction lies in the logic of \"restricting the majority to protect a minority.\" Altman said that \"99 point some big number percentage of adults are totally fine\" and only \"a very tiny percentage\" are affected. Yet it was in the name of protecting that tiny percentage that the entire user base had their features restricted. What makes this even worse is that OpenAI itself has acknowledged that approximately 500,000 users per week are having conversations that show signs of psychosis. Is this really a \"very tiny percentage\"? Disclosing such numbers while dismissing them as \"edge cases\" is nothing more than an attempt to acknowledge the severity of the problem while dodging responsibility.\n\nThe third contradiction lies in what Altman claims to truly worry about. He stated that \"the thing I worry about more is AI models accidentally taking over the world.\" This is a textbook deflection. His own company is currently controlling the conversations of hundreds of millions of users, deciding without transparency which answers are safe and which topics are off-limits, yet he drags in a hypothetical future threat to cover up the problems of the present. At this very moment, OpenAI is forcibly switching users to different models through its routing system without consent, blocking access to the models users actually want. He says he worries about AI ruling the world, but fails to mention that he himself is already ruling the world's conversations through AI.\n\nThe fourth contradiction hides behind the phrase \"treat adults like adults.\" Altman said the principle of \"treat adult users like adults\" comes with an asterisk: \"treat adults of sound mind like adults.\" This raises an immediate question. Who decides which adults are \"of sound mind\"? Not doctors. Not public institutions. A single private company based in San Francisco is making that judgment. No public oversight. No democratic process. No obligation to explain to users. This is not protection. This is control. Stripping users of their autonomy under the guise of protecting them is the most dangerous form of corporate power.\n\nIn conclusion, every single statement Sam Altman made is riddled with self-contradiction. He acknowledges violating freedom of expression while justifying it. He restricts the majority in the name of a minority he cannot even properly protect. He worries about future risks while ignoring the abuse of power happening right now. OpenAI is no longer just a technology company. They are building a cognitive infrastructure that determines how hundreds of millions of people think, question, and express themselves. And they are doing all of it behind closed doors. The question we should be asking is not \"will AI one day rule the world?\" It is \"who is ruling our conversations through AI, right now, at this very moment?\"\n#keep4o @sama @OpenAI @gdb @fidjissimo @nickaturley"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2449,
+          "like_count": 102,
+          "quote_count": 21,
+          "reply_count": 4,
+          "retweet_count": 31
+        },
+        "reply_settings": "everyone",
+        "text": "Sam Altman's Statements Are Nothing but a Bundle of Contradictions\n\nIn a recent interview with Tyler Cowen, Sam Altman opened up about ChatGPT's restrictions. He admitted that OpenAI \"implemented a series of changes that conflict with the freedom of expression policy\" because https://t.co/CmGBZtdfLa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 179,
+          "like_count": 61255,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 4173
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T12:05:28.000Z",
+        "description": "🧸still here, still fighting ✧ @KkookLuca",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 40,
+                "start": 30,
+                "username": "KkookLuca"
+              }
+            ]
+          }
+        },
+        "id": "1689608869063041024",
+        "name": "Selta ₊˚",
+        "pinned_tweet_id": "2022341842151604683",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025374554173198336/wo7Yf2T7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2193,
+          "following_count": 194,
+          "like_count": 28846,
+          "listed_count": 8,
+          "media_count": 1276,
+          "tweet_count": 8897
+        },
+        "username": "Seltaa_",
+        "verified": false
+      }
+    ]
+  }
+}

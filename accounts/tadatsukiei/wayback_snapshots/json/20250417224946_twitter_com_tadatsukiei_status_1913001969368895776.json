@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "1907225786723225600",
+    "created_at": "2025-04-17T22:49:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-04-17T23:49:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1913001969368895776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1385420056134262787",
+          "start": 0,
+          "username": "mbwadobo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1913001969368895776",
+    "in_reply_to_user_id": "1385420056134262787",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1913000923863142535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mbwadobo 我如今就在尝试，尽管迷茫。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "1907225786723225600",
+        "created_at": "2025-04-17T22:49:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T23:49:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913001969368895776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1385420056134262787",
+              "start": 0,
+              "username": "mbwadobo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913001969368895776",
+        "in_reply_to_user_id": "1385420056134262787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1913000923863142535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mbwadobo 我如今就在尝试，尽管迷茫。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1385420056134262787",
+        "conversation_id": "1907225786723225600",
+        "created_at": "2025-04-17T22:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-17T23:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1913000923863142535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1913000923863142535",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1912999594348478470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 人生不确定，要允许自己去试对错，才知道什么是适合你的！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "月影独下",
+        "pinned_tweet_id": "1898188832119701714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839458351497052160/HTYx9mD2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 72,
+          "like_count": 6032,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 1422
+        },
+        "username": "tadatsukiei",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-23T02:27:47.000Z",
+        "description": "精神科医生，心灵探索者，旅行爱好者🇦🇺🦘",
+        "id": "1385420056134262787",
+        "name": "mbjinyu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897485347535122432/7Spl3-pp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1383,
+          "following_count": 1089,
+          "like_count": 251,
+          "listed_count": 4,
+          "media_count": 234,
+          "tweet_count": 2966
+        },
+        "username": "mbwadobo",
+        "verified": true
+      }
+    ]
+  }
+}

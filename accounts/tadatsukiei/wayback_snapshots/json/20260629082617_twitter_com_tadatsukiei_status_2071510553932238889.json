@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2071510547171061760"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2071510553932238889",
+    "created_at": "2026-06-29T08:26:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T09:26:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071510553932238889"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/OoJWeU8TIn",
+          "end": 55,
+          "expanded_url": "https://x.com/tadatsukiei/status/2071510553932238889/photo/1",
+          "media_key": "3_2071510547171061760",
+          "start": 32,
+          "url": "https://t.co/OoJWeU8TIn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071510553932238889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是我的错觉吗，这游戏打击反馈约等于无，按没按中我自己都不清楚。 https://t.co/OoJWeU8TIn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 946,
+        "media_key": "3_2071510547171061760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL973gibMAAUf2m.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071510547171061760"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071510553932238889",
+        "created_at": "2026-06-29T08:26:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T09:26:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071510553932238889"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OoJWeU8TIn",
+              "end": 55,
+              "expanded_url": "https://x.com/tadatsukiei/status/2071510553932238889/photo/1",
+              "media_key": "3_2071510547171061760",
+              "start": 32,
+              "url": "https://t.co/OoJWeU8TIn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071510553932238889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是我的错觉吗，这游戏打击反馈约等于无，按没按中我自己都不清楚。 https://t.co/OoJWeU8TIn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2071070969242992813",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 711,
+          "following_count": 655,
+          "like_count": 108419,
+          "listed_count": 10,
+          "media_count": 636,
+          "tweet_count": 7839
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

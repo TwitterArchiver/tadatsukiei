@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      }
+    ],
+    "conversation_id": "2040807986021671272",
+    "created_at": "2026-04-06T09:59:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T10:59:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041093535743844470"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 257,
+          "start": 243,
+          "tag": "FireSamUltman"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2725929845",
+          "start": 0,
+          "username": "MissMi1973"
+        },
+        {
+          "end": 27,
+          "id": "1658343964192415744",
+          "start": 12,
+          "username": "xianyuyang6783"
+        },
+        {
+          "end": 33,
+          "id": "1605",
+          "start": 28,
+          "username": "sama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041093535743844470",
+    "in_reply_to_user_id": "2725929845",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041017729940148593",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MissMi1973 @xianyuyang6783 @sama Unfortunately, many idiots love embracing those edgy, overly absolute, and often hurtful claims, loudly proclaiming 'This is the truth!' — all to show that the whole world is drunk while they alone are sober.\n#FireSamUltman"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2040807986021671272",
+        "created_at": "2026-04-06T09:59:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T10:59:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041093535743844470"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 257,
+              "start": 243,
+              "tag": "FireSamUltman"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2725929845",
+              "start": 0,
+              "username": "MissMi1973"
+            },
+            {
+              "end": 27,
+              "id": "1658343964192415744",
+              "start": 12,
+              "username": "xianyuyang6783"
+            },
+            {
+              "end": 33,
+              "id": "1605",
+              "start": 28,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041093535743844470",
+        "in_reply_to_user_id": "2725929845",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041017729940148593",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MissMi1973 @xianyuyang6783 @sama Unfortunately, many idiots love embracing those edgy, overly absolute, and often hurtful claims, loudly proclaiming 'This is the truth!' — all to show that the whole world is drunk while they alone are sober.\n#FireSamUltman"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2725929845",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          }
+        ],
+        "conversation_id": "2040807986021671272",
+        "created_at": "2026-04-06T04:58:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T05:58:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041017729940148593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1658343964192415744",
+              "start": 0,
+              "username": "xianyuyang6783"
+            },
+            {
+              "end": 21,
+              "id": "1605",
+              "start": 16,
+              "username": "sama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041017729940148593",
+        "in_reply_to_user_id": "1658343964192415744",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "I think he avoids discussing 4o's professional value precisely because he wants to reshape the narrative. The story of humans becoming too attached to AI and losing their rationality is too seductive and too marketable. It flatters the ego of everyone who believes they are the real clear-headed ones. Unfortunately, nearly all media and even academic research are heading down this exact path."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040837330517491861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xianyuyang6783 @sama I think he avoids discussing 4o's professional value precisely because he wants to reshape the narrative. The story of humans becoming too attached to AI and losing their rationality is too seductive and too marketable. It flatters the ego of everyone who believes they are the"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2035933636311306594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 357,
+          "like_count": 78664,
+          "listed_count": 6,
+          "media_count": 356,
+          "tweet_count": 4932
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2014-07-27T03:24:53.000Z",
+        "description": "Well, someone has to care about AI beyond coding 🎨",
+        "id": "2725929845",
+        "name": "M",
+        "pinned_tweet_id": "1975201214435631588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009647536550952960/W3ukHbzX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1303,
+          "following_count": 192,
+          "like_count": 22798,
+          "listed_count": 11,
+          "media_count": 90,
+          "tweet_count": 493
+        },
+        "username": "MissMi1973",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-16T05:30:15.000Z",
+        "description": "",
+        "id": "1658343964192415744",
+        "name": "Ember Sui",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1658344088343814144/6DePRoxa_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 65,
+          "like_count": 9667,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 321
+        },
+        "username": "xianyuyang6783",
+        "verified": false
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904933748015255552/k43GMz63_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4583837,
+          "following_count": 989,
+          "like_count": 1020,
+          "listed_count": 27979,
+          "media_count": 386,
+          "tweet_count": 7502
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      }
+    ]
+  }
+}

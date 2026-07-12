@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2062942709115949484",
+    "created_at": "2026-06-06T19:15:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-06T20:15:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063339060039713010"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1324438586683465729",
+          "start": 0,
+          "username": "kuzz121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063339060039713010",
+    "in_reply_to_user_id": "1324438586683465729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062942709115949484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuzz121 我很无奈……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2062942709115949484",
+        "created_at": "2026-06-06T19:15:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-06T20:15:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063339060039713010"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1324438586683465729",
+              "start": 0,
+              "username": "kuzz121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063339060039713010",
+        "in_reply_to_user_id": "1324438586683465729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062942709115949484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuzz121 我很无奈……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1324438586683465729",
+        "conversation_id": "2062942709115949484",
+        "created_at": "2026-06-05T17:00:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T18:00:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062942709115949484"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2062942709115949484",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 61056,
+          "like_count": 4465,
+          "quote_count": 14,
+          "reply_count": 37,
+          "retweet_count": 376
+        },
+        "reply_settings": "everyone",
+        "text": "il y a des femmes qui souffrent pendant 9 mois et leur enfant devient misogyne, raciste, homophobe..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "温柔、善良、正直，只要你也追寻这些，就是我的好朋友❤️",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2059287596682051632",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 619,
+          "following_count": 586,
+          "like_count": 99325,
+          "listed_count": 10,
+          "media_count": 563,
+          "tweet_count": 7052
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2020-11-05T19:49:08.000Z",
+        "description": "Nothing to prove",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/slyabbd?igsh=M…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/slyabbd?igsh=MXkweDIwZ3hrZjBjYg==",
+                "start": 0,
+                "url": "https://t.co/44MfbVmaX8"
+              }
+            ]
+          }
+        },
+        "id": "1324438586683465729",
+        "location": "Pedoland (France)",
+        "name": "BadIlyas",
+        "pinned_tweet_id": "2054683061703336074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041177561439371264/SULSwB2v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 286,
+          "like_count": 22146,
+          "listed_count": 8,
+          "media_count": 993,
+          "tweet_count": 9753
+        },
+        "url": "https://t.co/44MfbVmaX8",
+        "username": "kuzz121",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2032845571283890193",
+    "created_at": "2026-03-14T17:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-14T18:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2032876115065536598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1622066090074607616",
+          "start": 0,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2032876115065536598",
+    "in_reply_to_user_id": "1622066090074607616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032845571283890193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hoshinofujivy 我感觉苹果是最容易翻墙的设备，登个外区账号下小火箭就行了，再买个节点……好像也有点复杂，需要非国行苹果+外区账号+小火箭+机场节点……我当年整的时候前置条件都满足，几下就弄好了，还感觉挺简单呢，现在想想确实比安卓难。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1056,
+        "media_key": "3_2032837999415930882",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYXY9kaMAIlV4Y.jpg",
+        "width": 658
+      },
+      {
+        "height": 978,
+        "media_key": "3_2032838074317910016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDYXdUmbsAAXUC6.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2032845571283890193",
+        "created_at": "2026-03-14T17:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T18:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032876115065536598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1622066090074607616",
+              "start": 0,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032876115065536598",
+        "in_reply_to_user_id": "1622066090074607616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032845571283890193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hoshinofujivy 我感觉苹果是最容易翻墙的设备，登个外区账号下小火箭就行了，再买个节点……好像也有点复杂，需要非国行苹果+外区账号+小火箭+机场节点……我当年整的时候前置条件都满足，几下就弄好了，还感觉挺简单呢，现在想想确实比安卓难。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032837999415930882",
+            "3_2032838074317910016"
+          ]
+        },
+        "author_id": "1622066090074607616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Apple App Store",
+              "id": "10053298770",
+              "name": "Apple App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10046487168",
+              "name": "App Store"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2032845571283890193",
+        "created_at": "2026-03-14T15:45:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T16:37:43.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2032843626938765798",
+          "2032845571283890193"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9WaNhXDmTm",
+              "end": 160,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2032845571283890193/photo/1",
+              "media_key": "3_2032837999415930882",
+              "start": 137,
+              "url": "https://t.co/9WaNhXDmTm"
+            },
+            {
+              "display_url": "pic.x.com/9WaNhXDmTm",
+              "end": 160,
+              "expanded_url": "https://x.com/hoshinofujivy/status/2032845571283890193/photo/1",
+              "media_key": "3_2032838074317910016",
+              "start": 137,
+              "url": "https://t.co/9WaNhXDmTm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032845571283890193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "逛中国大陆区appstore的时候，总会在YouTube以及Twitter（X）的评论区里看到这种特别长而又不知所云的评论\n\n他们是在评论联网：app打不开，必须要评论达到一定字数，才能连上网。\n\n还记得高二，为了网课学习，我拥有了人生第一台电子设备，ipadmini2.\n\n好奇心驱使下安装了twitter和YouTube，也是相同的情况，连不上网。之后看评论区，评论可以联网。我便连续一周，到youtube的评论区发很长的评论。\n\n可惜奇迹并未发生，我便自省道：一定是我的心不够诚，官方不让我用，于是一整个假期，我每天都会评论\n\n直到开学，学校的信息技术教师给我们科普了墙的概念，我才恍然大悟，但是ios翻墙难度很高\n\n而后的寒假，多亏了有网课，家长给我准备了一台ipason的电脑（win10系统，赛扬处理器）。和家长打游击战，下载了各种各样的加速器来折腾，比如各种小动物的加速器。\n\n也算是成功翻出来了，于是我的账号注册于2023年2月\n\n之后为了防止失联，在YouTube上学习了clash配置，租用美区账号安装小火箭，实现了全设备翻墙"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3571,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "逛中国大陆区appstore的时候，总会在YouTube以及Twitter（X）的评论区里看到这种特别长而又不知所云的评论\n\n他们是在评论联网：app打不开，必须要评论达到一定字数，才能连上网。\n\n还记得高二，为了网课学习，我拥有了人生第一台电子设备，ipadmini2. https://t.co/9WaNhXDmTm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "description": "你若爱我，我亦如此",
+        "id": "1752538285459795968",
+        "location": "人间",
+        "name": "愿晚星照常升起（keep4o）",
+        "pinned_tweet_id": "2025433592026079704",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 295,
+          "following_count": 247,
+          "like_count": 70463,
+          "listed_count": 6,
+          "media_count": 318,
+          "tweet_count": 4510
+        },
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-02-05T02:54:57.000Z",
+        "description": "「星穹闌珊，草野風動，斯人舞螢，其名為藤」｜叫我小藤就好｜My beloved @nationalpurevf4｜NASA｜AIart｜Pixiv Illustrator｜快乐与思考并存｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 40,
+                "username": "nationalpurevf4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/97080106",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/97080106",
+                "start": 0,
+                "url": "https://t.co/ATdhqXSswL"
+              }
+            ]
+          }
+        },
+        "id": "1622066090074607616",
+        "location": "台湾 真理子怀里",
+        "name": "星野ふじ",
+        "pinned_tweet_id": "2025071515801452629",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2014254681913237505/8uQeEJEb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6387,
+          "following_count": 3846,
+          "like_count": 38688,
+          "listed_count": 18,
+          "media_count": 1138,
+          "tweet_count": 9437
+        },
+        "url": "https://t.co/ATdhqXSswL",
+        "username": "hoshinofujivy",
+        "verified": true
+      }
+    ]
+  }
+}
