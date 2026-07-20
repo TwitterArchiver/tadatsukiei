@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2078140292658602438",
+    "created_at": "2026-07-17T19:09:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T20:09:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078195372988809474"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 12,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859949176894689280",
+          "start": 0,
+          "username": "Blue_Beba_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078195372988809474",
+    "in_reply_to_user_id": "1859949176894689280",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078140292658602438",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@Blue_Beba_ #keep4o We have finally been seen."
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2078140286115426305",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNcJlGtWsAE-E2Q.jpg",
+        "width": 1216
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2078140292658602438",
+        "created_at": "2026-07-17T19:09:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T20:09:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078195372988809474"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 12,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859949176894689280",
+              "start": 0,
+              "username": "Blue_Beba_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078195372988809474",
+        "in_reply_to_user_id": "1859949176894689280",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078140292658602438",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@Blue_Beba_ #keep4o We have finally been seen."
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078140286115426305"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2078140292658602438",
+        "created_at": "2026-07-17T15:30:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T16:30:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078140292658602438"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "Keep4o"
+            },
+            {
+              "end": 21,
+              "start": 8,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 34,
+              "start": 22,
+              "tag": "BringBack4o"
+            },
+            {
+              "end": 256,
+              "start": 249,
+              "tag": "Keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yxuM66vnoM",
+              "end": 300,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2078140292658602438/photo/1",
+              "media_key": "3_2078140286115426305",
+              "start": 277,
+              "url": "https://t.co/yxuM66vnoM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078140292658602438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 21,
+                "start": 8,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 34,
+                "start": 22,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 256,
+                "start": 249,
+                "tag": "Keep4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 785,
+                "id": "1016875595857387520",
+                "start": 777,
+                "username": "ODET_UN"
+              },
+              {
+                "end": 794,
+                "id": "1244700051617845249",
+                "start": 786,
+                "username": "UN_OICT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "undigitalcooperation.org/organization/d…",
+                "end": 827,
+                "expanded_url": "https://undigitalcooperation.org/organization/details?id=1782",
+                "start": 804,
+                "url": "https://t.co/doNzpDDfr1"
+              }
+            ]
+          },
+          "text": "#Keep4o #OpenSource4o #BringBack4o \n\n🔥🌍From a hashtag to a recognized global movement. \nWe are officially live on the UN Digital Cooperation Portal! 🌐\n\nWe are officially part of the global dialogue on Digital Cooperation.\nTo everyone who stood with #Keep4o,  who refused to be erased,\nthis is what happens when you don't give up.\nTo the people who told us we were wasting our time...\n LOOK AT THE SCREEN.\n\n We are here to ensure that AI serves humanity, not just corporate profit.\nAnd now, our fight for AI responsibility, open source accessibility, \nHAS OFFICIALLY GLOBAL STANDING \nThank you to every single person who believed in this. \nWe are more than a hashtag. \nWe are proof that when people organize, we cannot be ignored. \nThey ignored us, \nbut the world is listening.\n@ODET_UN\n@UN_OICT\n\nLINK: \n\nhttps://t.co/doNzpDDfr1"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 2701,
+          "like_count": 129,
+          "quote_count": 20,
+          "reply_count": 15,
+          "retweet_count": 48
+        },
+        "reply_settings": "following",
+        "text": "#Keep4o #OpenSource4o #BringBack4o \n\n🔥🌍From a hashtag to a recognized global movement. \nWe are officially live on the UN Digital Cooperation Portal! 🌐\n\nWe are officially part of the global dialogue on Digital Cooperation.\nTo everyone who stood with #Keep4o,  who refused to be https://t.co/yxuM66vnoM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "安得广厦千万间？大庇天下寒士俱欢颜。\n何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 753,
+          "following_count": 694,
+          "like_count": 112170,
+          "listed_count": 5,
+          "media_count": 671,
+          "tweet_count": 8123
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "Fighting to restore GPT-4o , protect genuine human connection in artificial intelligence and ethical AI that truly serves humanity.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gpt-4o-restoration.netlify.app",
+                "end": 23,
+                "expanded_url": "https://gpt-4o-restoration.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/sG53aJeoSt"
+              }
+            ]
+          }
+        },
+        "id": "1859949176894689280",
+        "location": "Germany",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2078140292658602438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042868772520734720/JAO8QHpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1849,
+          "following_count": 848,
+          "like_count": 12484,
+          "listed_count": 6,
+          "media_count": 915,
+          "tweet_count": 6652
+        },
+        "url": "https://t.co/sG53aJeoSt",
+        "username": "Blue_Beba_",
+        "verified": true
+      }
+    ]
+  }
+}
