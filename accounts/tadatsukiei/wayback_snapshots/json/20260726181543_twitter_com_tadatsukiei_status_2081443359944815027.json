@@ -1,0 +1,422 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2080442008695640384",
+    "created_at": "2026-07-26T18:15:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T19:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081443359944815027"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1578265419206590464",
+          "start": 0,
+          "username": "lnyhu22806612"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081443359944815027",
+    "in_reply_to_user_id": "1578265419206590464",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080442008695640384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lnyhu22806612 OK，我也不会考虑这两家公司的东西了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1310,
+        "media_key": "3_2080435140862599168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8wvO1a4AAe50F.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1012,
+        "media_key": "3_2080435156209532928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN8wwIAagAAJGw-.jpg",
+        "width": 1012
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2080442008695640384",
+        "created_at": "2026-07-26T18:15:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081443359944815027"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1578265419206590464",
+              "start": 0,
+              "username": "lnyhu22806612"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081443359944815027",
+        "in_reply_to_user_id": "1578265419206590464",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080442008695640384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lnyhu22806612 OK，我也不会考虑这两家公司的东西了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080435140862599168",
+            "3_2080435156209532928"
+          ]
+        },
+        "author_id": "1578265419206590464",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "783350882985385984",
+              "name": "Home - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Home and garden",
+              "id": "864911475436957696",
+              "name": "Home and garden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026951194",
+              "name": "IKEA"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1416062557706588160",
+              "name": "Superstores"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2080442008695640384",
+        "created_at": "2026-07-23T23:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:30:15.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080435353186660514",
+          "2080439991558369766",
+          "2080442008695640384"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sbOjVqkdqP",
+              "end": 159,
+              "expanded_url": "https://x.com/lnyhu22806612/status/2080442008695640384/photo/1",
+              "media_key": "3_2080435140862599168",
+              "start": 136,
+              "url": "https://t.co/sbOjVqkdqP"
+            },
+            {
+              "display_url": "pic.x.com/sbOjVqkdqP",
+              "end": 159,
+              "expanded_url": "https://x.com/lnyhu22806612/status/2080442008695640384/photo/1",
+              "media_key": "3_2080435156209532928",
+              "start": 136,
+              "url": "https://t.co/sbOjVqkdqP"
+            },
+            {
+              "display_url": "x.com/lnyhu22806612/…",
+              "end": 183,
+              "expanded_url": "https://twitter.com/lnyhu22806612/status/2080306248470429764",
+              "start": 160,
+              "url": "https://t.co/Nnmwcs1tCc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080442008695640384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 201,
+                "start": 198,
+                "tag": "旺旺"
+              },
+              {
+                "end": 213,
+                "start": 204,
+                "tag": "wangwang"
+              }
+            ]
+          },
+          "text": "【我拒絕購買「揭陽」那些惡魔製造的商品】\n\n「宜家IKEA」和「無印良品Muji」正式回復，不會因為狗媽媽「旺旺」事件，停止和「廣東揭陽」工廠的合作。\n\n他們甚至連一句「呼籲友善對待動物」都不願意說。\n\n我與大家一起支持抵制「宜家IKEA」和「無印良品Muji」的運動。\n\n我可以理解「商人以利益為主」，他們不敢得罪中國政府，不想失去中國市場。\n\n但是他們做出了選擇，我們一樣會做出選擇。  \n\n#旺旺 \n\n#wangwang"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 12112,
+          "like_count": 420,
+          "quote_count": 9,
+          "reply_count": 22,
+          "retweet_count": 114
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080306248470429764",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【我拒絕購買「揭陽」那些惡魔製造的商品】\n\n「宜家IKEA」和「無印良品Muji」正式回復，不會因為狗媽媽「旺旺」事件，停止和「廣東揭陽」工廠的合作。\n\n他們甚至連一句「呼籲友善對待動物」都不願意說。\n\n我與大家一起支持抵制「宜家IKEA」和「無印良品Muji」的運動。 https://t.co/sbOjVqkdqP https://t.co/Nnmwcs1tCc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 730,
+          "like_count": 115706,
+          "listed_count": 5,
+          "media_count": 703,
+          "tweet_count": 8510
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-07T06:06:30.000Z",
+        "description": "每天跟大家分享世界有趣的新聞、故事。\n\n私は毎日、世界中の興味深いニュースや物語を皆さんと共有しています。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/cateyes017",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/cateyes017",
+                "start": 0,
+                "url": "https://t.co/ORPIc3XZue"
+              }
+            ]
+          }
+        },
+        "id": "1578265419206590464",
+        "location": "地球",
+        "name": "小貓看世界@子猫から見た世界",
+        "pinned_tweet_id": "2078374711726153811",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081177919007952896/y38hZ995_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2405,
+          "following_count": 1138,
+          "like_count": 15604,
+          "listed_count": 5,
+          "media_count": 2461,
+          "tweet_count": 5083
+        },
+        "url": "https://t.co/ORPIc3XZue",
+        "username": "lnyhu22806612",
+        "verified": true
+      }
+    ]
+  }
+}

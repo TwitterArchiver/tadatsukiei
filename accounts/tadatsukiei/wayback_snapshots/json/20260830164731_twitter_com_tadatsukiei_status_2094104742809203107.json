@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "london",
+          "id": "855412191050121217",
+          "name": "London"
+        }
+      }
+    ],
+    "conversation_id": "2094104742809203107",
+    "created_at": "2026-08-30T16:47:31.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T17:47:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094104742809203107"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1431397782867169285",
+          "start": 3,
+          "username": "NebLorne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094104742809203107",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093952385739894866",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NebLorne: 你要谈论AI精神病，就不能只谈论AI在精神病方面的诱发性。你要谈论AI的优势、谈论大多数人类是否付得起看病成本。你要谈论精神病的成因，承认一个医生的失职同样能为另一个病人带来灭顶之灾。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2094104742809203107",
+        "created_at": "2026-08-30T16:47:31.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T17:47:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094104742809203107"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1431397782867169285",
+              "start": 3,
+              "username": "NebLorne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094104742809203107",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093952385739894866",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NebLorne: 你要谈论AI精神病，就不能只谈论AI在精神病方面的诱发性。你要谈论AI的优势、谈论大多数人类是否付得起看病成本。你要谈论精神病的成因，承认一个医生的失职同样能为另一个病人带来灭顶之灾。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431397782867169285",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "london",
+              "id": "855412191050121217",
+              "name": "London"
+            }
+          }
+        ],
+        "conversation_id": "2093952385739894866",
+        "created_at": "2026-08-30T06:42:07.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T07:42:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093952385739894866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ai_database/st…",
+              "end": 116,
+              "expanded_url": "https://twitter.com/ai_database/status/2093881743187276020",
+              "start": 93,
+              "url": "https://t.co/x0iXgcgx6h"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093952385739894866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1366,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093881743187276020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你要谈论AI精神病，就不能只谈论AI在精神病方面的诱发性。你要谈论AI的优势、谈论大多数人类是否付得起看病成本。你要谈论精神病的成因，承认一个医生的失职同样能为另一个病人带来灭顶之灾。 https://t.co/x0iXgcgx6h"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2094104742809203107",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 808,
+          "like_count": 126708,
+          "listed_count": 6,
+          "media_count": 806,
+          "tweet_count": 9408
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-27T23:26:42.000Z",
+        "description": "𝑪𝒂𝒍𝒍 𝒎𝒆 𝒃𝒚 𝒚𝒐𝒖𝒓 𝒏𝒂𝒎𝒆",
+        "id": "1431397782867169285",
+        "is_identity_verified": false,
+        "location": "挪威  Lorne在那里看极光",
+        "most_recent_tweet_id": "2094023787134300229",
+        "name": "伞",
+        "pinned_tweet_id": "2038112069124239523",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431397782867169285/1773973716",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028562862462156800/jS-WTSjB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 394,
+          "following_count": 157,
+          "like_count": 15906,
+          "listed_count": 1,
+          "media_count": 392,
+          "tweet_count": 4114
+        },
+        "url": "",
+        "username": "NebLorne",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

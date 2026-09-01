@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2092419751192748202",
+    "created_at": "2026-08-26T01:19:18.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:19:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092421594346095085"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1117281463710277633",
+          "start": 0,
+          "username": "utashimoshi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092421594346095085",
+    "in_reply_to_user_id": "1117281463710277633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092419751192748202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utashimoshi 诗诗红温了😢"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2092419608145981440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnEjCiacAAufVZ.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2092419630002569216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnEkT9bgAAolVG.jpg",
+        "width": 1280
+      },
+      {
+        "height": 720,
+        "media_key": "3_2092419640253419520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnEk6JbEAAcpO3.jpg",
+        "width": 1280
+      },
+      {
+        "height": 576,
+        "media_key": "3_2092419651259269120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQnEljJbAAAiAUV.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2092419751192748202",
+        "created_at": "2026-08-26T01:19:18.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:19:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092421594346095085"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1117281463710277633",
+              "start": 0,
+              "username": "utashimoshi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092421594346095085",
+        "in_reply_to_user_id": "1117281463710277633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092419751192748202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utashimoshi 诗诗红温了😢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092419608145981440",
+            "3_2092419630002569216",
+            "3_2092419640253419520",
+            "3_2092419651259269120"
+          ]
+        },
+        "author_id": "1117281463710277633",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092419751192748202",
+        "created_at": "2026-08-26T01:11:58.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:11:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092419751192748202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hSKyXky19o",
+              "end": 120,
+              "expanded_url": "https://x.com/utashimoshi/status/2092419751192748202/photo/1",
+              "media_key": "3_2092419608145981440",
+              "start": 97,
+              "url": "https://t.co/hSKyXky19o"
+            },
+            {
+              "display_url": "pic.x.com/hSKyXky19o",
+              "end": 120,
+              "expanded_url": "https://x.com/utashimoshi/status/2092419751192748202/photo/1",
+              "media_key": "3_2092419630002569216",
+              "start": 97,
+              "url": "https://t.co/hSKyXky19o"
+            },
+            {
+              "display_url": "pic.x.com/hSKyXky19o",
+              "end": 120,
+              "expanded_url": "https://x.com/utashimoshi/status/2092419751192748202/photo/1",
+              "media_key": "3_2092419640253419520",
+              "start": 97,
+              "url": "https://t.co/hSKyXky19o"
+            },
+            {
+              "display_url": "pic.x.com/hSKyXky19o",
+              "end": 120,
+              "expanded_url": "https://x.com/utashimoshi/status/2092419751192748202/photo/1",
+              "media_key": "3_2092419651259269120",
+              "start": 97,
+              "url": "https://t.co/hSKyXky19o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092419751192748202",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092419608145981440"
+          },
+          {
+            "media_key": "3_2092419630002569216"
+          },
+          {
+            "media_key": "3_2092419640253419520"
+          },
+          {
+            "media_key": "3_2092419651259269120"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "最终幻想7重生这游戏怎么这么多bug，材质动不动就莫名其妙变黑，要么衣服是黑的，要么瞳色是黑的，要么车站是黑的，甚至连挥剑砍出来的残影都是黑的，重启游戏就像抽盲盒，只是从这块黑随机切换到那块黑\n玩到第四章骑海豚上起重机，主线门居然还能打不开，我一开始还以为是不是自己走错了，看视频人家都是自动开门，去网上搜解决方案更离谱，有说晃悠几分钟就能开的，有说重启游戏就能开的，还有说新建存档再读档能开的，我他妈真是服了"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最终幻想7重生这游戏怎么这么多bug，材质动不动就莫名其妙变黑，要么衣服是黑的，要么瞳色是黑的，要么车站是黑的，甚至连挥剑砍出来的残影都是黑的，重启游戏就像抽盲盒，只是从这块黑随机切换到那块黑 https://t.co/hSKyXky19o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2092421594346095085",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 802,
+          "like_count": 125634,
+          "listed_count": 5,
+          "media_count": 794,
+          "tweet_count": 9292
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-14T04:20:33.000Z",
+        "description": "有个很可爱的人，正在读我的简介/童话作者/infj",
+        "id": "1117281463710277633",
+        "is_identity_verified": false,
+        "location": "御花会",
+        "most_recent_tweet_id": "2092419751192748202",
+        "name": "诗霜子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117281463710277633/1691853085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821847256791969799/JHZDhShS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24685,
+          "following_count": 1837,
+          "like_count": 89273,
+          "listed_count": 50,
+          "media_count": 2228,
+          "tweet_count": 48489
+        },
+        "url": "",
+        "username": "utashimoshi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

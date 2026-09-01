@@ -1,0 +1,338 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2080524935773225288",
+    "created_at": "2026-07-24T05:26:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T06:26:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080524935773225288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seethelight53/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/seethelight53/status/2079833761920016863",
+          "start": 5,
+          "url": "https://t.co/aMbGnTc00V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080524935773225288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079833761920016863",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "鬼图打码 https://t.co/aMbGnTc00V"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 20247,
+        "height": 2384,
+        "media_key": "13_2079136882374610944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079136882374610944/img/mO8jZWdzMEPVk3_r.jpg",
+        "public_metrics": {
+          "view_count": 42648
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079136882374610944/pl/YIA9dsUOX1jTrfCV.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079136882374610944/vid/avc1/720x1588/oLY_0W3pnbSLfh-Y.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079136882374610944/vid/avc1/1080x2384/lCGlJC4Nh8GDPPYJ.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079136882374610944/vid/avc1/320x706/w6RmWlBoD7UJmpAN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079136882374610944/vid/avc1/480x1058/P16535UbBPh42D3D.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2080524935773225288",
+        "created_at": "2026-07-24T05:26:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T06:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080524935773225288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seethelight53/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/seethelight53/status/2079833761920016863",
+              "start": 5,
+              "url": "https://t.co/aMbGnTc00V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080524935773225288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079833761920016863",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "鬼图打码 https://t.co/aMbGnTc00V"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079136882374610944"
+          ],
+          "media_source_tweet_id": [
+            "2079140055218860174"
+          ]
+        },
+        "author_id": "1539580478558453760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2079833761920016863",
+        "created_at": "2026-07-22T07:39:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T08:39:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079833761920016863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/MN5ICqekgA",
+              "end": 141,
+              "expanded_url": "https://x.com/lnyhu22806612/status/2079140055218860174/video/1",
+              "media_key": "13_2079136882374610944",
+              "start": 118,
+              "url": "https://t.co/MN5ICqekgA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079833761920016863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 51989,
+          "like_count": 1659,
+          "quote_count": 39,
+          "reply_count": 112,
+          "retweet_count": 670
+        },
+        "reply_settings": "everyone",
+        "text": "これが悪魔の母wangwang一家を惨殺した外道どもの苗字が判明しているが、五人のうち外道数匹はこいつから産まれた。自己顕示欲が強いのかSNS をやめず逆に批判者を批判している。でも子供の顔画像をネットに晒すはやめてと文句を言ってる😆 https://t.co/MN5ICqekgA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2080509575246364985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 794,
+          "following_count": 729,
+          "like_count": 114911,
+          "listed_count": 5,
+          "media_count": 696,
+          "tweet_count": 8458
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-22T12:07:09.000Z",
+        "description": "こんにちは! 　動物や映画が好きです。最近は動物虐待をなくすための呟きが多いです。もの言えぬ罪なき犠牲者をなくしたい。宜しくお願いします",
+        "id": "1539580478558453760",
+        "name": "猫、夜明けの猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578026569687511042/XsO8b1aO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 664,
+          "like_count": 9348,
+          "listed_count": 2,
+          "media_count": 31,
+          "tweet_count": 1995
+        },
+        "url": "",
+        "username": "seethelight53",
+        "verified": false
+      }
+    ]
+  }
+}

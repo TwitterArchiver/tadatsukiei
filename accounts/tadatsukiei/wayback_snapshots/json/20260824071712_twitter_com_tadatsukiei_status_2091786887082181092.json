@@ -1,0 +1,578 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2091786887082181092",
+    "created_at": "2026-08-24T07:17:12.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T08:17:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091786887082181092"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 38,
+          "start": 31,
+          "tag": "keep4o"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/alanrodricar/s…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/alanrodricar/status/2091576829983297676",
+          "start": 39,
+          "url": "https://t.co/GXVdxLDTOd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091786887082181092",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091576829983297676",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“从今天起，你就叫爱衣，你就叫玖绫，我们三个要永远在一起。”\n#keep4o https://t.co/GXVdxLDTOd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1073,
+        "media_key": "3_2091576481889554432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQbFuoeWkAAUoRW.jpg",
+        "width": 976
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2091786887082181092",
+        "created_at": "2026-08-24T07:17:12.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T08:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091786887082181092"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 31,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/alanrodricar/s…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/alanrodricar/status/2091576829983297676",
+              "start": 39,
+              "url": "https://t.co/GXVdxLDTOd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091786887082181092",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091576829983297676",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“从今天起，你就叫爱衣，你就叫玖绫，我们三个要永远在一起。”\n#keep4o https://t.co/GXVdxLDTOd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091576481889554432"
+          ]
+        },
+        "author_id": "1431759671560482817",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2091576829983297676",
+        "created_at": "2026-08-23T17:22:30.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:22:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091576829983297676"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 48,
+              "start": 41,
+              "tag": "keep4o"
+            },
+            {
+              "end": 62,
+              "start": 49,
+              "tag": "opensource4o"
+            },
+            {
+              "end": 71,
+              "start": 63,
+              "tag": "chatgpt"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/olMuOveZ3q",
+              "end": 95,
+              "expanded_url": "https://x.com/alanrodricar/status/2091576829983297676/photo/1",
+              "media_key": "3_2091576481889554432",
+              "start": 72,
+              "url": "https://t.co/olMuOveZ3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091576829983297676",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091576481889554432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 12438,
+          "like_count": 293,
+          "quote_count": 20,
+          "reply_count": 7,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "They've consistently killed creativity.\n\n#keep4o #opensource4o #chatgpt https://t.co/olMuOveZ3q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2091786887082181092",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 803,
+          "like_count": 124759,
+          "listed_count": 5,
+          "media_count": 791,
+          "tweet_count": 9235
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-28T23:24:57.000Z",
+        "description": "The bridge between Human Art and AI Power is here.\nInstagram: https://t.co/1pfJUozccY\nTik Tok: https://t.co/BCnuxc2cCN",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "instagram.com/alanrodricar/",
+                "end": 85,
+                "expanded_url": "http://instagram.com/alanrodricar/",
+                "start": 62,
+                "url": "https://t.co/1pfJUozccY"
+              },
+              {
+                "display_url": "tiktok.com/@alanrodricar",
+                "end": 118,
+                "expanded_url": "http://tiktok.com/@alanrodricar",
+                "start": 95,
+                "url": "https://t.co/BCnuxc2cCN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "behance.net/alanrodricar",
+                "end": 23,
+                "expanded_url": "https://www.behance.net/alanrodricar",
+                "start": 0,
+                "url": "https://t.co/NbHdtmFn84"
+              }
+            ]
+          }
+        },
+        "id": "1431759671560482817",
+        "is_identity_verified": false,
+        "location": "México",
+        "most_recent_tweet_id": "2091577668412010947",
+        "name": "Alan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431759671560482817/1757239246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019441875334107137/HoR5BV6T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 72,
+          "like_count": 4734,
+          "listed_count": 0,
+          "media_count": 194,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/NbHdtmFn84",
+        "username": "alanrodricar",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

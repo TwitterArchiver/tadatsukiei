@@ -1,0 +1,763 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2091268049265652122",
+    "created_at": "2026-08-24T06:44:30.000Z",
+    "display_text_range": [
+      26,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T07:44:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091778660114260440"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "255793931",
+          "start": 0,
+          "username": "davidsenra"
+        },
+        {
+          "end": 17,
+          "id": "1605",
+          "start": 12,
+          "username": "sama"
+        },
+        {
+          "end": 25,
+          "id": "4398626122",
+          "start": 18,
+          "username": "OpenAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091778660114260440",
+    "in_reply_to_user_id": "255793931",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091268049265652122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@davidsenra @sama @OpenAI 我还以为这家伙死了呢，原来没有啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2091267824992075776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWtAb7bQAAan-A.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2091267824979435520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWtAb4aYAAi_DU.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2091267824983650304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWtAb5asAAhyBW.jpg",
+        "width": 1920
+      },
+      {
+        "height": 2400,
+        "media_key": "3_2091267824992026624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWtAb7agAAUO-s.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2091268049265652122",
+        "created_at": "2026-08-24T06:44:30.000Z",
+        "display_text_range": [
+          26,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:44:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091778660114260440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "255793931",
+              "start": 0,
+              "username": "davidsenra"
+            },
+            {
+              "end": 17,
+              "id": "1605",
+              "start": 12,
+              "username": "sama"
+            },
+            {
+              "end": 25,
+              "id": "4398626122",
+              "start": 18,
+              "username": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091778660114260440",
+        "in_reply_to_user_id": "255793931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091268049265652122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@davidsenra @sama @OpenAI 我还以为这家伙死了呢，原来没有啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091267824992075776",
+            "3_2091267824979435520",
+            "3_2091267824983650304",
+            "3_2091267824992026624"
+          ]
+        },
+        "author_id": "255793931",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A podcast like \"Serial\"",
+              "id": "91",
+              "name": "Podcast"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Podcasts",
+              "id": "1074758954444513282",
+              "name": "Podcasts & radio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1490751295698837510",
+              "name": "Podcasts"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2091268049265652122",
+        "created_at": "2026-08-22T20:55:31.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091268049265652122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 84,
+              "id": "1605",
+              "start": 79,
+              "username": "sama"
+            },
+            {
+              "end": 92,
+              "id": "4398626122",
+              "start": 85,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yOOvPuxEKU",
+              "end": 116,
+              "expanded_url": "https://x.com/davidsenra/status/2091268049265652122/photo/1",
+              "media_key": "3_2091267824992075776",
+              "start": 93,
+              "url": "https://t.co/yOOvPuxEKU"
+            },
+            {
+              "display_url": "pic.x.com/yOOvPuxEKU",
+              "end": 116,
+              "expanded_url": "https://x.com/davidsenra/status/2091268049265652122/photo/1",
+              "media_key": "3_2091267824979435520",
+              "start": 93,
+              "url": "https://t.co/yOOvPuxEKU"
+            },
+            {
+              "display_url": "pic.x.com/yOOvPuxEKU",
+              "end": 116,
+              "expanded_url": "https://x.com/davidsenra/status/2091268049265652122/photo/1",
+              "media_key": "3_2091267824983650304",
+              "start": 93,
+              "url": "https://t.co/yOOvPuxEKU"
+            },
+            {
+              "display_url": "pic.x.com/yOOvPuxEKU",
+              "end": 116,
+              "expanded_url": "https://x.com/davidsenra/status/2091268049265652122/photo/1",
+              "media_key": "3_2091267824992026624",
+              "start": 93,
+              "url": "https://t.co/yOOvPuxEKU"
+            },
+            {
+              "display_url": "x.com/davidsenra/sta…",
+              "end": 140,
+              "expanded_url": "https://twitter.com/davidsenra/status/2091226683248431411",
+              "start": 117,
+              "url": "https://t.co/5uITI39NtN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091268049265652122",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091267824992075776"
+          },
+          {
+            "media_key": "3_2091267824979435520"
+          },
+          {
+            "media_key": "3_2091267824983650304"
+          },
+          {
+            "media_key": "3_2091267824992026624"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 385,
+          "impression_count": 267401,
+          "like_count": 1828,
+          "quote_count": 35,
+          "reply_count": 90,
+          "retweet_count": 64
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091226683248431411",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Sam Altman. OpenAI.\n\nAugust 23, 2026.\n\nAvailable everywhere you get podcasts.\n\n@sama @OpenAI https://t.co/yOOvPuxEKU https://t.co/5uITI39NtN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2091778660114260440",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 914,
+          "following_count": 803,
+          "like_count": 124683,
+          "listed_count": 5,
+          "media_count": 791,
+          "tweet_count": 9233
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1480996137066647552/EOQ6Q8oy_bigger.jpg",
+          "description": "Scicomm Media",
+          "url": "https://twitter.com/scicomm",
+          "user_id": [
+            "1473383264572227584"
+          ]
+        },
+        "created_at": "2011-02-22T02:06:58.000Z",
+        "description": "Conversations with the greatest living founders.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "davidsenra.com",
+                "end": 23,
+                "expanded_url": "https://www.davidsenra.com",
+                "start": 0,
+                "url": "https://t.co/vML7qFyKzu"
+              }
+            ]
+          }
+        },
+        "id": "255793931",
+        "is_identity_verified": true,
+        "location": "United States",
+        "most_recent_tweet_id": "2091699179215040903",
+        "name": "David Senra",
+        "pinned_tweet_id": "2091525869638434945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/255793931/1757701592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970530587510231040/wbVXBu_Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232406,
+          "following_count": 116,
+          "like_count": 14011,
+          "listed_count": 535,
+          "media_count": 1054,
+          "tweet_count": 2995
+        },
+        "url": "https://t.co/vML7qFyKzu",
+        "username": "davidsenra",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_bigger.jpg",
+          "description": "OpenAI",
+          "url": "https://twitter.com/OpenAI",
+          "user_id": [
+            "4398626122"
+          ]
+        },
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "is_identity_verified": false,
+        "location": "SF",
+        "most_recent_tweet_id": "2091066602208841887",
+        "name": "Sam Altman",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5992240,
+          "following_count": 1024,
+          "like_count": 1019,
+          "listed_count": 30756,
+          "media_count": 394,
+          "tweet_count": 7914
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090944840972571078",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2085434712429052386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4398626122/1777662919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5123287,
+          "following_count": 4,
+          "like_count": 2448,
+          "listed_count": 31542,
+          "media_count": 693,
+          "tweet_count": 2079
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

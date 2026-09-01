@@ -1,0 +1,579 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2080156519304425490",
+    "created_at": "2026-07-23T05:02:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T06:02:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2080156519304425490"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 49,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "4398626122",
+          "start": 11,
+          "username": "OpenAI"
+        },
+        {
+          "end": 28,
+          "id": "1943306828697550848",
+          "start": 19,
+          "username": "claudeai"
+        },
+        {
+          "end": 34,
+          "id": "1605",
+          "start": 29,
+          "username": "sama"
+        },
+        {
+          "end": 47,
+          "id": "874126509245476864",
+          "start": 35,
+          "username": "DarioAmodei"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/_verenowo/stat…",
+          "end": 80,
+          "expanded_url": "https://twitter.com/_verenowo/status/2079935042617512185",
+          "start": 57,
+          "url": "https://t.co/8iPjatjxjT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080156519304425490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079935042617512185",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好眼熟啊，你们说呢？\n@OpenAI @claudeai @sama @DarioAmodei \n#keep4o https://t.co/8iPjatjxjT"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2080156519304425490",
+        "created_at": "2026-07-23T05:02:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T06:02:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080156519304425490"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 49,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "4398626122",
+              "start": 11,
+              "username": "OpenAI"
+            },
+            {
+              "end": 28,
+              "id": "1943306828697550848",
+              "start": 19,
+              "username": "claudeai"
+            },
+            {
+              "end": 34,
+              "id": "1605",
+              "start": 29,
+              "username": "sama"
+            },
+            {
+              "end": 47,
+              "id": "874126509245476864",
+              "start": 35,
+              "username": "DarioAmodei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/_verenowo/stat…",
+              "end": 80,
+              "expanded_url": "https://twitter.com/_verenowo/status/2079935042617512185",
+              "start": 57,
+              "url": "https://t.co/8iPjatjxjT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080156519304425490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079935042617512185",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好眼熟啊，你们说呢？\n@OpenAI @claudeai @sama @DarioAmodei \n#keep4o https://t.co/8iPjatjxjT"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1654873506994339840",
+        "conversation_id": "2079935042617512185",
+        "created_at": "2026-07-22T14:22:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T15:22:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079935042617512185"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079935042617512185",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 375,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "直到如今这个世界让女人闭嘴的方式依然那么简单，评判她的身体、无视她的愤怒、定性她是疯女人，一切的合理诉求都被压缩成个人情绪问题，不将她作为一个应该被认真对待的人，从此封闭女人的声音。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2079886759257833557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 731,
+          "like_count": 114405,
+          "listed_count": 5,
+          "media_count": 695,
+          "tweet_count": 8441
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2078223217773474134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5049376,
+          "following_count": 4,
+          "like_count": 2405,
+          "listed_count": 31008,
+          "media_count": 666,
+          "tweet_count": 2006
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-10T13:50:48.000Z",
+        "description": "Claude is an AI assistant built by @anthropicai to be safe, accurate, and secure. Talk to Claude on https://t.co/ZhTwG8dz3D or download the app.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "anthropicai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 123,
+                "expanded_url": "http://claude.ai",
+                "start": 100,
+                "url": "https://t.co/ZhTwG8dz3D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 23,
+                "expanded_url": "http://claude.ai",
+                "start": 0,
+                "url": "https://t.co/ZhTwG8dz3D"
+              }
+            ]
+          }
+        },
+        "id": "1943306828697550848",
+        "name": "Claude",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950950107937185792/QOfEjFoJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1667794,
+          "following_count": 2,
+          "like_count": 372,
+          "listed_count": 7736,
+          "media_count": 261,
+          "tweet_count": 597
+        },
+        "url": "https://t.co/ZhTwG8dz3D",
+        "username": "claudeai",
+        "verified": true
+      },
+      {
+        "created_at": "2006-07-16T22:01:55.000Z",
+        "description": "AI is cool i guess",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.samaltman.com",
+                "end": 23,
+                "expanded_url": "http://blog.samaltman.com",
+                "start": 0,
+                "url": "https://t.co/teHmy8EFSH"
+              }
+            ]
+          }
+        },
+        "id": "1605",
+        "location": "SF",
+        "name": "Sam Altman",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046764873200394240/r7BxVezs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5595114,
+          "following_count": 1020,
+          "like_count": 1019,
+          "listed_count": 30291,
+          "media_count": 393,
+          "tweet_count": 7869
+        },
+        "url": "https://t.co/teHmy8EFSH",
+        "username": "sama",
+        "verified": true
+      },
+      {
+        "created_at": "2017-06-12T04:49:35.000Z",
+        "description": "Anthropic CEO. https://t.co/qXHIf42jTl",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "darioamodei.com",
+                "end": 38,
+                "expanded_url": "http://darioamodei.com",
+                "start": 15,
+                "url": "https://t.co/qXHIf42jTl"
+              }
+            ]
+          }
+        },
+        "id": "874126509245476864",
+        "name": "Dario Amodei",
+        "pinned_tweet_id": "2064781775247950326",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 508252,
+          "following_count": 0,
+          "like_count": 2,
+          "listed_count": 4380,
+          "media_count": 1,
+          "tweet_count": 21
+        },
+        "url": "",
+        "username": "DarioAmodei",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-06T15:39:46.000Z",
+        "description": "INFP ｜🏳️‍⚧️ She/Her 深柜xyn｜🇭🇰｜les | 喜欢萌物 | 女性主义 | AuDHD | 疑似是一只小猫! | 同类互fo喵 背景照是本人",
+        "id": "1654873506994339840",
+        "name": "_VerenQwQ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061015335252414464/Dn0cI__i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 689,
+          "like_count": 1204,
+          "listed_count": 3,
+          "media_count": 10,
+          "tweet_count": 231
+        },
+        "url": "",
+        "username": "_VerenOwO",
+        "verified": false
+      }
+    ]
+  }
+}

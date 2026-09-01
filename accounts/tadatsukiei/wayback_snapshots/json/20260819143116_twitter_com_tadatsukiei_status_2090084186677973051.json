@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2090084186677973051",
+    "created_at": "2026-08-19T14:31:16.000Z",
+    "display_text_range": [
+      0,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T15:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090084186677973051"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/vogueamourr/st…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/vogueamourr/status/2089826604784472135",
+          "start": 10,
+          "url": "https://t.co/0ZhKRDAbHN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090084186677973051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089826604784472135",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这衣服好cool～ https://t.co/0ZhKRDAbHN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1537,
+        "media_key": "3_2089826600011345920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQCOOGfWsAA3vDM.jpg",
+        "width": 1023
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2090084186677973051",
+        "created_at": "2026-08-19T14:31:16.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T15:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090084186677973051"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/vogueamourr/st…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/vogueamourr/status/2089826604784472135",
+              "start": 10,
+              "url": "https://t.co/0ZhKRDAbHN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090084186677973051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089826604784472135",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这衣服好cool～ https://t.co/0ZhKRDAbHN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089826600011345920"
+          ]
+        },
+        "author_id": "220514998",
+        "conversation_id": "2089826604784472135",
+        "created_at": "2026-08-18T21:27:44.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T22:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089826604784472135"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IAJn5Dkrb5",
+              "end": 23,
+              "expanded_url": "https://x.com/vogueamourr/status/2089826604784472135/photo/1",
+              "media_key": "3_2089826600011345920",
+              "start": 0,
+              "url": "https://t.co/IAJn5Dkrb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089826604784472135",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2089826600011345920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10732,
+          "impression_count": 2803986,
+          "like_count": 31579,
+          "quote_count": 752,
+          "reply_count": 24,
+          "retweet_count": 2367
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IAJn5Dkrb5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2090084186677973051",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 789,
+          "like_count": 122800,
+          "listed_count": 5,
+          "media_count": 778,
+          "tweet_count": 9134
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-11-28T00:56:26.000Z",
+        "description": "𝐟𝐚𝐬𝐡𝐢𝐨𝐧 & 𝐚𝐥𝐥 𝐭𝐡𝐢𝐧𝐠𝐬 𝐚𝐞𝐬𝐭𝐡𝐞𝐭𝐢𝐜",
+        "id": "220514998",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2090074370886578464",
+        "name": "✮",
+        "pinned_tweet_id": "2088786287889186827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/220514998/1773670440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033546256380022784/JFhk5l6X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9608,
+          "following_count": 1,
+          "like_count": 5150,
+          "listed_count": 49,
+          "media_count": 1024,
+          "tweet_count": 1059
+        },
+        "url": "",
+        "username": "vogueamourr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

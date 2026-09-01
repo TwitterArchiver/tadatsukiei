@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265692717071265792",
+          "name": "NBA players"
+        }
+      }
+    ],
+    "conversation_id": "2077846880633983259",
+    "created_at": "2026-07-19T04:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T05:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078693131743375751"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1484573712980586498",
+          "start": 0,
+          "username": "MiguelAlejandeo"
+        },
+        {
+          "end": 25,
+          "id": "91225009",
+          "start": 17,
+          "username": "igus_ai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078693131743375751",
+    "in_reply_to_user_id": "1484573712980586498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077972617558986797",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MiguelAlejandeo @igus_ai API的话……也许会？我不怎么用中国模型，不确定。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265692717071265792",
+              "name": "NBA players"
+            }
+          }
+        ],
+        "conversation_id": "2077846880633983259",
+        "created_at": "2026-07-19T04:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T05:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078693131743375751"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1484573712980586498",
+              "start": 0,
+              "username": "MiguelAlejandeo"
+            },
+            {
+              "end": 25,
+              "id": "91225009",
+              "start": 17,
+              "username": "igus_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078693131743375751",
+        "in_reply_to_user_id": "1484573712980586498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077972617558986797",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiguelAlejandeo @igus_ai API的话……也许会？我不怎么用中国模型，不确定。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1484573712980586498",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265692717071265792",
+              "name": "NBA players"
+            }
+          }
+        ],
+        "conversation_id": "2077846880633983259",
+        "created_at": "2026-07-17T04:24:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:24:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077972617558986797"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "91225009",
+              "start": 0,
+              "username": "igus_ai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077972617558986797",
+        "in_reply_to_user_id": "91225009",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2733,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077846880633983259",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@igus_ai Esta si te responde cuando le preguntas que paso en la tiannamen square en 1989?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "安得广厦千万间？大庇天下寒士俱欢颜。\n何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 696,
+          "like_count": 112419,
+          "listed_count": 5,
+          "media_count": 673,
+          "tweet_count": 8150
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-21T17:09:30.000Z",
+        "description": "",
+        "id": "1484573712980586498",
+        "name": "Miguel Cisneros",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056085171464511489/HRCiUknd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 5,
+          "like_count": 382,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 143
+        },
+        "url": "",
+        "username": "MiguelAlejandeo",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-19T23:58:59.000Z",
+        "description": "ex @microsoft, now i talk about tech, trading and AI. growth @aiscwork",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 3,
+                "username": "microsoft"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "aiscwork"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiscwork.com",
+                "end": 23,
+                "expanded_url": "http://aiscwork.com",
+                "start": 0,
+                "url": "https://t.co/bsUOlHVs2T"
+              }
+            ]
+          }
+        },
+        "id": "91225009",
+        "location": "San Francisco, CA",
+        "name": "gus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041450156508286976/3Q2tIQab_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 120359,
+          "following_count": 1495,
+          "like_count": 12319,
+          "listed_count": 989,
+          "media_count": 440,
+          "tweet_count": 19681
+        },
+        "url": "https://t.co/bsUOlHVs2T",
+        "username": "igus_ai",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,530 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "US Senator Marco Rubio (FL)",
+          "id": "10037721473",
+          "name": "Marco Rubio"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "US Senator Marco Rubio (FL)",
+          "id": "10037721473",
+          "name": "Marco Rubio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "US Senator Marco Rubio (FL)",
+          "id": "10037721473",
+          "name": "Marco Rubio"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2081228204103422270",
+    "created_at": "2026-07-26T04:00:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T05:00:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081228204103422270"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/jhonffonseca/s…",
+          "end": 60,
+          "expanded_url": "https://twitter.com/jhonffonseca/status/2080315103468233215",
+          "start": 37,
+          "url": "https://t.co/GwMiqTK1Dv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081228204103422270",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080315103468233215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "世界上的独裁政权，大都如此。中国、伊朗、委内瑞拉、古巴、俄罗斯、朝鲜…… https://t.co/GwMiqTK1Dv"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 64016,
+        "height": 1080,
+        "media_key": "13_2080314979455279104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2080314979455279104/img/_oMaijgHYsfNaKLi.jpg",
+        "public_metrics": {
+          "view_count": 606955
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080314979455279104/vid/avc1/1920x1080/rfsV_JeK4tAJwYBy.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080314979455279104/vid/avc1/480x270/vcq0J9IBrJ5PGcP-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2080314979455279104/pl/IGcnMcMJDzbN47_J.m3u8?v=b2a"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080314979455279104/vid/avc1/640x360/b6FrZHm39jpcfDMx.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2080314979455279104/vid/avc1/1280x720/-9bjcBJFnSAodOqh.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Marco Rubio (FL)",
+              "id": "10037721473",
+              "name": "Marco Rubio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Marco Rubio (FL)",
+              "id": "10037721473",
+              "name": "Marco Rubio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Marco Rubio (FL)",
+              "id": "10037721473",
+              "name": "Marco Rubio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2081228204103422270",
+        "created_at": "2026-07-26T04:00:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T05:00:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081228204103422270"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jhonffonseca/s…",
+              "end": 60,
+              "expanded_url": "https://twitter.com/jhonffonseca/status/2080315103468233215",
+              "start": 37,
+              "url": "https://t.co/GwMiqTK1Dv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081228204103422270",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080315103468233215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "世界上的独裁政权，大都如此。中国、伊朗、委内瑞拉、古巴、俄罗斯、朝鲜…… https://t.co/GwMiqTK1Dv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2080314979455279104"
+          ]
+        },
+        "author_id": "1134089212305842176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596148862977",
+              "name": "Child Care - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10024374015",
+              "name": "LEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Family and Life Stages",
+              "id": "864925500627484672",
+              "name": "Family and life stages"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10024374015",
+              "name": "LEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US Senator Marco Rubio (FL)",
+              "id": "10037721473",
+              "name": "Marco Rubio"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US Senator Marco Rubio (FL)",
+              "id": "10037721473",
+              "name": "Marco Rubio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US Senator Marco Rubio (FL)",
+              "id": "10037721473",
+              "name": "Marco Rubio"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2080315103468233215",
+        "created_at": "2026-07-23T15:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080315103468233215"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xDF6kXyE4J",
+              "end": 296,
+              "expanded_url": "https://x.com/Jhonffonseca/status/2080315103468233215/video/1",
+              "media_key": "13_2080314979455279104",
+              "start": 273,
+              "url": "https://t.co/xDF6kXyE4J"
+            },
+            {
+              "display_url": "x.com/jhonffonseca/s…",
+              "end": 320,
+              "expanded_url": "https://twitter.com/jhonffonseca/status/2080314570590281872",
+              "start": 297,
+              "url": "https://t.co/DXWKVzZKuh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080315103468233215",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {},
+          "text": "Marco Rubio lo clava sin piedad:\n\n«Irán es un país dirigido por clérigos radicales. Tienen todo: petróleo, gas, una ubicación estratégica y una población joven. Podrían ser el país más rico de Oriente Medio, fácilmente.\n\nPero en vez de invertir en su gente, en carreteras, hospitales, educación o tecnología, regalan su fortuna al terror. La dan a Hezbolá, Hamás, los hutíes y milicias chiíes por todo Oriente Medio. Financian drones, misiles, un programa nuclear y terrorismo en todo el planeta.\n\nSu prioridad no es el progreso, sino la destrucción. Si hubieran gastado ese dinero en su pueblo y su economía, hoy Irán sería el Dubái de Asia Occidental. En cambio, eligieron ser la capital mundial del odio.\n\nEso no es mala suerte. Es una decisión.»"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1718,
+          "impression_count": 1331458,
+          "like_count": 49394,
+          "quote_count": 369,
+          "reply_count": 1212,
+          "retweet_count": 14060
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080314570590281872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Marco Rubio lo clava sin piedad:\n\n«Irán es un país dirigido por clérigos radicales. Tienen todo: petróleo, gas, una ubicación estratégica y una población joven. Podrían ser el país más rico de Oriente Medio, fácilmente.\n\nPero en vez de invertir en su gente, en carreteras, https://t.co/xDF6kXyE4J https://t.co/DXWKVzZKuh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2080509575246364985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 729,
+          "like_count": 115637,
+          "listed_count": 5,
+          "media_count": 703,
+          "tweet_count": 8497
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-30T13:28:33.000Z",
+        "description": "Derecha sin complejos. Defiendo la familia, la vida, la propiedad y la soberanía. Aquí no hay medias tintas.",
+        "id": "1134089212305842176",
+        "name": "Jhonf Fonseca",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048467528738058240/wdVRzJjw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200152,
+          "following_count": 1359,
+          "like_count": 55690,
+          "listed_count": 375,
+          "media_count": 32304,
+          "tweet_count": 45339
+        },
+        "url": "",
+        "username": "Jhonffonseca",
+        "verified": true
+      }
+    ]
+  }
+}

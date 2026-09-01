@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2089261360169509210",
+    "created_at": "2026-08-18T05:26:52.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T06:26:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089584794166612232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1839263401845075974",
+          "start": 0,
+          "username": "0Yowlry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089584794166612232",
+    "in_reply_to_user_id": "1839263401845075974",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089261360169509210",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0Yowlry 这是人啊？🫠"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1079,
+        "media_key": "3_2089260786346758145",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6LnaVaEAEp_kE.jpg",
+        "width": 1385
+      },
+      {
+        "height": 1079,
+        "media_key": "3_2089261181135736832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP6L-ZCb0AAqenD.jpg",
+        "width": 1390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2089261360169509210",
+        "created_at": "2026-08-18T05:26:52.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T06:26:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089584794166612232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089584794166612232",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089261360169509210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry 这是人啊？🫠"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089260786346758145",
+            "3_2089261181135736832"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "2089261360169509210",
+        "created_at": "2026-08-17T08:01:39.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T09:01:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089261360169509210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AVnZsTPCiD",
+              "end": 39,
+              "expanded_url": "https://x.com/0Yowlry/status/2089261360169509210/photo/1",
+              "media_key": "3_2089260786346758145",
+              "start": 16,
+              "url": "https://t.co/AVnZsTPCiD"
+            },
+            {
+              "display_url": "pic.x.com/AVnZsTPCiD",
+              "end": 39,
+              "expanded_url": "https://x.com/0Yowlry/status/2089261360169509210/photo/1",
+              "media_key": "3_2089261181135736832",
+              "start": 16,
+              "url": "https://t.co/AVnZsTPCiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089261360169509210",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089260786346758145"
+          },
+          {
+            "media_key": "3_2089261181135736832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1229,
+          "like_count": 66,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "薇欧拉是好女孩吗🥺🥺🥺🥹🥹🥹🐱 https://t.co/AVnZsTPCiD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2089584794166612232",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894,
+          "following_count": 795,
+          "like_count": 122301,
+          "listed_count": 5,
+          "media_count": 769,
+          "tweet_count": 9066
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遺漏請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2089584755377631376",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2087252693509423164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2430,
+          "following_count": 3707,
+          "like_count": 65037,
+          "listed_count": 13,
+          "media_count": 520,
+          "tweet_count": 19503
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

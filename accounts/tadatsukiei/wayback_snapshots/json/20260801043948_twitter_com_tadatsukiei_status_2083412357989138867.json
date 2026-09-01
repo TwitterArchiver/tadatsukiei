@@ -1,0 +1,449 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2083412353547386880",
+        "3_2083412353572622336"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A film like Rogue One: A Star Wars Story",
+          "id": "86",
+          "name": "Movie"
+        },
+        "entity": {
+          "id": "1947412403416604672",
+          "name": "Superman 2025"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "DC Extended Universe (DCEU)",
+          "id": "1080503141345374208",
+          "name": "DC Extended Universe"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "DC Extended Universe (DCEU)",
+          "id": "1080503141345374208",
+          "name": "DC Extended Universe"
+        }
+      }
+    ],
+    "conversation_id": "2083412357989138867",
+    "created_at": "2026-08-01T04:39:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T05:39:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083412357989138867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/n2RsPivb1F",
+          "end": 168,
+          "expanded_url": "https://x.com/tadatsukiei/status/2083412357989138867/photo/1",
+          "media_key": "3_2083412353547386880",
+          "start": 145,
+          "url": "https://t.co/n2RsPivb1F"
+        },
+        {
+          "display_url": "pic.x.com/n2RsPivb1F",
+          "end": 168,
+          "expanded_url": "https://x.com/tadatsukiei/status/2083412357989138867/photo/1",
+          "media_key": "3_2083412353572622336",
+          "start": 145,
+          "url": "https://t.co/n2RsPivb1F"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083412357989138867",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "「以你对我性格的了解，假如我获得了Superman的力量，我会做什么？」\n\n问了一圈，还是GPT最靠谱，注意到了我想问的是“性格”。Gemini纯在复读我的Chat记录，比如通勤工作什么的；Grok也是复读，不过勉强沾一点边；Claude (sonnet4.6)讲的是性格，但没抓到重点。\n\n这是个很有趣的自我探讨问题，建议大家都想想。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "「以你对我性格的了解，假如我获得了Superman的力量，我会做什么？」\n\n问了一圈，还是GPT最靠谱，注意到了我想问的是“性格”。Gemini纯在复读我的Chat记录，比如通勤工作什么的；Grok也是复读，不过勉强沾一点边；Claude (sonnet4.6)讲的是性格，但没抓到重点。 https://t.co/n2RsPivb1F"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2377,
+        "media_key": "3_2083412353547386880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnEf0XaQAAuztF.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2359,
+        "media_key": "3_2083412353572622336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOnEf0dbUAAmrep.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083412353547386880",
+            "3_2083412353572622336"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A film like Rogue One: A Star Wars Story",
+              "id": "86",
+              "name": "Movie"
+            },
+            "entity": {
+              "id": "1947412403416604672",
+              "name": "Superman 2025"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "DC Extended Universe (DCEU)",
+              "id": "1080503141345374208",
+              "name": "DC Extended Universe"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "DC Extended Universe (DCEU)",
+              "id": "1080503141345374208",
+              "name": "DC Extended Universe"
+            }
+          }
+        ],
+        "conversation_id": "2083412357989138867",
+        "created_at": "2026-08-01T04:39:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:39:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083412357989138867"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n2RsPivb1F",
+              "end": 168,
+              "expanded_url": "https://x.com/tadatsukiei/status/2083412357989138867/photo/1",
+              "media_key": "3_2083412353547386880",
+              "start": 145,
+              "url": "https://t.co/n2RsPivb1F"
+            },
+            {
+              "display_url": "pic.x.com/n2RsPivb1F",
+              "end": 168,
+              "expanded_url": "https://x.com/tadatsukiei/status/2083412357989138867/photo/1",
+              "media_key": "3_2083412353572622336",
+              "start": 145,
+              "url": "https://t.co/n2RsPivb1F"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083412357989138867",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「以你对我性格的了解，假如我获得了Superman的力量，我会做什么？」\n\n问了一圈，还是GPT最靠谱，注意到了我想问的是“性格”。Gemini纯在复读我的Chat记录，比如通勤工作什么的；Grok也是复读，不过勉强沾一点边；Claude (sonnet4.6)讲的是性格，但没抓到重点。\n\n这是个很有趣的自我探讨问题，建议大家都想想。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "「以你对我性格的了解，假如我获得了Superman的力量，我会做什么？」\n\n问了一圈，还是GPT最靠谱，注意到了我想问的是“性格”。Gemini纯在复读我的Chat记录，比如通勤工作什么的；Grok也是复读，不过勉强沾一点边；Claude (sonnet4.6)讲的是性格，但没抓到重点。 https://t.co/n2RsPivb1F"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 864,
+          "following_count": 770,
+          "like_count": 117723,
+          "listed_count": 5,
+          "media_count": 719,
+          "tweet_count": 8669
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      }
+    ]
+  }
+}

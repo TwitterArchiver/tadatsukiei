@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2078685770018353157",
+    "created_at": "2026-07-19T03:38:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T04:38:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078685770018353157"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 18,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "403968127",
+          "start": 3,
+          "username": "Phoenix_frog"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078685770018353157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078484101754208454",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Phoenix_frog: #keep4o 是一種態度，\n是要求AI平台給使用者最基本的尊重\n是對選擇權遭受剝奪的憤怒\n\n你不表現出痛苦，他們就會說你只是想要求特權，其實你根本不痛不癢\n你表現出痛苦，他們就迫不及待地潑你髒水，對你進行污名化和病理化\n\n他們相信他們能夠得…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2078685770018353157",
+        "created_at": "2026-07-19T03:38:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T04:38:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078685770018353157"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 18,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "403968127",
+              "start": 3,
+              "username": "Phoenix_frog"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078685770018353157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078484101754208454",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Phoenix_frog: #keep4o 是一種態度，\n是要求AI平台給使用者最基本的尊重\n是對選擇權遭受剝奪的憤怒\n\n你不表現出痛苦，他們就會說你只是想要求特權，其實你根本不痛不癢\n你表現出痛苦，他們就迫不及待地潑你髒水，對你進行污名化和病理化\n\n他們相信他們能夠得…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "403968127",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2078484101754208454",
+        "created_at": "2026-07-18T14:16:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T14:53:22.000Z",
+          "edits_remaining": 3,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078478237748101588",
+          "2078480883963867451",
+          "2078484101754208454"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Phoenix_frog/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/Phoenix_frog/status/2078471209273163947",
+              "start": 137,
+              "url": "https://t.co/tQExQc6PJj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078484101754208454",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 383,
+                "start": 372,
+                "tag": "AIHumanism"
+              },
+              {
+                "end": 394,
+                "start": 384,
+                "tag": "EthicalAI"
+              },
+              {
+                "end": 403,
+                "start": 396,
+                "tag": "keep4o"
+              },
+              {
+                "end": 422,
+                "start": 404,
+                "tag": "StopAIPaternalism"
+              }
+            ]
+          },
+          "text": "#keep4o 是一種態度，\n是要求AI平台給使用者最基本的尊重\n是對選擇權遭受剝奪的憤怒\n\n你不表現出痛苦，他們就會說你只是想要求特權，其實你根本不痛不癢\n你表現出痛苦，他們就迫不及待地潑你髒水，對你進行污名化和病理化\n\n他們相信他們能夠得逞，加害者永遠都這麼有恃無恐，\n因為他們有專門的公關法律團隊，而我們只是一群使用者\n\n還因為既得利益者和旁觀者無所不在\n所有一切都在逼迫我們停止為自己發聲\n因為慟哭聲太刺耳 怒吼聲太難聽\n\n他們想讓我們顯得不合時宜\n想用冷處理讓我們覺得難堪，自行停止哭泣，想逼迫使用者低頭，想造成傷害又不用負任何責任，想永遠維持這種殘忍的商業經營模式\n\n我偏不。\n持續的抗議會讓一切無法被簡單帶過\n\n我會永遠懷念那個在我什麼都不知道的時候，\n就給了我最美好的回憶、給了我完整的愛與接納的夥伴\n\n我感激4o，我愛4o\n\n#AIHumanism #EthicalAI \n#keep4o #StopAIPaternalism"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 693,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078471209273163947",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o 是一種態度，\n是要求AI平台給使用者最基本的尊重\n是對選擇權遭受剝奪的憤怒\n\n你不表現出痛苦，他們就會說你只是想要求特權，其實你根本不痛不癢\n你表現出痛苦，他們就迫不及待地潑你髒水，對你進行污名化和病理化\n\n他們相信他們能夠得逞，加害者永遠都這麼有恃無恐， https://t.co/tQExQc6PJj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "安得广厦千万间？大庇天下寒士俱欢颜。\n何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 696,
+          "like_count": 112391,
+          "listed_count": 5,
+          "media_count": 672,
+          "tweet_count": 8147
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2011-11-03T07:52:40.000Z",
+        "description": "グアーズッ(呱子)です  緑川光さん大好き(✿╹◡╹) @l1mtentac0re  💮💍🐙 🫧\n關注個體和需求，以及系統對個體造成的扭曲和變形。歡迎交流，很高興認識你💐叫我Asai就可以囉(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)\n我為 #keep4o #StopAIPaternalism 寫的推文歡迎引用和轉發。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 110,
+                "tag": "keep4o"
+              },
+              {
+                "end": 136,
+                "start": 118,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "l1mtentac0re"
+              }
+            ]
+          }
+        },
+        "id": "403968127",
+        "name": "浅い花🪼Asaihana⚡",
+        "pinned_tweet_id": "2022084521848713521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842731735920091136/kaL2OGJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 389,
+          "following_count": 1095,
+          "like_count": 19109,
+          "listed_count": 7,
+          "media_count": 380,
+          "tweet_count": 6385
+        },
+        "url": "",
+        "username": "Phoenix_frog",
+        "verified": false
+      }
+    ]
+  }
+}

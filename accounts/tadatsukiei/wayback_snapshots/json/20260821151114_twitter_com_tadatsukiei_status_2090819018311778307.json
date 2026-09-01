@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2090762906329829866",
+    "created_at": "2026-08-21T15:11:14.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T16:11:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090819018311778307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1841306675674075136",
+          "start": 0,
+          "username": "suishoucrystal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090819018311778307",
+    "in_reply_to_user_id": "1841306675674075136",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090762906329829866",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@suishoucrystal 😅"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 29001,
+        "height": 982,
+        "media_key": "13_2090762568860311552",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090762568860311552/img/ZkCF61Vf6P1eEV3H.jpg",
+        "public_metrics": {
+          "view_count": 151
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090762568860311552/vid/avc1/320x436/nv0FEa0_EvEKamgS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090762568860311552/vid/avc1/480x654/EBGJf63GuVUZAWoS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090762568860311552/vid/avc1/720x982/sgotSdSr6ud5tPBK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090762568860311552/pl/FEJO1NZl36LVVjo_.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2090762906329829866",
+        "created_at": "2026-08-21T15:11:14.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:11:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090819018311778307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1841306675674075136",
+              "start": 0,
+              "username": "suishoucrystal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090819018311778307",
+        "in_reply_to_user_id": "1841306675674075136",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090762906329829866",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@suishoucrystal 😅"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090762568860311552"
+          ]
+        },
+        "author_id": "1841306675674075136",
+        "conversation_id": "2090762906329829866",
+        "created_at": "2026-08-21T11:28:16.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T12:28:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090762906329829866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jCspfbZMBb",
+              "end": 80,
+              "expanded_url": "https://x.com/suishoucrystal/status/2090762906329829866/video/1",
+              "media_key": "13_2090762568860311552",
+              "start": 57,
+              "url": "https://t.co/jCspfbZMBb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090762906329829866",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090762568860311552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 249,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "反贼都给我听着😡，不准你们再黑中国了，中国是最好的国😭，中国有好几百艘核动力😫，想活命就给我每天看一遍这个视频😡 https://t.co/jCspfbZMBb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2090819018311778307",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 898,
+          "following_count": 794,
+          "like_count": 123557,
+          "listed_count": 5,
+          "media_count": 782,
+          "tweet_count": 9177
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-02T02:38:35.000Z",
+        "description": "（Premium plus用户）日本語専攻 🌗底层受剥削家庭🌗閩台混雜🌗友跨🏳️‍⚧️🌗系统政治学🌗独立时评人🌗人嫌狗厌理中客🌗百度孙笑川吧/PS吧/中国人口吧🥇黄牌",
+        "id": "1841306675674075136",
+        "is_identity_verified": false,
+        "location": "金門縣",
+        "most_recent_tweet_id": "2090764030470439383",
+        "name": "水晶クリスタル",
+        "pinned_tweet_id": "2075225732540957152",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1841306675674075136/1777195435",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031032589721767938/0nMI0xGj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1758,
+          "following_count": 1609,
+          "like_count": 4533,
+          "listed_count": 4,
+          "media_count": 832,
+          "tweet_count": 6308
+        },
+        "url": "",
+        "username": "suishoucrystal",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

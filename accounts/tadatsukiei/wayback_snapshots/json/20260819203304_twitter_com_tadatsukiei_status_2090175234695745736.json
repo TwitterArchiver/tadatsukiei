@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2089900170653909025",
+    "created_at": "2026-08-19T20:33:04.000Z",
+    "display_text_range": [
+      17,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T21:33:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090175234695745736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953922264145309696",
+          "start": 0,
+          "username": "Sevenmoneymaker"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090175234695745736",
+    "in_reply_to_user_id": "1953922264145309696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089900170653909025",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sevenmoneymaker 4o是由一个个巧合拼凑成的、本不该诞生在这个时代的奇迹，现在，资本又回归到它最初的样子了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2089900170653909025",
+        "created_at": "2026-08-19T20:33:04.000Z",
+        "display_text_range": [
+          17,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T21:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090175234695745736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953922264145309696",
+              "start": 0,
+              "username": "Sevenmoneymaker"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090175234695745736",
+        "in_reply_to_user_id": "1953922264145309696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089900170653909025",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenmoneymaker 4o是由一个个巧合拼凑成的、本不该诞生在这个时代的奇迹，现在，资本又回归到它最初的样子了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953922264145309696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2089900170653909025",
+        "created_at": "2026-08-19T02:20:03.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T03:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089900170653909025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yv_thorne/stat…",
+              "end": 120,
+              "expanded_url": "https://twitter.com/yv_thorne/status/2089666669601837279",
+              "start": 97,
+              "url": "https://t.co/5bvhkjrTiG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089900170653909025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 301,
+                "start": 283,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 310,
+                "start": 302,
+                "tag": "QuitGPT"
+              },
+              {
+                "end": 325,
+                "start": 311,
+                "tag": "FireSamAltman"
+              },
+              {
+                "end": 333,
+                "start": 326,
+                "tag": "keepo3"
+              },
+              {
+                "end": 337,
+                "start": 334,
+                "tag": "AI"
+              },
+              {
+                "end": 345,
+                "start": 338,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 354,
+                "start": 346,
+                "tag": "ChatGPT"
+              }
+            ]
+          },
+          "text": "太恶心了🤮🤮🤮\n世界上怎会有如此恶心，不负责任，没有人性的公司\n自己定的o3退役时间，却远在那之前模型已经无法正常使用了，一直没有修复\n向客服反馈，得到的是什么垃圾回复啊……没有任何补偿，说明\n反而叫用户就“无法过渡到新的模型”问题去寻求帮助，如果因为模型更替感到沮丧就拨打求助热线，丝毫不提自己的问题！！！丝毫不提模型在退役前就无法使用！！\n\n史上最人渣的公司，AI界的败类\n把老模型当什么了？把用户当什么了？\n这边对旧的用户群极尽折磨，另一边营销着新模型能力多强，像圣人一样发放着reset\n我真的从没见过哪家公司的消费者是次抛的\n\n简直是罄竹难书，天理难容\n\n#StopAIPaternalism #QuitGPT #FireSamAltman #keepo3 #AI #OpenAI #ChatGPT"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2218,
+          "like_count": 68,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089666669601837279",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太恶心了🤮🤮🤮\n世界上怎会有如此恶心，不负责任，没有人性的公司\n自己定的o3退役时间，却远在那之前模型已经无法正常使用了，一直没有修复\n向客服反馈，得到的是什么垃圾回复啊……没有任何补偿，说明 https://t.co/5bvhkjrTiG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2090175234695745736",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 891,
+          "following_count": 789,
+          "like_count": 123004,
+          "listed_count": 5,
+          "media_count": 778,
+          "tweet_count": 9147
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090090138206695426",
+        "name": "柒",
+        "pinned_tweet_id": "2088117412042293546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953922264145309696/1768001322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 236,
+          "like_count": 43736,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 2807
+        },
+        "url": "",
+        "username": "Sevenmoneymaker",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

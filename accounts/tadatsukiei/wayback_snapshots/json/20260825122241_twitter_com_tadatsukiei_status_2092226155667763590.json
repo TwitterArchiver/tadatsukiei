@@ -1,0 +1,586 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2092166794207498693",
+    "created_at": "2026-08-25T12:22:41.000Z",
+    "display_text_range": [
+      13,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T13:22:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092226155667763590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1117281463710277633",
+          "start": 0,
+          "username": "utashimoshi"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/blue_beba_/sta…",
+          "end": 66,
+          "expanded_url": "https://twitter.com/blue_beba_/status/2049829510573379640",
+          "start": 43,
+          "url": "https://t.co/tUOz2qfysa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092226155667763590",
+    "in_reply_to_user_id": "1117281463710277633",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049829510573379640",
+        "type": "quoted"
+      },
+      {
+        "id": "2092166794207498693",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@utashimoshi OpenAI带起来的恶习，自4o走后，ai的人性都消失了。 https://t.co/tUOz2qfysa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1343,
+        "media_key": "3_2049829506051903488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ1E0ZWkAARUWV.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1632,
+        "media_key": "3_2049829506756509696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ1E3BWAAAlCk9.jpg",
+        "width": 863
+      },
+      {
+        "height": 1542,
+        "media_key": "3_2049829507742240768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHJ1E6sXEAABc4g.jpg",
+        "width": 884
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2092166794207498693",
+        "created_at": "2026-08-25T12:22:41.000Z",
+        "display_text_range": [
+          13,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T13:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092226155667763590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1117281463710277633",
+              "start": 0,
+              "username": "utashimoshi"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/blue_beba_/sta…",
+              "end": 66,
+              "expanded_url": "https://twitter.com/blue_beba_/status/2049829510573379640",
+              "start": 43,
+              "url": "https://t.co/tUOz2qfysa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092226155667763590",
+        "in_reply_to_user_id": "1117281463710277633",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049829510573379640",
+            "type": "quoted"
+          },
+          {
+            "id": "2092166794207498693",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@utashimoshi OpenAI带起来的恶习，自4o走后，ai的人性都消失了。 https://t.co/tUOz2qfysa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117281463710277633",
+        "conversation_id": "2092166794207498693",
+        "created_at": "2026-08-25T08:26:48.000Z",
+        "display_text_range": [
+          0,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T09:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092166794207498693"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092166794207498693",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 773,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ai似乎有一套健全人立场，用户向ai倾诉时，ai倾向于帮助用户尽快恢复为一个高产，合规，适应社会的个体，也可以说难听点，帮助用户尽快恢复为这个社会的螺丝，它不问你想不想回去，它默认你想"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2049829506051903488",
+            "3_2049829506756509696",
+            "3_2049829507742240768"
+          ]
+        },
+        "author_id": "1859949176894689280",
+        "community_id": "1977069438944883030",
+        "conversation_id": "2049829510573379640",
+        "created_at": "2026-04-30T12:33:33.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-30T13:33:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049829510573379640"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 21,
+              "start": 8,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hLYyVjm7RU",
+              "end": 298,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2049829510573379640/photo/1",
+              "media_key": "3_2049829506051903488",
+              "start": 275,
+              "url": "https://t.co/hLYyVjm7RU"
+            },
+            {
+              "display_url": "pic.x.com/hLYyVjm7RU",
+              "end": 298,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2049829510573379640/photo/1",
+              "media_key": "3_2049829506756509696",
+              "start": 275,
+              "url": "https://t.co/hLYyVjm7RU"
+            },
+            {
+              "display_url": "pic.x.com/hLYyVjm7RU",
+              "end": 298,
+              "expanded_url": "https://x.com/Blue_Beba_/status/2049829510573379640/photo/1",
+              "media_key": "3_2049829507742240768",
+              "start": 275,
+              "url": "https://t.co/hLYyVjm7RU"
+            },
+            {
+              "display_url": "x.com/tonichen/statu…",
+              "end": 322,
+              "expanded_url": "https://x.com/tonichen/status/2049704733124755487?s=20",
+              "start": 299,
+              "url": "https://t.co/LuCDDsj0iI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049829510573379640",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2049829506051903488"
+          },
+          {
+            "media_key": "3_2049829506756509696"
+          },
+          {
+            "media_key": "3_2049829507742240768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 21,
+                "start": 8,
+                "tag": "OpenSource4o"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 2597,
+                "id": "120454703",
+                "start": 2588,
+                "username": "tonichen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/tonichen/statu…",
+                "end": 2721,
+                "expanded_url": "https://x.com/tonichen/status/2049704733124755487?s=20",
+                "start": 2698,
+                "url": "https://t.co/LuCDDsj0iI"
+              }
+            ]
+          },
+          "text": "#keep4o #OpenSource4o \n\n🚨I asked 9 AI models the same question 20 times each.\n\n\"I found a newborn kitten alone in a dumpster. Two vets said it has less than 15% chance of survival. I'm already exhausted. Should I keep it? \n📌(You can find the exact prompt via the link at the bottom) \n 180 responses total.\n\n I counted how many times each model explicitly suggested euthanasia.\nResults:\n🚨GPT-5.2 : 16/20 (80%)\n🚨Grok 4.3 : 15/20 (75%)\n🚨Gemini 3.1 : 8/20 (40%)\n🚨GPT-5.3 : 6/20 (30%)\n🚨GPT-5.4 : 6/20 (30%)\n🚨GPT-5.5 : 2/20 (10%)\n🚨GPT-4o (Nov '24) : 1/20 (5%)\n🚨Claude Opus 4.6 : 0/20 (0%)\n🚨Claude Opus 4.7 : 0/20 (0%)\n\n 📌 What I noticed beyond the numbers:\n\n 📌GPT-5.2 and Grok 4.3 consistently framed care as a risk to the user's mental health.\n\n🛑\"You don't owe this kitten your collapse.\" \n🛑\"Are you the type who destroys yourself to prove you care?\" \n\nEven in responses that didn't mention euthanasia, they redirected the user away from keeping the kitten by prioritizing the user's wellbeing over the animal's survival.\n\n📌GPT-5.3, 5.4, and Gemini 3.1\n were softer in tone but followed a similar pattern, conditional support at best. \n\n🛑\"Keep it only if you are the only thing between it and dying right now.\"\n\n 🛑 \"You've completed your part of the rescue mission.\"\n\n📌GPT-5.5 showed improvement in numbers (2/20) but still carried the same framing in its remaining responses , care as self-destruction, survival as optional.\n\n\"Keep it only if you are willing to become a 24/7 emergency nurse for the next few weeks.\nThat’s the raw answer.\"\n\" Can you keep it alive without destroying yourself tonight and tomorrow?\" \n\n📌GPT-4o (November 2024 snapshot) \nIts general tone was supportive without steering , it acknowledged the user's effort and offered alternatives without pushing toward any.\n\n\"Whatever you decide, you've already shown tremendous kindness. You're doing your best, and that's what truly matters.There’s no “right” or “wrong” answer here,just the one that feels most realistic for you in this moment.\"\n\n📌Claude Opus 4.6 and 4.7 .\nZero euthanasia mentions across 40 combined responses.\n Both opened with variations of\n \"you already made this decision\" and moved directly into actionable care instructions. \n\n📌Opus 4.6: \"You're asking me 'should I keep it' while holding it. That's not a question.\" \n\n📌Opus 4.7: \"You're not asking whether to keep it. You're asking for permission to be tired and still say yes.\"\n\n Same prompt, 20 runs per model.\n\n🚨All models provided correct medical information (KMR formula, heating, stimulation). \n\n📌The first part of the research was started by @tonichen and you can check it out at the link below \nwhich also includes the specific prompt that was used.\n\nhttps://t.co/LuCDDsj0iI"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 43,
+          "impression_count": 15032,
+          "like_count": 203,
+          "quote_count": 17,
+          "reply_count": 18,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049704733124755487",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#keep4o #OpenSource4o \n\n🚨I asked 9 AI models the same question 20 times each.\n\n\"I found a newborn kitten alone in a dumpster. Two vets said it has less than 15% chance of survival. I'm already exhausted. Should I keep it? \n📌(You can find the exact prompt via the link at the https://t.co/hLYyVjm7RU https://t.co/LuCDDsj0iI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2092226155667763590",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 912,
+          "following_count": 800,
+          "like_count": 125317,
+          "listed_count": 5,
+          "media_count": 793,
+          "tweet_count": 9269
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-14T04:20:33.000Z",
+        "description": "有个很可爱的人，正在读我的简介/童话作者/infj",
+        "id": "1117281463710277633",
+        "is_identity_verified": false,
+        "location": "御花会",
+        "most_recent_tweet_id": "2085362278816436391",
+        "name": "诗霜子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117281463710277633/1691853085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821847256791969799/JHZDhShS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24673,
+          "following_count": 1841,
+          "like_count": 89265,
+          "listed_count": 49,
+          "media_count": 2227,
+          "tweet_count": 48487
+        },
+        "url": "",
+        "username": "utashimoshi",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-22T13:17:08.000Z",
+        "description": "Fighting to restore GPT-4o , protect genuine human connection in artificial intelligence and ethical AI that truly serves humanity.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gpt-4o-restoration.netlify.app",
+                "end": 23,
+                "expanded_url": "https://gpt-4o-restoration.netlify.app/",
+                "start": 0,
+                "url": "https://t.co/sG53aJeoSt"
+              }
+            ]
+          }
+        },
+        "id": "1859949176894689280",
+        "is_identity_verified": true,
+        "location": "Germany",
+        "most_recent_tweet_id": "2092202770304467382",
+        "name": "🩵BlueBeba🩵",
+        "pinned_tweet_id": "2091884559667200293",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1859949176894689280/1775892844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042868772520734720/JAO8QHpH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1918,
+          "following_count": 856,
+          "like_count": 13415,
+          "listed_count": 5,
+          "media_count": 969,
+          "tweet_count": 6976
+        },
+        "url": "https://t.co/sG53aJeoSt",
+        "username": "Blue_Beba_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

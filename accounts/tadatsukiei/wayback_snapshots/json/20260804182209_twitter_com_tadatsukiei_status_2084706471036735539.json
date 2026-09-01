@@ -1,0 +1,514 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084706466951548928"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1303989823011606528",
+          "name": "Tech events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026364281",
+          "name": "Apple"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "10044903039",
+          "name": "Apple - iOS"
+        }
+      }
+    ],
+    "conversation_id": "2084701427100950966",
+    "created_at": "2026-08-04T18:22:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:22:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084706471036735539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "760811174858330112",
+          "start": 0,
+          "username": "Sager_wang07"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RQo46MDIuL",
+          "end": 61,
+          "expanded_url": "https://x.com/tadatsukiei/status/2084706471036735539/photo/1",
+          "media_key": "3_2084706466951548928",
+          "start": 38,
+          "url": "https://t.co/RQo46MDIuL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084706471036735539",
+    "in_reply_to_user_id": "760811174858330112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084705774610354266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sager_wang07 那要么就是iOS系统版本不同，要么就是地区不同 https://t.co/RQo46MDIuL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2429,
+        "media_key": "3_2084706466951548928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5dfIebUAA2qiP.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2084705763315081216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO5c2LOa4AAA9nU.jpg",
+        "width": 994
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084706466951548928"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          }
+        ],
+        "conversation_id": "2084701427100950966",
+        "created_at": "2026-08-04T18:22:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:22:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084706471036735539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "760811174858330112",
+              "start": 0,
+              "username": "Sager_wang07"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RQo46MDIuL",
+              "end": 61,
+              "expanded_url": "https://x.com/tadatsukiei/status/2084706471036735539/photo/1",
+              "media_key": "3_2084706466951548928",
+              "start": 38,
+              "url": "https://t.co/RQo46MDIuL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084706471036735539",
+        "in_reply_to_user_id": "760811174858330112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084705774610354266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sager_wang07 那要么就是iOS系统版本不同，要么就是地区不同 https://t.co/RQo46MDIuL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084705763315081216"
+          ]
+        },
+        "author_id": "760811174858330112",
+        "conversation_id": "2084701427100950966",
+        "created_at": "2026-08-04T18:19:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:19:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084705774610354266"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zn7ZjUmjy6",
+              "end": 43,
+              "expanded_url": "https://x.com/Sager_wang07/status/2084705774610354266/photo/1",
+              "media_key": "3_2084705763315081216",
+              "start": 20,
+              "url": "https://t.co/zn7ZjUmjy6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084705774610354266",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084704929936249133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 就是最新的啊 https://t.co/zn7ZjUmjy6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 777,
+          "like_count": 118431,
+          "listed_count": 5,
+          "media_count": 725,
+          "tweet_count": 8730
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-03T12:14:54.000Z",
+        "description": "讲好中国故事，弘扬爱国精神！\n/大号@zhaodezhu_s_dad 复活赛中\n/逃生舱@maybe_fuckU\n/被我玩死的野儿子@TZzhuanjia\n/以下标签有好内容可以@我来鉴赏\n#DELTARUNE #UNDERTALE #Citlali #原神",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 105,
+                "start": 95,
+                "tag": "DELTARUNE"
+              },
+              {
+                "end": 116,
+                "start": 106,
+                "tag": "UNDERTALE"
+              },
+              {
+                "end": 125,
+                "start": 117,
+                "tag": "Citlali"
+              },
+              {
+                "end": 129,
+                "start": 126,
+                "tag": "原神"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "zhaodezhu_s_dad"
+              },
+              {
+                "end": 56,
+                "start": 44,
+                "username": "maybe_fuckU"
+              },
+              {
+                "end": 77,
+                "start": 66,
+                "username": "TZzhuanjia"
+              }
+            ]
+          }
+        },
+        "id": "760811174858330112",
+        "location": "Brisbane, Queensland",
+        "name": "王梦圆🍥🏳️‍⚧️",
+        "pinned_tweet_id": "760846539489095680",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083942637393092609/uNrDimAO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 318,
+          "like_count": 152,
+          "listed_count": 5,
+          "media_count": 52,
+          "tweet_count": 469
+        },
+        "url": "",
+        "username": "Sager_wang07",
+        "verified": true
+      }
+    ]
+  }
+}

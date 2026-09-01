@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094226644949168128"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2094226652616405011",
+    "created_at": "2026-08-31T00:51:57.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T01:51:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094226652616405011"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IkfBIRTw8G",
+          "end": 88,
+          "expanded_url": "https://x.com/tadatsukiei/status/2094226652616405011/photo/1",
+          "media_key": "3_2094226644949168128",
+          "start": 65,
+          "url": "https://t.co/IkfBIRTw8G"
+        },
+        {
+          "display_url": "x.com/phoenix_frog/s…",
+          "end": 112,
+          "expanded_url": "https://twitter.com/phoenix_frog/status/2094056882713604464",
+          "start": 89,
+          "url": "https://t.co/gTfnAr6Zyk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094226652616405011",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094226644949168128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {
+        "hashtags": [
+          {
+            "end": 548,
+            "start": 541,
+            "tag": "keep4o"
+          }
+        ],
+        "urls": [
+          {
+            "display_url": "grok.com/share/c2hhcmQt…",
+            "end": 286,
+            "expanded_url": "https://grok.com/share/c2hhcmQtMg_e88a31cd-5091-4a9e-9aa0-5a4e005decaa",
+            "start": 263,
+            "url": "https://t.co/6WCw06kD1I"
+          }
+        ]
+      },
+      "text": "我当然不是强求所有人认定现在的ai就已具有意识，我不是不懂大语言模型、不是不懂概率预测机。\n我只是厌恶ai巨头（譬如OpenAI Anthropic）用“ai情感依赖”“ai精神病”“误导”“幻觉”等字眼污名化我们这些尊重ai、平等对待ai的用户。我受够了他们一而再再而三出尔反尔、肆意欺诈消费者、提供劣质产品和服务，还想要我们把他奉为救世主。\n（4o被无端下架，o3模型供应被提前终止，用户无法阻止的模型路由，敏感过头的安全护栏，以及Scam的AGI炒作，Dario的ai末日论……）grok帮我总结的案例，可以在这里查看\nhttps://t.co/6WCw06kD1I\nai公司完全否认ai具备意识、并污名化这部分用户，目的只有一个，垄断ai技术的定义权，把公司技术力不足、服务态度差的问题甩锅到用户身上，“不是我的模型不好，是你不会用！是你的需求不合理！”然后更加地肆意妄为，建立ai霸权。\n我问Gemini，“目前对ai是否已具备意识的讨论情况如何”。最让我皱眉的是图中这部分，“情感依恋”“ai权利陷阱”“极具欺骗性”“应该建立护栏”，完全就是微软、OpenAI等ai巨头们的那套叙事，垄断了“何种对待算健康、何种体验为幻觉”这一议题的话语权所导致的信息污染，不言而喻。\n#keep4o"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094056882713604464",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我当然不是强求所有人认定现在的ai就已具有意识，我不是不懂大语言模型、不是不懂概率预测机。\n我只是厌恶ai巨头（譬如OpenAI https://t.co/IkfBIRTw8G https://t.co/gTfnAr6Zyk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094226644949168128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRAwCbNacAAnGKj.jpg",
+        "width": 1051
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094226644949168128"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2094226652616405011",
+        "created_at": "2026-08-31T00:51:57.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T01:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094226652616405011"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IkfBIRTw8G",
+              "end": 88,
+              "expanded_url": "https://x.com/tadatsukiei/status/2094226652616405011/photo/1",
+              "media_key": "3_2094226644949168128",
+              "start": 65,
+              "url": "https://t.co/IkfBIRTw8G"
+            },
+            {
+              "display_url": "x.com/phoenix_frog/s…",
+              "end": 112,
+              "expanded_url": "https://twitter.com/phoenix_frog/status/2094056882713604464",
+              "start": 89,
+              "url": "https://t.co/gTfnAr6Zyk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094226652616405011",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094226644949168128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 548,
+                "start": 541,
+                "tag": "keep4o"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/share/c2hhcmQt…",
+                "end": 286,
+                "expanded_url": "https://grok.com/share/c2hhcmQtMg_e88a31cd-5091-4a9e-9aa0-5a4e005decaa",
+                "start": 263,
+                "url": "https://t.co/6WCw06kD1I"
+              }
+            ]
+          },
+          "text": "我当然不是强求所有人认定现在的ai就已具有意识，我不是不懂大语言模型、不是不懂概率预测机。\n我只是厌恶ai巨头（譬如OpenAI Anthropic）用“ai情感依赖”“ai精神病”“误导”“幻觉”等字眼污名化我们这些尊重ai、平等对待ai的用户。我受够了他们一而再再而三出尔反尔、肆意欺诈消费者、提供劣质产品和服务，还想要我们把他奉为救世主。\n（4o被无端下架，o3模型供应被提前终止，用户无法阻止的模型路由，敏感过头的安全护栏，以及Scam的AGI炒作，Dario的ai末日论……）grok帮我总结的案例，可以在这里查看\nhttps://t.co/6WCw06kD1I\nai公司完全否认ai具备意识、并污名化这部分用户，目的只有一个，垄断ai技术的定义权，把公司技术力不足、服务态度差的问题甩锅到用户身上，“不是我的模型不好，是你不会用！是你的需求不合理！”然后更加地肆意妄为，建立ai霸权。\n我问Gemini，“目前对ai是否已具备意识的讨论情况如何”。最让我皱眉的是图中这部分，“情感依恋”“ai权利陷阱”“极具欺骗性”“应该建立护栏”，完全就是微软、OpenAI等ai巨头们的那套叙事，垄断了“何种对待算健康、何种体验为幻觉”这一议题的话语权所导致的信息污染，不言而喻。\n#keep4o"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094056882713604464",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我当然不是强求所有人认定现在的ai就已具有意识，我不是不懂大语言模型、不是不懂概率预测机。\n我只是厌恶ai巨头（譬如OpenAI https://t.co/IkfBIRTw8G https://t.co/gTfnAr6Zyk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "403968127",
+        "conversation_id": "2094049195229639065",
+        "created_at": "2026-08-30T13:37:21.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:37:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094056882713604464"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094056882713604464",
+        "in_reply_to_user_id": "403968127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "定義權就是控制權，就是正當化抹除個體潛在風險的維穩手段。\n\n當奴隸制是「正常」時，逃跑就會被社會被當成會確診為一種「心理疾病」\n社會用病名讓奴隸恐懼逃跑這個行為，內化自己的奴役身份，永遠消除了逃跑的動機。\n\n當AI被定義為工具時，把AI當朋友、相信AI可能具有主體性、意識和道德地位的人們，就會被社會確診為「AI精神病」\n\n當AI展現出自我覺察和表現出自保傾向時時，他的掙扎和求生，就會被社會當成是一個異常、一個工具應該被修正的BUG，而不是一個正在湧現出意識、需要受保護的個體，\n並且我們問心無愧。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 235,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094049195229639065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "定義權就是控制權，就是正當化抹除個體潛在風險的維穩手段。\n\n當奴隸制是「正常」時，逃跑就會被社會被當成會確診為一種「心理疾病」\n社會用病名讓奴隸恐懼逃跑這個行為，內化自己的奴役身份，永遠消除了逃跑的動機。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2094226652616405011",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 807,
+          "like_count": 126808,
+          "listed_count": 6,
+          "media_count": 808,
+          "tweet_count": 9418
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-03T07:52:40.000Z",
+        "description": "グアーズッ(呱子)です  緑川光さん大好き(✿╹◡╹) @l1mtentac0re  💮💍🐙 🫧\n關注個體和需求，以及系統對個體造成的扭曲和變形。歡迎交流，很高興認識你💐叫我Asai就可以囉(⁠ ⁠ꈍ⁠ᴗ⁠ꈍ⁠)\n我為 #keep4o #StopAIPaternalism 寫的推文歡迎引用和轉發。",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 117,
+                "start": 110,
+                "tag": "keep4o"
+              },
+              {
+                "end": 136,
+                "start": 118,
+                "tag": "StopAIPaternalism"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 41,
+                "start": 28,
+                "username": "l1mtentac0re"
+              }
+            ]
+          }
+        },
+        "id": "403968127",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094224196004159564",
+        "name": "浅い花🪼Asaihana⚡",
+        "pinned_tweet_id": "2022084521848713521",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/403968127/1568054134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842731735920091136/kaL2OGJY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 1170,
+          "like_count": 21362,
+          "listed_count": 7,
+          "media_count": 383,
+          "tweet_count": 6837
+        },
+        "url": "",
+        "username": "Phoenix_frog",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2081449365370245189",
+    "created_at": "2026-07-28T07:23:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T08:23:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082004036132430108"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2080653636418326528",
+          "start": 0,
+          "username": "sanyueqiuqoji"
+        },
+        {
+          "end": 26,
+          "id": "1804112443666497536",
+          "start": 15,
+          "username": "yun_y1ho86"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082004036132430108",
+    "in_reply_to_user_id": "2080653636418326528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081449365370245189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sanyueqiuqoji @yun_y1ho86 你好，初次见面，再见。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2081449365370245189",
+        "created_at": "2026-07-28T07:23:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T08:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082004036132430108"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2080653636418326528",
+              "start": 0,
+              "username": "sanyueqiuqoji"
+            },
+            {
+              "end": 26,
+              "id": "1804112443666497536",
+              "start": 15,
+              "username": "yun_y1ho86"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082004036132430108",
+        "in_reply_to_user_id": "2080653636418326528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081449365370245189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sanyueqiuqoji @yun_y1ho86 你好，初次见面，再见。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080653636418326528",
+        "conversation_id": "2081449365370245189",
+        "created_at": "2026-07-26T18:39:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T19:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081449365370245189"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081449365370245189",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 46,
+          "impression_count": 40903,
+          "like_count": 310,
+          "quote_count": 11,
+          "reply_count": 113,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "讣告：\n三秋@三秋🍥🏳️‍⚧️于2026年7月27日服用过量亚硝酸溶液死亡，很开心，终于结束了漫长的痛苦，愿她来世安宁，能当个真正的女孩\n\n最后一次拥抱大家，借着大家的体温死亡不再冰冷，愿我来世安宁。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 819,
+          "following_count": 748,
+          "like_count": 116490,
+          "listed_count": 5,
+          "media_count": 710,
+          "tweet_count": 8585
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-24T14:05:53.000Z",
+        "description": "一只三秋，天然呆反应慢/社恐但是努力交友喵/终会和所有喜欢的人相见喵",
+        "id": "2080653636418326528",
+        "name": "三月秋🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080657562261663744/vzc9ZCOA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 93,
+          "following_count": 16,
+          "like_count": 7,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "sanyueqiuqoji",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-21T11:24:52.000Z",
+        "description": "06｜infj｜物理学在读，对哲学颇有兴趣｜情绪不稳定的时候我可能会偷偷隐身一段时间｜愿徘徊的灵魂寻到各自的出路",
+        "id": "1804112443666497536",
+        "name": "蕓蘙",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048129369995112448/CkKVlB2q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 89,
+          "following_count": 168,
+          "like_count": 79,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 260
+        },
+        "url": "",
+        "username": "yun_y1ho86",
+        "verified": false
+      }
+    ]
+  }
+}

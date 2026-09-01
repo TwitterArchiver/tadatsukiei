@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2078418518828068899",
+    "created_at": "2026-07-19T05:08:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T06:08:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078708579679580232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1477342523555135490",
+          "start": 0,
+          "username": "torontobigface"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078708579679580232",
+    "in_reply_to_user_id": "1477342523555135490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078418518828068899",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@torontobigface 中国人遭的罪，太多太多了。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1049,
+        "media_key": "3_2078417824020566016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgF_7-WEAAXcb7.jpg",
+        "width": 1320
+      },
+      {
+        "height": 986,
+        "media_key": "3_2078417824020615168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgF_7-W0AAdutS.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1030,
+        "media_key": "3_2078417824024797184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgF_7_WoAAgn4y.jpg",
+        "width": 1320
+      },
+      {
+        "height": 707,
+        "media_key": "3_2078418516466683904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNgGoPiXUAAJBHu.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2078418518828068899",
+        "created_at": "2026-07-19T05:08:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T06:08:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078708579679580232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1477342523555135490",
+              "start": 0,
+              "username": "torontobigface"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078708579679580232",
+        "in_reply_to_user_id": "1477342523555135490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078418518828068899",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@torontobigface 中国人遭的罪，太多太多了。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078417824020566016",
+            "3_2078417824020615168",
+            "3_2078417824024797184",
+            "3_2078418516466683904"
+          ]
+        },
+        "author_id": "1477342523555135490",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1676746772255850496",
+              "name": "Threads (Meta)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1453808088054525953",
+              "name": "Meta"
+            }
+          }
+        ],
+        "conversation_id": "2078418518828068899",
+        "created_at": "2026-07-18T09:56:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T10:53:20.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078417828353368209",
+          "2078418518828068899"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tgS9kpMB4y",
+              "end": 70,
+              "expanded_url": "https://x.com/torontobigface/status/2078418518828068899/photo/1",
+              "media_key": "3_2078417824020566016",
+              "start": 47,
+              "url": "https://t.co/tgS9kpMB4y"
+            },
+            {
+              "display_url": "pic.x.com/tgS9kpMB4y",
+              "end": 70,
+              "expanded_url": "https://x.com/torontobigface/status/2078418518828068899/photo/1",
+              "media_key": "3_2078417824020615168",
+              "start": 47,
+              "url": "https://t.co/tgS9kpMB4y"
+            },
+            {
+              "display_url": "pic.x.com/tgS9kpMB4y",
+              "end": 70,
+              "expanded_url": "https://x.com/torontobigface/status/2078418518828068899/photo/1",
+              "media_key": "3_2078417824024797184",
+              "start": 47,
+              "url": "https://t.co/tgS9kpMB4y"
+            },
+            {
+              "display_url": "pic.x.com/tgS9kpMB4y",
+              "end": 70,
+              "expanded_url": "https://x.com/torontobigface/status/2078418518828068899/photo/1",
+              "media_key": "3_2078418516466683904",
+              "start": 47,
+              "url": "https://t.co/tgS9kpMB4y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078418518828068899",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 360,
+          "impression_count": 169700,
+          "like_count": 2011,
+          "quote_count": 7,
+          "reply_count": 423,
+          "retweet_count": 145
+        },
+        "reply_settings": "everyone",
+        "text": "Threads上很经典的一个帖子\n\n说出一百个在中国生活感觉自己很低贱的瞬间\n\n部分回复精选 https://t.co/tgS9kpMB4y"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "安得广厦千万间？大庇天下寒士俱欢颜。\n何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 759,
+          "following_count": 697,
+          "like_count": 112537,
+          "listed_count": 5,
+          "media_count": 674,
+          "tweet_count": 8161
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-01T18:14:50.000Z",
+        "description": "YouTube：https://t.co/JrdyvNcDSW 投稿邮箱:Torontosquareface@gmail.com 粉丝群：https://t.co/7fI2XsnFaH",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Torontobigface",
+                "end": 31,
+                "expanded_url": "http://youtube.com/@Torontobigface",
+                "start": 8,
+                "url": "https://t.co/JrdyvNcDSW"
+              },
+              {
+                "display_url": "t.me/+X3WjedrKfxUwY…",
+                "end": 92,
+                "expanded_url": "https://t.me/+X3WjedrKfxUwYTk1",
+                "start": 69,
+                "url": "https://t.co/7fI2XsnFaH"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "torontosquareface.com",
+                "end": 23,
+                "expanded_url": "https://www.torontosquareface.com",
+                "start": 0,
+                "url": "https://t.co/t3lSrn0gco"
+              }
+            ]
+          }
+        },
+        "id": "1477342523555135490",
+        "location": "乌鲁木齐中路，多伦多",
+        "name": "多伦多方脸",
+        "pinned_tweet_id": "2077332353010282599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004728054199799808/7q5HpT1R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 796161,
+          "following_count": 249,
+          "like_count": 4744,
+          "listed_count": 2465,
+          "media_count": 6787,
+          "tweet_count": 19477
+        },
+        "url": "https://t.co/t3lSrn0gco",
+        "username": "torontobigface",
+        "verified": true
+      }
+    ]
+  }
+}

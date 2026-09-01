@@ -1,0 +1,536 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Saitama",
+          "id": "1009173667677286400",
+          "name": "Saitama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2091241631878128009",
+    "created_at": "2026-08-22T19:10:33.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T20:10:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091241631878128009"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nhk_news/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/nhk_news/status/2091213277632373216",
+          "start": 9,
+          "url": "https://t.co/eMVBH2m5PR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091241631878128009",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091213277632373216",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "板橋区震感强烈。 https://t.co/eMVBH2m5PR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1787,
+        "media_key": "3_2091213275254095872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQV7ZOUaAAAqlgh.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2091241631878128009",
+        "created_at": "2026-08-22T19:10:33.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T20:10:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091241631878128009"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhk_news/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/nhk_news/status/2091213277632373216",
+              "start": 9,
+              "url": "https://t.co/eMVBH2m5PR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091241631878128009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091213277632373216",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "板橋区震感强烈。 https://t.co/eMVBH2m5PR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091213275254095872"
+          ]
+        },
+        "author_id": "204245399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Saitama",
+              "id": "1009173667677286400",
+              "name": "Saitama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          }
+        ],
+        "conversation_id": "2091213277632373216",
+        "created_at": "2026-08-22T17:17:52.000Z",
+        "display_text_range": [
+          0,
+          154
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T18:17:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091213277632373216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "最新ニュースや災害情報をいち早くお届けする公式アプリです。",
+              "display_url": "nhk.or.jp/nhkone/service…",
+              "end": 154,
+              "expanded_url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2089735013218631680/yICZ4Ck6?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2089735013218631680/yICZ4Ck6?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 131,
+              "status": 200,
+              "title": "NHK ONE ニュース・防災アプリ｜NHK ONE",
+              "unwound_url": "https://www.nhk.or.jp/nhkone/service/app/news_bousai/",
+              "url": "https://t.co/lveHsAAnqF"
+            },
+            {
+              "display_url": "pic.x.com/YnJdbmJMKk",
+              "end": 178,
+              "expanded_url": "https://x.com/nhk_news/status/2091213277632373216/photo/1",
+              "media_key": "3_2091213275254095872",
+              "start": 155,
+              "url": "https://t.co/YnJdbmJMKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091213277632373216",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091213275254095872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 104809,
+          "like_count": 529,
+          "quote_count": 47,
+          "reply_count": 15,
+          "retweet_count": 518
+        },
+        "reply_settings": "everyone",
+        "text": "【関東地方で震度5弱】\n▼震度5弱\n茨城県古河市、龍ケ崎市、下妻市、常総市、取手市、牛久市、つくば市、筑西市、つくばみらい市、小美玉市\n埼玉県川口市、蕨市、戸田市、宮代町\n千葉県浦安市、印西市\n東京足立区\nニュース・防災アプリで総合テレビを同時配信しています↓\nhttps://t.co/lveHsAAnqF https://t.co/YnJdbmJMKk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2091241631878128009",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 801,
+          "like_count": 124208,
+          "listed_count": 5,
+          "media_count": 788,
+          "tweet_count": 9206
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-18T08:15:29.000Z",
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 65,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 42,
+                "url": "https://t.co/X9ExoZ8ao6"
+              },
+              {
+                "display_url": "nhk.or.jp/css/",
+                "end": 109,
+                "expanded_url": "http://www.nhk.or.jp/css/",
+                "start": 86,
+                "url": "https://t.co/fMCPIt2S57"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/news",
+                "end": 23,
+                "expanded_url": "http://nhk.jp/news",
+                "start": 0,
+                "url": "https://t.co/bM6wmxNKVo"
+              }
+            ]
+          }
+        },
+        "id": "204245399",
+        "is_identity_verified": false,
+        "location": "東京都渋谷区神南2-2-1",
+        "most_recent_tweet_id": "2091240752118653433",
+        "name": "NHKニュース",
+        "pinned_tweet_id": "895196466859450368",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/204245399/1401946722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3464481,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 66273,
+          "media_count": 21067,
+          "tweet_count": 740273
+        },
+        "url": "https://t.co/bM6wmxNKVo",
+        "username": "nhk_news",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

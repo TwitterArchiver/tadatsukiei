@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2084635773853397347",
+    "created_at": "2026-08-04T17:56:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T18:56:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084699967583858742"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1839865017392394240",
+          "start": 0,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084699967583858742",
+    "in_reply_to_user_id": "1839865017392394240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084635773853397347",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhiyun114514 没意思，我取关基本都是直接屏蔽。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2084635773853397347",
+        "created_at": "2026-08-04T17:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T18:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084699967583858742"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1839865017392394240",
+              "start": 0,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084699967583858742",
+        "in_reply_to_user_id": "1839865017392394240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084635773853397347",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhiyun114514 没意思，我取关基本都是直接屏蔽。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839865017392394240",
+        "conversation_id": "2084635773853397347",
+        "created_at": "2026-08-04T13:41:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T14:41:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084635773853397347"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084635773853397347",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 199,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呃……取关我的人能不能跟我说一下😅\n单取有意思吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 777,
+          "like_count": 118362,
+          "listed_count": 5,
+          "media_count": 723,
+          "tweet_count": 8723
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@zhiyun1919810一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "zhiyun1919810"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2084545416264323388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072974559704481792/whDv4RKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3210,
+          "following_count": 1136,
+          "like_count": 13118,
+          "listed_count": 7,
+          "media_count": 1228,
+          "tweet_count": 7079
+        },
+        "url": "",
+        "username": "zhiyun114514",
+        "verified": true
+      }
+    ]
+  }
+}

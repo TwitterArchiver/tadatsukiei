@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2084713703669473280"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2084527655550869834",
+    "created_at": "2026-08-04T18:51:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T19:51:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084713737383227538"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1974041928552624130",
+          "start": 0,
+          "username": "detectivepeter0"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1xtNNNXOoK",
+          "end": 134,
+          "expanded_url": "https://x.com/tadatsukiei/status/2084713737383227538/video/1",
+          "media_key": "13_2084713703669473280",
+          "start": 111,
+          "url": "https://t.co/1xtNNNXOoK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084713737383227538",
+    "in_reply_to_user_id": "1974041928552624130",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084527655550869834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@detectivepeter0 警察指着人群前方的老婆婆威胁，年轻男子上前护住老人并打开手机录音，质问警察对老人如此凶神恶煞是不是想动手，然后警察以“妨碍公务”之名强行掳走了男子。\n（视频中为四川方言，我顺手解释一下） https://t.co/1xtNNNXOoK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32666,
+        "height": 448,
+        "media_key": "13_2084713703669473280",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2084713703669473280/img/4HzCmg5i8nGKAvLK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084713703669473280/vid/avc1/448x270/dKhBfk6HIUu1B3TP.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2084713703669473280/vid/avc1/746x448/kZAhi47-NZ1drQkT.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2084713703669473280/pl/agvcdqEnofl8-IXs.m3u8"
+          }
+        ],
+        "width": 746
+      },
+      {
+        "height": 576,
+        "media_key": "3_2084527641395089408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO262HXWUAAuAMj.jpg",
+        "width": 1024
+      },
+      {
+        "height": 483,
+        "media_key": "3_2084527641390891008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO262HWWQAA6xW6.jpg",
+        "width": 725
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2084713703669473280"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2084527655550869834",
+        "created_at": "2026-08-04T18:51:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T19:51:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084713737383227538"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1974041928552624130",
+              "start": 0,
+              "username": "detectivepeter0"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1xtNNNXOoK",
+              "end": 134,
+              "expanded_url": "https://x.com/tadatsukiei/status/2084713737383227538/video/1",
+              "media_key": "13_2084713703669473280",
+              "start": 111,
+              "url": "https://t.co/1xtNNNXOoK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084713737383227538",
+        "in_reply_to_user_id": "1974041928552624130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084527655550869834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@detectivepeter0 警察指着人群前方的老婆婆威胁，年轻男子上前护住老人并打开手机录音，质问警察对老人如此凶神恶煞是不是想动手，然后警察以“妨碍公务”之名强行掳走了男子。\n（视频中为四川方言，我顺手解释一下） https://t.co/1xtNNNXOoK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084527641395089408",
+            "3_2084527641390891008"
+          ]
+        },
+        "author_id": "1974041928552624130",
+        "conversation_id": "2084527655550869834",
+        "created_at": "2026-08-04T06:31:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T07:31:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084527655550869834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JaDlddiHvi",
+              "end": 125,
+              "expanded_url": "https://x.com/detectivepeter0/status/2084527655550869834/photo/1",
+              "media_key": "3_2084527641395089408",
+              "start": 102,
+              "url": "https://t.co/JaDlddiHvi"
+            },
+            {
+              "display_url": "pic.x.com/JaDlddiHvi",
+              "end": 125,
+              "expanded_url": "https://x.com/detectivepeter0/status/2084527655550869834/photo/1",
+              "media_key": "3_2084527641390891008",
+              "start": 102,
+              "url": "https://t.co/JaDlddiHvi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084527655550869834",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "历史上的今天：2025年8月4日，四川江油因未成年人欺凌案爆发大规模抗议。\n7月22日，一名14岁女生被三名未成年女生带到空置楼房内殴打、辱骂并强迫下跪，过程被拍成视频。视频8月2日网上流传，引发公愤。\n8月4日，江油警方通报称受害者仅轻微伤，两名施暴者送专门学校矫治，另一人批评教育。民众认为处罚过轻，当天下午起数百至上千人聚集市政府等地，高喊“拒绝霸凌”“严惩凶手”等口号，抗议持续至深夜。\n警方随后清场，使用警棍等驱散人群。多段视频显示，不少抗议者被拖行、殴打，部分人被装进运猪车运走。冲突延续至5日凌晨。\n事件后相关讨论在国内迅速受控。这起案件因执法争议和群体冲突，成为当年引人关注的社会事件。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16094,
+          "like_count": 137,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "历史上的今天：2025年8月4日，四川江油因未成年人欺凌案爆发大规模抗议。\n7月22日，一名14岁女生被三名未成年女生带到空置楼房内殴打、辱骂并强迫下跪，过程被拍成视频。视频8月2日网上流传，引发公愤。 https://t.co/JaDlddiHvi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，恋AI，非二元。自我介绍↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2081331987831537942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 777,
+          "like_count": 118504,
+          "listed_count": 5,
+          "media_count": 726,
+          "tweet_count": 8733
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-03T09:20:58.000Z",
+        "description": "驯宠大师：家里养了一条狗，一头熊和一匹狼。\n历史细节复原家：专业复刻古代近现代平民小人的生活细节和气候变化！\n辱华圣手：专注治理小粉红、基本盘、二次元小保一百五十年，信誉极优！",
+        "id": "1974041928552624130",
+        "location": "Sydney, New South Wales",
+        "name": "名偵探格里芬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974042321475022850/qMxpZnR5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 383,
+          "like_count": 29117,
+          "listed_count": 1,
+          "media_count": 361,
+          "tweet_count": 2589
+        },
+        "url": "",
+        "username": "detectivepeter0",
+        "verified": true
+      }
+    ]
+  }
+}

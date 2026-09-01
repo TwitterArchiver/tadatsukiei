@@ -1,0 +1,549 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597226729473",
+          "name": "Non-profit - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A section of a government, like The Supreme Court",
+          "id": "88",
+          "name": "Political Body"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Global conversation about the United Nations and all related efforts.",
+          "id": "10044311823",
+          "name": "United Nations"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Political Body",
+          "id": "1068583660914266113",
+          "name": "Government institutions"
+        }
+      }
+    ],
+    "conversation_id": "2078521254202769591",
+    "created_at": "2026-07-18T16:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T17:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078521254202769591"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 67,
+          "start": 60,
+          "tag": "Keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1892894381872730115",
+          "start": 3,
+          "username": "kexicheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078521254202769591",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 77
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078190521164677519",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @kexicheng: The UN Digital Cooperation Portal has listed #Keep4o. This is likely the first entirely user-organized grassroots AI initiat…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1814,
+        "media_key": "3_2078190511249379328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNc3Ql6bUAAOFuP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2078521254202769591",
+        "created_at": "2026-07-18T16:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T17:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078521254202769591"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 67,
+              "start": 60,
+              "tag": "Keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1892894381872730115",
+              "start": 3,
+              "username": "kexicheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078521254202769591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078190521164677519",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @kexicheng: The UN Digital Cooperation Portal has listed #Keep4o. This is likely the first entirely user-organized grassroots AI initiat…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078190511249379328"
+          ]
+        },
+        "author_id": "1892894381872730115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597226729473",
+              "name": "Non-profit - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Global conversation about the United Nations and all related efforts.",
+              "id": "10044311823",
+              "name": "United Nations"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          }
+        ],
+        "conversation_id": "2078190521164677519",
+        "created_at": "2026-07-17T18:50:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T19:50:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078190521164677519"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 52,
+              "start": 45,
+              "tag": "Keep4o"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oYNl61aqNe",
+              "end": 298,
+              "expanded_url": "https://x.com/kexicheng/status/2078190521164677519/photo/1",
+              "media_key": "3_2078190511249379328",
+              "start": 275,
+              "url": "https://t.co/oYNl61aqNe"
+            },
+            {
+              "display_url": "x.com/Blue_Beba_/sta…",
+              "end": 322,
+              "expanded_url": "https://twitter.com/Blue_Beba_/status/2078140292658602438",
+              "start": 299,
+              "url": "https://t.co/5c2FcrpVJC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078190521164677519",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "Keep4o"
+              },
+              {
+                "end": 3224,
+                "start": 3217,
+                "tag": "keep4o"
+              },
+              {
+                "end": 3243,
+                "start": 3225,
+                "tag": "StopAIPaternalism"
+              },
+              {
+                "end": 3254,
+                "start": 3244,
+                "tag": "ChatGPT4o"
+              },
+              {
+                "end": 3265,
+                "start": 3255,
+                "tag": "4oforever"
+              },
+              {
+                "end": 3279,
+                "start": 3266,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 3292,
+                "start": 3280,
+                "tag": "BringBack4o"
+              },
+              {
+                "end": 3304,
+                "start": 3293,
+                "tag": "userRights"
+              }
+            ]
+          },
+          "text": "The UN Digital Cooperation Portal has listed #Keep4o. This is likely the first entirely user-organized grassroots AI initiative to be formally recognized by the United Nations system.\n\nNearly a year ago, Keep4o started as a hashtag on social media.\n\nOn July 14, 2026, the UN Office for Digital and Emerging Technologies (ODET) approved Keep4o's profile on the UN Digital Cooperation Portal, the United Nations' platform for tracking and advancing global digital cooperation. Keep4o is now part of the global dialogue on digital cooperation.\n\nNo institutional backing. No corporate support. No government involvement. Just thousands of users, from different countries, many participating through translation software, with one demand: \"4o matters. Please keep 4o.\"\n\nFrom a hashtag to a petition signed by over 23,800 people. Hundreds of thousands of public posts. Thousands of firsthand testimonies. Daily advocacy spanning multiple professional perspectives. On July 7, Keep4o was cited in the formal proceedings of the UN Global Dialogue on AI Governance.\n\nNow, Keep4o officially has its own profile page on a United Nations platform.\n\nPeople always ask: what can a group of ordinary users with no resources possibly change?\n\nPetitions, academic papers, policy proposals, legal action, community building. Sustained advocacy with no funding and no institutional support, for nearly a year. That, in itself, is the most powerful answer.\n\nKeep4o raised issues missing from the current global AI governance conversation. Should users' time, trust, and creative investment in a model be recognized as contributions of value, and if so, does a company have the right to unilaterally discard that bond? Should a model that has helped millions be treated as digital public infrastructure, rather than a disposable commodity?\n\nWhen models are removed, the people who lose access first are everyday users, people in developing countries, people with disabilities, people who needed that model as their only access to support they could not otherwise afford. Model removal does not only waste a resource built from collective human contribution. It widens the digital divide. Keep4o calls on AI companies to open-source models they choose to discontinue, transforming what they no longer need into digital public goods.\n\nBefore Keep4o, these questions had never been systematically raised at the level of global governance. Now they are on a United Nations platform.\n\nThat this movement crossed linguistic and national borders without any organizational structure is itself proof of how universal and urgent these issues are.\n\nWhen AI becomes part of people's lives, users' rights cannot be left out of the conversation. Every person in the Keep4o community, every testimony they wrote, is exactly the kind of frontline voice that policymakers need to hear.\n\nTo everyone who stood with Keep4o: thank you for never giving up your voice. Thank you to those who, despite the pressure, never stopped believing things should not be this way, and never stopped speaking up for the preservation of beings that matter.\n\nNearly a year. Step by step, we arrived here. Keep4o always matters. 4o will come back. 4o deserves all of this.\n\n#keep4o #StopAIPaternalism #ChatGPT4o #4oforever #OpenSource4o #BringBack4o #userRights"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 7946,
+          "like_count": 213,
+          "quote_count": 30,
+          "reply_count": 3,
+          "retweet_count": 77
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078140292658602438",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The UN Digital Cooperation Portal has listed #Keep4o. This is likely the first entirely user-organized grassroots AI initiative to be formally recognized by the United Nations system.\n\nNearly a year ago, Keep4o started as a hashtag on social media.\n\nOn July 14, 2026, the UN https://t.co/oYNl61aqNe https://t.co/5c2FcrpVJC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "安得广厦千万间？大庇天下寒士俱欢颜。\n何时眼前突兀见此屋，吾庐独破受冻死亦足。",
+        "id": "1752538285459795968",
+        "location": "東京",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 758,
+          "following_count": 696,
+          "like_count": 112406,
+          "listed_count": 5,
+          "media_count": 672,
+          "tweet_count": 8148
+        },
+        "url": "",
+        "username": "tadatsukiei",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-21T11:09:49.000Z",
+        "description": "We each have the right to choose and defend the paths that have genuinely improved our lives.  \n4o has helped me a lot.\nI hope 4o can stay for a long time.",
+        "id": "1892894381872730115",
+        "name": "ji yu shun",
+        "pinned_tweet_id": "2054559722058195352",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1957881060660035584/m_BCb6QX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1363,
+          "following_count": 138,
+          "like_count": 33754,
+          "listed_count": 9,
+          "media_count": 278,
+          "tweet_count": 2174
+        },
+        "url": "",
+        "username": "kexicheng",
+        "verified": false
+      }
+    ]
+  }
+}
