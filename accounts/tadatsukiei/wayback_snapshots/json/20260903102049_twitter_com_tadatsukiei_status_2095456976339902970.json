@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2095424679234400317",
+    "created_at": "2026-09-03T10:20:49.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:20:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095456976339902970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1560570561960374272",
+          "start": 0,
+          "username": "ChinaDDLS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095456976339902970",
+    "in_reply_to_user_id": "1560570561960374272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095424679234400317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChinaDDLS 太美了😍"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14720,
+        "height": 1280,
+        "media_key": "13_2095424626654633984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2095424626654633984/img/PlczG2DPem38aeou.jpg",
+        "public_metrics": {
+          "view_count": 1088
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095424626654633984/vid/avc1/320x568/ls_jLhcfQu-uQCUT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095424626654633984/vid/avc1/480x852/VxryuAgPt2qDlz6c.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2095424626654633984/vid/avc1/720x1280/-R406hrdv34oRUjU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2095424626654633984/pl/vxsbBZZ4OJeQGRsq.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2095424679234400317",
+        "created_at": "2026-09-03T10:20:49.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:20:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095456976339902970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1560570561960374272",
+              "start": 0,
+              "username": "ChinaDDLS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095456976339902970",
+        "in_reply_to_user_id": "1560570561960374272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095424679234400317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChinaDDLS 太美了😍"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2095424626654633984"
+          ]
+        },
+        "author_id": "1560570561960374272",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2095424679234400317",
+        "created_at": "2026-09-03T08:12:29.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:12:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095424679234400317"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0cgLD6sg1Y",
+              "end": 70,
+              "expanded_url": "https://x.com/ChinaDDLS/status/2095424679234400317/video/1",
+              "media_key": "13_2095424626654633984",
+              "start": 47,
+              "url": "https://t.co/0cgLD6sg1Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095424679234400317",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2095424626654633984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 2757,
+          "like_count": 202,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "HonkaiStarRail Cyrene🌸\n\nCosplay shoes showcase https://t.co/0cgLD6sg1Y"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2095456976339902970",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 813,
+          "like_count": 128423,
+          "listed_count": 6,
+          "media_count": 831,
+          "tweet_count": 9576
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-19T10:13:30.000Z",
+        "description": "Otaku‑culture abstract artist\nlanguage：🇨🇳🇯🇵🇬🇧",
+        "id": "1560570561960374272",
+        "is_identity_verified": true,
+        "location": "0.01km",
+        "most_recent_tweet_id": "2095434093236486157",
+        "name": "ChinaDD老师🐼",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1560570561960374272/1787008845",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091341164310048768/7zUuibhQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11295,
+          "following_count": 1684,
+          "like_count": 13490,
+          "listed_count": 24,
+          "media_count": 81,
+          "tweet_count": 522
+        },
+        "url": "",
+        "username": "ChinaDDLS",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

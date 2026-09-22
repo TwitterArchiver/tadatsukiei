@@ -1,0 +1,617 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098323964955430912"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "News Categories like Entertainment or Technology",
+          "id": "69",
+          "name": "News Vertical"
+        },
+        "entity": {
+          "id": "1292841451814965248",
+          "name": "China national news"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292841451814965248",
+          "name": "China national news"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+          "id": "1166857805766131714",
+          "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+        }
+      }
+    ],
+    "conversation_id": "2098323971494289851",
+    "created_at": "2026-09-11T08:13:14.000Z",
+    "display_text_range": [
+      0,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098323971494289851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PirOqvwkW6",
+          "end": 46,
+          "expanded_url": "https://x.com/tadatsukiei/status/2098323971494289851/photo/1",
+          "media_key": "3_2098323964955430912",
+          "start": 23,
+          "url": "https://t.co/PirOqvwkW6"
+        },
+        {
+          "display_url": "x.com/whyyoutouzhele…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098240558846050563",
+          "start": 47,
+          "url": "https://t.co/FnmsfbTLw9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098323971494289851",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2098323964955430912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098240558846050563",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "看看底下的野狗就知道，还是洋大人说话好使啊。 https://t.co/PirOqvwkW6 https://t.co/FnmsfbTLw9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1957,
+        "media_key": "3_2098323964955430912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6-h1rbkAA_Hvn.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1640,
+        "media_key": "3_2098231796001329152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5qs5kW0AABAad.jpg",
+        "width": 1178
+      },
+      {
+        "height": 1112,
+        "media_key": "3_2098235996932321282",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5uhbQWsAIOwys.jpg",
+        "width": 1782
+      },
+      {
+        "height": 936,
+        "media_key": "3_2098238725537058816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5xAQGa0AA92gp.jpg",
+        "width": 1681
+      },
+      {
+        "height": 1052,
+        "media_key": "3_2098240184248659970",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5yVKOXcAI_O5h.jpg",
+        "width": 1495
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098323964955430912"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2098323971494289851",
+        "created_at": "2026-09-11T08:13:14.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098323971494289851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PirOqvwkW6",
+              "end": 46,
+              "expanded_url": "https://x.com/tadatsukiei/status/2098323971494289851/photo/1",
+              "media_key": "3_2098323964955430912",
+              "start": 23,
+              "url": "https://t.co/PirOqvwkW6"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2098240558846050563",
+              "start": 47,
+              "url": "https://t.co/FnmsfbTLw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098323971494289851",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098323964955430912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098240558846050563",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "看看底下的野狗就知道，还是洋大人说话好使啊。 https://t.co/PirOqvwkW6 https://t.co/FnmsfbTLw9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098231796001329152",
+            "3_2098235996932321282",
+            "3_2098238725537058816",
+            "3_2098240184248659970"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292841451814965248",
+              "name": "China national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The SpaceX CEO debates with the Alibaba founder at the World AI Conference in Shanghai.",
+              "id": "1166857805766131714",
+              "name": "Elon Musk and Jack Ma in discussion at World AI Conference in Shanghai"
+            }
+          }
+        ],
+        "conversation_id": "2098097512544444447",
+        "created_at": "2026-09-11T02:41:47.000Z",
+        "display_text_range": [
+          13,
+          292
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T03:41:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098240558846050563"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1353836358901501952",
+              "start": 0,
+              "username": "AnthropicAI"
+            },
+            {
+              "end": 44,
+              "id": "1353836358901501952",
+              "start": 32,
+              "username": "AnthropicAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ViRNwag2AA",
+              "end": 316,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098240558846050563/photo/1",
+              "media_key": "3_2098231796001329152",
+              "start": 293,
+              "url": "https://t.co/ViRNwag2AA"
+            },
+            {
+              "display_url": "pic.x.com/ViRNwag2AA",
+              "end": 316,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098240558846050563/photo/1",
+              "media_key": "3_2098235996932321282",
+              "start": 293,
+              "url": "https://t.co/ViRNwag2AA"
+            },
+            {
+              "display_url": "pic.x.com/ViRNwag2AA",
+              "end": 316,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098240558846050563/photo/1",
+              "media_key": "3_2098238725537058816",
+              "start": 293,
+              "url": "https://t.co/ViRNwag2AA"
+            },
+            {
+              "display_url": "pic.x.com/ViRNwag2AA",
+              "end": 316,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2098240558846050563/photo/1",
+              "media_key": "3_2098240184248659970",
+              "start": 293,
+              "url": "https://t.co/ViRNwag2AA"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 340,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/1967634519995105598",
+              "start": 317,
+              "url": "https://t.co/2qTpjo4gsG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098240558846050563",
+        "in_reply_to_user_id": "1353836358901501952",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098231796001329152"
+          },
+          {
+            "media_key": "3_2098235996932321282"
+          },
+          {
+            "media_key": "3_2098238725537058816"
+          },
+          {
+            "media_key": "3_2098240184248659970"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 31,
+                "id": "1353836358901501952",
+                "start": 19,
+                "username": "AnthropicAI"
+              },
+              {
+                "end": 1085,
+                "id": "1353836358901501952",
+                "start": 1073,
+                "username": "AnthropicAI"
+              },
+              {
+                "end": 1104,
+                "id": "2606432720",
+                "start": 1092,
+                "username": "benjitaylor"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.com/whyyoutouzhele…",
+                "end": 1245,
+                "expanded_url": "https://x.com/whyyoutouzhele/status/1967634519995105598",
+                "start": 1222,
+                "url": "https://t.co/2qTpjo4gsG"
+              }
+            ]
+          },
+          "text": "We’d like to thank @AnthropicAI for exposing these instances of AI abuse. We’d also like to share our own experiences.\nSince 2022, we have received submissions from people across China and published their stories on X—including news and firsthand accounts that would otherwise be censored or suppressed within China. This work has made us one of the most influential Chinese-language news accounts on X, as well as a vital channel for the Chinese people to bypass domestic censorship and make their voices heard abroad.\nIn addition, we have been subjected to persistent and organized harassment by bot networks linked to China. Some accounts mimic our past reports, fabricate submissions, and send them to us on a massive scale. Currently, we receive hundreds of harassing direct messages every day, including a large number of false leads that appear to be generated by artificial intelligence.\nThese attacks increase the burden of verifying submissions and make it harder for genuine reports and urgent appeals for help to be heard.\nWe look forward to collaborating with @AnthropicAI and X @benjitaylor  to jointly investigate and address these actions, while protecting the identities and privacy of our real sources. \nhttps://t.co/2qTpjo4gsG"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 62677,
+          "like_count": 572,
+          "quote_count": 4,
+          "reply_count": 15,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "1967634519995105598",
+            "type": "quoted"
+          },
+          {
+            "id": "2098097512544444447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AnthropicAI We’d like to thank @AnthropicAI for exposing these instances of AI abuse. We’d also like to share our own experiences.\nSince 2022, we have received submissions from people across China and published their stories on X—including news and firsthand accounts that would otherwise be https://t.co/ViRNwag2AA https://t.co/2qTpjo4gsG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2098323971494289851",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 817,
+          "like_count": 131220,
+          "listed_count": 6,
+          "media_count": 852,
+          "tweet_count": 9811
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2098320650188521860",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2263987,
+          "following_count": 1083,
+          "like_count": 10478,
+          "listed_count": 8901,
+          "media_count": 53576,
+          "tweet_count": 60906
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098097512544444447",
+        "name": "Anthropic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353836358901501952/1719228429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674859,
+          "following_count": 2,
+          "like_count": 1598,
+          "listed_count": 15087,
+          "media_count": 656,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

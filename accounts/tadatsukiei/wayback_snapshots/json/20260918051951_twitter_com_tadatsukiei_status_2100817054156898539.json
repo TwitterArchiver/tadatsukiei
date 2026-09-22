@@ -1,0 +1,387 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2100510196653052352",
+    "created_at": "2026-09-18T05:19:51.000Z",
+    "display_text_range": [
+      13,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T06:19:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100817054156898539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761861143780528128",
+          "start": 0,
+          "username": "Finding8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100817054156898539",
+    "in_reply_to_user_id": "1761861143780528128",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100510196653052352",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Finding8964 有意思，看党国会不会保华为吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2100510196653052352",
+        "created_at": "2026-09-18T05:19:51.000Z",
+        "display_text_range": [
+          13,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T06:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100817054156898539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761861143780528128",
+              "start": 0,
+              "username": "Finding8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100817054156898539",
+        "in_reply_to_user_id": "1761861143780528128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100510196653052352",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Finding8964 有意思，看党国会不会保华为吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761861143780528128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2100510196653052352",
+        "created_at": "2026-09-17T09:00:31.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T10:00:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100510196653052352"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100510196653052352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "【华为刑事案件9月9日在纽约开庭，如果华为败诉】败诉的后果会比一般的普通商业官司严重得多。这不是赔钱和解就能结束的，而是把华为定性为 犯罪组织。这个案子就是 U.S. v. Huawei, 18-cr-457, EDNY，2018年立案，2020年追加起诉成16项重罪，现在检方撤了2项制裁相关指控，还剩12项要陪审团审，包括：敲诈勒索共谋 RICO、窃取商业秘密共谋、银行欺诈、电汇欺诈、违反《国际紧急经济权力法》IEEPA、洗钱、妨碍司法共谋等。审理9月9日在布鲁克林已经开庭，预计3个月。\n\n如果陪审团裁定有罪，会是这样四层后果：\n\n一、直接刑事处罚：罚金 + 没收 + 缓刑监管\n1）罚金是天价。 RICO法条本身写的是单项最高监禁20年，罚金25万美元或犯罪所得2倍。但对公司，适用的是美国《替代罚金法》18 U.S.C. 3571，公司罚金可以是毛利或被害人损失的2倍。司法部指控华为从6家美国公司窃取了路由器源码、天线技术、机器人技术等，“大幅削减研发成本，获得不公平竞争优势”。\n\n这意味着罚金不是按一个产品算，而是按20年间全球使用这些技术获得的利润来算。法律圈现在讨论的是“或成美企刑事罚款新纪录”。参考“小华为”海能达，2020年因类似商业秘密案被判赔7.64亿美元，华为这个量级只会高得多。\n\n2）刑事没收。 起诉书里有专门的 Forfeiture Allegation，政府会要求没收所有犯罪所得，按 18 U.S.C. 981, 982 执行。只要定罪，华为在美国的银行账户、专利授权费、子公司资产都可以被直接没收。\n\n3）公司缓刑和监察官。 联邦量刑指南规定RICO最低基础等级是19级，公司不可能坐牢，但会被判最高5年缓刑，期间法院会强制派驻独立合规监察官，Futurewei、Huawei Device USA 等三家一同受审的子公司的所有内部邮件、关联公司结构、Skycom与伊朗业务的账目，都要对监察官开放。不配合就是藐视法庭。\n\n二、商业封锁从行政制裁升级为刑事污点\n华为现在已经在实体清单、FCC国家安全威胁名单、联邦采购889条款黑名单上。但那些是行政决定，还可以打官司。\n\n一旦刑事RICO成立：\n\n出口管制永久化，任何美国公司向华为出口技术，不再是违反商务部规定，而是协助RICO犯罪企业，会被追究刑事责任。\n\n美元金融体系彻底切断。本案核心就是指控华为通过Skycom隐瞒伊朗业务，误导汇丰等银行进行美元清算。银行欺诈和IEEPA成立后，任何银行帮华为做美元结算，都可能构成洗钱共犯。\n\n彻底去美国化。定罪后，华为及其所有子公司会被自动列入联邦采购和联邦资助项目的永久 debarment，想做联邦生意的运营商，连测试华为设备都不行。\n\n三、全球民事诉讼潮和个人风险\nRICO最狠的是民事后果。刑事定罪后，任何声称被华为RICO模式伤害的美国企业，可以提起民事RICO诉讼，要求三倍赔偿。\n\n检方这次在庭上重点讲的就是T-Mobile的手机测试机器人 Tappy 和思科的路由器操作系统源码。这些公司如果民事跟进，赔偿额会远超刑事罚金。\n\n对个人来说，孟晚舟2021年签的4页事实陈述书，现在成了本案的关键证据。虽然她个人已通过延期起诉协议回国，但公司被定为犯罪企业，意味着任正非及管理层被陪审团认定为犯罪模式的决策者，未来其他高管在第三国转机被引渡的风险会急剧升高。（所以这时候传出任正非外逃非常的蹊跷）\n\n四、为什么检方要用RICO？\nRICO本来是用来打黑手党的，检方用它就是要证明：这不是某个员工的“愚蠢行为”，而是1999-2020年间持续、有组织的商业模式。起诉书指控华为有内部奖金制度，奖励从竞争对手那里获取机密的员工。\n\n如果陪审团接受了这个叙事，华为在法庭记录上就不再是一家“有合规争议的科技公司”，而是一家被联邦法院认证的 criminal enterprise。这个标签会影响未来所有西方国家对华为5G、AI芯片的禁令的合法性辩护。\n\n所以现在华为律师团队的策略是把20年的事切碎，说成是“个别员工行为，管理层得知后已补救”，坚决否认存在公司层面的犯罪计划。\n\n最后说一件事，今天华为在英国工商银行中的13亿美元已经紧急汇回了工商银行的深圳分行。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 376,
+          "impression_count": 389871,
+          "like_count": 721,
+          "quote_count": 15,
+          "reply_count": 142,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "【华为刑事案件9月9日在纽约开庭，如果华为败诉】败诉的后果会比一般的普通商业官司严重得多。这不是赔钱和解就能结束的，而是把华为定性为 犯罪组织。这个案子就是 U.S. v. Huawei, 18-cr-457,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2100817054156898539",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 966,
+          "following_count": 830,
+          "like_count": 133750,
+          "listed_count": 6,
+          "media_count": 868,
+          "tweet_count": 9985
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-25T21:10:21.000Z",
+        "description": "居落基山下，看世界变局。\n基督徒 / 保守主义者 / 独立时评人。\n经济学视角的理性观察者，\n偶作散文及杂文。\n投稿邮箱：finding8964@proton.me\n欢迎有深度的文章，可以注明你的X账号，也可匿名。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/findingca",
+                "end": 23,
+                "expanded_url": "https://buymeacoffee.com/findingca",
+                "start": 0,
+                "url": "https://t.co/QoKyeAK9HW"
+              }
+            ]
+          }
+        },
+        "id": "1761861143780528128",
+        "is_identity_verified": false,
+        "location": "North American",
+        "most_recent_tweet_id": "2100814196258886094",
+        "name": "Finding",
+        "pinned_tweet_id": "2028562783235887217",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1761861143780528128/1781181482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072883597418328064/bdooq1RW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39141,
+          "following_count": 6698,
+          "like_count": 89563,
+          "listed_count": 193,
+          "media_count": 1501,
+          "tweet_count": 42729
+        },
+        "url": "https://t.co/QoKyeAK9HW",
+        "username": "Finding8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

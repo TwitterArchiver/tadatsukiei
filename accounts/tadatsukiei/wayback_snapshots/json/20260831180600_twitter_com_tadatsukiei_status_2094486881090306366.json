@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2094486881090306366",
+    "created_at": "2026-08-31T18:06:00.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T19:06:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094486881090306366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/asahinashikure…",
+          "end": 106,
+          "expanded_url": "https://twitter.com/asahinashikure/status/2094345496533831793",
+          "start": 83,
+          "url": "https://t.co/43J7J6sumB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094486881090306366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094345496533831793",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我认为的信息来源的可信程度\n\n芙宁娜娜  3/5\n李老师  4/5\nBBC  4.5/5\n方脸  4/5\n老周  4/5\n国媒  0/5\n○○○ 0/5\n\n笑:-D https://t.co/43J7J6sumB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2094486881090306366",
+        "created_at": "2026-08-31T18:06:00.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094486881090306366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/asahinashikure…",
+              "end": 106,
+              "expanded_url": "https://twitter.com/asahinashikure/status/2094345496533831793",
+              "start": 83,
+              "url": "https://t.co/43J7J6sumB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094486881090306366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094345496533831793",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为的信息来源的可信程度\n\n芙宁娜娜  3/5\n李老师  4/5\nBBC  4.5/5\n方脸  4/5\n老周  4/5\n国媒  0/5\n○○○ 0/5\n\n笑:-D https://t.co/43J7J6sumB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060632417153503234",
+        "conversation_id": "2094345496533831793",
+        "created_at": "2026-08-31T08:44:12.000Z",
+        "display_text_range": [
+          0,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T09:44:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094345496533831793"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xinggu233893/s…",
+              "end": 122,
+              "expanded_url": "https://twitter.com/xinggu233893/status/2093900689366003866",
+              "start": 99,
+              "url": "https://t.co/rh3Bkub2rK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094345496533831793",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2960,
+          "like_count": 45,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093900689366003866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我认为的信息来源的可信程度\n\n芙宁娜娜  3/5\n李老师  4/5\nBCC  4.5/5\n方脸  3.5/5\n老周  4.5/5\n国媒  0/5\n唐毓文 5/5\n\n（小透明闹着玩的请不要太认真🥲） https://t.co/rh3Bkub2rK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，上班族，反共自由派，LGBTQIA，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq7CSE"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2094486881090306366",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 939,
+          "following_count": 810,
+          "like_count": 127210,
+          "listed_count": 6,
+          "media_count": 815,
+          "tweet_count": 9474
+        },
+        "url": "https://t.co/eNDBCq7CSE",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T08:01:21.000Z",
+        "description": "She/Her 🇸🇬| 中三学生| 14岁| MtF🏳️‍⚧️|格里芬联邦共和国@urggov 现任总统|社会自由主义|世界计划|我不是中国人|时事评论 从新加坡看大中华|朝比奈まふゆ 曉山瑞希 激推|语言🇺🇸🇨🇳🇯🇵🇫🇷和世界语| 好朋友喵@Lzy2859905CH @Shadowin__ 喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 40,
+                "username": "urggov"
+              },
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Lzy2859905CH"
+              },
+              {
+                "end": 146,
+                "start": 135,
+                "username": "Shadowin__"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov-urg.net",
+                "end": 23,
+                "expanded_url": "https://president.gov-urg.net/",
+                "start": 0,
+                "url": "https://t.co/qO9KGP3jOc"
+              }
+            ]
+          }
+        },
+        "id": "2060632417153503234",
+        "is_identity_verified": false,
+        "location": "Central Region, Singapore🇸🇬",
+        "most_recent_tweet_id": "2094397143247175798",
+        "name": "朝比奈丶志暮 Asahina Shikure🏳️‍⚧️",
+        "pinned_tweet_id": "2094229439945035927",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060632417153503234/1788141292",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091024711375368192/sRv1R2U2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1690,
+          "following_count": 1603,
+          "like_count": 5973,
+          "listed_count": 2,
+          "media_count": 258,
+          "tweet_count": 849
+        },
+        "url": "https://t.co/qO9KGP3jOc",
+        "username": "AsahinaShikure",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

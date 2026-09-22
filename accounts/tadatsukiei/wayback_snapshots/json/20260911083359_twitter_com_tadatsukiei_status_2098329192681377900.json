@@ -1,0 +1,779 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1726650967746129920",
+          "name": "Sam Altman"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2097572544866120024",
+    "created_at": "2026-09-11T08:33:59.000Z",
+    "display_text_range": [
+      12,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T09:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098329192681377900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "620632841",
+          "start": 0,
+          "username": "nytchinese"
+        },
+        {
+          "end": 29,
+          "id": "4398626122",
+          "start": 22,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ns123abc/statu…",
+          "end": 64,
+          "expanded_url": "https://twitter.com/ns123abc/status/2097423705240428932",
+          "start": 41,
+          "url": "https://t.co/GjonMlfHfP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098329192681377900",
+    "in_reply_to_user_id": "620632841",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097423705240428932",
+        "type": "quoted"
+      },
+      {
+        "id": "2097572544866120024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nytchinese 为什么你不顺嘴提一下@OpenAI 是靠剽窃得来的成果？ https://t.co/GjonMlfHfP"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097423688970944512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuLu4SaQAAYxbm.jpg",
+        "width": 1172
+      },
+      {
+        "height": 1624,
+        "media_key": "3_2097423688819716096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRuLu3uWsAAA2z7.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2097572544866120024",
+        "created_at": "2026-09-11T08:33:59.000Z",
+        "display_text_range": [
+          12,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T09:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098329192681377900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "620632841",
+              "start": 0,
+              "username": "nytchinese"
+            },
+            {
+              "end": 29,
+              "id": "4398626122",
+              "start": 22,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ns123abc/statu…",
+              "end": 64,
+              "expanded_url": "https://twitter.com/ns123abc/status/2097423705240428932",
+              "start": 41,
+              "url": "https://t.co/GjonMlfHfP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098329192681377900",
+        "in_reply_to_user_id": "620632841",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097423705240428932",
+            "type": "quoted"
+          },
+          {
+            "id": "2097572544866120024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nytchinese 为什么你不顺嘴提一下@OpenAI 是靠剽窃得来的成果？ https://t.co/GjonMlfHfP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "620632841",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2097572544866120024",
+        "created_at": "2026-09-09T06:27:20.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T07:27:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097572544866120024"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "这是迄今为止最引人注目的信号，表明人工智能正在从根本上改变高等数学领域，该领域长期以来被视为人类成就的巅峰。有知名数学家公开警告AI可能削弱人类对数学的理解。",
+              "display_url": "cn.nytimes.com/technology/202…",
+              "end": 125,
+              "expanded_url": "https://cn.nytimes.com/technology/20260909/openai-proof-millennium-problem/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2097572546686386176/40sksZRI?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2097572546686386176/40sksZRI?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 102,
+              "status": 200,
+              "title": "OpenAI宣布已解出一道“千禧年大奖难题”",
+              "unwound_url": "https://cn.nytimes.com/technology/20260909/openai-proof-millennium-problem/?utm_source=tw-nytimeschinese&utm_medium=social&utm_campaign=cur",
+              "url": "https://t.co/EEOL3E7njj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097572544866120024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 63913,
+          "like_count": 117,
+          "quote_count": 4,
+          "reply_count": 21,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI宣布已解出一道“千禧年大奖难题”：这是迄今为止最引人注目的信号，表明人工智能正在从根本上改变高等数学领域，该领域长期以来被视为人类成就的巅峰。有知名数学家公开警告AI可能削弱人类对数学的理解。https://t.co/EEOL3E7njj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097423688970944512",
+            "3_2097423688819716096"
+          ]
+        },
+        "author_id": "1087640384975577089",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1726650967746129920",
+              "name": "Sam Altman"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2097423705240428932",
+        "created_at": "2026-09-08T20:35:54.000Z",
+        "display_text_range": [
+          0,
+          298
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T21:35:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097423705240428932"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RInlP88gmA",
+              "end": 322,
+              "expanded_url": "https://x.com/ns123abc/status/2097423705240428932/photo/1",
+              "media_key": "3_2097423688970944512",
+              "start": 299,
+              "url": "https://t.co/RInlP88gmA"
+            },
+            {
+              "display_url": "pic.x.com/RInlP88gmA",
+              "end": 322,
+              "expanded_url": "https://x.com/ns123abc/status/2097423705240428932/photo/1",
+              "media_key": "3_2097423688819716096",
+              "start": 299,
+              "url": "https://t.co/RInlP88gmA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097423705240428932",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097423688970944512"
+          },
+          {
+            "media_key": "3_2097423688819716096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": ">sam altman: \"we tried this because there were rumor on the internet\"\n>rumor: math professor close to solving navier-stokes\n>the professor: using codex for a year\n>openai: has all his logs\n>checked every codex session tagged to N-S\n>found the most promising one\n>spun up 10,000 agents to finish the proof where he couldn't\n>they got caught \n>told the guy if you say anything you'll destroy your own career\n>he ruins his career over this\n>openai: \"we did not see his work\"\n>also openai: \"we cannot rule out that de-identified data from their usage helped improve our models\"\n\nthey stole it lmao"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15275,
+          "impression_count": 3900801,
+          "like_count": 91660,
+          "quote_count": 1152,
+          "reply_count": 739,
+          "retweet_count": 12636
+        },
+        "reply_settings": "everyone",
+        "text": "&gt;sam altman: \"we tried this because there were rumor on the internet\"\n&gt;rumor: math professor close to solving navier-stokes\n&gt;the professor: using codex for a year\n&gt;openai: has all his logs\n&gt;checked every codex session tagged to N-S\n&gt;found the most promising one\n&gt;spun up 10,000 https://t.co/RInlP88gmA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2098329192681377900",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 955,
+          "following_count": 817,
+          "like_count": 131265,
+          "listed_count": 6,
+          "media_count": 852,
+          "tweet_count": 9813
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-06-28T04:25:01.000Z",
+        "description": "纽约时报中文网官方X帐号。Official X Account of The New York Times Chinese Website.\niPhone & iPad app: https://t.co/4xsXrUyRd3\nAndroid app: https://t.co/EIR0vUtau8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "apple.co/2aLBQZl",
+                "end": 113,
+                "expanded_url": "http://apple.co/2aLBQZl",
+                "start": 90,
+                "url": "https://t.co/4xsXrUyRd3"
+              },
+              {
+                "display_url": "bit.ly/2qbAFH4",
+                "end": 150,
+                "expanded_url": "http://bit.ly/2qbAFH4",
+                "start": 127,
+                "url": "https://t.co/EIR0vUtau8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cn.nytimes.com",
+                "end": 23,
+                "expanded_url": "http://cn.nytimes.com",
+                "start": 0,
+                "url": "https://t.co/9nVAbXhNE6"
+              }
+            ]
+          }
+        },
+        "id": "620632841",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098320388577230983",
+        "name": "纽约时报中文网",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/620632841/1398676021",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/963709224466374656/W7eiSwd9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3817246,
+          "following_count": 368,
+          "like_count": 1100,
+          "listed_count": 9276,
+          "media_count": 12927,
+          "tweet_count": 75197
+        },
+        "url": "https://t.co/9nVAbXhNE6",
+        "username": "nytchinese",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-01-22T09:17:29.000Z",
+        "description": "non technical member of technical staff",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "grokipedia.com/page/ns123abc",
+                "end": 23,
+                "expanded_url": "https://grokipedia.com/page/ns123abc",
+                "start": 0,
+                "url": "https://t.co/WPssuOPWw5"
+              }
+            ]
+          }
+        },
+        "id": "1087640384975577089",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2098315820044578926",
+        "name": "NIK",
+        "pinned_tweet_id": "2098144432570630380",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1087640384975577089/1710913066",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048822563821035520/7nxCFEnk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81182,
+          "following_count": 7946,
+          "like_count": 263144,
+          "listed_count": 785,
+          "media_count": 6494,
+          "tweet_count": 31264
+        },
+        "url": "https://t.co/WPssuOPWw5",
+        "username": "ns123abc",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098153609234104818",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2095595741528125780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4398626122/1777662919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5313717,
+          "following_count": 4,
+          "like_count": 2475,
+          "listed_count": 32003,
+          "media_count": 715,
+          "tweet_count": 2124
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

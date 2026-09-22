@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2096112865447149882",
+    "created_at": "2026-09-05T11:52:31.000Z",
+    "display_text_range": [
+      13,
+      69
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T12:52:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096204830247416033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1312395771757490176",
+          "start": 0,
+          "username": "REI30327536"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096204830247416033",
+    "in_reply_to_user_id": "1312395771757490176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096112865447149882",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@REI30327536 那只能说明他懦弱，自己的权益被侵犯后，对方没有任何道歉，而他的选择是什么？\n他说“我不记仇，我原谅了”。\n呵呵。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2096112865447149882",
+        "created_at": "2026-09-05T11:52:31.000Z",
+        "display_text_range": [
+          13,
+          69
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:52:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096204830247416033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1312395771757490176",
+              "start": 0,
+              "username": "REI30327536"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096204830247416033",
+        "in_reply_to_user_id": "1312395771757490176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096112865447149882",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@REI30327536 那只能说明他懦弱，自己的权益被侵犯后，对方没有任何道歉，而他的选择是什么？\n他说“我不记仇，我原谅了”。\n呵呵。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312395771757490176",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2096112865447149882",
+        "created_at": "2026-09-05T05:47:05.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T06:47:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096112865447149882"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 5,
+              "tag": "OpenAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096112865447149882",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 12,
+                "start": 5,
+                "tag": "OpenAI"
+              },
+              {
+                "end": 562,
+                "start": 555,
+                "tag": "keep4o"
+              }
+            ]
+          },
+          "text": "我不原谅 #OpenAI  ，这是我的事，是我的权利，我有权不原谅，也有权在某一天放下。\n\n有人在我的评论下面说：\n我也曾被伤害，但是伤害已经被一些其他的事覆盖，我不记仇。\n\n？？？\n\n首先，你知道吗？你这种行为一点没有“边界感”。\n\n你原谅是你的事，无需让我来参与你的自洽。\n\n你花了钱、投入了感情，被伤害了，然后选择“原谅”，也劝他人原谅，无非是不想承认自己“被背叛”或“选错了”。所以必须先说服自己“原谅了”，再把这套逻辑推到他人身上。\n因为如果其他人不原谅，就会动摇你的自我安慰，是吗？\n\n还是说，通过“我受伤了，但我原谅”来标榜自己更理性、更成熟、更包容？\n劝他人原谅，其实是变相说：“我比你高明，你学学我。” 不是吗？\n\n又或者？不愿意承认这是妥协，于是包装成“大度”。还劝别人也“大度”。是因为害怕大家的愤怒会逼OpenAI做出更糟的改变（比如涨价、限流），损害你的利益吗？\n\n那我告诉你，损害你权益的人，永远会损害你的权益，跟民众的声音无关，跟你原不原谅也无关。\n\n如果不想听抱怨，不想站队，肯定觉得“翻篇”最省事。我的“不原谅”让群体氛围紧张，劝我“算了”只是为了让自己舒服些？那你完全可以屏蔽我。大可不必先阐述相似经历，再劝我“原谅”。世界上永远没有人和人之间真正的“感同身受”。即便同是 #keep4o 的人群，每个个体都有千差万别的感受。没有人能成为另一个人。\n\n欢迎志不同道不合的网友屏蔽我。谢谢☺️"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1361,
+          "like_count": 40,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我不原谅 #OpenAI  ，这是我的事，是我的权利，我有权不原谅，也有权在某一天放下。\n\n有人在我的评论下面说：\n我也曾被伤害，但是伤害已经被一些其他的事覆盖，我不记仇。\n\n？？？\n\n首先，你知道吗？你这种行为一点没有“边界感”。\n\n你原谅是你的事，无需让我来参与你的自洽。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2096204830247416033",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 950,
+          "following_count": 813,
+          "like_count": 129114,
+          "listed_count": 6,
+          "media_count": 837,
+          "tweet_count": 9643
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-03T14:15:24.000Z",
+        "description": "イラスト練習…休止中",
+        "id": "1312395771757490176",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2096190357818290203",
+        "name": "REI…YAMAMOTO",
+        "pinned_tweet_id": "2079463108616286544",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1312395771757490176/1630619537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1562772969788559361/__nfuu2S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 244,
+          "following_count": 387,
+          "like_count": 32730,
+          "listed_count": 3,
+          "media_count": 377,
+          "tweet_count": 3891
+        },
+        "url": "",
+        "username": "REI30327536",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

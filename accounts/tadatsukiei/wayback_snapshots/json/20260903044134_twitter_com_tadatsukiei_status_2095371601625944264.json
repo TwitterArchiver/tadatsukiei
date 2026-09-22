@@ -1,0 +1,354 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095371596735328256"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2095360696477495653",
+    "created_at": "2026-09-03T04:41:34.000Z",
+    "display_text_range": [
+      17,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T05:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095371601625944264"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1869440990970556416",
+          "start": 0,
+          "username": "SnowfairySerina"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rn4lfGb8wJ",
+          "end": 77,
+          "expanded_url": "https://x.com/tadatsukiei/status/2095371601625944264/photo/1",
+          "media_key": "3_2095371596735328256",
+          "start": 54,
+          "url": "https://t.co/rn4lfGb8wJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095371601625944264",
+    "in_reply_to_user_id": "1869440990970556416",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095371596735328256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095369140089536957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SnowfairySerina 问了四次终于问出来了，而且它的数据很早就不更新，还停留在1.5pro时期 https://t.co/rn4lfGb8wJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095371596735328256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRBXY_aMAAHTG1.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095371596735328256"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2095360696477495653",
+        "created_at": "2026-09-03T04:41:34.000Z",
+        "display_text_range": [
+          17,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095371601625944264"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1869440990970556416",
+              "start": 0,
+              "username": "SnowfairySerina"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rn4lfGb8wJ",
+              "end": 77,
+              "expanded_url": "https://x.com/tadatsukiei/status/2095371601625944264/photo/1",
+              "media_key": "3_2095371596735328256",
+              "start": 54,
+              "url": "https://t.co/rn4lfGb8wJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095371601625944264",
+        "in_reply_to_user_id": "1869440990970556416",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095371596735328256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095369140089536957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SnowfairySerina 问了四次终于问出来了，而且它的数据很早就不更新，还停留在1.5pro时期 https://t.co/rn4lfGb8wJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1869440990970556416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2095360696477495653",
+        "created_at": "2026-09-03T04:31:47.000Z",
+        "display_text_range": [
+          13,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T05:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095369140089536957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1752538285459795968",
+              "start": 0,
+              "username": "tadatsukiei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095369140089536957",
+        "in_reply_to_user_id": "1752538285459795968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095367736847479037",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tadatsukiei 啊呀，我用的很冷门吧应该，是Google搜索里面自带的那个AI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2095371601625944264",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 944,
+          "following_count": 812,
+          "like_count": 128187,
+          "listed_count": 6,
+          "media_count": 826,
+          "tweet_count": 9560
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-18T17:54:48.000Z",
+        "description": "自我认同：0kg 波长575nm 量子相干度为1 穿透率无限//永恒旅伴@eztakesin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 36,
+                "username": "eztakesin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/novel/show.php…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/novel/show.php?id=25860609",
+                "start": 0,
+                "url": "https://t.co/3DFuJVsHdD"
+              }
+            ]
+          }
+        },
+        "id": "1869440990970556416",
+        "is_identity_verified": false,
+        "location": "摄平星系 星空合众国 云屏樱花/鸢尾林间的灯光里",
+        "most_recent_tweet_id": "2095369140089536957",
+        "name": "✨🌈摇光星辰⭐深空金芒🏳️‍⚧️✨",
+        "pinned_tweet_id": "2094534739260809667",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869440990970556416/1760864814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095232250095050752/vURsE0nl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1167,
+          "like_count": 4402,
+          "listed_count": 6,
+          "media_count": 768,
+          "tweet_count": 6336
+        },
+        "url": "https://t.co/3DFuJVsHdD",
+        "username": "SnowfairySerina",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

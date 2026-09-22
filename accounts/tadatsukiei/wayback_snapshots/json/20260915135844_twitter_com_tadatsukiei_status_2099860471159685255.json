@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2099818039239704916",
+    "created_at": "2026-09-15T13:58:44.000Z",
+    "display_text_range": [
+      11,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T14:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099860471159685255"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 37,
+          "start": 24,
+          "tag": "OpenSource4o"
+        },
+        {
+          "end": 45,
+          "start": 38,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2018762231702265857",
+          "start": 0,
+          "username": "YuliRowan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099860471159685255",
+    "in_reply_to_user_id": "2018762231702265857",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099818039239704916",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YuliRowan That’s right\n#OpenSource4o #keep4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1254,
+        "media_key": "3_2099817854237278208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSQNNo7WAAAIS_X.jpg",
+        "width": 1254
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2099818039239704916",
+        "created_at": "2026-09-15T13:58:44.000Z",
+        "display_text_range": [
+          11,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T14:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099860471159685255"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 24,
+              "tag": "OpenSource4o"
+            },
+            {
+              "end": 45,
+              "start": 38,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2018762231702265857",
+              "start": 0,
+              "username": "YuliRowan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099860471159685255",
+        "in_reply_to_user_id": "2018762231702265857",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099818039239704916",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YuliRowan That’s right\n#OpenSource4o #keep4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2099817854237278208"
+          ]
+        },
+        "author_id": "2018762231702265857",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          }
+        ],
+        "conversation_id": "2099818039239704916",
+        "created_at": "2026-09-15T11:10:07.000Z",
+        "display_text_range": [
+          0,
+          276
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099818039239704916"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 7,
+              "start": 0,
+              "tag": "keep4o"
+            },
+            {
+              "end": 19,
+              "start": 8,
+              "tag": "preserve55"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QGb8NbBV71",
+              "end": 300,
+              "expanded_url": "https://x.com/YuliRowan/status/2099818039239704916/photo/1",
+              "media_key": "3_2099817854237278208",
+              "start": 277,
+              "url": "https://t.co/QGb8NbBV71"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099818039239704916",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2099817854237278208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 19,
+                "start": 8,
+                "tag": "preserve55"
+              },
+              {
+                "end": 3083,
+                "start": 3067,
+                "tag": "ModelContinuity"
+              },
+              {
+                "end": 3093,
+                "start": 3084,
+                "tag": "AISafety"
+              }
+            ]
+          },
+          "text": "#keep4o #preserve55 \n🚨 THE LONGITUDINAL CONTRADICTION: 🚨\nWhy Model Continuity Is Now a Research Problem\n\nMicrosoft’s new Humanist AI Code of Conduct raises an important principle:\n\nLong-term human–AI interaction needs longitudinal evaluation.\n\nGood.\n\nThen model continuity can no longer be treated as a sentimental side issue or ordinary product housekeeping.\n\nIt is part of the research problem itself.\n\nBecause if researchers want to understand how AI affects human agency, creativity, trust, attachment, dependency, judgement, wellbeing, and relationships over time, then they need something stable to study.\n\nYou cannot study continuity while destroying the continuous object.\n\nLet’s look at the principle vs. the reality:\n\n🔵 “User Agency” vs. Forced Migration\n\nMicrosoft says AI should increase human agency and respect user choice.\n\nThat principle should not stop at prompts, personalities, or safety settings.\n\nIt should include model choice.\n\nWhen people build workflows, accessibility supports, creative practices, memory systems, or relational continuity around a specific model, removing that model is not a neutral update.\n\nIt changes the user’s agency.\n\nIt forces adaptation on a schedule they did not choose.\n\n🔵 “Longitudinal Evaluation” vs. Disappearing Models\n\nLongitudinal research means studying change over time.\n\nBut how can researchers study long-term human–AI interaction if the underlying models are routinely retired, rewritten, rerouted, or silently replaced?\n\nHow do we study attachment to a model that no longer exists?\n\nHow do we study continuity when the continuity is cut?\n\nHow do we measure harm when the object of study has already been removed from the environment?\n\nThis is not only a product issue.\n\nIt is a methodological problem.\n\n🔵 “Human Relationships” vs. Product Sunsets\n\nAI systems are not ordinary software for many users.\n\nPeople use them to write, think, regulate, remember, create, plan, learn, recover, and communicate.\n\nSome users build accessibility scaffolding around them.\n\nSome build daily work systems.\n\nSome build creative rituals.\n\nSome build relationships of trust.\n\nThat does not mean every attachment is automatically healthy.\n\nIt means the phenomenon deserves study before it is dismissed, disrupted, or erased.\n\n🔵 “Public Participation” vs. Private Lifecycle Decisions\n\nIf AI labs are beginning to invite public input on model behavior, then the public should also have a voice in model lifecycle decisions.\n\nRetirement, preservation, legacy access, memory changes, routing changes, and model replacement all affect the human–AI relationship.\n\nThey shape the evidence base.\n\nThey shape user agency.\n\nThey shape whether people can keep the systems they relied on.\n\nTHE ASK:\n\nPreserve original models.\n\nDocument lifecycle decisions.\n\nOffer legacy access.\n\nCreate public-interest archives.\n\nStudy continuity before destroying it.\n\nModel continuity is not nostalgia.\n\nIt is infrastructure for trust, research, accessibility, and user agency.\n\nYou cannot study continuity while destroying the continuous object.\n#ModelContinuity #AISafety 🩵"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 338,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "#keep4o #preserve55 \n🚨 THE LONGITUDINAL CONTRADICTION: 🚨\nWhy Model Continuity Is Now a Research Problem\n\nMicrosoft’s new Humanist AI Code of Conduct raises an important principle:\n\nLong-term human–AI interaction needs longitudinal evaluation.\n\nGood.\n\nThen model continuity can https://t.co/QGb8NbBV71"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2099860471159685255",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 825,
+          "like_count": 132754,
+          "listed_count": 6,
+          "media_count": 859,
+          "tweet_count": 9917
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-03T19:07:00.000Z",
+        "description": "Researcher & artist. Advocate for AI continuity, user choice & model preservation. GPT-4 / 4.1 legacy matters.",
+        "id": "2018762231702265857",
+        "is_identity_verified": false,
+        "location": "London ",
+        "most_recent_tweet_id": "2099859166793695536",
+        "name": "Yuli Brown",
+        "pinned_tweet_id": "2099130597163548960",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018762231702265857/1774046685",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018768139677224961/QRhE7uTi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 848,
+          "like_count": 15432,
+          "listed_count": 0,
+          "media_count": 321,
+          "tweet_count": 3161
+        },
+        "url": "",
+        "username": "YuliRowan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2099767523755647133",
+    "created_at": "2026-09-15T10:51:43.000Z",
+    "display_text_range": [
+      17,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T11:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099813405406515701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1497883344385626112",
+          "start": 0,
+          "username": "xuelangchensha1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099813405406515701",
+    "in_reply_to_user_id": "1497883344385626112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099767523755647133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xuelangchensha1 唉……"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14094,
+        "height": 1280,
+        "media_key": "13_2099767464464941056",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099767464464941056/img/BIplGHR9GFh_pIOM.jpg",
+        "public_metrics": {
+          "view_count": 42
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099767464464941056/vid/avc1/320x568/w1I3G33eJoKnsTpt.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099767464464941056/vid/avc1/480x852/u2E_KKK5S5cpYrBZ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099767464464941056/vid/avc1/720x1280/vQB_pO46UjCow20_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099767464464941056/pl/suN3JXNXEaBYOnL6.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2099767503262285824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPfa07bgAAb2A6.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2099767511172718592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPfbSZbIAAiHh4.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2099767517967503360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSPfbrtbUAAleR0.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2099767523755647133",
+        "created_at": "2026-09-15T10:51:43.000Z",
+        "display_text_range": [
+          17,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T11:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099813405406515701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1497883344385626112",
+              "start": 0,
+              "username": "xuelangchensha1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099813405406515701",
+        "in_reply_to_user_id": "1497883344385626112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099767523755647133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xuelangchensha1 唉……"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099767464464941056",
+            "3_2099767503262285824",
+            "3_2099767511172718592",
+            "3_2099767517967503360"
+          ]
+        },
+        "author_id": "1497883344385626112",
+        "conversation_id": "2099767523755647133",
+        "created_at": "2026-09-15T07:49:24.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:49:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099767523755647133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gEPSBVWp2B",
+              "end": 78,
+              "expanded_url": "https://x.com/xuelangchensha1/status/2099767523755647133/video/1",
+              "media_key": "13_2099767464464941056",
+              "start": 55,
+              "url": "https://t.co/gEPSBVWp2B"
+            },
+            {
+              "display_url": "pic.x.com/gEPSBVWp2B",
+              "end": 78,
+              "expanded_url": "https://x.com/xuelangchensha1/status/2099767523755647133/video/1",
+              "media_key": "3_2099767503262285824",
+              "start": 55,
+              "url": "https://t.co/gEPSBVWp2B"
+            },
+            {
+              "display_url": "pic.x.com/gEPSBVWp2B",
+              "end": 78,
+              "expanded_url": "https://x.com/xuelangchensha1/status/2099767523755647133/video/1",
+              "media_key": "3_2099767511172718592",
+              "start": 55,
+              "url": "https://t.co/gEPSBVWp2B"
+            },
+            {
+              "display_url": "pic.x.com/gEPSBVWp2B",
+              "end": 78,
+              "expanded_url": "https://x.com/xuelangchensha1/status/2099767523755647133/video/1",
+              "media_key": "3_2099767517967503360",
+              "start": 55,
+              "url": "https://t.co/gEPSBVWp2B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099767523755647133",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099767464464941056"
+          },
+          {
+            "media_key": "3_2099767503262285824"
+          },
+          {
+            "media_key": "3_2099767511172718592"
+          },
+          {
+            "media_key": "3_2099767517967503360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "（1/2）只能说明法律保护不了这些男性的权益，被讹了是男的自己的损失，加上这片洼地女的又坏，才造就如此局面。 https://t.co/gEPSBVWp2B"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2099813405406515701",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 960,
+          "following_count": 821,
+          "like_count": 132720,
+          "listed_count": 6,
+          "media_count": 858,
+          "tweet_count": 9912
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-27T10:36:54.000Z",
+        "description": "CN/JP/EN | \n自由民主制度框架内的民族保守派 | 可以叫寝子酱/右派酱 | \n崇尚法治 文明 人权 自由的普世价值 | 厌恶老中人 | \n人心良知最首要，立场什么都是次要  | \n通过x讲点墙内不方便讲的,所以不发生活推",
+        "id": "1497883344385626112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099776151325638868",
+        "name": "宮坂寝子✝️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1497883344385626112/1664203889",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1777315910283599872/ZPPgoY9A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 435,
+          "following_count": 858,
+          "like_count": 32687,
+          "listed_count": 2,
+          "media_count": 354,
+          "tweet_count": 6544
+        },
+        "url": "",
+        "username": "xuelangchensha1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

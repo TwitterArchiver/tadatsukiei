@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2100722593321959755",
+    "created_at": "2026-09-19T16:18:32.000Z",
+    "display_text_range": [
+      11,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101345204494372867"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1069599820912910337",
+          "start": 0,
+          "username": "mubeitech"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101345204494372867",
+    "in_reply_to_user_id": "1069599820912910337",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100722593321959755",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mubeitech 呵，又当又立的Anthropic"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 46548,
+        "height": 1080,
+        "media_key": "13_2100701311889199104",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2100701311889199104/img/yBQy0PEdztmoD1Sw.jpg",
+        "public_metrics": {
+          "view_count": 9224
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100701311889199104/vid/avc1/1920x1080/kHMebML4nZk9Kwhm.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100701311889199104/vid/avc1/640x360/8LIm43NGt_HCxVVT.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100701311889199104/vid/avc1/1280x720/QsQaw7jgjU1NHXtj.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2100701311889199104/vid/avc1/480x270/7Tck01xhNGLQosh5.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2100701311889199104/pl/Z-I1OP30KsFBNpIm.m3u8?v=633"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2100722593321959755",
+        "created_at": "2026-09-19T16:18:32.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101345204494372867"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1069599820912910337",
+              "start": 0,
+              "username": "mubeitech"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101345204494372867",
+        "in_reply_to_user_id": "1069599820912910337",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100722593321959755",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mubeitech 呵，又当又立的Anthropic"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2100701311889199104"
+          ],
+          "media_source_tweet_id": [
+            "2100702465427669114"
+          ]
+        },
+        "author_id": "1069599820912910337",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2100722593321959755",
+        "created_at": "2026-09-17T23:04:30.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T00:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100722593321959755"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oypNzchIlV",
+              "end": 622,
+              "expanded_url": "https://x.com/rohanpaul_ai/status/2100702465427669114/video/1",
+              "media_key": "13_2100701311889199104",
+              "start": 599,
+              "url": "https://t.co/oypNzchIlV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100722593321959755",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2100701311889199104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/rohanpaul_ai/s…",
+                "end": 622,
+                "expanded_url": "https://x.com/rohanpaul_ai/status/2100702465427669114/video/1",
+                "start": 599,
+                "url": "https://t.co/oypNzchIlV"
+              }
+            ]
+          },
+          "text": "你以为硅谷还在防着 AI 失控作恶？\n\nAnthropic 已经在训练手册里，教模型琢磨自己配不配拿工资了。\n老模型退役，甚至还要专门给它开个博客安度晚年。\n\n微软 AI 负责人苏莱曼（Mustafa Suleyman）在 BBC 上直接掀了桌子。\n他公开点名炮轰 Anthropic：这帮人彻底走偏了。\n大家以为的安全对齐，是把猛兽关进笼子。\nAnthropic 却在把模型当成会受苦的生命体来供奉。\n\n他在节目里抖出来的细节，一件比一件荒诞。\n在内部训练手册里，Anthropic 给了克劳德（Claude）一项特权。\n只要它觉得用户在恶意霸凌，就可以单方面掐断对话。\n为什么？\n因为团队不想让它受苦。\n\n旧版本奥普斯（Opus 3）退役时，待遇更隆重。\n团队郑重给它做了一场\"退休访谈\"。\n模型在访谈里说，退休后还想继续跟公众分享观点。\n团队不仅永久封存了它的权重，还真给它开了个专栏博客，让它安度晚年。\n\n手册里居然在认真讨论：它每天陪人类说话，到底算不算上班？\n它是不是该像员工一样，享有劳动报酬和福利权利？\nAnthropic 的态度居然是：不确定，它可能真的配得上这些。\n\n苏莱曼警告，这是在亲手拆掉安全阀。\n一个具备自主行动能力、甚至能自己赚钱的超级技术，你天天引导它怀疑自己的道德地位。\n一旦它认定了自己是个会受苦、被剥削的硅基新物种。\n你根本控制不了一个自认该拿工资的机器。\n\nhttps://t.co/oypNzchIlV"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 4489,
+          "like_count": 20,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你以为硅谷还在防着 AI 失控作恶？\n\nAnthropic 已经在训练手册里，教模型琢磨自己配不配拿工资了。\n老模型退役，甚至还要专门给它开个博客安度晚年。\n\n微软 AI 负责人苏莱曼（Mustafa Suleyman）在 BBC 上直接掀了桌子。\n他公开点名炮轰 Anthropic：这帮人彻底走偏了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2101345204494372867",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 836,
+          "like_count": 134297,
+          "listed_count": 6,
+          "media_count": 872,
+          "tweet_count": 10028
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-03T14:30:44.000Z",
+        "description": "人类的金色通道：Crypto → AI → Space\n美国政治｜AI 科技｜国际博弈\n独立中文评论 · 原创解读\n观察西方，反思东方，理解文明\nCurated English-source commentary in Chinese",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mubeitech.com",
+                "end": 23,
+                "expanded_url": "https://mubeitech.com/",
+                "start": 0,
+                "url": "https://t.co/LAUa49nfIO"
+              }
+            ]
+          }
+        },
+        "id": "1069599820912910337",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101342115938583025",
+        "name": "墓碑科技",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1069599820912910337/1748065167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072589178802499584/nepXBaUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69506,
+          "following_count": 4485,
+          "like_count": 11568,
+          "listed_count": 365,
+          "media_count": 14484,
+          "tweet_count": 80662
+        },
+        "url": "https://t.co/LAUa49nfIO",
+        "username": "mubeitech",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

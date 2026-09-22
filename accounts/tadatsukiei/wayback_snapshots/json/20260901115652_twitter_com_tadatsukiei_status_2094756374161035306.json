@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2094725733499498871",
+    "created_at": "2026-09-01T11:56:52.000Z",
+    "display_text_range": [
+      15,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T12:56:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094756374161035306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1643248727086477312",
+          "start": 0,
+          "username": "litiantian511"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094756374161035306",
+    "in_reply_to_user_id": "1643248727086477312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094725733499498871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@litiantian511 挺好的，爱情是奢侈品，对大多数人都是。"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094725733499498871].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094725733499498871",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094725733499498871"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2094725733499498871",
+        "created_at": "2026-09-01T11:56:52.000Z",
+        "display_text_range": [
+          15,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T12:56:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094756374161035306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1643248727086477312",
+              "start": 0,
+              "username": "litiantian511"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094756374161035306",
+        "in_reply_to_user_id": "1643248727086477312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094725733499498871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@litiantian511 挺好的，爱情是奢侈品，对大多数人都是。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2094756374161035306",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 941,
+          "following_count": 810,
+          "like_count": 127553,
+          "listed_count": 6,
+          "media_count": 819,
+          "tweet_count": 9511
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-04T13:47:18.000Z",
+        "description": "大阪在住｜作家・詩人・中国語教師 言葉と自由を愛し、試練の中で故郷を離れました。 花や草、大自然、音楽が大好きで、文学でこの世界の悲喜こもごもを思いきり書きとめたいと思っています。🌿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCiHMC…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCiHMCVhBmHaf2DCVtcUcfFg?si=KD7xvD_7eMo82EYo",
+                "start": 0,
+                "url": "https://t.co/0CxGcTd8Be"
+              }
+            ]
+          }
+        },
+        "id": "1643248727086477312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087603685241290762",
+        "name": "りてんてん（山花詩田）",
+        "pinned_tweet_id": "1993509665687409112",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1643248727086477312/1680616449",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830632536432947200/Ep5a2Sj-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 42268,
+          "following_count": 1455,
+          "like_count": 29749,
+          "listed_count": 140,
+          "media_count": 1635,
+          "tweet_count": 10053
+        },
+        "url": "https://t.co/0CxGcTd8Be",
+        "username": "litiantian511",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

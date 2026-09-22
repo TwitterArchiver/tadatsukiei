@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2097537702786973770",
+    "created_at": "2026-09-09T09:52:08.000Z",
+    "display_text_range": [
+      18,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:52:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097624084121342241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2053869002125103104",
+          "start": 0,
+          "username": "rozilinu"
+        },
+        {
+          "end": 17,
+          "id": "4848269835",
+          "start": 10,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097624084121342241",
+    "in_reply_to_user_id": "2053869002125103104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097581195026723213",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rozilinu @_FORAB 放心，没用的，早就有许多用户验证过了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2097537702786973770",
+        "created_at": "2026-09-09T09:52:08.000Z",
+        "display_text_range": [
+          18,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097624084121342241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2053869002125103104",
+              "start": 0,
+              "username": "rozilinu"
+            },
+            {
+              "end": 17,
+              "id": "4848269835",
+              "start": 10,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097624084121342241",
+        "in_reply_to_user_id": "2053869002125103104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097581195026723213",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rozilinu @_FORAB 放心，没用的，早就有许多用户验证过了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2053869002125103104",
+        "conversation_id": "2097537702786973770",
+        "created_at": "2026-09-09T07:01:42.000Z",
+        "display_text_range": [
+          8,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097581195026723213"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097581195026723213",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 799,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097537702786973770",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 隐私这块，版权这块，重要的东西就不该让第三方参与，o家算毫无顾忌的偷窥隐私了，我不知道关掉他们所谓的你的数据不参与模型训练是否真的有效"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2097624084121342241",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 952,
+          "following_count": 816,
+          "like_count": 130376,
+          "listed_count": 6,
+          "media_count": 848,
+          "tweet_count": 9721
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-11T16:05:12.000Z",
+        "description": "AI cognitive science researchers",
+        "id": "2053869002125103104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097581195026723213",
+        "name": "Rosalinu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2053869002125103104/1786492194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053870382256644096/GMp-LWfZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 38,
+          "like_count": 92,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "rozilinu",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2097616556289347962",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142937,
+          "following_count": 660,
+          "like_count": 10625,
+          "listed_count": 2123,
+          "media_count": 4662,
+          "tweet_count": 16359
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

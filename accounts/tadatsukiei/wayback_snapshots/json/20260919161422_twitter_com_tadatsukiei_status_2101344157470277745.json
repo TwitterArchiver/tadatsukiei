@@ -1,0 +1,677 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+          "id": "1557697121477832705",
+          "name": "Publisher & News Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Books and literature",
+          "id": "847519659179954178",
+          "name": "Books"
+        }
+      }
+    ],
+    "conversation_id": "2101344157470277745",
+    "created_at": "2026-09-19T16:14:22.000Z",
+    "display_text_range": [
+      0,
+      134
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:14:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101344157470277745"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ayi_ainotes/st…",
+          "end": 158,
+          "expanded_url": "https://twitter.com/ayi_ainotes/status/2100031941189783886",
+          "start": 135,
+          "url": "https://t.co/uy5W6hbvZq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101344157470277745",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100031941189783886",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "「过去三年，全世界都在逼着大模型去当一个满嘴跑火车的文学家；\n而真正看懂工业终局的科学家已经开始转头造刀——\n消灭毫无价值的语言泡沫，\n用 450 倍的成本代差，把最精准的决策直接插进人类现实业务的每一根血管里。」\n这些营销号真闹麻了😅\n何と言うか……言葉が詰まった。 https://t.co/uy5W6hbvZq"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 162581,
+        "height": 1080,
+        "media_key": "13_2099924592534183936",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099924592534183936/img/hBGk8j8MRxBgPyg9.jpg",
+        "public_metrics": {
+          "view_count": 613278
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099924592534183936/vid/avc1/1172x720/F-W_eN-M0CVLcXRs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099924592534183936/pl/X6TE0Lm760ImXUvF.m3u8?v=34b"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099924592534183936/vid/avc1/1760x1080/ML-W8ejSMA4IEksu.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099924592534183936/vid/avc1/586x360/BRwXZhNNv-q4Do5h.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099924592534183936/vid/avc1/440x270/G_SqCe5CEqIiBown.mp4"
+          }
+        ],
+        "width": 1760
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2101344157470277745",
+        "created_at": "2026-09-19T16:14:22.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:14:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101344157470277745"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ayi_ainotes/st…",
+              "end": 158,
+              "expanded_url": "https://twitter.com/ayi_ainotes/status/2100031941189783886",
+              "start": 135,
+              "url": "https://t.co/uy5W6hbvZq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101344157470277745",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100031941189783886",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "「过去三年，全世界都在逼着大模型去当一个满嘴跑火车的文学家；\n而真正看懂工业终局的科学家已经开始转头造刀——\n消灭毫无价值的语言泡沫，\n用 450 倍的成本代差，把最精准的决策直接插进人类现实业务的每一根血管里。」\n这些营销号真闹麻了😅\n何と言うか……言葉が詰まった。 https://t.co/uy5W6hbvZq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099924592534183936"
+          ],
+          "media_source_tweet_id": [
+            "2099925687465570372"
+          ]
+        },
+        "author_id": "1974653328274714624",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2100031941189783886",
+        "created_at": "2026-09-16T01:20:06.000Z",
+        "display_text_range": [
+          0,
+          169
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T02:20:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100031941189783886"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2luUcPB0kZ",
+              "end": 1227,
+              "expanded_url": "https://x.com/CompleteSkeptic/status/2099925687465570372/video/1",
+              "media_key": "13_2099924592534183936",
+              "start": 1204,
+              "url": "https://t.co/2luUcPB0kZ"
+            },
+            {
+              "display_url": "x.com/completeskepti…",
+              "end": 193,
+              "expanded_url": "https://twitter.com/completeskeptic/status/2099925682726002904",
+              "start": 170,
+              "url": "https://t.co/fW2beZvXME"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100031941189783886",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2099924592534183936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/CompleteSkepti…",
+                "end": 1227,
+                "expanded_url": "https://x.com/CompleteSkeptic/status/2099925687465570372/video/1",
+                "start": 1204,
+                "url": "https://t.co/2luUcPB0kZ"
+              }
+            ]
+          },
+          "text": "发明了 ChatGPT 的 OpenAI 核心科学家，潜伏整整两年后，反手给整个聊天大模型行业敲响了丧钟。\n\nDiogo Almeida（ChatGPT 与 RLHF 共同发明人之一）刚发的这条推文，开篇第一句就直击灵魂：\n“在共同发明了 ChatGPT 之后，我一直在反问自己：为什么超人类水平的对话模型，至今没能带来真正的 AGI？”\n\n带着 4000 万美元新融资杀回来的他，今天正式公开了闭关两年的全新成果——TypeSafe AI 与新一代前沿基座模型 Jev。\n这绝不是又一个跑分微涨的普通大模型，\n它的背后，藏着整个 AI 工业界一次极其反直觉的断代革命：\n从“装模作样陪人聊天的慢速生成” $\\to$ 转向“极速、零废话的确定性结构化决策”！\n\n看懂他掀开的四层底层逻辑，你会发现他把现存的大模型缺陷肢解得极其彻底：\n\n1️⃣ 第一层：最震撼的背叛——这个 AI 甚至“连一个字都不会写”：\n在所有人的惯性思维里，大模型必须会出口成章、会写长篇大论；\n但 Jev 走向了最极端的反面——它彻底阉割了自然语言生成能力，绝不吐半句废话！\n因为在商业现实里，银行风控、诈骗识别、医疗初筛、路由分发，\n根本不需要 AI 给你写一首抒情诗，业务系统只需要它在毫秒级内给出精准的概率分布与结构化判定；\n2️⃣ 第二层：算术级暴击，输出 Token 彻底免费：\n传统大模型之所以昂贵且奇慢无比，是因为它们被锁死在“逐字解码（Autoregressive Decoding）”的物理地狱里——每吐一个字就要把几十 GB 参数从显存里搬一次；\n而 Jev 放弃了文字生成后，直接改用单次前向传播（Forward Pass）并行处理所有结构化问题！\n结果是毁灭级的：推理速度暴涨 20 到 200 倍，API 成本断崖式暴跌 40 到 450 倍，\n输出 Token 在物理层面上直接等同于免费！\n3️⃣ 最狠的第三层：消灭幻觉的秘密武器——RLCD 概率校准：\n大模型最让人不敢用的死穴，是它在不知道答案时依然自信地胡说八道；\nDiogo 亲手放弃了自己参与发明的旧 RLHF，自研了全新的 RLCD（基于校准决策的强化学习）——\n模型输出的每一个数值和选项，都带着严格校准后的真实胜率与置信度；\n它知不知道自己知不知道，在数学层面上被彻底焊死；\n4️⃣ 真正的生产力不是陪聊，是“快系统 1 的极致收割”：\n这才是他眼中的正道：\n把昂贵、笨重、充满主观修辞的聊天模型，降维成一个极度坚硬、不可篡改、毫秒级响应的纯逻辑决策核心。\n\n这场发布给所有还在迷信“聊天框就是一切”的从业者敲响了一记重锤：\n过去三年，全世界都在逼着大模型去当一个满嘴跑火车的文学家；\n而真正看懂工业终局的科学家已经开始转头造刀——\n消灭毫无价值的语言泡沫，\n用 450 倍的成本代差，把最精准的决策直接插进人类现实业务的每一根血管里。 https://t.co/2luUcPB0kZ"
+        },
+        "paid_partnership": true,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 246,
+          "impression_count": 59287,
+          "like_count": 174,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 41
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099925682726002904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "发明了 ChatGPT 的 OpenAI 核心科学家，潜伏整整两年后，反手给整个聊天大模型行业敲响了丧钟。\n\nDiogo Almeida（ChatGPT 与 RLHF 共同发明人之一）刚发的这条推文，开篇第一句就直击灵魂：\n“在共同发明了 ChatGPT 之后，我一直在反问自己：为什么超人类水平的对话模型，至今没能带来真正的 AGI？” https://t.co/fW2beZvXME"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2101344157470277745",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011352966788497408/fdBTaADg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 971,
+          "following_count": 836,
+          "like_count": 134295,
+          "listed_count": 6,
+          "media_count": 872,
+          "tweet_count": 10026
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-05T01:50:40.000Z",
+        "description": "AI 实用主义，专注AI落地的组织和业务know how，半年AI+副业变现6位数，关注商业，职场，投资，业务出海，\n大厂组织发展专家 × 组织心理学，Prompt专家，分享有用的 AI 实践，也分享工具之外的深度认知\n以术入道，以道御术，KEEP BUILDING\n合作/交流：DM/TG @AYi_AInotes",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 146,
+                "username": "AYi_AInotes"
+              }
+            ]
+          }
+        },
+        "id": "1974653328274714624",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101339142277705988",
+        "name": "AYi",
+        "pinned_tweet_id": "2061419197154857286",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974653328274714624/1782315844",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989157446829350912/pW828UwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66676,
+          "following_count": 590,
+          "like_count": 20830,
+          "listed_count": 606,
+          "media_count": 1895,
+          "tweet_count": 17809
+        },
+        "url": "",
+        "username": "AYi_AInotes",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
