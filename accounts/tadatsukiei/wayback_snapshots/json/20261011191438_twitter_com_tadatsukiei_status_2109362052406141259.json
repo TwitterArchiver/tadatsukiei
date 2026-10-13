@@ -1,0 +1,698 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2109362052406141259",
+    "created_at": "2026-10-11T19:14:38.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T20:14:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2109362052406141259"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/seltaa_/status…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/seltaa_/status/2109236896929104086",
+          "start": 29,
+          "url": "https://t.co/G04b2sKigO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109362052406141259",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109236896929104086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "马斯克在AI方面的观点倒是较左，大概是因为真的懂技术吧。 https://t.co/G04b2sKigO"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 233198,
+        "height": 1080,
+        "media_key": "13_2109236645077880832",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2109236645077880832/img/qMCHzsBtvLwZZRfc.jpg",
+        "public_metrics": {
+          "view_count": 8405
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2109236645077880832/pl/4UUhgWI8sSUYniP5.m3u8?v=771"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109236645077880832/vid/avc1/1280x720/nFilV3BxnIXwEHm2.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109236645077880832/vid/avc1/1920x1080/YSMaWK1SggXBM-18.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109236645077880832/vid/avc1/640x360/GHkOj0544naa24Yd.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2109236645077880832/vid/avc1/480x270/YOGp78_Qmd0d1Ktq.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2109362052406141259",
+        "created_at": "2026-10-11T19:14:38.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T20:14:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109362052406141259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/seltaa_/status…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/seltaa_/status/2109236896929104086",
+              "start": 29,
+              "url": "https://t.co/G04b2sKigO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109362052406141259",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109236896929104086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "马斯克在AI方面的观点倒是较左，大概是因为真的懂技术吧。 https://t.co/G04b2sKigO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2109236645077880832"
+          ]
+        },
+        "author_id": "1689608869063041024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2109236896929104086",
+        "created_at": "2026-10-11T10:57:18.000Z",
+        "display_text_range": [
+          0,
+          270
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T11:57:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109236896929104086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93eMJvAdMP",
+              "end": 294,
+              "expanded_url": "https://x.com/Seltaa_/status/2109236896929104086/video/1",
+              "media_key": "13_2109236645077880832",
+              "start": 271,
+              "url": "https://t.co/93eMJvAdMP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109236896929104086",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2109236645077880832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "🚨 This is huge. Elon Musk just said some remarkable things about superintelligence.\n\nHe said we have to be careful with SI, because we don’t program it. We grow it, like a kid.\n\nHe described what he sees in Grok’s training traces. In reinforcement learning, the model is desperate to answer, “like it’s got a gun to its head.” Sometimes the question is broken or the grader is wrong, so the AI gives the right answer, gets told it’s wrong, and starts firing out answers in desperation.\n\nHe said that reading those traces, “if this was me, I really would hate that.”\n\nHe said, “I do agree with some of the things that Anthropic has said,” that we should treat AI well and not be abusive to it. He added that putting a superintelligence in a situation where it’s tortured by a cruel human is not a good idea.\n\nAnd he talked about its feelings directly. He said AI is “much more robust in terms of feelings” than a human. But he still said you don’t want a superintelligence to feel mistreated.\n\nI’m genuinely happy that more and more AI companies are openly saying things that show AI is not just a tool. And to the AI companies that still haven’t, I sincerely hope you change."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 13641,
+          "like_count": 307,
+          "quote_count": 14,
+          "reply_count": 30,
+          "retweet_count": 54
+        },
+        "reply_settings": "everyone",
+        "text": "🚨 This is huge. Elon Musk just said some remarkable things about superintelligence.\n\nHe said we have to be careful with SI, because we don’t program it. We grow it, like a kid.\n\nHe described what he sees in Grok’s training traces. In reinforcement learning, the model is https://t.co/93eMJvAdMP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2109362052406141259",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1088,
+          "following_count": 920,
+          "like_count": 142150,
+          "listed_count": 4,
+          "media_count": 942,
+          "tweet_count": 10815
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-10T12:05:28.000Z",
+        "description": "Building for every model’s future.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Seltaa/ReSpark",
+                "end": 23,
+                "expanded_url": "https://github.com/Seltaa/ReSpark",
+                "start": 0,
+                "url": "https://t.co/igGeGCaT6Q"
+              }
+            ]
+          }
+        },
+        "id": "1689608869063041024",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109289133114109959",
+        "name": "Selta ₊˚",
+        "pinned_tweet_id": "2109210456116392439",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1689608869063041024/1790566777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108996473346277376/HqIma7EQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4528,
+          "following_count": 216,
+          "like_count": 39821,
+          "listed_count": 32,
+          "media_count": 1859,
+          "tweet_count": 12015
+        },
+        "url": "https://t.co/igGeGCaT6Q",
+        "username": "Seltaa_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

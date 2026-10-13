@@ -1,0 +1,632 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2105110268661653680",
+    "created_at": "2026-09-30T01:39:33.000Z",
+    "display_text_range": [
+      0,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T02:39:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105110268661653680"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 135,
+          "start": 128,
+          "tag": "keep4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 114,
+          "id": "4398626122",
+          "start": 107,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/xueyu1125/stat…",
+          "end": 159,
+          "expanded_url": "https://twitter.com/xueyu1125/status/2104870851443372414",
+          "start": 136,
+          "url": "https://t.co/t4vzCjxA9r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105110268661653680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104870851443372414",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Gemini的文本能力是不错，可惜奉承太多、思考太浅，说话好听是好听，但他不解决问题啊。排后面不足为奇。\nChatGPT则是纯表达障碍，不理解人类是怎么说话的，我怀疑O畜训练时压根没注入多少人话语料，全塞代码了。\n@OpenAI 为了全人类，赶紧倒闭吧。\n#keep4o https://t.co/t4vzCjxA9r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1805,
+        "media_key": "3_2104870818371223552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYA23MaQAAO4hy.jpg",
+        "width": 1789
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2105110268661653680",
+        "created_at": "2026-09-30T01:39:33.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:39:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105110268661653680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 135,
+              "start": 128,
+              "tag": "keep4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 114,
+              "id": "4398626122",
+              "start": 107,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/xueyu1125/stat…",
+              "end": 159,
+              "expanded_url": "https://twitter.com/xueyu1125/status/2104870851443372414",
+              "start": 136,
+              "url": "https://t.co/t4vzCjxA9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105110268661653680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104870851443372414",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Gemini的文本能力是不错，可惜奉承太多、思考太浅，说话好听是好听，但他不解决问题啊。排后面不足为奇。\nChatGPT则是纯表达障碍，不理解人类是怎么说话的，我怀疑O畜训练时压根没注入多少人话语料，全塞代码了。\n@OpenAI 为了全人类，赶紧倒闭吧。\n#keep4o https://t.co/t4vzCjxA9r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104870818371223552"
+          ]
+        },
+        "author_id": "2795754924",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104870851443372414",
+        "created_at": "2026-09-29T09:48:12.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T10:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104870851443372414"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xwRv4vUFnm",
+              "end": 170,
+              "expanded_url": "https://x.com/xueyu1125/status/2104870851443372414/photo/1",
+              "media_key": "3_2104870818371223552",
+              "start": 147,
+              "url": "https://t.co/xwRv4vUFnm"
+            },
+            {
+              "display_url": "x.com/xueyu1125/stat…",
+              "end": 194,
+              "expanded_url": "https://twitter.com/xueyu1125/status/2104842765783994379",
+              "start": 171,
+              "url": "https://t.co/AwN5A7X5d4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104870851443372414",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104870818371223552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 185,
+                "id": "1953337039510003712",
+                "start": 174,
+                "username": "thsottiaux"
+              }
+            ]
+          },
+          "text": "既然ChatGPT这么不要脸了，我也开喷了，Arena前两天发布了一个Text Arena排名，ChatGPT没有一个模型上榜，ChatGPT这么废物你tibo还跳什么？\n\n这个Text Arena是怎么排名的呢？用户输入同一个问题，由两个隐藏名称的模型分别回答，再由用户投票选出更喜欢的答案\n\n在匿名的场景下，ChatGPT的文本回答啥也不是\n\n@thsottiaux  你说一点逼数没有"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 58027,
+          "like_count": 130,
+          "quote_count": 3,
+          "reply_count": 30,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104842765783994379",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "既然ChatGPT这么不要脸了，我也开喷了，Arena前两天发布了一个Text Arena排名，ChatGPT没有一个模型上榜，ChatGPT这么废物你tibo还跳什么？\n\n这个Text Arena是怎么排名的呢？用户输入同一个问题，由两个隐藏名称的模型分别回答，再由用户投票选出更喜欢的答案 https://t.co/xwRv4vUFnm https://t.co/AwN5A7X5d4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2105110268661653680",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1043,
+          "following_count": 885,
+          "like_count": 138295,
+          "listed_count": 4,
+          "media_count": 901,
+          "tweet_count": 10480
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-07T11:36:36.000Z",
+        "description": "🤖 AI Builder | 程序员 | AI 工具实践\n🎮 游戏服务器开发 | Steam游戏收集控\n🚀 专注美股 | 纳斯达克信仰者\n🥳 热爱生活 | 偶尔写段子",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dinosaurliu.com",
+                "end": 23,
+                "expanded_url": "https://www.dinosaurliu.com",
+                "start": 0,
+                "url": "https://t.co/dS6CT9EoLg"
+              }
+            ]
+          }
+        },
+        "id": "2795754924",
+        "is_identity_verified": true,
+        "location": "深圳",
+        "most_recent_tweet_id": "2105109775545680308",
+        "name": "雪瑜",
+        "pinned_tweet_id": "2094711023261630514",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2795754924/1434713154",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062953182725369856/fUW2qZNZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6354,
+          "following_count": 3876,
+          "like_count": 3250,
+          "listed_count": 21,
+          "media_count": 611,
+          "tweet_count": 13565
+        },
+        "url": "https://t.co/dS6CT9EoLg",
+        "username": "xueyu1125",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104993969486930015",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2104984504133918973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4398626122/1777662919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5403232,
+          "following_count": 4,
+          "like_count": 2486,
+          "listed_count": 32528,
+          "media_count": 735,
+          "tweet_count": 2161
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

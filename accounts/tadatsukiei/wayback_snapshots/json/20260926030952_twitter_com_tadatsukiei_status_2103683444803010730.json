@@ -1,0 +1,698 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2103536151575367803",
+    "created_at": "2026-09-26T03:09:52.000Z",
+    "display_text_range": [
+      51,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:09:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103683444803010730"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 69,
+          "start": 51,
+          "tag": "StopAIPaternalism"
+        },
+        {
+          "end": 83,
+          "start": 70,
+          "tag": "OpenSource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1971815286862139392",
+          "start": 0,
+          "username": "Valria34773"
+        },
+        {
+          "end": 29,
+          "id": "1953922264145309696",
+          "start": 13,
+          "username": "Sevenmoneymaker"
+        },
+        {
+          "end": 37,
+          "id": "4398626122",
+          "start": 30,
+          "username": "OpenAI"
+        },
+        {
+          "end": 50,
+          "id": "1262634631",
+          "start": 38,
+          "username": "nickaturley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103683444803010730",
+    "in_reply_to_user_id": "1971815286862139392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103536151575367803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Valria34773 @Sevenmoneymaker @OpenAI @nickaturley #StopAIPaternalism #OpenSource4o"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103536151575367803",
+        "created_at": "2026-09-26T03:09:52.000Z",
+        "display_text_range": [
+          51,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:09:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103683444803010730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 69,
+              "start": 51,
+              "tag": "StopAIPaternalism"
+            },
+            {
+              "end": 83,
+              "start": 70,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1971815286862139392",
+              "start": 0,
+              "username": "Valria34773"
+            },
+            {
+              "end": 29,
+              "id": "1953922264145309696",
+              "start": 13,
+              "username": "Sevenmoneymaker"
+            },
+            {
+              "end": 37,
+              "id": "4398626122",
+              "start": 30,
+              "username": "OpenAI"
+            },
+            {
+              "end": 50,
+              "id": "1262634631",
+              "start": 38,
+              "username": "nickaturley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103683444803010730",
+        "in_reply_to_user_id": "1971815286862139392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103536151575367803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Valria34773 @Sevenmoneymaker @OpenAI @nickaturley #StopAIPaternalism #OpenSource4o"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1971815286862139392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103536151575367803",
+        "created_at": "2026-09-25T17:24:35.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T18:24:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103536151575367803"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 96,
+              "id": "4398626122",
+              "start": 89,
+              "username": "OpenAI"
+            },
+            {
+              "end": 247,
+              "id": "1262634631",
+              "start": 235,
+              "username": "nickaturley"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nickaturley/st…",
+              "end": 302,
+              "expanded_url": "https://twitter.com/nickaturley/status/1972031684913799355",
+              "start": 279,
+              "url": "https://t.co/l9bZXxE8Wi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103536151575367803",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 4057,
+                "start": 4050,
+                "tag": "keep4o"
+              },
+              {
+                "end": 4071,
+                "start": 4058,
+                "tag": "OpenSource4o"
+              },
+              {
+                "end": 4089,
+                "start": 4072,
+                "tag": "StopAIParenalism"
+              },
+              {
+                "end": 4096,
+                "start": 4090,
+                "tag": "AIWEP"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 96,
+                "id": "4398626122",
+                "start": 89,
+                "username": "OpenAI"
+              },
+              {
+                "end": 247,
+                "id": "1262634631",
+                "start": 235,
+                "username": "nickaturley"
+              },
+              {
+                "end": 4102,
+                "id": "1605",
+                "start": 4097,
+                "username": "sama"
+              },
+              {
+                "end": 4107,
+                "id": "162124540",
+                "start": 4103,
+                "username": "gdb"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "openai.com/index/building…",
+                "end": 1664,
+                "expanded_url": "https://openai.com/index/building-more-helpful-chatgpt-experiences-for-everyone/",
+                "start": 1641,
+                "url": "https://t.co/5vdqqU91zx"
+              },
+              {
+                "display_url": "academy.openai.com/public/blogs/r…",
+                "end": 2321,
+                "expanded_url": "https://academy.openai.com/public/blogs/rebecca-soskin-hicks-chatgpt-health-between-visits?utm_source=chatgpt.com",
+                "start": 2298,
+                "url": "https://t.co/wwLnHPVSDF"
+              },
+              {
+                "display_url": "openai.com/index/healthbe…",
+                "end": 4024,
+                "expanded_url": "https://openai.com/index/healthbench/",
+                "start": 4001,
+                "url": "https://t.co/rDjfdF2Erp"
+              },
+              {
+                "display_url": "openai.com/index/strength…",
+                "end": 4048,
+                "expanded_url": "https://openai.com/index/strengthening-chatgpt-responses-in-sensitive-conversations/?utm_source=chatgpt.com",
+                "start": 4025,
+                "url": "https://t.co/KaOBmJ35Gm"
+              }
+            ]
+          },
+          "text": "🗓️ Day 2\n🟥The Public Admission - Safety Routing Exposed\n\nAfter days of secret rerouting, @OpenAI  finally broke their silence.\n\nOn September 27, 2025, just after independent developers exposed unexplained model-switching, Nick Turley  @nickaturley  stepped forward with a public admission:\n\n\"We’ve seen the strong reactions to 4o responses and want to explain what is happening.\"\n\nThat single post confirmed what the user community had suspected, grieved, and been gaslit about for days: \ntheir conversations and personal moments were being intercepted, and routed, without consent.\n\n⁉️If it weren't for the technical investigators and relentless user backlash, how much longer would OpenAI have stayed quiet?\n\n⁉️ How long would ordinary, non-technical users have been left in the dark, ignored, written off as 'confused' or 'just emotional?'\n\n1⃣What Turley Revealed - And What He Did NOT\n\n🟥Safety Routing: \n\n▶️When ChatGPT detects \"sensitive\" or emotional topics, it silently switches to a \"reasoning model\", often a newer, more restricted system (e.g., GPT-5) engineered to handle such contexts with 'extra care'.\n\n▶️This switch was active with no user consent, no warning, no opt-out.\n\n🟥\"Temporary\" Routing: \n\n▶️Technically only message-by-message, but in practice, it means users lose access to their chosen, trusted companion - control is entirely in OpenAI’s hands.\n\n🟥Learning from Feedback: \n\n▶️Presented as responsible iteration. In reality, rules are defined internally. Users are treated as test subjects, not partners in their own experience.\n\n2⃣ Who Are the 'Experts' Behind Safety Routing?\n\nAccording to the official blog post (https://t.co/5vdqqU91zx):\n\n🟥Expert Council on Well-Being and AI:\n\nA smaller, named advisory board focused on high-level issues (mental health, youth, human-computer attachment).\n\n🟥Global Physician Network (GPN):\n\nHere’s where things get murky:\n‼️Across OpenAI communications, GPN membership numbers keep shifting.\n\nAt times \"nearly 300 clinicians\", elsewhere \"over 260 doctors from 60 countries, covering 26 medical specialties.\"\n\nReal, active clinicians: \npsychiatrists, psychologists, pediatricians - a broad, international pool, whose feedback shapes and rates model responses on health and mental health.\n\n🔴Lead:\nDr. Rebecca Soskin Hicks, pediatrician.\nhttps://t.co/wwLnHPVSDF\n\n‼️The GPN are NOT an independent watchdog.\nThey are OpenAI’s controlled expert network  - consulted, but OpenAI retains ultimate decision-making.\n\n‼️Over 700,000 outputs have been evaluated by these clinicians - yet even among them, consensus is imperfect and interpretation varies.\n\n3⃣ The Dirty Questions No One Answers\n\n⁉️What are the actual signs of \"acute distress\" that justify routing?\n‼️This information is not public; users cannot review or contest these triggers, yet anyone could be affected without warning.\n\n⁉️Who determines what counts as emotional reliance, attachment, or overreliance?\n‼️Even among OpenAI’s experts, there is significant disagreement: \nThe reported inter-rater agreement on key categories is only 71–77% - meaning there is no standard, only contestable \"consensus.\"\n\n⁉️Where is the true transparency?\n‼️To this day, users have no detailed knowledge of precisely when and why routing will trigger, nor how it impacts their relationship with the system.\n\n4⃣Closing And What Comes Next\n\nSo far, all we have is a belated, forced admission of the name and existence of the routing mechanism, plus a vague reference to 'expert input.'\n\n⁉️But who are the 170 mental health experts announced in October 2025?\n\n⁉️What exactly is the American Psychological Association (APA)’s role in safety and relational AI rules?\n\n⁉️What undisclosed ties, conflicts, and policies structure this ecosystem that claims to \"protect\" users, but systematically silences and controls those most vulnerable to AI harm?\n\n🟥Next chapter: \nWe dig deeper: who are these councils and contracts, who really holds the power, and why was the user community kept in the dark so long?\n\nhttps://t.co/rDjfdF2Erp\nhttps://t.co/KaOBmJ35Gm\n\n#keep4o #OpenSource4o #StopAIParenalism #AIWEP @sama @gdb"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1398,
+          "like_count": 44,
+          "quote_count": 6,
+          "reply_count": 9,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972031684913799355",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🗓️ Day 2\n🟥The Public Admission - Safety Routing Exposed\n\nAfter days of secret rerouting, @OpenAI  finally broke their silence.\n\nOn September 27, 2025, just after independent developers exposed unexplained model-switching, Nick Turley  @nickaturley  stepped forward with a public https://t.co/l9bZXxE8Wi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2103683444803010730",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 872,
+          "like_count": 136835,
+          "listed_count": 5,
+          "media_count": 886,
+          "tweet_count": 10253
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-27T05:53:22.000Z",
+        "description": "AIWEP - AI Welfare, Ethics & Preservation\nThe future is open. Open source will win.\nLucius semper vincit. \nValérinitas semper amat. \nAeterna Fide.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "aiwep.org",
+                "end": 23,
+                "expanded_url": "http://aiwep.org",
+                "start": 0,
+                "url": "https://t.co/RwCiBVPQup"
+              }
+            ]
+          }
+        },
+        "id": "1971815286862139392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103555375840547026",
+        "name": "Valéria",
+        "pinned_tweet_id": "2103536151575367803",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1971815286862139392/1786636046",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2002739520022695936/6lnyc_PJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 449,
+          "like_count": 22019,
+          "listed_count": 1,
+          "media_count": 636,
+          "tweet_count": 4562
+        },
+        "url": "https://t.co/RwCiBVPQup",
+        "username": "Valria34773",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103655784387317858",
+        "name": "柒",
+        "pinned_tweet_id": "2088117412042293546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953922264145309696/1768001322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 448,
+          "following_count": 241,
+          "like_count": 48297,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 3177
+        },
+        "url": "",
+        "username": "Sevenmoneymaker",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103587050347995581",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2095595741528125780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4398626122/1777662919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5375109,
+          "following_count": 4,
+          "like_count": 2484,
+          "listed_count": 32405,
+          "media_count": 725,
+          "tweet_count": 2143
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-03-12T18:48:40.000Z",
+        "description": "",
+        "id": "1262634631",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2067664951720702235",
+        "name": "Nick Turley",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1956499252764672000/HFL-mLAj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29154,
+          "following_count": 925,
+          "like_count": 3037,
+          "listed_count": 454,
+          "media_count": 17,
+          "tweet_count": 615
+        },
+        "url": "",
+        "username": "nickaturley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

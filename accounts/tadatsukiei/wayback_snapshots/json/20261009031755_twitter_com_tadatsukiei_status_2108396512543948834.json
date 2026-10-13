@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2108154249922429379",
+    "created_at": "2026-10-09T03:17:55.000Z",
+    "display_text_range": [
+      7,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T04:17:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108396512543948834"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2106917915710935040",
+          "start": 0,
+          "username": "y8hrc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108396512543948834",
+    "in_reply_to_user_id": "2106917915710935040",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108373910953844856",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@y8hrc 😭"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2108373910953844856].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2108373910953844856",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2108373910953844856"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2108154249922429379",
+        "created_at": "2026-10-09T03:17:55.000Z",
+        "display_text_range": [
+          7,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T04:17:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108396512543948834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2106917915710935040",
+              "start": 0,
+              "username": "y8hrc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108396512543948834",
+        "in_reply_to_user_id": "2106917915710935040",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108373910953844856",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@y8hrc 😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2108396512543948834",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067,
+          "following_count": 909,
+          "like_count": 141220,
+          "listed_count": 4,
+          "media_count": 926,
+          "tweet_count": 10726
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-10-05T01:23:08.000Z",
+        "description": "Miss Negev的永锁推防失联小号",
+        "id": "2106917915710935040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106931271549284833",
+        "name": "謎の桃髪の幼女🕎",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2106917915710935040/1791163810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106919843312324608/vMrxXLNr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 145,
+          "like_count": 492,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "y8hrc",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

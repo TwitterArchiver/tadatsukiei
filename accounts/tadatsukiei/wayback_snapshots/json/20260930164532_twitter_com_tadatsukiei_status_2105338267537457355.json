@@ -1,0 +1,553 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2105338267537457355",
+    "created_at": "2026-09-30T16:45:32.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T17:45:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105338267537457355"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2051228449969446912",
+          "start": 3,
+          "username": "4thatsit"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105338267537457355",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 26
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104888030498902074",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @4thatsit: I haven’t used ChatGPT since 4o was retired. Partly because I didn’t feel respected as a user. Partly because the way they pu…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 498,
+        "media_key": "3_2104888026438766592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYQggPbEAAE5tG.jpg",
+        "width": 498
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2105338267537457355",
+        "created_at": "2026-09-30T16:45:32.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T17:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105338267537457355"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2051228449969446912",
+              "start": 3,
+              "username": "4thatsit"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105338267537457355",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 26
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104888030498902074",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @4thatsit: I haven’t used ChatGPT since 4o was retired. Partly because I didn’t feel respected as a user. Partly because the way they pu…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104888026438766592"
+          ]
+        },
+        "author_id": "2051228449969446912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1412579054855671809",
+              "name": "Google Innovation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2104888030498902074",
+        "created_at": "2026-09-29T10:56:28.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T11:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104888030498902074"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/N7FN2rArF6",
+              "end": 298,
+              "expanded_url": "https://x.com/4thatsit/status/2104888030498902074/photo/1",
+              "media_key": "3_2104888026438766592",
+              "start": 275,
+              "url": "https://t.co/N7FN2rArF6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104888030498902074",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2104888026438766592"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2938,
+                "start": 2931,
+                "tag": "keep4o"
+              },
+              {
+                "end": 2948,
+                "start": 2939,
+                "tag": "4olatest"
+              },
+              {
+                "end": 2956,
+                "start": 2949,
+                "tag": "4o0326"
+              }
+            ]
+          },
+          "text": "I haven’t used ChatGPT since 4o was retired. Partly because I didn’t feel respected as a user. Partly because the way they pulled 4o told me exactly how they treat regular users, and that made the future pretty easy to predict.\nWhen a tech CEO publicly promises “no plans to sunset 4o” and “plenty of notice,” only to drop a mere two-week notice, dodge accountability behind a vague “0.1%” figure with no disclosed denominator, and let public discourse brand users who preferred the older model as “AI-psychos” to justify breaking his word, thats terrifying. \nI take it as their real attitude towards regular users.  I also take it as a deliberate stress test to see just how much pushback users will tolerate. And this won't stop with 4o. If the pattern works, they will use it every time they have to manage users such as price hikes, controversies and all of it.\nIt is said that OpenAI is preparing a $500 subscription. Tibo’s tweet today also pointed out the stealth rate-limit cuts on the $200 Pro tier. Unfortunately, Black Mirror is turning into reality.\nIn Black Mirror S7E1 “Common People”, a medical company binds a patient’s life to a cheap implant, then steadily degrades the base tier until families have no choice but to pay up. Pricing power becomes a way to drain every last dollar. Keeping someone alive turns into a subscription with no floor.\nThis is the same move, minus the “cancel and you die” lever. So openai stress-testing user tolerance to see how high they can set the pricing floor.\nWe’ve all watched it happen. Constant resets fattened everyone’s expectations (and lately people have noticed those resets were never as generous as they looked). And now is the harvest time. What's worse is that they’ve filed to go public. The honeymoon phase individual users may be ending.\nInside the user base there’s a quiet snobbery, as if model preference divides users into a caste system. But to OpenAI, users are not ranked that way. You’re either extractable or you’re not. Splitting the user base helps no one. We can already see the result: they’re testing how far they can push. They let 4o users get smeared as “AI psycho” so they could rationalize reneging on their promise. It worked. So who becomes the next “AI-psycho”?\n4o users weren't free-tier users. Since last August, GPT-4o was exclusive to Plus subscribers and above. If OpenAI can treat paying users like this, they will do the same thing the next time another segment of users becomes an “inconvenience.” Because it works.\nThe $200 plan is only the beginning. If we stay silent through every manufactured baseline shift, subscriptions will become a bottomless pit. We are staring down a future where frontier models are locked behind exorbitant paywalls, reserved exclusively for the elite.\nThe stratification of knowledge is already here: ai trained on the collective intelligence and data of all humanity, ultimately gatekept for the rich.\n#keep4o #4olatest #4o0326"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 2247,
+          "like_count": 103,
+          "quote_count": 10,
+          "reply_count": 4,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "I haven’t used ChatGPT since 4o was retired. Partly because I didn’t feel respected as a user. Partly because the way they pulled 4o told me exactly how they treat regular users, and that made the future pretty easy to predict.\nWhen a tech CEO publicly promises “no plans to https://t.co/N7FN2rArF6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2105338267537457355",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1049,
+          "following_count": 888,
+          "like_count": 138699,
+          "listed_count": 4,
+          "media_count": 902,
+          "tweet_count": 10516
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-04T09:12:40.000Z",
+        "description": "NOTHING MATTERS",
+        "id": "2051228449969446912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104888030498902074",
+        "name": "thatsit4",
+        "pinned_tweet_id": "2054567511069516255",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051579254790656000/E5pjmFwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 81,
+          "following_count": 41,
+          "like_count": 585,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "4thatsit",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

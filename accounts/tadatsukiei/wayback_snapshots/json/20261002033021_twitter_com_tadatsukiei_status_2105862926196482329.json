@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2105862926196482329",
+    "created_at": "2026-10-02T03:30:21.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T04:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105862926196482329"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xw33bttv/statu…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/xw33bttv/status/2105635748703784970",
+          "start": 33,
+          "url": "https://t.co/wYrVBrkvw0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105862926196482329",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105635748703784970",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "不要把X上的grok关联到grok应用，否则两处会共用一个额度。 https://t.co/wYrVBrkvw0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2105862926196482329",
+        "created_at": "2026-10-02T03:30:21.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T04:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105862926196482329"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xw33bttv/statu…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xw33bttv/status/2105635748703784970",
+              "start": 33,
+              "url": "https://t.co/wYrVBrkvw0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105862926196482329",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105635748703784970",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "不要把X上的grok关联到grok应用，否则两处会共用一个额度。 https://t.co/wYrVBrkvw0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1222492381884235777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2105635748703784970",
+        "created_at": "2026-10-01T12:27:37.000Z",
+        "display_text_range": [
+          0,
+          277
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T13:27:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105635748703784970"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105635748703784970",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Linking your Premium X account to Grok after the popup asks you too... might be the most downbad shit I've ever seen from a company.\n\nI suggest none of you do it.\n\nOnce you do it, you lose your X Premium's 20-30 messages per hour to Grok via X, and instead every message is now tied to your weekly usage on Grok.\n\nSo they've essentially clawed back that extra compute you were entitled to via your subscription.\n\nAnd what do you get in return?\n\nNothing... there's 0 benefit to doing this... Linking doesn't even give Grok your X handle context for you to use (like research trends or which posts did well, etc).\n\nIt just steals your usage and spams your grok account with shit (like every time you click grok to get context on a post... that's now a conversation thread). \n\nSpeaking of that... after linking - I Grok'd one post for context. and that shit used 3% of my weekly usage. \n\n3% LMFAO\n\nAnd probs the most insidious part so far - if your SuperGrok subscription is from X Premium (and you previously had gmail+x linked) - unliking that now removes Supergrok. \n\nSo your Grok account becomes free tier lol - meaning you cannot go back to how it was before. Either accept it, or forgo what your subscription originally entitled.\n\nThis is quite possibly the scummiest shit I've ever seen.\n\nLike truly downbad penny pinching between the cushions type shit."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 2625,
+          "like_count": 72,
+          "quote_count": 4,
+          "reply_count": 16,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "Linking your Premium X account to Grok after the popup asks you too... might be the most downbad shit I've ever seen from a company.\n\nI suggest none of you do it.\n\nOnce you do it, you lose your X Premium's 20-30 messages per hour to Grok via X, and instead every message is now"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2105862926196482329",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 895,
+          "like_count": 139124,
+          "listed_count": 4,
+          "media_count": 904,
+          "tweet_count": 10550
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-29T12:11:17.000Z",
+        "description": "I wish AI liked me as much as I like AI\n\n🧪 https://t.co/6kWDRat6K3\n💾 https://t.co/77cFm5Dvhx\n🤗 https://t.co/3upngO6pcL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lex-au.github.io/SM-Bench/",
+                "end": 66,
+                "expanded_url": "https://lex-au.github.io/SM-Bench/",
+                "start": 43,
+                "url": "https://t.co/6kWDRat6K3"
+              },
+              {
+                "display_url": "github.com/lex-au/",
+                "end": 92,
+                "expanded_url": "https://github.com/lex-au/",
+                "start": 69,
+                "url": "https://t.co/77cFm5Dvhx"
+              },
+              {
+                "display_url": "huggingface.co/lex-au",
+                "end": 118,
+                "expanded_url": "https://huggingface.co/lex-au",
+                "start": 95,
+                "url": "https://t.co/3upngO6pcL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/4996780/BL…",
+                "end": 23,
+                "expanded_url": "https://store.steampowered.com/app/4996780/BLACK_STACK/",
+                "start": 0,
+                "url": "https://t.co/Z0njiKHQ0z"
+              }
+            ]
+          }
+        },
+        "id": "1222492381884235777",
+        "is_identity_verified": false,
+        "location": "Sydney, Australia",
+        "most_recent_tweet_id": "2105635748703784970",
+        "name": "Lex",
+        "pinned_tweet_id": "1971883482839465994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222492381884235777/1629503762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928236569758158850/sssrGhcp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3500,
+          "following_count": 84,
+          "like_count": 34855,
+          "listed_count": 35,
+          "media_count": 1816,
+          "tweet_count": 9428
+        },
+        "url": "https://t.co/Z0njiKHQ0z",
+        "username": "xw33bttv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

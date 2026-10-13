@@ -1,0 +1,424 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2103105283463459029",
+    "created_at": "2026-09-26T03:02:54.000Z",
+    "display_text_range": [
+      26,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T04:02:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103681693014221145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1130071136644018178",
+          "start": 0,
+          "username": "locsandsocs"
+        },
+        {
+          "end": 25,
+          "id": "149615276",
+          "start": 13,
+          "username": "gailcweiner"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103681693014221145",
+    "in_reply_to_user_id": "1130071136644018178",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103113780607726073",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@locsandsocs @gailcweiner 我永远不会再相信OpenAI了，永远不会再对它怀有任何期待，我只希望它去死。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103105283463459029",
+        "created_at": "2026-09-26T03:02:54.000Z",
+        "display_text_range": [
+          26,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T04:02:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103681693014221145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1130071136644018178",
+              "start": 0,
+              "username": "locsandsocs"
+            },
+            {
+              "end": 25,
+              "id": "149615276",
+              "start": 13,
+              "username": "gailcweiner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103681693014221145",
+        "in_reply_to_user_id": "1130071136644018178",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103113780607726073",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@locsandsocs @gailcweiner 我永远不会再相信OpenAI了，永远不会再对它怀有任何期待，我只希望它去死。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1130071136644018178",
+        "conversation_id": "2103105283463459029",
+        "created_at": "2026-09-24T13:26:13.000Z",
+        "display_text_range": [
+          13,
+          226
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:26:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103113780607726073"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "149615276",
+              "start": 0,
+              "username": "gailcweiner"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103113780607726073",
+        "in_reply_to_user_id": "149615276",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103105283463459029",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gailcweiner I jumped ship two months prior and I honestly don’t want to be 😒 but I keep saying a leopard doesn’t change its spots. I will never deny them the models and know to each its own, but once trust is gone, it’s gone."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2103681693014221145",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1003,
+          "following_count": 866,
+          "like_count": 136829,
+          "listed_count": 5,
+          "media_count": 886,
+          "tweet_count": 10252
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-19T11:22:09.000Z",
+        "description": "",
+        "id": "1130071136644018178",
+        "is_identity_verified": false,
+        "location": "Toronto, Ontario",
+        "most_recent_tweet_id": "2103606678746755353",
+        "name": "locsandsocs",
+        "pinned_tweet_id": "1247351661263273986",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1130071136644018178/1660943923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034816504236068864/Ig2JD4ox_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 452,
+          "like_count": 12179,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 2426
+        },
+        "url": "",
+        "username": "locsandsocs",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-29T19:04:12.000Z",
+        "description": "Companies are automating processes nobody has written down accurately. I map the real one. Trust Architect. Executive counsel, by enquiry.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gailweiner.com",
+                "end": 23,
+                "expanded_url": "https://www.gailweiner.com",
+                "start": 0,
+                "url": "https://t.co/WY96lpLYi4"
+              }
+            ]
+          }
+        },
+        "id": "149615276",
+        "is_identity_verified": false,
+        "location": "United Kingdom",
+        "most_recent_tweet_id": "2103602406722244839",
+        "name": "Gail Weiner",
+        "pinned_tweet_id": "2101226549722689629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/149615276/1785581098",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070250320261750784/mMdTVRKl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4936,
+          "following_count": 2682,
+          "like_count": 68771,
+          "listed_count": 51,
+          "media_count": 1229,
+          "tweet_count": 40909
+        },
+        "url": "https://t.co/WY96lpLYi4",
+        "username": "gailcweiner",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

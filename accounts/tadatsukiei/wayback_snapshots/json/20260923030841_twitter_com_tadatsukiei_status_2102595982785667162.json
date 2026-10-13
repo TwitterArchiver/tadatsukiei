@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2102578698159554962",
+    "created_at": "2026-09-23T03:08:41.000Z",
+    "display_text_range": [
+      16,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T04:08:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102595982785667162"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102595982785667162",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102578698159554962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 老美你再不开源，咱们就都用中国模型去咯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 665,
+        "media_key": "3_2102380795184762880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0oMb-XUAAmxqg.png",
+        "width": 588
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2102578698159554962",
+        "created_at": "2026-09-23T03:08:41.000Z",
+        "display_text_range": [
+          16,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:08:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102595982785667162"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102595982785667162",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102578698159554962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 老美你再不开源，咱们就都用中国模型去咯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102380795184762880"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "conversation_id": "2102578698159554962",
+        "created_at": "2026-09-23T02:00:00.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102578698159554962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/evld7py4rG",
+              "end": 182,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2102578698159554962/photo/1",
+              "media_key": "3_2102380795184762880",
+              "start": 159,
+              "url": "https://t.co/evld7py4rG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102578698159554962",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102380795184762880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "全球南方选择中国开源AI，影响力或比“一带一路”更难撼动\n\n9月21日，《外交政策》刊文指出，中国开放权重大模型正在全球南方迅速铺开。阿里巴巴通义千问（Qwen）在Hugging Face上已有逾15万个衍生版本，规模约为Meta Llama的4.7倍；其轻量格式月下载量约3960万次，远超Llama的750万次。\n\n与美方OpenAI、Anthropic等“围墙花园”模式不同，中国模型可公开权重、本地部署、低成本微调，更适合预算紧、算力弱、非拉丁文字主导的市场。作者认为，这一扩散并非政府强推，而是开发者自发选择，甚至早于习近平今年7月在上海世界人工智能大会上的倡议，因而比“一带一路”更难逆转。\n\n文章将其类比Linux，以及中国电动车在非洲的“乐高模式”：先提供可拆装组件，由当地企业按电网不稳、价格敏感等现实组装成产品。中国模型因算力约束练就更高效率，对缅甸语、印尼语、泰语等支持较好，还能规避数据经美国云端、受《CLOUD法案》约束的顾虑。\n\n从目前已有实例来看，新加坡区域模型SEA-LION基于Qwen；马来西亚评估近5亿美元主权AI项目、拟用华为芯片；巴西推出2.51亿美元超算合作，里约开源模型同样基于Qwen。\n\n作者提醒华盛顿：用户主动选中的技术“黏度”最高，一旦应用、数据和硬件围着中国模型长起来，今天的实用选择就可能变成明天的结构性依赖。\n\n* 该文两位作者来自亚洲协会政策研究院中国分析中心"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 17368,
+          "like_count": 57,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "全球南方选择中国开源AI，影响力或比“一带一路”更难撼动\n\n9月21日，《外交政策》刊文指出，中国开放权重大模型正在全球南方迅速铺开。阿里巴巴通义千问（Qwen）在Hugging Face上已有逾15万个衍生版本，规模约为Meta Llama的4.7倍；其轻量格式月下载量约3960万次，远超Llama的750万次。 https://t.co/evld7py4rG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2102595982785667162",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 991,
+          "following_count": 857,
+          "like_count": 135922,
+          "listed_count": 6,
+          "media_count": 883,
+          "tweet_count": 10184
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2102593801726652825",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2264246,
+          "following_count": 1084,
+          "like_count": 10520,
+          "listed_count": 8910,
+          "media_count": 54151,
+          "tweet_count": 61494
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

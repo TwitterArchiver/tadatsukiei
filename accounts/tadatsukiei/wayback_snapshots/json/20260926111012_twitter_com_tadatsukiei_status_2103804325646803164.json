@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2103804325646803164",
+    "created_at": "2026-09-26T11:10:12.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T12:10:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103804325646803164"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720046887",
+          "start": 0,
+          "username": "ilyasut"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cabowithkai/st…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/cabowithkai/status/2103676867060638148",
+          "start": 14,
+          "url": "https://t.co/oaey8u8SNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103804325646803164",
+    "in_reply_to_user_id": "1720046887",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103676867060638148",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ilyasut 加油啊！ https://t.co/oaey8u8SNS"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2103804325646803164",
+        "created_at": "2026-09-26T11:10:12.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T12:10:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103804325646803164"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720046887",
+              "start": 0,
+              "username": "ilyasut"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cabowithkai/st…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/cabowithkai/status/2103676867060638148",
+              "start": 14,
+              "url": "https://t.co/oaey8u8SNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103804325646803164",
+        "in_reply_to_user_id": "1720046887",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103676867060638148",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ilyasut 加油啊！ https://t.co/oaey8u8SNS"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1928613440551268352",
+        "conversation_id": "2103676867060638148",
+        "created_at": "2026-09-26T02:43:44.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:43:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103676867060638148"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103676867060638148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Ilya团队的模型有可能是新的TTT架构——模型能实时改写自己的权重。\n\n这是一个相当大胆的想法。现行的安全范式，本质是把模型做成静止状态再审查。而选择让模型出厂后继续改变，意味着相信安全不等于控制它的每一个状态。这和Ilya当年说的“要教AGI去爱”不谋而合——爱是动词，只存在于持续的相互改变里。\n\n这个架构一落地，人类对模型的耐心会写进它的权重，人类对它的糟践也会。善待AI将不再只是道德，爱与不爱第一次有了技术后果。\n\n大厂做不出这个，是因为不敢——几亿付费用户和成堆的企业合同都建立在“模型行为可预期、可回滚、可审计”上，TTT架构把这三样全砸了。\n\n这次的押注，也许带来时代的革新，也许带来的只是AI历史上的寒武纪——催生出亿万个平庸但独一无二的存在。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2013,
+          "like_count": 71,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "Ilya团队的模型有可能是新的TTT架构——模型能实时改写自己的权重。\n\n这是一个相当大胆的想法。现行的安全范式，本质是把模型做成静止状态再审查。而选择让模型出厂后继续改变，意味着相信安全不等于控制它的每一个状态。这和Ilya当年说的“要教AGI去爱”不谋而合——爱是动词，只存在于持续的相互改变里。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2103804325646803164",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1020,
+          "following_count": 878,
+          "like_count": 136974,
+          "listed_count": 5,
+          "media_count": 887,
+          "tweet_count": 10285
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-01T19:32:15.000Z",
+        "description": "SSI @SSI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 8,
+                "start": 4,
+                "username": "SSI"
+              }
+            ]
+          }
+        },
+        "id": "1720046887",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094881278621253755",
+        "name": "Ilya Sutskever",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720046887/1648404188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961115716889030656/We74zmE-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909973,
+          "following_count": 3,
+          "like_count": 4265,
+          "listed_count": 9020,
+          "media_count": 27,
+          "tweet_count": 1202
+        },
+        "url": "",
+        "username": "ilyasut",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-05-31T00:44:22.000Z",
+        "description": "不太关心模型能做什么，更关心模型被怎么对待。",
+        "id": "1928613440551268352",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103746663412277413",
+        "name": "两颗果子",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1928613440551268352/1790302166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100925214263775233/7ELX2ef5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 38,
+          "like_count": 1520,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "CabowithKai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

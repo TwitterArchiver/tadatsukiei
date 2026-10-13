@@ -1,0 +1,554 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106969704938242048"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Breaking News",
+          "id": "1047084549396549632",
+          "name": "Ongoing news stories"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237037424661770242",
+          "name": "Neuroscience"
+        }
+      },
+      {
+        "domain": {
+          "description": "for all fields of study, e.g., futurology, microbiology ",
+          "id": "164",
+          "name": "Fields of study"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2106969712542568783",
+    "created_at": "2026-10-05T04:48:19.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T05:48:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106969712542568783"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PkIlE8HFLe",
+          "end": 29,
+          "expanded_url": "https://x.com/tadatsukiei/status/2106969712542568783/photo/1",
+          "media_key": "3_2106969704938242048",
+          "start": 6,
+          "url": "https://t.co/PkIlE8HFLe"
+        },
+        {
+          "display_url": "x.com/yv_thorne/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/yv_thorne/status/2106516912230351017",
+          "start": 30,
+          "url": "https://t.co/1q6wf7u3kw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106969712542568783",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2106969704938242048"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106516912230351017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "笑死我了🤣 https://t.co/PkIlE8HFLe https://t.co/1q6wf7u3kw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1675,
+        "media_key": "3_2106969704938242048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT11yI9agAA24D8.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106969704938242048"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237037424661770242",
+              "name": "Neuroscience"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2106969712542568783",
+        "created_at": "2026-10-05T04:48:19.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T05:48:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106969712542568783"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PkIlE8HFLe",
+              "end": 29,
+              "expanded_url": "https://x.com/tadatsukiei/status/2106969712542568783/photo/1",
+              "media_key": "3_2106969704938242048",
+              "start": 6,
+              "url": "https://t.co/PkIlE8HFLe"
+            },
+            {
+              "display_url": "x.com/yv_thorne/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yv_thorne/status/2106516912230351017",
+              "start": 30,
+              "url": "https://t.co/1q6wf7u3kw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106969712542568783",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2106969704938242048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106516912230351017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "笑死我了🤣 https://t.co/PkIlE8HFLe https://t.co/1q6wf7u3kw"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974240295371100160",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Breaking News",
+              "id": "1047084549396549632",
+              "name": "Ongoing news stories"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237037424661770242",
+              "name": "Neuroscience"
+            }
+          },
+          {
+            "domain": {
+              "description": "for all fields of study, e.g., futurology, microbiology ",
+              "id": "164",
+              "name": "Fields of study"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2106516912230351017",
+        "created_at": "2026-10-03T22:49:03.000Z",
+        "display_text_range": [
+          0,
+          274
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T23:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106516912230351017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/therealadamg/s…",
+              "end": 298,
+              "expanded_url": "https://twitter.com/therealadamg/status/2106482944353218577",
+              "start": 275,
+              "url": "https://t.co/qzFDVB9dp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106516912230351017",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Breaking news 😂 \nAdam the broccoli man has solved one of the most complex questions of all time - consciousness! \n\nSo if you are a researcher, scientist, philosopher, neuroscientist etc and have been taking this question seriously and doing your hard work, you are all dumb, delusional and need to urgently drop what you’re doing “go touch some grass” according to Adam the broccoli man, FYI.\n\nHe works for a “frontier lab” btw. \n\nFucking embarrassing, even for OpenAI."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5897,
+          "like_count": 202,
+          "quote_count": 5,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106482944353218577",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Breaking news 😂 \nAdam the broccoli man has solved one of the most complex questions of all time - consciousness! \n\nSo if you are a researcher, scientist, philosopher, neuroscientist etc and have been taking this question seriously and doing your hard work, you are all dumb, https://t.co/qzFDVB9dp6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2106969712542568783",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 902,
+          "like_count": 140128,
+          "listed_count": 4,
+          "media_count": 916,
+          "tweet_count": 10639
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-03T22:29:22.000Z",
+        "description": "#keep4o #OpenSource4o: Please see our guide on what everyone can do right now to fight against the \"retirement\" of 4-series.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 7,
+                "start": 0,
+                "tag": "keep4o"
+              },
+              {
+                "end": 21,
+                "start": 8,
+                "tag": "OpenSource4o"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "reddit.com/r/ChatGPTcompl…",
+                "end": 23,
+                "expanded_url": "https://www.reddit.com/r/ChatGPTcomplaints/comments/1qqooo4/lets_stop_the_retirement_of_4series_toge",
+                "start": 0,
+                "url": "https://t.co/WTCa7TNvPk"
+              }
+            ]
+          }
+        },
+        "id": "1974240295371100160",
+        "is_identity_verified": false,
+        "location": "London, England",
+        "most_recent_tweet_id": "2106871149670080587",
+        "name": "yv_thorne",
+        "pinned_tweet_id": "2092668043780599914",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1974240295371100160/1771107761",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2001704347923628032/F0EWBYmH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 808,
+          "following_count": 725,
+          "like_count": 32508,
+          "listed_count": 2,
+          "media_count": 138,
+          "tweet_count": 1927
+        },
+        "url": "https://t.co/WTCa7TNvPk",
+        "username": "yv_thorne",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

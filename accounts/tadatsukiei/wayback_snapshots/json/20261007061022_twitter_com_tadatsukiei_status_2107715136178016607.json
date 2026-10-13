@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2107715136178016607",
+    "created_at": "2026-10-07T06:10:22.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T07:10:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107715136178016607"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/houkai3rd/stat…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/houkai3rd/status/2107667228657102957",
+          "start": 30,
+          "url": "https://t.co/AtCSttr6s3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107715136178016607",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107667228657102957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "琪芽是婚纱，而小薇……哦，制作组能想起小薇就已经很不错了。 https://t.co/AtCSttr6s3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2107333035494461440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7AOwwX0AA-NRi.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2107333040431083520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7APDJWsAAYLDg.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2107333043954294784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7APQRWoAAL7C4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2107715136178016607",
+        "created_at": "2026-10-07T06:10:22.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:10:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107715136178016607"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/houkai3rd/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/houkai3rd/status/2107667228657102957",
+              "start": 30,
+              "url": "https://t.co/AtCSttr6s3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107715136178016607",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107667228657102957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "琪芽是婚纱，而小薇……哦，制作组能想起小薇就已经很不错了。 https://t.co/AtCSttr6s3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107333035494461440",
+            "3_2107333040431083520",
+            "3_2107333043954294784"
+          ]
+        },
+        "author_id": "790475185350598656",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.",
+              "id": "1093271119849635840",
+              "name": "Honkai series"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1197907410582532096",
+              "name": "Roleplaying games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491900373098921986",
+              "name": "Gacha games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1541880308336713728",
+              "name": "Action games"
+            }
+          }
+        ],
+        "conversation_id": "2107667228657102957",
+        "created_at": "2026-10-07T03:00:00.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T04:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107667228657102957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y9qENBwvzp",
+              "end": 144,
+              "expanded_url": "https://x.com/houkai3rd/status/2107667228657102957/photo/1",
+              "media_key": "3_2107333035494461440",
+              "start": 121,
+              "url": "https://t.co/Y9qENBwvzp"
+            },
+            {
+              "display_url": "pic.x.com/Y9qENBwvzp",
+              "end": 144,
+              "expanded_url": "https://x.com/houkai3rd/status/2107667228657102957/photo/1",
+              "media_key": "3_2107333040431083520",
+              "start": 121,
+              "url": "https://t.co/Y9qENBwvzp"
+            },
+            {
+              "display_url": "pic.x.com/Y9qENBwvzp",
+              "end": 144,
+              "expanded_url": "https://x.com/houkai3rd/status/2107667228657102957/photo/1",
+              "media_key": "3_2107333043954294784",
+              "start": 121,
+              "url": "https://t.co/Y9qENBwvzp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107667228657102957",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107333035494461440"
+          },
+          {
+            "media_key": "3_2107333040431083520"
+          },
+          {
+            "media_key": "3_2107333043954294784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 193,
+                "start": 187,
+                "tag": "崩壊3rd"
+              }
+            ]
+          },
+          "text": "【新バージョン衣装情報】\n\n「鎮魂・払暁偃月」専用衣装「暁の誓い」：Ver.9.1アップデート後、服装補給で獲得可能。\n「ドン！烈火の願い星」専用衣装「月詠の星歌」：Ver.9.1のアップデート後、「カーニバル累計消費イベント」で獲得可能。\n「残星のさすらい人」専用衣装「微睡みの回想」：Ver.9.1のアップデート後、イベント「出会い♪思い出のトイハウス」で獲得可能。\n\n#崩壊3rd"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 415,
+          "impression_count": 80238,
+          "like_count": 3771,
+          "quote_count": 152,
+          "reply_count": 6,
+          "retweet_count": 897
+        },
+        "reply_settings": "everyone",
+        "text": "【新バージョン衣装情報】\n\n「鎮魂・払暁偃月」専用衣装「暁の誓い」：Ver.9.1アップデート後、服装補給で獲得可能。\n「ドン！烈火の願い星」専用衣装「月詠の星歌」：Ver.9.1のアップデート後、「カーニバル累計消費イベント」で獲得可能。 https://t.co/Y9qENBwvzp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2107715136178016607",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1062,
+          "following_count": 904,
+          "like_count": 140561,
+          "listed_count": 4,
+          "media_count": 922,
+          "tweet_count": 10678
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2049681491685474304/zlYdH8hB_bigger.jpg",
+          "description": "Honkai Impact 3rd",
+          "url": "https://twitter.com/HonkaiImpact3rd",
+          "user_id": [
+            "940045596575989765"
+          ]
+        },
+        "created_at": "2016-10-24T08:49:05.000Z",
+        "description": "本格アクションゲーム『崩壊3rd』の公式アカウント！ゲーム内容や関連情報をお届けします。ハッシュタグ： #崩壊3rd 公式YouTube：https://t.co/VrMUnRlugr HoYoLAB：https://t.co/y3TGqg4IZo",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 58,
+                "start": 52,
+                "tag": "崩壊3rd"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@Houkai3rd",
+                "end": 92,
+                "expanded_url": "http://youtube.com/@Houkai3rd",
+                "start": 69,
+                "url": "https://t.co/VrMUnRlugr"
+              },
+              {
+                "display_url": "hoyolab.com/home",
+                "end": 124,
+                "expanded_url": "http://hoyolab.com/home",
+                "start": 101,
+                "url": "https://t.co/y3TGqg4IZo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hoyo.link/OEJEZWbFJ",
+                "end": 23,
+                "expanded_url": "https://hoyo.link/OEJEZWbFJ",
+                "start": 0,
+                "url": "https://t.co/hbyzNdFJkl"
+              }
+            ]
+          }
+        },
+        "id": "790475185350598656",
+        "is_identity_verified": false,
+        "location": "戦艦ハイペリオン",
+        "most_recent_tweet_id": "2107667228657102957",
+        "name": "崩壊3rd公式",
+        "pinned_tweet_id": "2088234182572990497",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/790475185350598656/1777521564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049700108116369408/9vFS6X1J_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482588,
+          "following_count": 37,
+          "like_count": 166,
+          "listed_count": 1988,
+          "media_count": 5064,
+          "tweet_count": 7208
+        },
+        "url": "https://t.co/hbyzNdFJkl",
+        "username": "houkai3rd",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

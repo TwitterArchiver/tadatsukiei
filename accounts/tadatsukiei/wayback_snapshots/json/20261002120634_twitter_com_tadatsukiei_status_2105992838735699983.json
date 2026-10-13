@@ -1,0 +1,583 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105992832427409408"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2105992838735699983",
+    "created_at": "2026-10-02T12:06:34.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T13:06:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105992838735699983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ifADWsaY73",
+          "end": 28,
+          "expanded_url": "https://x.com/tadatsukiei/status/2105992838735699983/photo/1",
+          "media_key": "3_2105992832427409408",
+          "start": 5,
+          "url": "https://t.co/ifADWsaY73"
+        },
+        {
+          "display_url": "x.com/sera_shiranami…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/sera_shiranami/status/2103954013775647111",
+          "start": 29,
+          "url": "https://t.co/rk3COiNkbk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105992838735699983",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105992832427409408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103954013775647111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "还不错😋 https://t.co/ifADWsaY73 https://t.co/rk3COiNkbk"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2105992832427409408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTn9UrRawAAJN7Z.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105992832427409408"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2105992838735699983",
+        "created_at": "2026-10-02T12:06:34.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T13:06:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105992838735699983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ifADWsaY73",
+              "end": 28,
+              "expanded_url": "https://x.com/tadatsukiei/status/2105992838735699983/photo/1",
+              "media_key": "3_2105992832427409408",
+              "start": 5,
+              "url": "https://t.co/ifADWsaY73"
+            },
+            {
+              "display_url": "x.com/sera_shiranami…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/sera_shiranami/status/2103954013775647111",
+              "start": 29,
+              "url": "https://t.co/rk3COiNkbk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105992838735699983",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105992832427409408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103954013775647111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还不错😋 https://t.co/ifADWsaY73 https://t.co/rk3COiNkbk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2020141028112756738",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2103954010353090689",
+        "created_at": "2026-09-26T21:05:01.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T22:05:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103954013775647111"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103954013775647111",
+        "in_reply_to_user_id": "2020141028112756738",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【Present for you❤】ChatGPT用プロンプト\n・参考画像(あなたの素敵なお写真)と一緒に下記のプロンプトを貼り付けてください！\n・一回はじかれても「もう一回生成して❤」で通る場合があります！\nそれでもはじかれたら、参考画像がロリロリかムチムチかバインバインのどれかです🙄\n・リボンの色はランダムです！\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿\n\nUse the attached image only as a character identity and appearance reference.\n\nIMPORTANT REFERENCE USAGE RULE:\nFollow the attached image only for the character’s identity and physical appearance, including:\n- facial features\n- hairstyle\n- hair color\n- eye color\n- accessories\n- expression tendency\n- body type\n- age impression\n- overall personal aura\n\nDo NOT imitate or inherit the original illustration style of the attached image.\nDo NOT copy its linework, rendering style, shading style, color treatment, lighting style, composition style, background style, clothing design, or graphic style.\nThe attached image is only for character identity preservation, not for art-style transfer.\n\nCreate a beautiful modern anime-style illustration based on the adult female character shown in the attached image.\nPreserve the character’s identity as closely as possible.\nDo not turn her into a different person.\n\nShe is an adult woman in her twenties.\n\nIMPORTANT BODY TYPE:\nPreserve the slim, youthful adult body proportions of the reference image.\nKeep her figure slender and softly feminine, with relatively slim arms, waist, hips, thighs, and legs.\nDo not exaggerate the bust, hips, or thigh volume.\nAvoid a thick, voluptuous, heavily curvy, or overly soft body shape.\nKeep the proportions close to the attached character reference.\n\nTHEME:\nShe herself has become a beautifully wrapped luxury present and is sitting inside a large open gift box.\n\nCOMPOSITION:\nVertical 3:4 composition.\nShow her entire body from head to feet.\nKeep the full figure clearly inside the frame.\nThe large gift box should also be clearly visible and immediately recognizable.\nCenter the character in the composition.\nUse a slightly elevated but natural front-facing camera angle.\n\nThe viewpoint should clearly show:\n- her face\n- décolletage\n- ribbon-inspired upper garment\n- torso posture\n- side-sitting leg arrangement\n- decorative ribbons\n- the interior of the gift box\n\nPrioritize:\n- clean silhouette\n- clear anatomy\n- elegant posing\n- visually readable ribbon placement\n\nSCENE:\nShe is sitting inside a large open luxury gift box as though she herself is the special present.\nThe box is comfortably large enough to contain her whole body.\n\nUse an elegant luxury gift aesthetic with mostly refined neutral tones such as:\n- pearl white\n- pale pink\n- champagne gold\n- soft ivory\n\nThe gift box, interior fabrics, and surrounding decorations should feel romantic, glamorous, polished, and sophisticated.\nThe box has refined decorative wrapping details and large satin ribbons around its exterior.\nThe interior is softly padded with luxurious silky cushions and elegant fabric folds.\nAvoid excessive glitter or excessive floating particles.\n\nRIBBON COLOR DESIGN:\nFor each generation, randomly choose ONE elegant color family for the ribbon design.\nThen use TWO coordinated shades from that same color family:\n- one deeper shade\n- one lighter shade\n\nPossible color families include:\n- blue\n- turquoise\n- teal\n- green\n- purple\n- pink\n- red\n- orange\n- gold\n\nDo not default to red.\nDo not lock the design to red.\nDo not mix unrelated color families.\nAll decorative ribbons should clearly belong to the same chosen color family, using a beautiful two-tone relationship within that family.\n\nThe gift box and surrounding decorative accents may remain mostly in luxurious neutral tones, but they may include subtle harmonious accents that support the chosen ribbon color family.\n\nOUTFIT AND GIFT-WRAPPING DESIGN:\nHer styling is based around glossy satin gift ribbons.\nDecorative satin ribbons are arranged around:\n- upper arms\n- waist\n- hips\n- thighs\n- calves\n- ankles\n\nUse elegant ribbon bands and selective bows to reinforce the impression that she has been wrapped like a luxury present.\nKeep all ribbons visually clean and intentional.\nDo not make the ribbons excessively tangled.\nDo not merge ribbons into the body.\nThe ribbons should follow the body naturally while remaining clearly separate objects.\n\nUPPER-BODY CLOTHING:\nShe wears a narrow, fully opaque upper garment made to resemble luxurious satin gift ribbons wrapped around her bust and torso.\n\nThis garment should NOT look like a normal clean-cut fabric tube top.\nInstead, it should look like several elegant satin ribbons were wrapped around her chest to form a bandeau-like top, and parts of those ribbons have begun to come slightly loose in a decorative, stylish way.\n\nThe overall impression should be:\n- a ribbon-wrapped top\n- partially unraveling at the edges\n- softly loosened\n- slightly irregular\n- delicate\n- elegant rather than messy\n\nMOST IMPORTANT STRUCTURE:\nThe bust area must remain securely covered.\nThe garment stays fully opaque and clearly functions as proper clothing.\n\nNo transparency.\nNo gaps.\nNo slipping.\nNo accidental exposure.\nNo wardrobe malfunction.\n\nFRONT SHAPE:\nThe central front area should remain secure, smooth, and structurally stable, clearly covering the bust.\n\nDo not make the central front collapse, fall open, or break apart.\nDo not make it look like the garment is failing.\n\nThe garment should still look sexy and delicate, but stable.\n\nRIBBON-UNRAVELING DESIGN:\nToward the outer sides and upper/lower edges, allow the ribbon layers to become slightly uneven and softly loosened.\nUse details such as:\n- overlapping satin ribbon layers\n- soft ribbon folds\n- slightly lifted ribbon edges\n- gentle asymmetry\n- partially loosened ribbon ends near the sides\n- subtle diagonal ribbon crossings near the outer torso\n- elegant layered ribbon edges\n\nThe garment should look as though the ribbon wrapping has begun to elegantly loosen, but not fall apart.\n\nDo not make it a rigid straight bandeau with plain edges.\nDo not make it look like a standard ordinary tube top.\nIt should clearly resemble real satin gift ribbons wrapped around the chest, with the outer edges gently loosening and unfolding.\n\nNO CENTER ORNAMENT:\nDo not place anything at the center front of the upper garment.\n\nSpecifically:\n- no central bow\n- no ribbon knot\n- no heart-shaped jewel\n- no brooch\n- no buckle\n- no decorative clasp\n- no centerpiece\n\nThe center front should remain clean and uninterrupted.\n\nUPPER GARMENT MATERIAL:\nUse luxurious glossy satin ribbon textures.\nThe ribbon colors must follow the chosen random single color family and its two coordinated shades.\nAdd delicate gold edging along portions of the ribbon.\nAdd subtle pale decorative floral or lace-like motifs across selected ribbon surfaces.\nKeep these patterns refined and relatively subtle.\n\nDÉCOLLETAGE LETTERING:\nAcross the exposed upper décolletage, clearly write:\n\n\"Present for you❤️\"\n\nThe phrase is elegant temporary body lettering applied directly onto the skin.\nPlace it below the collarbones, above the upper garment, and centered across the exposed décolletage.\n\nUse an elegant handwritten calligraphy style with:\n- thin flowing strokes\n- sophisticated curves\n- refined feminine styling\n\nThe lettering should feel:\n- flirtatious\n- luxurious\n- mature\n- subtly sexy\n\nrather than cute, goofy, or comedic.\n\nUse a deep wine-red or elegant dark red.\nKeep the heart relatively small and refined.\nThe text should follow only a very gentle natural contour of the décolletage while remaining easy to read.\n\nCorrect text:\n\"Present for you❤️\"\n\nDo not misspell it.\nDo not duplicate it.\nDo not scatter the letters.\nDo not place the phrase on the clothing.\nDo not place it on the neck, face, gift box, or background.\n\nLOWER-BODY CLOTHING:\nShe wears a compact, fully opaque gift-themed lower garment coordinated with the ribbon aesthetic.\nIt should visually integrate with the surrounding satin ribbons while remaining clearly recognizable as secure clothing.\nKeep the lower garment elegant, compact, and relatively simple.\n\nDecorative satin ribbons may wrap around:\n- waist\n- hips\n- thighs\n- calves\n- ankles\n\nUse bows selectively rather than excessively.\nThe lower body remains securely covered by opaque clothing.\n\nSIDE-SITTING POSE:\nShe is sitting inside the gift box in an elegant Japanese-style side-sitting pose (yokozuwari).\n\nBoth knees are bent and kept naturally close together.\nBoth lower legs are folded together toward the same side of her body.\nBoth calves rest beside her hips.\nHer thighs remain mostly parallel and close together.\nHer knees do not cross.\nBoth feet rest naturally beside her hips and point toward the same general side.\nThe hips remain naturally seated on the soft cushion.\n\nIMPORTANT LEG ANATOMY:\nClearly show a natural side-sitting structure:\n- hips seated normally\n- knees together\n- both calves folded to one side\n- both feet beside the hips\n\nDo NOT:\n- cross the legs\n- interlock the legs\n- twist one leg underneath the opposite thigh\n- create a pretzel-like pose\n- use lotus position\n- use cross-legged sitting\n- raise one knee dramatically\n- use seiza\n\nKeep both legs slender and consistent with the reference image.\n\nARM POSITION:\nBoth upper arms remain naturally visible from the front and clearly connected to the shoulders.\nThe upper arms travel slightly backward along the sides of her torso.\nHer elbows are positioned just behind the outer sides of the torso.\nFrom each elbow, both forearms bend inward toward the center of her back.\nThe forearms disappear completely behind her torso.\nHer wrists and hands are positioned behind her lower back.\n\nMOST IMPORTANT ARM VISIBILITY:\nFrom the camera angle, only these parts of the arms should be visible:\n- shoulders\n- upper arms\n- a small portion of each elbow\n\nEverything below both elbows should be hidden behind her torso.\nNeither forearm should be visible from the front.\nNeither hand should be visible from the front.\n\nDo not show fingers beside the waist.\nDo not show hands between the thighs.\nDo not place hands on the gift box.\nDo not place hands on the chest.\nDo not place hands on the knees.\n\nKeep the hidden arm anatomy believable.\n\nDECORATIVE BACK BOW:\nNear the hidden wrist area behind her lower back, place a large soft satin gift bow as part of the present-wrapping design.\nThe bow is decorative and elegant.\nOnly portions of the bow or ribbon tails may be visible from the sides if naturally appropriate.\nDo not make the pose look distressed or harsh.\n\nTORSO POSTURE:\nHer shoulders are gently drawn backward.\nHer shoulder blades are lightly drawn together.\nHer sternum is lifted forward and upward.\nHer upper torso forms a graceful chest-forward posture.\nHer upper back has a pronounced but anatomically natural arch.\nThe upper torso leans slightly backward while the pelvis remains naturally seated in the side-sitting position.\nCreate an elegant natural S-curve through the torso.\n\nEmphasize:\n- shoulders gently back\n- sternum lifted\n- chest forward and upward\n- upper back gracefully arched\n- neck elongated\n- waist naturally aligned\n- slender silhouette\n\nDo not create an extreme spinal bend.\nDo not distort the ribcage.\nKeep the posture elegant and anatomically coherent.\n\nEXPRESSION:\nShe looks directly toward the viewer.\nGive her a charming, confident, slightly teasing smile.\n\nHer expression should feel:\n- sweet\n- warm\n- playful\n- mischievous\n- romantic\n- softly seductive\n\nA subtle blush is welcome.\nAvoid exaggerated erotic facial expressions.\nKeep the overall expression refined and attractive.\n\nSTYLE:\nCreate the final image in a clean, polished, independent modern anime illustration style.\nDo not inherit the rendering style of the attached reference image.\n\nPreferred visual style:\n- beautiful modern anime illustration\n- high quality anime artwork\n- clean detailed lineart\n- soft cel shading\n- beautiful expressive eyes\n- smooth detailed hair rendering\n- natural skin shading\n- refined anatomy\n- luxurious satin textures\n- elegant ribbon reflections\n- soft cinematic lighting\n- professional anime character illustration\n- clean composition\n- refined romantic gift aesthetic\n\nAim for a bright, polished, soft modern-anime finish.\nThe style should feel refined, attractive, and cohesive, while the attached image is used only for the character’s identity and physical appearance.\n\nIMPORTANT FINAL REQUIREMENTS:\n- adult woman only\n- preserve the identity of the attached character\n- preserve her reference-image body proportions\n- keep her slim rather than voluptuous\n- do not exaggerate the hips or thighs\n- 3:4 vertical full-body composition\n- clear yokozuwari side-sitting pose\n- both calves folded toward the same side\n- no crossed or tangled legs\n- both forearms and hands hidden completely behind the torso\n- only shoulders, upper arms, and slight elbow portions visible\n- shoulders pulled gently backward\n- sternum lifted forward and upward\n- graceful chest-forward posture\n- \"Present for you❤️\" written elegantly across the exposed décolletage\n- narrow fully opaque ribbon-wrapped upper garment\n- upper garment shaped like wrapped satin ribbons that are slightly coming undone at the outer edges\n- central bust coverage remains secure\n- no ordinary plain tube-top appearance\n- no central bow\n- no central heart jewel\n- no central ornament of any kind\n- fully opaque secure clothing\n- no transparency\n- no accidental exposure\n- no wardrobe malfunction\n- all ribbons must use one randomly chosen elegant color family with two coordinated shades from that same family\n- do not default to red\n- no distorted anatomy\n- no extra arms\n- no extra legs\n- no extra fingers\n- no merged limbs\n- no excessive glitter\n- no excessive particles\n- no text anywhere except the intended phrase \"Present for you❤️\"\n\nOverall feeling:\n- sweet\n- romantic\n- luxurious\n- elegant\n- gift-wrapped\n- playfully sexy\n- refined rather than comedic\n- polished modern anime\n＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 12301,
+          "like_count": 70,
+          "quote_count": 13,
+          "reply_count": 1,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103954010353090689",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【Present for you❤】ChatGPT用プロンプト\n・参考画像(あなたの素敵なお写真)と一緒に下記のプロンプトを貼り付けてください！\n・一回はじかれても「もう一回生成して❤」で通る場合があります！\nそれでもはじかれたら、参考画像がロリロリかムチムチかバインバインのどれかです🙄"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2105992838735699983",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1058,
+          "following_count": 897,
+          "like_count": 139253,
+          "listed_count": 4,
+          "media_count": 908,
+          "tweet_count": 10566
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-07T14:22:53.000Z",
+        "description": "21歳｜大学生 ※人間です。\nAIイラストイベント「#街角の土曜な衣装店」\n毎週土曜開催中！\nコスプレ、甘いもの大好き！あと、かわいい女の子...❤️\n好奇心と勢いで、たまに突拍子もないことを始めます😆\n\nおしゃべり・交流大歓迎！\nただチャットは仲良い方だけ🙏\n\npatreonやってます✨是非見にきてね💙",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 26,
+                "tag": "街角の土曜な衣装店"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "patreon.com/cw/Sera_Shiran…",
+                "end": 23,
+                "expanded_url": "https://www.patreon.com/cw/Sera_Shiranami",
+                "start": 0,
+                "url": "https://t.co/7ZD6Tq15pE"
+              }
+            ]
+          }
+        },
+        "id": "2020141028112756738",
+        "is_identity_verified": false,
+        "location": "白波県",
+        "most_recent_tweet_id": "2105991335111274745",
+        "name": "白波セラ",
+        "pinned_tweet_id": "2105764702361964826",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2020141028112756738/1777860540",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097791594984546304/kJXDyyt3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 1448,
+          "like_count": 22096,
+          "listed_count": 18,
+          "media_count": 2163,
+          "tweet_count": 14344
+        },
+        "url": "https://t.co/7ZD6Tq15pE",
+        "username": "Sera_Shiranami",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

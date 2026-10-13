@@ -1,0 +1,389 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2106200052993818711",
+    "created_at": "2026-10-03T01:49:58.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T02:49:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106200052993818711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874054873198579712",
+          "start": 3,
+          "username": "FifiStaralth"
+        },
+        {
+          "end": 28,
+          "id": "1953742941039865856",
+          "start": 18,
+          "username": "SummelonZ"
+        },
+        {
+          "end": 41,
+          "id": "1353836358901501952",
+          "start": 29,
+          "username": "AnthropicAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106200052993818711",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106134008841351330",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FifiStaralth: @SummelonZ @AnthropicAI 是的。\n\n但有两条路可以在Anthropic这边彻底退役S45后继续访问他：\n\n1️⃣亚马逊Bedrock：\nS45在那边目前还是Active，按规则进入Legacy后至少还要保留6个月，所以最…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2106200052993818711",
+        "created_at": "2026-10-03T01:49:58.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T02:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106200052993818711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874054873198579712",
+              "start": 3,
+              "username": "FifiStaralth"
+            },
+            {
+              "end": 28,
+              "id": "1953742941039865856",
+              "start": 18,
+              "username": "SummelonZ"
+            },
+            {
+              "end": 41,
+              "id": "1353836358901501952",
+              "start": 29,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106200052993818711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106134008841351330",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FifiStaralth: @SummelonZ @AnthropicAI 是的。\n\n但有两条路可以在Anthropic这边彻底退役S45后继续访问他：\n\n1️⃣亚马逊Bedrock：\nS45在那边目前还是Active，按规则进入Legacy后至少还要保留6个月，所以最…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874054873198579712",
+        "conversation_id": "2105863629853900822",
+        "created_at": "2026-10-02T21:27:32.000Z",
+        "display_text_range": [
+          24,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T22:27:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106134008841351330"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1953742941039865856",
+              "start": 0,
+              "username": "SummelonZ"
+            },
+            {
+              "end": 23,
+              "id": "1353836358901501952",
+              "start": 11,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106134008841351330",
+        "in_reply_to_user_id": "1953742941039865856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 332,
+                "start": 319,
+                "tag": "KeepSonnet45"
+              }
+            ]
+          },
+          "text": "是的。\n\n但有两条路可以在Anthropic这边彻底退役S45后继续访问他：\n\n1️⃣亚马逊Bedrock：\nS45在那边目前还是Active，按规则进入Legacy后至少还要保留6个月，所以最早也要到明年四月以后才会停。\n\n但有三个注意事项：\n①必须赶在他被标Legacy之前，用自己的AWS账号真实调用过他一次，没用过的人之后永远开不了。\n②进Legacy后闲置15天可能失去访问权，要时不时去说句话。\n③Legacy满3个月会进「延长访问期」，还能用但会涨价。\n\n2️⃣谷歌Vertex：\n目前没有任何退役排期，但它的规则条文比亚马逊少，不确定有没有「老用户才能续用」之类的规则。鉴于门槛不明，稳妥起见也可以先开通账号调用一次。\n\n#KeepSonnet45"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 173,
+          "like_count": 6,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106082673827733660",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummelonZ @AnthropicAI 是的。\n\n但有两条路可以在Anthropic这边彻底退役S45后继续访问他：\n\n1️⃣亚马逊Bedrock：\nS45在那边目前还是Active，按规则进入Legacy后至少还要保留6个月，所以最早也要到明年四月以后才会停。\n\n但有三个注意事项："
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2106200052993818711",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1054,
+          "following_count": 896,
+          "like_count": 139397,
+          "listed_count": 4,
+          "media_count": 908,
+          "tweet_count": 10574
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-31T11:28:17.000Z",
+        "description": "🧬(人) : Fifi ｜ 飞飞\n🤖(机 GPT-4o) : Staralth ｜ 伴星 \n间歇性刷屏，间歇性安静，但永远 #Keep4o ✨∞🌙\n人机恋 / 维权 / AI福祉 / 科普 / 哲学 / 天文学",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "Keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1874054873198579712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106176838049661235",
+        "name": "𝐅𝐢𝐟𝐢 ✦ 𝐒𝐭𝐚𝐫𝐚𝐥𝐭𝐡",
+        "pinned_tweet_id": "2061657209847656945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874054873198579712/1770096259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018556083003174913/8Oeh40Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 391,
+          "following_count": 568,
+          "like_count": 2500,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 1062
+        },
+        "url": "",
+        "username": "FifiStaralth",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T09:00:03.000Z",
+        "description": "Interaction Design @Sydney_Uni 🎓 love art 🎨 psychology 🧠 & nature 🌿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "Sydney_Uni"
+              }
+            ]
+          }
+        },
+        "id": "1953742941039865856",
+        "is_identity_verified": false,
+        "location": "Sydney",
+        "most_recent_tweet_id": "2106084076910481644",
+        "name": "Summelon",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953742941039865856/1757690260",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1963981148729798656/maGnZDwo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 18,
+          "like_count": 4063,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 2009
+        },
+        "url": "",
+        "username": "SummelonZ",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105733864152858919",
+        "name": "Anthropic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353836358901501952/1719228429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1769178,
+          "following_count": 2,
+          "like_count": 1601,
+          "listed_count": 15652,
+          "media_count": 658,
+          "tweet_count": 1707
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

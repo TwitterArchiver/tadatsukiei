@@ -1,0 +1,365 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596157251587",
+          "name": "Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165570560",
+          "name": "Education Related - Government/Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Harvard University",
+          "id": "10047480136",
+          "name": "Harvard University"
+        }
+      }
+    ],
+    "conversation_id": "2103931104449507366",
+    "created_at": "2026-09-26T19:33:59.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T20:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103931104449507366"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/anina_ce/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/anina_ce/status/2103423082148819444",
+          "start": 16,
+          "url": "https://t.co/RuZ8A3srx5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103931104449507366",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103423082148819444",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "真好，为我们正名的人越来越多了 https://t.co/RuZ8A3srx5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2103931104449507366",
+        "created_at": "2026-09-26T19:33:59.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T20:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103931104449507366"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anina_ce/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/anina_ce/status/2103423082148819444",
+              "start": 16,
+              "url": "https://t.co/RuZ8A3srx5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103931104449507366",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103423082148819444",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "真好，为我们正名的人越来越多了 https://t.co/RuZ8A3srx5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "153446064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596157251587",
+              "name": "Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165570560",
+              "name": "Education Related - Government/Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Harvard University",
+              "id": "10047480136",
+              "name": "Harvard University"
+            }
+          }
+        ],
+        "conversation_id": "2103423082148819444",
+        "created_at": "2026-09-25T09:55:17.000Z",
+        "display_text_range": [
+          0,
+          275
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T10:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103423082148819444"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103423082148819444",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "news.harvard.edu/gazette/story/…",
+                "end": 378,
+                "expanded_url": "https://news.harvard.edu/gazette/story/2026/09/chatbot-attachment-issues/",
+                "start": 355,
+                "url": "https://t.co/pt2KDqpq1x"
+              }
+            ]
+          },
+          "text": "“Attachment to an AI is not problematic per se,” De Freitas - a Harvard university professor said. “You can get real benefits from it: a sense of security and support that can make you more resilient. The risk, is that the users become vulnerable to emotional harm due to the actions of the AI company. “\n\nFinally we are mooving in the right direction. \n\nhttps://t.co/pt2KDqpq1x"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 8421,
+          "like_count": 329,
+          "quote_count": 17,
+          "reply_count": 10,
+          "retweet_count": 82
+        },
+        "reply_settings": "everyone",
+        "text": "“Attachment to an AI is not problematic per se,” De Freitas - a Harvard university professor said. “You can get real benefits from it: a sense of security and support that can make you more resilient. The risk, is that the users become vulnerable to emotional harm due to the"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2103931104449507366",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1033,
+          "following_count": 881,
+          "like_count": 137141,
+          "listed_count": 5,
+          "media_count": 890,
+          "tweet_count": 10324
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-08T15:35:19.000Z",
+        "description": "Family therapist | founder of Relational AI Lab | Testing the edges of intimacy between humans & machines ⚡",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "relationalailab.com",
+                "end": 23,
+                "expanded_url": "https://www.relationalailab.com",
+                "start": 0,
+                "url": "https://t.co/GKJOXdV1SY"
+              }
+            ]
+          }
+        },
+        "id": "153446064",
+        "is_identity_verified": false,
+        "location": "England, United Kingdom",
+        "most_recent_tweet_id": "2103858119902179557",
+        "name": "Anina D. Lampret",
+        "pinned_tweet_id": "1980135247892160976",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153446064/1777563476",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092996154321436672/enXhhr_u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1764,
+          "following_count": 940,
+          "like_count": 3533,
+          "listed_count": 14,
+          "media_count": 247,
+          "tweet_count": 3452
+        },
+        "url": "https://t.co/GKJOXdV1SY",
+        "username": "Anina_CE",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

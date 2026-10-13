@@ -1,0 +1,375 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2108123965294313941",
+    "created_at": "2026-10-08T09:14:55.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T10:14:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108123965294313941"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/baudelaireoct/…",
+          "end": 76,
+          "expanded_url": "https://twitter.com/baudelaireoct/status/2107819933820502255",
+          "start": 53,
+          "url": "https://t.co/aVFZ1r9AQO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108123965294313941",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107819933820502255",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "中国人的梦碎了，共产党的梦醒了。\n然后习近平又做起了活到一百五的梦。\n这片土地上的人咋都这么喜欢做梦呢？ https://t.co/aVFZ1r9AQO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2108123965294313941",
+        "created_at": "2026-10-08T09:14:55.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:14:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108123965294313941"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/baudelaireoct/…",
+              "end": 76,
+              "expanded_url": "https://twitter.com/baudelaireoct/status/2107819933820502255",
+              "start": 53,
+              "url": "https://t.co/aVFZ1r9AQO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108123965294313941",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107819933820502255",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中国人的梦碎了，共产党的梦醒了。\n然后习近平又做起了活到一百五的梦。\n这片土地上的人咋都这么喜欢做梦呢？ https://t.co/aVFZ1r9AQO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1254753492586999808",
+        "conversation_id": "2107819933820502255",
+        "created_at": "2026-10-07T13:06:48.000Z",
+        "display_text_range": [
+          0,
+          146
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T14:06:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107819933820502255"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xTheo520/stat…",
+              "end": 170,
+              "expanded_url": "https://twitter.com/0xTheo520/status/2107710814090338307",
+              "start": 147,
+              "url": "https://t.co/rBh3p6aHqj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107819933820502255",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 158,
+          "impression_count": 99656,
+          "like_count": 834,
+          "quote_count": 5,
+          "reply_count": 35,
+          "retweet_count": 25
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107710814090338307",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你的感觉没错。2021年正是中国国力最兴盛，经济和综合实力和美国最接近的一年，宣传口大喇叭鼓吹（实际上他们也是这么认为的）“民族复兴”，“东升西落”，人们在宣传里看到中国抗疫大获成功，欧美死伤惨重，但此后国运由盛转衰。\n 22年末后，宣传口逐渐转向安全保守，放弃战狼叙事，对发达国家抹黑为主。 https://t.co/rBh3p6aHqj"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2108123965294313941",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 906,
+          "like_count": 140896,
+          "listed_count": 4,
+          "media_count": 926,
+          "tweet_count": 10711
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-27T12:45:34.000Z",
+        "description": "忙，只看推不发",
+        "id": "1254753492586999808",
+        "is_identity_verified": false,
+        "location": "中国人民大学",
+        "most_recent_tweet_id": "2108077260167434425",
+        "name": "波德莱尔在十月",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254753492586999808/1589336669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1260393873412485120/133lDHaW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8828,
+          "following_count": 1424,
+          "like_count": 45698,
+          "listed_count": 65,
+          "media_count": 642,
+          "tweet_count": 4507
+        },
+        "url": "",
+        "username": "BaudelaireOct",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

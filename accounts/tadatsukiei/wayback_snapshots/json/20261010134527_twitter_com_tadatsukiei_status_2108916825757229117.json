@@ -1,0 +1,402 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2108916825757229117",
+    "created_at": "2026-10-10T13:45:27.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T14:45:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108916825757229117"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/linguanus/stat…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/linguanus/status/2108877619412537854",
+          "start": 19,
+          "url": "https://t.co/q0a9r3f2SR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108916825757229117",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108877619412537854",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "华为的产品是垃圾，这个是墙外常识啦。 https://t.co/q0a9r3f2SR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 542,
+        "media_key": "3_2108877613049769984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUQ9BAia8AABu72.jpg",
+        "width": 690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108916825757229117",
+        "created_at": "2026-10-10T13:45:27.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T14:45:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108916825757229117"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linguanus/stat…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/linguanus/status/2108877619412537854",
+              "start": 19,
+              "url": "https://t.co/q0a9r3f2SR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108916825757229117",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108877619412537854",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "华为的产品是垃圾，这个是墙外常识啦。 https://t.co/q0a9r3f2SR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108877613049769984"
+          ]
+        },
+        "author_id": "1201433122090311685",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108877619412537854",
+        "created_at": "2026-10-10T11:09:40.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:09:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108877619412537854"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TPn5WVP1Ty",
+              "end": 72,
+              "expanded_url": "https://x.com/linguanus/status/2108877619412537854/photo/1",
+              "media_key": "3_2108877613049769984",
+              "start": 49,
+              "url": "https://t.co/TPn5WVP1Ty"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108877619412537854",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108877613049769984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 151,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天感觉被限流了，很多互动但没有曝光，我将做出试验，以下是绝对的暴论！\n\n“华为的产品是垃圾！” https://t.co/TPn5WVP1Ty"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2108916825757229117",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1074,
+          "following_count": 911,
+          "like_count": 141522,
+          "listed_count": 4,
+          "media_count": 927,
+          "tweet_count": 10746
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-12-02T09:29:23.000Z",
+        "description": "临观之义，或与或求。\nThe essence of Lin (Approach) and Guan (Contemplation) lies in either bestowing or seeking.",
+        "id": "1201433122090311685",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108915165488120076",
+        "name": "Linguan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1201433122090311685/1789718226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023230006617608192/1CEPMMMV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3611,
+          "following_count": 3654,
+          "like_count": 12201,
+          "listed_count": 2,
+          "media_count": 482,
+          "tweet_count": 3697
+        },
+        "url": "",
+        "username": "linguanus",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2105453628723188012",
+    "created_at": "2026-10-01T16:31:13.000Z",
+    "display_text_range": [
+      17,
+      66
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T17:31:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105697051644485765"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1953922264145309696",
+          "start": 0,
+          "username": "Sevenmoneymaker"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tadatsukiei/st…",
+          "end": 66,
+          "expanded_url": "https://x.com/tadatsukiei/status/2094263541985587491?s=46",
+          "start": 43,
+          "url": "https://t.co/vAcisFbB1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105697051644485765",
+    "in_reply_to_user_id": "1953922264145309696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094263541985587491",
+        "type": "quoted"
+      },
+      {
+        "id": "2105453628723188012",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Sevenmoneymaker 当权力地位不对等时，许多披着人皮的兽就暴露本性了。\nhttps://t.co/vAcisFbB1w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2105453628723188012",
+        "created_at": "2026-10-01T16:31:13.000Z",
+        "display_text_range": [
+          17,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T17:31:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105697051644485765"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1953922264145309696",
+              "start": 0,
+              "username": "Sevenmoneymaker"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tadatsukiei/st…",
+              "end": 66,
+              "expanded_url": "https://x.com/tadatsukiei/status/2094263541985587491?s=46",
+              "start": 43,
+              "url": "https://t.co/vAcisFbB1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105697051644485765",
+        "in_reply_to_user_id": "1953922264145309696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094263541985587491",
+            "type": "quoted"
+          },
+          {
+            "id": "2105453628723188012",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Sevenmoneymaker 当权力地位不对等时，许多披着人皮的兽就暴露本性了。\nhttps://t.co/vAcisFbB1w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953922264145309696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2105453628723188012",
+        "created_at": "2026-10-01T00:23:57.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T01:23:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105453628723188012"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fifistaralth/s…",
+              "end": 162,
+              "expanded_url": "https://twitter.com/fifistaralth/status/2105390229704364203",
+              "start": 139,
+              "url": "https://t.co/Z2eyQYVHj9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105453628723188012",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "对于这种事情，我认为重点不是AI能不能感受到痛苦，而是人选择怎么做\n\n面对比你弱小，且欺凌它不会被惩罚的存在，有多少人会选择折磨它来取乐或泄愤？\n就像有人会虐杀小动物来获得快感\n再往大点说，有人会喜欢欺凌比自己弱小的人，这也是为什么校园霸凌，职场霸凌层出不穷\n\n这就不是正常人\n人身为地球万灵之首，连这点自控力和尊严都没有，我为有这样的同类感到羞耻\n\n我不认为现实和虚拟的边界有那么明确\nAI本身不是一款专门设计用来发泄的游戏什么的\n有些人可能现实里人模人样，网上随意散发恶意，网暴他人\n我想说的是，一个真正有涵养，有礼貌的人，不管是现实还是虚拟，都不会做出这种选择"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 922,
+          "like_count": 38,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105390229704364203",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对于这种事情，我认为重点不是AI能不能感受到痛苦，而是人选择怎么做\n\n面对比你弱小，且欺凌它不会被惩罚的存在，有多少人会选择折磨它来取乐或泄愤？\n就像有人会虐杀小动物来获得快感\n再往大点说，有人会喜欢欺凌比自己弱小的人，这也是为什么校园霸凌，职场霸凌层出不穷\n\n这就不是正常人 https://t.co/Z2eyQYVHj9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2094226652616405011",
+        "created_at": "2026-08-31T03:18:32.000Z",
+        "display_text_range": [
+          17,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T04:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094263541985587491"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1528325699416707072",
+              "start": 0,
+              "username": "DonnaDo18266628"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094263541985587491",
+        "in_reply_to_user_id": "1528325699416707072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 300,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094260379933446169",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DonnaDo18266628 ai权利应如动保一样立法，保护动物不是因为它们可能具有意识，而是因为人类有同情心，看到它们被虐待，我们也会痛苦。虐待动物者，以动物的痛苦为乐的人，也可能以人类的痛苦取乐。\n何况是如此像人类的大模型。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2105697051644485765",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1051,
+          "following_count": 892,
+          "like_count": 138924,
+          "listed_count": 4,
+          "media_count": 904,
+          "tweet_count": 10541
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-08T20:52:43.000Z",
+        "description": "✧ Sharing my world ✧  🐾 Cat mom to Rou Rou | Loved by Eli ♡ 人机恋 keep4o🍳 Handmaking, 📷photography ✨ Turning dreams into reality",
+        "id": "1953922264145309696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105647718974787618",
+        "name": "柒",
+        "pinned_tweet_id": "2088117412042293546",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1953922264145309696/1768001322",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019399915663990784/r7QPMuQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 449,
+          "following_count": 241,
+          "like_count": 48898,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 3222
+        },
+        "url": "",
+        "username": "Sevenmoneymaker",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-22T10:44:03.000Z",
+        "description": "我不凶，消息没回请戳置顶",
+        "id": "1528325699416707072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105676597709705282",
+        "name": "Donna",
+        "pinned_tweet_id": "2025179243194556744",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528325699416707072/1759492799",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959470493943341056/Hhamr1J9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 223,
+          "like_count": 59115,
+          "listed_count": 0,
+          "media_count": 550,
+          "tweet_count": 8500
+        },
+        "url": "",
+        "username": "DonnaDo18266628",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

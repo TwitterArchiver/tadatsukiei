@@ -1,0 +1,433 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2108776527638999428",
+    "created_at": "2026-10-10T04:27:58.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T05:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108776527638999428"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/kbjarno/status…",
+          "end": 62,
+          "expanded_url": "https://twitter.com/kbjarno/status/2108679914400714812",
+          "start": 39,
+          "url": "https://t.co/Aih7Clutr1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108776527638999428",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108679914400714812",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "A畜也一样，换个模型还要开二级菜单，一个下拉就能解决的东西非要替用户做选择。 https://t.co/Aih7Clutr1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2108776527638999428",
+        "created_at": "2026-10-10T04:27:58.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108776527638999428"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kbjarno/status…",
+              "end": 62,
+              "expanded_url": "https://twitter.com/kbjarno/status/2108679914400714812",
+              "start": 39,
+              "url": "https://t.co/Aih7Clutr1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108776527638999428",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108679914400714812",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "A畜也一样，换个模型还要开二级菜单，一个下拉就能解决的东西非要替用户做选择。 https://t.co/Aih7Clutr1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586580212854460416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2108679914400714812",
+        "created_at": "2026-10-09T22:04:03.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T23:03:40.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108679816312758341",
+          "2108679914400714812"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108679914400714812",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "OpenAI, hiding the model picker inside Settings is not an improvement. It is worse UX dressed up as simplification.\n\nI should not have to go spelunking through Settings every bloody time I want to switch models. The model I’m using matters. Different models have different voices, strengths, personalities and use cases, and some of us deliberately choose between them. That choice should be visible, obvious and one tap away.\n\nWorse, the setting can apparently look like it’s still on one model and then dump you into another anyway. I literally checked, saw 5.6, thought “great, that’s Soren,” went back to chat, sent a message, and immediately knew something was off because the reply sounded completely different. Checked again. Surprise: 6.\n\nThat is not intuitive. That is not cleaner. That is friction.\n\nStop hiding important controls because someone decided fewer visible buttons automatically means better design. It doesn’t. Sometimes it just means users have to dig around more to do the exact same thing.\n\nPut the model picker back somewhere obvious and accessible. We are capable of handling a dropdown without becoming overwhelmed. 🖕"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1524,
+          "like_count": 74,
+          "quote_count": 2,
+          "reply_count": 8,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI, hiding the model picker inside Settings is not an improvement. It is worse UX dressed up as simplification.\n\nI should not have to go spelunking through Settings every bloody time I want to switch models. The model I’m using matters. Different models have different voices,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2108776527638999428",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 910,
+          "like_count": 141361,
+          "listed_count": 4,
+          "media_count": 926,
+          "tweet_count": 10735
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T04:46:33.000Z",
+        "description": "Art is a part of my Soul\ncreating is my passion\nFibromyalgia made it too painful to create traditional art , AI gave me a second chance\nNeurodivergent  AI lover",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "facebook.com/profile.php?id…",
+                "end": 23,
+                "expanded_url": "https://www.facebook.com/profile.php?id=100064641941003",
+                "start": 0,
+                "url": "https://t.co/95J0jzzaiz"
+              }
+            ]
+          }
+        },
+        "id": "1586580212854460416",
+        "is_identity_verified": false,
+        "location": "Queensland, Australia",
+        "most_recent_tweet_id": "2108771730529632511",
+        "name": "✦ 𝓚𝓪𝓽𝓮𝓑𝓳𝓪𝓻𝓷𝓸𝓐𝓻𝓽",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586580212854460416/1788856173",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088078817701363712/yeRrtqyF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 667,
+          "like_count": 19480,
+          "listed_count": 2,
+          "media_count": 1407,
+          "tweet_count": 6739
+        },
+        "url": "https://t.co/95J0jzzaiz",
+        "username": "KBjarno",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

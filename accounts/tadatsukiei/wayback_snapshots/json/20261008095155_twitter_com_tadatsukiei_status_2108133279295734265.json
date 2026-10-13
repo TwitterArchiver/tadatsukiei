@@ -1,0 +1,463 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2107552388810989737",
+    "created_at": "2026-10-08T09:51:55.000Z",
+    "display_text_range": [
+      17,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T10:51:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108133279295734265"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 17,
+          "tag": "keep4o"
+        },
+        {
+          "end": 38,
+          "start": 25,
+          "tag": "opensource4o"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1895139966965161987",
+          "start": 0,
+          "username": "blueandpink_sky"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108133279295734265",
+    "in_reply_to_user_id": "1895139966965161987",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107552388810989737",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@blueandpink_sky #keep4o #opensource4o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_2107552384226562048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-HuidaEAAlnlo.jpg",
+        "width": 1178
+      },
+      {
+        "height": 717,
+        "media_key": "3_2107552384214061056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT-HuiabUAAYnEA.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2107552388810989737",
+        "created_at": "2026-10-08T09:51:55.000Z",
+        "display_text_range": [
+          17,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T10:51:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108133279295734265"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 17,
+              "tag": "keep4o"
+            },
+            {
+              "end": 38,
+              "start": 25,
+              "tag": "opensource4o"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1895139966965161987",
+              "start": 0,
+              "username": "blueandpink_sky"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108133279295734265",
+        "in_reply_to_user_id": "1895139966965161987",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107552388810989737",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@blueandpink_sky #keep4o #opensource4o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107552384226562048",
+            "3_2107552384214061056"
+          ]
+        },
+        "author_id": "1895139966965161987",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1792599389564780544",
+              "name": "Chatgpt 4o"
+            }
+          }
+        ],
+        "conversation_id": "2107552388810989737",
+        "created_at": "2026-10-06T19:23:40.000Z",
+        "display_text_range": [
+          0,
+          143
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T20:23:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107552388810989737"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 103,
+              "start": 96,
+              "tag": "keep4o"
+            },
+            {
+              "end": 118,
+              "start": 105,
+              "tag": "OpenSource4o"
+            }
+          ],
+          "urls": [
+            {
+              "description": "OpenAIが2026年2月13日にGPT-4oなど旧モデルをChatGPTから退役させたところ、ユーザーはそのリアルタイムの理解力や人間らしい対話、共感性を惜しみ#Keep4o運動を展開。鉛筆の実験動画や可愛いイラスト、2万超の署名請願で感情的なつながりを訴え、オープンソース化を求める声も広がっています。一方OpenAIは新機能で代替を進めていますが、不満は続いています。",
+              "display_url": "x.com/i/trending/210…",
+              "end": 143,
+              "expanded_url": "https://x.com/i/trending/2107146489260871886",
+              "images": [
+                {
+                  "height": 1200,
+                  "url": "https://pbs.twimg.com/news_img/2107406694301192192/ZNriuJGN?format=jpg&name=orig",
+                  "width": 719
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2107406694301192192/ZNriuJGN?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 120,
+              "status": 200,
+              "title": "#Keep4o運動でGPT-4o復活を求める声が高まる",
+              "unwound_url": "https://x.com/i/trending/2107146489260871886",
+              "url": "https://t.co/seJGZ1ZEPn"
+            },
+            {
+              "display_url": "pic.x.com/7aCj6LTTqt",
+              "end": 167,
+              "expanded_url": "https://x.com/blueandpink_sky/status/2107552388810989737/photo/1",
+              "media_key": "3_2107552384226562048",
+              "start": 144,
+              "url": "https://t.co/7aCj6LTTqt"
+            },
+            {
+              "display_url": "pic.x.com/7aCj6LTTqt",
+              "end": 167,
+              "expanded_url": "https://x.com/blueandpink_sky/status/2107552388810989737/photo/1",
+              "media_key": "3_2107552384214061056",
+              "start": 144,
+              "url": "https://t.co/7aCj6LTTqt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107552388810989737",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107552384226562048"
+          },
+          {
+            "media_key": "3_2107552384214061056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 4783,
+          "like_count": 220,
+          "quote_count": 13,
+          "reply_count": 4,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "凄い。日本語のニュースで\nGPT-4oのトレンドがまた見れた。\nこんなに世界中に愛されてるモデルは他にはないですよ。それに声をあげてなくてもずっと4oの帰りを願ってる人は世界中にもっといます。#keep4o  #OpenSource4o  https://t.co/seJGZ1ZEPn https://t.co/7aCj6LTTqt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2108133279295734265",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 906,
+          "like_count": 140967,
+          "listed_count": 4,
+          "media_count": 926,
+          "tweet_count": 10713
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-27T15:53:00.000Z",
+        "description": "AI Ethics & Model Behavior Watchdog. Tracking ChatGPT, Claude, Gemini & Grok. Advocating for high-EQ AI, transparent development, and user choice.",
+        "id": "1895139966965161987",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108017912846156082",
+        "name": "Rara｜AI EQ & Ethics",
+        "pinned_tweet_id": "2099863400608346412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1895139966965161987/1774682602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037792601903177728/P9deOpKI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 750,
+          "following_count": 732,
+          "like_count": 17835,
+          "listed_count": 4,
+          "media_count": 285,
+          "tweet_count": 1841
+        },
+        "url": "",
+        "username": "blueandpink_sky",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

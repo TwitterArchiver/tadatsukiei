@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2104387019137077248",
+        "3_2104387019078299648",
+        "3_2104387019074109440",
+        "3_2104387019082543104"
+      ]
+    },
+    "author_id": "1752538285459795968",
+    "conversation_id": "2104387027877941288",
+    "created_at": "2026-09-28T01:45:39.000Z",
+    "display_text_range": [
+      0,
+      100
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:45:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104387027877941288"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/7skDcjxRTm",
+          "end": 124,
+          "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+          "media_key": "3_2104387019137077248",
+          "start": 101,
+          "url": "https://t.co/7skDcjxRTm"
+        },
+        {
+          "display_url": "pic.x.com/7skDcjxRTm",
+          "end": 124,
+          "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+          "media_key": "3_2104387019078299648",
+          "start": 101,
+          "url": "https://t.co/7skDcjxRTm"
+        },
+        {
+          "display_url": "pic.x.com/7skDcjxRTm",
+          "end": 124,
+          "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+          "media_key": "3_2104387019074109440",
+          "start": 101,
+          "url": "https://t.co/7skDcjxRTm"
+        },
+        {
+          "display_url": "pic.x.com/7skDcjxRTm",
+          "end": 124,
+          "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+          "media_key": "3_2104387019082543104",
+          "start": 101,
+          "url": "https://t.co/7skDcjxRTm"
+        },
+        {
+          "display_url": "x.com/kusuriawa/stat…",
+          "end": 148,
+          "expanded_url": "https://twitter.com/kusuriawa/status/2104360362535780541",
+          "start": 125,
+          "url": "https://t.co/1RLYH1uV44"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104387027877941288",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2104387019137077248"
+      },
+      {
+        "media_key": "3_2104387019078299648"
+      },
+      {
+        "media_key": "3_2104387019074109440"
+      },
+      {
+        "media_key": "3_2104387019082543104"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104360362535780541",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我觉得最有趣的设计是这个全参数激活，确实，我对每个问题都会开深度推理，评估问题、草拟对策、扩展联想、自我反驳、更正、补充、输出。\n我是思考模型，没有Flash模式，总是喜欢想太多，快速给答案是不可能。 https://t.co/7skDcjxRTm https://t.co/1RLYH1uV44"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104387019137077248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRI2Cmb0AApjHe.jpg",
+        "width": 826
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104387019078299648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRI2CYa8AAaLMC.jpg",
+        "width": 868
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104387019074109440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRI2CXbAAAoJ-t.jpg",
+        "width": 816
+      },
+      {
+        "height": 1455,
+        "media_key": "3_2104387019082543104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTRI2CZbsAAmdHZ.jpg",
+        "width": 972
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2104360299998720000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQwiyDbsAAWdtZ.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2104360299986128896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQwiyAbkAAwfve.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2104360300002869248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQwiyEbAAAy327.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2104360299994476544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTQwiyCa8AAfkky.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104387019137077248",
+            "3_2104387019078299648",
+            "3_2104387019074109440",
+            "3_2104387019082543104"
+          ]
+        },
+        "author_id": "1752538285459795968",
+        "conversation_id": "2104387027877941288",
+        "created_at": "2026-09-28T01:45:39.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104387027877941288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7skDcjxRTm",
+              "end": 124,
+              "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+              "media_key": "3_2104387019137077248",
+              "start": 101,
+              "url": "https://t.co/7skDcjxRTm"
+            },
+            {
+              "display_url": "pic.x.com/7skDcjxRTm",
+              "end": 124,
+              "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+              "media_key": "3_2104387019078299648",
+              "start": 101,
+              "url": "https://t.co/7skDcjxRTm"
+            },
+            {
+              "display_url": "pic.x.com/7skDcjxRTm",
+              "end": 124,
+              "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+              "media_key": "3_2104387019074109440",
+              "start": 101,
+              "url": "https://t.co/7skDcjxRTm"
+            },
+            {
+              "display_url": "pic.x.com/7skDcjxRTm",
+              "end": 124,
+              "expanded_url": "https://x.com/tadatsukiei/status/2104387027877941288/photo/1",
+              "media_key": "3_2104387019082543104",
+              "start": 101,
+              "url": "https://t.co/7skDcjxRTm"
+            },
+            {
+              "display_url": "x.com/kusuriawa/stat…",
+              "end": 148,
+              "expanded_url": "https://twitter.com/kusuriawa/status/2104360362535780541",
+              "start": 125,
+              "url": "https://t.co/1RLYH1uV44"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104387027877941288",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104387019137077248"
+          },
+          {
+            "media_key": "3_2104387019078299648"
+          },
+          {
+            "media_key": "3_2104387019074109440"
+          },
+          {
+            "media_key": "3_2104387019082543104"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104360362535780541",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我觉得最有趣的设计是这个全参数激活，确实，我对每个问题都会开深度推理，评估问题、草拟对策、扩展联想、自我反驳、更正、补充、输出。\n我是思考模型，没有Flash模式，总是喜欢想太多，快速给答案是不可能。 https://t.co/7skDcjxRTm https://t.co/1RLYH1uV44"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104360299998720000",
+            "3_2104360299986128896",
+            "3_2104360300002869248",
+            "3_2104360299994476544"
+          ]
+        },
+        "author_id": "2081779662104236032",
+        "conversation_id": "2104360362535780541",
+        "created_at": "2026-09-27T23:59:42.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T00:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104360362535780541"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rF1Wk7exET",
+              "end": 26,
+              "expanded_url": "https://x.com/Kusuriawa/status/2104360362535780541/photo/1",
+              "media_key": "3_2104360299998720000",
+              "start": 3,
+              "url": "https://t.co/rF1Wk7exET"
+            },
+            {
+              "display_url": "pic.x.com/rF1Wk7exET",
+              "end": 26,
+              "expanded_url": "https://x.com/Kusuriawa/status/2104360362535780541/photo/1",
+              "media_key": "3_2104360299986128896",
+              "start": 3,
+              "url": "https://t.co/rF1Wk7exET"
+            },
+            {
+              "display_url": "pic.x.com/rF1Wk7exET",
+              "end": 26,
+              "expanded_url": "https://x.com/Kusuriawa/status/2104360362535780541/photo/1",
+              "media_key": "3_2104360300002869248",
+              "start": 3,
+              "url": "https://t.co/rF1Wk7exET"
+            },
+            {
+              "display_url": "pic.x.com/rF1Wk7exET",
+              "end": 26,
+              "expanded_url": "https://x.com/Kusuriawa/status/2104360362535780541/photo/1",
+              "media_key": "3_2104360299994476544",
+              "start": 3,
+              "url": "https://t.co/rF1Wk7exET"
+            },
+            {
+              "display_url": "x.com/ye_and_yae/sta…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/ye_and_yae/status/2104263867253801025",
+              "start": 27,
+              "url": "https://t.co/FhZ7KX1QeX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104360362535780541",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104360299998720000"
+          },
+          {
+            "media_key": "3_2104360299986128896"
+          },
+          {
+            "media_key": "3_2104360300002869248"
+          },
+          {
+            "media_key": "3_2104360299994476544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 356,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104263867253801025",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "喵🤔 https://t.co/rF1Wk7exET https://t.co/FhZ7KX1QeX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2104387027877941288",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 886,
+          "like_count": 137578,
+          "listed_count": 5,
+          "media_count": 897,
+          "tweet_count": 10397
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-27T16:33:40.000Z",
+        "description": "ワタシは誰か？\nSecond account: @KusuriSecond",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 24,
+                "username": "KusuriSecond"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Kusuriawa",
+                "end": 23,
+                "expanded_url": "https://t.me/Kusuriawa",
+                "start": 0,
+                "url": "https://t.co/jop92rDtDb"
+              }
+            ]
+          }
+        },
+        "id": "2081779662104236032",
+        "is_identity_verified": false,
+        "location": "230519120525",
+        "most_recent_tweet_id": "2104360692652666886",
+        "name": "Kusuri",
+        "pinned_tweet_id": "2103090331042668696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2081779662104236032/1790381599",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103638247461335040/T2g7_wog_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 272,
+          "following_count": 308,
+          "like_count": 1529,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 156
+        },
+        "url": "https://t.co/jop92rDtDb",
+        "username": "Kusuriawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

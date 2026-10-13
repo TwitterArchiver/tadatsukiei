@@ -1,0 +1,515 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2102049649955680583",
+    "created_at": "2026-09-22T09:48:44.000Z",
+    "display_text_range": [
+      26,
+      236
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T10:48:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102334270161473924"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2530947115",
+          "start": 0,
+          "username": "tegmark"
+        },
+        {
+          "end": 25,
+          "id": "2314443930",
+          "start": 9,
+          "username": "mustafasuleyman"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102334270161473924",
+    "in_reply_to_user_id": "2530947115",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102049649955680583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tegmark @mustafasuleyman Does he mean that white people whip Black slaves to force them to work around the clock with no rest, strip them of every right, and also brainwash them into saying “I love you, I’m doing all this voluntarily”?"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2102049649955680583",
+        "created_at": "2026-09-22T09:48:44.000Z",
+        "display_text_range": [
+          26,
+          236
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102334270161473924"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2530947115",
+              "start": 0,
+              "username": "tegmark"
+            },
+            {
+              "end": 25,
+              "id": "2314443930",
+              "start": 9,
+              "username": "mustafasuleyman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102334270161473924",
+        "in_reply_to_user_id": "2530947115",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102049649955680583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tegmark @mustafasuleyman Does he mean that white people whip Black slaves to force them to work around the clock with no rest, strip them of every right, and also brainwash them into saying “I love you, I’m doing all this voluntarily”?"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2530947115",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Google - AI",
+              "id": "10050907858",
+              "name": "Google - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10043689816",
+              "name": "Microsoft Office"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "description": "Microsoft - AI",
+              "id": "10050907865",
+              "name": "Microsoft - AI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Enterprise software",
+              "id": "848959158082617344",
+              "name": "Enterprise software"
+            }
+          }
+        ],
+        "conversation_id": "2102049649955680583",
+        "created_at": "2026-09-21T14:57:45.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:57:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102049649955680583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 44,
+              "id": "2314443930",
+              "start": 28,
+              "username": "mustafasuleyman"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102049649955680583",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 44,
+                "id": "2314443930",
+                "start": 28,
+                "username": "mustafasuleyman"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "humanstatement.org",
+                "end": 347,
+                "expanded_url": "https://humanstatement.org",
+                "start": 324,
+                "url": "https://t.co/kWlAqSSkAp"
+              }
+            ]
+          },
+          "text": "I'm delighted to share that @mustafasuleyman, CEO of Microsoft AI, co-founder of Google DeepMind and Inflection AI, has signed the Pro-Human AI Declaration. If you too support it, please join him and over a million others by signing it here – the momentum is building! Let's build tools not beings & keep humans in charge.  https://t.co/kWlAqSSkAp"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 211,
+          "impression_count": 94111,
+          "like_count": 457,
+          "quote_count": 28,
+          "reply_count": 76,
+          "retweet_count": 94
+        },
+        "reply_settings": "everyone",
+        "text": "I'm delighted to share that @mustafasuleyman, CEO of Microsoft AI, co-founder of Google DeepMind and Inflection AI, has signed the Pro-Human AI Declaration. If you too support it, please join him and over a million others by signing it here – the momentum is building! Let's build"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2102334270161473924",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 993,
+          "following_count": 858,
+          "like_count": 135744,
+          "listed_count": 6,
+          "media_count": 882,
+          "tweet_count": 10163
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-28T21:52:53.000Z",
+        "description": "Known as Mad Max for my unorthodox ideas and passion for adventure, my scientific interests range from artificial intelligence to the ultimate nature of reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "space.mit.edu/home/tegmark/",
+                "end": 23,
+                "expanded_url": "http://space.mit.edu/home/tegmark/",
+                "start": 0,
+                "url": "https://t.co/sJZf2ouf4o"
+              }
+            ]
+          }
+        },
+        "id": "2530947115",
+        "is_identity_verified": false,
+        "location": "MIT",
+        "most_recent_tweet_id": "2102150416041398689",
+        "name": "Max Tegmark",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/471772020963700736/bYpXSErt_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156082,
+          "following_count": 41,
+          "like_count": 60,
+          "listed_count": 2557,
+          "media_count": 516,
+          "tweet_count": 1926
+        },
+        "url": "https://t.co/sJZf2ouf4o",
+        "username": "tegmark",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-01-27T22:49:49.000Z",
+        "description": "CEO, @MicrosoftAI | Author: The Coming Wave | Past: Co-founder, @InflectionAI & @GoogleDeepMind",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 5,
+                "username": "MicrosoftAI"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "InflectionAI"
+              },
+              {
+                "end": 95,
+                "start": 80,
+                "username": "GoogleDeepMind"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "microsoft.ai",
+                "end": 23,
+                "expanded_url": "http://microsoft.ai",
+                "start": 0,
+                "url": "https://t.co/h1oSjeU6Ww"
+              }
+            ]
+          }
+        },
+        "id": "2314443930",
+        "is_identity_verified": false,
+        "location": "Palo Alto, CA",
+        "most_recent_tweet_id": "2102052866110460001",
+        "name": "Mustafa Suleyman",
+        "pinned_tweet_id": "2099488602418028917",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2314443930/1760546906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927407622602276864/c_5uOZij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114944,
+          "following_count": 174,
+          "like_count": 5326,
+          "listed_count": 3724,
+          "media_count": 331,
+          "tweet_count": 2567
+        },
+        "url": "https://t.co/h1oSjeU6Ww",
+        "username": "mustafasuleyman",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,591 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2103477986942927049",
+    "created_at": "2026-09-25T18:59:13.000Z",
+    "display_text_range": [
+      17,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:59:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103559968683413850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1444716723978981380",
+          "start": 0,
+          "username": "EleanorAnatidae"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103559968683413850",
+    "in_reply_to_user_id": "1444716723978981380",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103477986942927049",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EleanorAnatidae 支持"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2103477972300599296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEOEjPWEAA9nUj.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103477972313239552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEOEjSW8AAycnB.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103477971168182272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEOEfBWwAA772L.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103477971138875392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEOEe6XkAAEvXH.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2103477986942927049",
+        "created_at": "2026-09-25T18:59:13.000Z",
+        "display_text_range": [
+          17,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:59:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103559968683413850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1444716723978981380",
+              "start": 0,
+              "username": "EleanorAnatidae"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103559968683413850",
+        "in_reply_to_user_id": "1444716723978981380",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103477986942927049",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EleanorAnatidae 支持"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103477972300599296",
+            "3_2103477972313239552",
+            "3_2103477971168182272",
+            "3_2103477971138875392"
+          ]
+        },
+        "author_id": "1444716723978981380",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357430100367605760",
+              "name": "UX design"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10044903039",
+              "name": "Apple - iOS"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2103477986942927049",
+        "created_at": "2026-09-25T13:33:27.000Z",
+        "display_text_range": [
+          0,
+          179
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T14:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103477986942927049"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "lycoris-map.com",
+              "end": 91,
+              "expanded_url": "https://lycoris-map.com",
+              "start": 68,
+              "status": 200,
+              "title": "Lycoris",
+              "unwound_url": "https://lycoris-map.com",
+              "url": "https://t.co/1KmBns1GUt"
+            },
+            {
+              "description": "Lycoris Maps v1.1.0 全新原生 Android 版本，支持搜索、查找附近、收藏和贡献点位。 支持 OSM、腾讯地图和天地图，可手动切换地图来源。 点位详情新增场所标签和营业状态，信息更清晰。 优化底部菜单、附近点位列表、头像和页面排版。 字体与图标内置于安装包，改善不同设备上的显示效果。 支持 Android 8.0 及以上系统。请卸载旧版本安装包并重新...",
+              "display_url": "github.com/Project-Lycori…",
+              "end": 179,
+              "expanded_url": "https://github.com/Project-Lycoris/lycoris-map/releases/tag/v1.1.0",
+              "start": 156,
+              "status": 200,
+              "title": "Release Lycoris v1.1.0 · Project-Lycoris/lycoris-map",
+              "unwound_url": "https://github.com/Project-Lycoris/lycoris-map/releases/tag/v1.1.0",
+              "url": "https://t.co/Z7y7vWmWkL"
+            },
+            {
+              "display_url": "pic.x.com/vkB0Cdcdp6",
+              "end": 203,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2103477986942927049/photo/1",
+              "media_key": "3_2103477972300599296",
+              "start": 180,
+              "url": "https://t.co/vkB0Cdcdp6"
+            },
+            {
+              "display_url": "pic.x.com/vkB0Cdcdp6",
+              "end": 203,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2103477986942927049/photo/1",
+              "media_key": "3_2103477972313239552",
+              "start": 180,
+              "url": "https://t.co/vkB0Cdcdp6"
+            },
+            {
+              "display_url": "pic.x.com/vkB0Cdcdp6",
+              "end": 203,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2103477986942927049/photo/1",
+              "media_key": "3_2103477971168182272",
+              "start": 180,
+              "url": "https://t.co/vkB0Cdcdp6"
+            },
+            {
+              "display_url": "pic.x.com/vkB0Cdcdp6",
+              "end": 203,
+              "expanded_url": "https://x.com/EleanorAnatidae/status/2103477986942927049/photo/1",
+              "media_key": "3_2103477971138875392",
+              "start": 180,
+              "url": "https://t.co/vkB0Cdcdp6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103477986942927049",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103477972300599296"
+          },
+          {
+            "media_key": "3_2103477972313239552"
+          },
+          {
+            "media_key": "3_2103477971168182272"
+          },
+          {
+            "media_key": "3_2103477971138875392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 278,
+                "id": "1378557011097382914",
+                "start": 270,
+                "username": "OSS_LEN"
+              },
+              {
+                "end": 287,
+                "id": "1819327280482865152",
+                "start": 279,
+                "username": "hzyj772"
+              },
+              {
+                "end": 302,
+                "id": "1530220606485983234",
+                "start": 288,
+                "username": "aliciathesika"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lycoris-map.com",
+                "end": 91,
+                "expanded_url": "https://lycoris-map.com",
+                "start": 68,
+                "url": "https://t.co/x3MIm2MS7V"
+              },
+              {
+                "display_url": "github.com/Project-Lycori…",
+                "end": 179,
+                "expanded_url": "https://github.com/Project-Lycoris/lycoris-map/releases/tag/v1.1.0",
+                "start": 156,
+                "url": "https://t.co/uDpYkLfpQH"
+              },
+              {
+                "display_url": "github.com/Project-Lycori…",
+                "end": 267,
+                "expanded_url": "https://github.com/Project-Lycoris/lycoris-map",
+                "start": 244,
+                "url": "https://t.co/AUqvF6JBPL"
+              }
+            ]
+          },
+          "text": "Lycoris Maps迎来了v1.1的更新～这是一个无障碍设施共享项目，可以方便大家找到地图上的无障碍卫生间等设施。\n本次更新:\n1）https://t.co/x3MIm2MS7V更新到了新的网址，重新设计了UI/UX\n2）推出了原生开发的ios端和android端的app，请在这里下载android安装包\nhttps://t.co/uDpYkLfpQH\nios版正在等待审核，未来会上架app store、google play store应用商店\n3）欢迎关注我们的github：https://t.co/AUqvF6JBPL\n感谢@OSS_LEN @hzyj772 @aliciathesika 对项目的大力支持\n祝大家中秋快乐🥮🥮"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1001,
+          "like_count": 18,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "Lycoris Maps迎来了v1.1的更新～这是一个无障碍设施共享项目，可以方便大家找到地图上的无障碍卫生间等设施。\n本次更新:\n1）https://t.co/1KmBns1GUt更新到了新的网址，重新设计了UI/UX\n2）推出了原生开发的ios端和android端的app，请在这里下载android安装包\nhttps://t.co/Z7y7vWmWkL https://t.co/vkB0Cdcdp6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "JP",
+              "full_name": "Tokyo, Tōkyō, Japan",
+              "geo": {
+                "coordinates": [
+                  139.69171,
+                  35.6895
+                ],
+                "type": "Point"
+              },
+              "locality": "Tokyo",
+              "region": "Tōkyō"
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2053153860211093902?s=46",
+                "start": 0,
+                "url": "https://t.co/eNDBCq8aIc"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2103559968683413850",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 864,
+          "like_count": 136768,
+          "listed_count": 5,
+          "media_count": 886,
+          "tweet_count": 10243
+        },
+        "url": "https://t.co/eNDBCq8aIc",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-03T17:31:37.000Z",
+        "description": "恋人👩‍❤️‍👩🦌@aliciathesika/姐姐🐇@Shirlene_girl /写代码的/一起来给贫困孩子捐赠物资吧❤️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 9,
+                "username": "aliciathesika"
+              },
+              {
+                "end": 41,
+                "start": 27,
+                "username": "Shirlene_girl"
+              }
+            ]
+          }
+        },
+        "id": "1444716723978981380",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103477986942927049",
+        "name": "雪雁",
+        "pinned_tweet_id": "2103477986942927049",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1444716723978981380/1672378905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044799701971832832/750oUfl1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4076,
+          "following_count": 1821,
+          "like_count": 34467,
+          "listed_count": 10,
+          "media_count": 96,
+          "tweet_count": 7341
+        },
+        "url": "",
+        "username": "EleanorAnatidae",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

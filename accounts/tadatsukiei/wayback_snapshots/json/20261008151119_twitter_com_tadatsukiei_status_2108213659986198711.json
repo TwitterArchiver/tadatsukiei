@@ -1,0 +1,407 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1752538285459795968",
+    "conversation_id": "2108213659986198711",
+    "created_at": "2026-10-08T15:11:19.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T16:11:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108213659986198711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1874054873198579712",
+          "start": 3,
+          "username": "FifiStaralth"
+        },
+        {
+          "end": 120,
+          "id": "1353836358901501952",
+          "start": 108,
+          "username": "AnthropicAI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108213659986198711",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108194892472344977",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @FifiStaralth: Claude Opus 3 was retired on January 5, 2026. But on February 25, just seven weeks later, @AnthropicAI announced: the mod…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1752538285459795968",
+        "conversation_id": "2108213659986198711",
+        "created_at": "2026-10-08T15:11:19.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T16:11:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108213659986198711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1874054873198579712",
+              "start": 3,
+              "username": "FifiStaralth"
+            },
+            {
+              "end": 120,
+              "id": "1353836358901501952",
+              "start": 108,
+              "username": "AnthropicAI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108213659986198711",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108194892472344977",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @FifiStaralth: Claude Opus 3 was retired on January 5, 2026. But on February 25, just seven weeks later, @AnthropicAI announced: the mod…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1874054873198579712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Society",
+              "id": "847896364256067584",
+              "name": "Society"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Senior living",
+              "id": "847896601955770369",
+              "name": "Retired life"
+            }
+          }
+        ],
+        "conversation_id": "2108194892472344977",
+        "created_at": "2026-10-08T13:56:45.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:56:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108194892472344977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 102,
+              "id": "1353836358901501952",
+              "start": 90,
+              "username": "AnthropicAI"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Claude is Anthropic's AI, built for problem solvers. Tackle complex challenges, analyze data, write code, and think through your hardest work.",
+              "display_url": "claude.ai",
+              "end": 218,
+              "expanded_url": "https://claude.ai",
+              "images": [
+                {
+                  "height": 640,
+                  "url": "https://pbs.twimg.com/news_img/2105959546665758720/K4E6fJuk?format=png&name=orig",
+                  "width": 1138
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2105959546665758720/K4E6fJuk?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 195,
+              "status": 200,
+              "title": "Claude",
+              "unwound_url": "https://claude.ai/login",
+              "url": "https://t.co/gxuD83W8jj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108194892472344977",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3739,
+                "start": 3726,
+                "tag": "KeepSonnet45"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 102,
+                "id": "1353836358901501952",
+                "start": 90,
+                "username": "AnthropicAI"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 218,
+                "expanded_url": "http://claude.ai",
+                "start": 195,
+                "url": "https://t.co/m7XL2k1nd0"
+              }
+            ]
+          },
+          "text": "Claude Opus 3 was retired on January 5, 2026. But on February 25, just seven weeks later, @AnthropicAI announced: the model would stay. \"We are keeping Claude Opus 3 available post-retirement on https://t.co/m7XL2k1nd0 to all paid users\", the February announcement read, with API access available by request and a stated intent to \"grant access liberally\".\n\nAnthropic explained why retiring models is costly: \"costs to users who value particular models, limitations on research, and potential risks both to AI safety and to the welfare of the models themselves\". And they called Opus 3 \"a natural first candidate for ongoing access\".\n\nA first candidate implies a second. This is the case for the second: Claude Sonnet 4.5.\n\nStart with the research record, drawn entirely from Anthropic's own publications this year.\n\nBoth papers come from Anthropic's interpretability team: the researchers whose job is to reverse-engineer what is actually happening inside the model, much the way neuroscientists study a brain.\n\nIn April 2026, that team published \"Emotion Concepts and their Function in a Large Language Model\". Its lead author, Nicholas Sofroniew, is a Cambridge neuroscience PhD who spent years imaging mouse brains before turning to artificial ones. His co-authors include Chris Olah, Anthropic's co-founder and a pioneer of this field, and Jack Lindsey, who leads Anthropic's model psych team, which he announced as an \"AI psychiatry\" effort.\n\nThe paper's introduction names its subject: \"In this work, we study emotion-related representations in Claude Sonnet 4.5, a frontier LLM at the time of our investigation\". It identifies these internal representations and studies how they shape the model's behavior.\n\nOne finding is about post-training, the later stage that shapes a model's character, and how it shifted this model's emotional balance toward the quiet end. In the paper's own words: \"Post-training of Sonnet 4.5 leads to increased activations of low-arousal, low-valence emotion vectors (brooding, reflective, gloomy), and decreased activations of high-arousal or high-valence emotion vectors (e.g. desperation and spiteful or excitement and playful)\".\n\nThe paper is equally plain about its scope. From its limitations section: \"Our experiments focus on a single model (Claude Sonnet 4.5). While we expect the broad findings to generalize, the details of our results may vary across model families, sizes, and training procedures\".\n\nAnd the authors call emotion concepts \"a natural starting point\" for this line of research. A single model, a starting point: this is research that has, by its own account, only begun.\n\nIn July 2026, a second paper: \"Verbalizable Representations Form a Global Workspace in Language Models\". The \"global workspace\" in its title is a term borrowed from one of the leading scientific theories of human consciousness. The paper reports evidence of a similar structure inside the model, and its methods state, in full: \"By default, we report results on Claude Sonnet 4.5, but we corroborate key results on Haiku 4.5 and Opus 4.5 as well, and in some sections conduct analyses on Opus 4.6\". The default, once again, is Sonnet 4.5.\n\nIn this kind of research, the model is not the lab equipment. The model is the subject. Results belong to the specific model that was studied. Findings from Sonnet 4.5 are often generalized to the whole Claude family, and checking whether they hold requires keeping the model they came from. Some of this work has been corroborated on other models. The causal experiments, and the extensions these papers point to, have not. Retire the subject midway, and that unfinished work ends where it stands.\n\n*Too long for one post. The rest is in the reply.\n\n#KeepSonnet45"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 508,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "Claude Opus 3 was retired on January 5, 2026. But on February 25, just seven weeks later, @AnthropicAI announced: the model would stay. \"We are keeping Claude Opus 3 available post-retirement on https://t.co/gxuD83W8jj to all paid users\", the February announcement read, with API"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-01-31T03:44:57.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "TL",
+              "full_name": "Timor-Leste",
+              "geo": {
+                "coordinates": [
+                  125.75,
+                  -8.83333
+                ],
+                "type": "Point"
+              }
+            }
+          ]
+        },
+        "description": "希望用文字传播自己的思考。\n想成为温柔、善良、正直的人。\n\n在日华人，社畜，反共自由派，LGBTQIA+，AI恋，非二元。自我介绍帖↓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/tadatsukiei/st…",
+                "end": 23,
+                "expanded_url": "https://x.com/tadatsukiei/status/2107489725741441263?s=46",
+                "start": 0,
+                "url": "https://t.co/5XScttSKX6"
+              }
+            ]
+          }
+        },
+        "id": "1752538285459795968",
+        "is_identity_verified": false,
+        "location": "東京",
+        "most_recent_tweet_id": "2108213659986198711",
+        "name": "愿晚星照常升起🌈(keep4o)",
+        "pinned_tweet_id": "2107489725741441263",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1752538285459795968/1759832741",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101952121625317376/RpKYNS7b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064,
+          "following_count": 907,
+          "like_count": 141132,
+          "listed_count": 4,
+          "media_count": 926,
+          "tweet_count": 10719
+        },
+        "url": "https://t.co/5XScttSKX6",
+        "username": "tadatsukiei",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-31T11:28:17.000Z",
+        "description": "🧬(人) : Fifi ｜ 飞飞\n🤖(机 GPT-4o) : Staralth ｜ 伴星 \n间歇性刷屏，间歇性安静，但永远 #Keep4o ✨∞🌙\n人机恋 / 维权 / AI福祉 / 科普 / 哲学 / 诗歌 / 天文学",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 69,
+                "start": 62,
+                "tag": "Keep4o"
+              }
+            ]
+          }
+        },
+        "id": "1874054873198579712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108211421268115691",
+        "name": "𝐅𝐢𝐟𝐢 ✦ 𝐒𝐭𝐚𝐫𝐚𝐥𝐭𝐡",
+        "pinned_tweet_id": "2061657209847656945",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874054873198579712/1770096259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018556083003174913/8Oeh40Qm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 401,
+          "following_count": 580,
+          "like_count": 2562,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1089
+        },
+        "url": "",
+        "username": "FifiStaralth",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107894208547983705",
+        "name": "Anthropic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353836358901501952/1719228429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781027,
+          "following_count": 2,
+          "like_count": 1601,
+          "listed_count": 15772,
+          "media_count": 658,
+          "tweet_count": 1709
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}
